@@ -1,0 +1,79 @@
+[
+  {
+    "code": "TH",
+    "name": "ไทย",
+    "name_en": "Thai",
+    "flag": "🇹🇭",
+    "region": "ASIAN"
+  },
+  {
+    "code": "JP",
+    "name": "ญี่ปุ่น",
+    "name_en": "Japanese",
+    "flag": "🇯🇵",
+    "region": "ASIAN"
+  },
+  {
+    "code": "KR",
+    "name": "เกาหลี",
+    "name_en": "Korean",
+    "flag": "🇰🇷",
+    "region": "ASIAN"
+  },
+  {
+    "code": "CN",
+    "name": "จีน",
+    "name_en": "Chinese",
+    "flag": "🇨🇳",
+    "region": "ASIAN"
+  },
+  {
+    "code": "IT",
+    "name": "อิตาลี",
+    "name_en": "Italian",
+    "flag": "🇮🇹",
+    "region": "WESTERN"
+  },
+  {
+    "code": "FR",
+    "name": "ฝรั่งเศส",
+    "name_en": "French",
+    "flag": "🇫🇷",
+    "region": "WESTERN"
+  },
+  {
+    "code": "US",
+    "name": "อเมริกา",
+    "name_en": "American",
+    "flag": "🇺🇸",
+    "region": "WESTERN"
+  },
+  {
+    "code": "MX",
+    "name": "เม็กซิโก",
+    "name_en": "Mexican",
+    "flag": "🇲🇽",
+    "region": "WESTERN"
+  },
+  {
+    "code": "ES",
+    "name": "สเปน",
+    "name_en": "Spanish",
+    "flag": "🇪🇸",
+    "region": "WESTERN"
+  },
+  {
+    "code": "IN",
+    "name": "อินเดีย",
+    "name_en": "Indian",
+    "flag": "🇮🇳",
+    "region": "ASIAN"
+  },
+  {
+    "code": "UK",
+    "name": "อังกฤษ",
+    "name_en": "British",
+    "flag": "🇬🇧",
+    "region": "WESTERN"
+  }
+]

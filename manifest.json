@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-11-25T01:37:04.449Z",
+  "totalPacks": 11,
+  "totalRecipes": 1638,
+  "countriesFile": "data/countries.json",
+  "ingredientsFile": "data/ingredients.js",
+  "packs": [
+    {
+      "packKey": "cn_popular",
+      "country": "CN",
+      "file": "data/packs/cn_popular.js",
+      "count": 50
+    },
+    {
+      "packKey": "es_popular",
+      "country": "ES",
+      "file": "data/packs/es_popular.js",
+      "count": 49
+    },
+    {
+      "packKey": "fr_popular",
+      "country": "FR",
+      "file": "data/packs/fr_popular.js",
+      "count": 149
+    },
+    {
+      "packKey": "in_popular",
+      "country": "IN",
+      "file": "data/packs/in_popular.js",
+      "count": 48
+    },
+    {
+      "packKey": "it_popular",
+      "country": "IT",
+      "file": "data/packs/it_popular.js",
+      "count": 88
+    },
+    {
+      "packKey": "jp_full",
+      "country": "JP",
+      "file": "data/packs/jp_full.js",
+      "count": 374
+    },
+    {
+      "packKey": "kr_popular",
+      "country": "KR",
+      "file": "data/packs/kr_popular.js",
+      "count": 52
+    },
+    {
+      "packKey": "mx_popular",
+      "country": "MX",
+      "file": "data/packs/mx_popular.js",
+      "count": 53
+    },
+    {
+      "packKey": "th_full",
+      "country": "TH",
+      "file": "data/packs/th_full.js",
+      "count": 456
+    },
+    {
+      "packKey": "uk_popular",
+      "country": "UK",
+      "file": "data/packs/uk_popular.js",
+      "count": 100
+    },
+    {
+      "packKey": "us_popular",
+      "country": "US",
+      "file": "data/packs/us_popular.js",
+      "count": 219
+    }
+  ]
+}
