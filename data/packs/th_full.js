@@ -10,7 +10,7 @@ window.KITCHSYNC_PACK_DATA.th_full = {
     "en": "Thai"
   },
   "version": "1.0.0",
-  "total_recipes": 456,
+  "total_recipes": 492,
   "recipes": [
     {
       "title": "ผัดไทยกุ้งสด",
@@ -40,7 +40,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_001",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "แกงเขียวหวานไก่",
@@ -72,7 +73,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_002",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มยำกุ้งน้ำข้น",
@@ -104,7 +106,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_003",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "สี่สหายไข่ต้มกุ้งซอสมะขาม",
@@ -135,7 +138,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_004",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ต้มข่าไก่ยอดมะพร้าวอ่อน",
@@ -166,7 +170,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_005",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มแซ่บกระดูกอ่อนหมู",
@@ -194,7 +199,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_006",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "isan"
     },
     {
       "title": "แกงส้มชะอมไข่กุ้งสด",
@@ -222,7 +228,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_007",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "พะแนงหมูนุ่ม",
@@ -251,7 +258,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_008",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ผัดฉ่าปลากะพง",
@@ -279,7 +287,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_009",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูทอดกระเทียมพริกไทย",
@@ -306,7 +315,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_010",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ลาบหมูคั่วหอมข้าวคั่ว",
@@ -335,7 +345,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_011",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
@@ -363,7 +374,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_012",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่ลูกเขยซอสมะขาม",
@@ -391,7 +403,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_013",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "มัสมั่นไก่มันฝรั่งนุ่ม",
@@ -424,7 +437,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_014",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ฉู่ฉี่ปลาทูสดกะทิข้น",
@@ -453,7 +467,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_015",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มส้มปลากระบอกขิงสด",
@@ -484,7 +499,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_016",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "south"
     },
     {
       "title": "ผัดกะเพราเนื้อสับพริกแห้งโบราณ",
@@ -513,7 +529,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_017",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หลนเต้าเจี้ยวกุ้งสับหมูสับ",
@@ -544,7 +561,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_018",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงคั่วสับปะรดหอยแมลงภู่",
@@ -574,7 +592,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_019",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ทอดมันปลากรายเหนียวนุ่มอาจาดแตงกวา",
@@ -605,7 +624,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_020",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "คั่วกลิ้งหมูสับสมุนไพรใต้",
@@ -634,7 +654,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_021",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "แกงป่าไก่บ้านผักรวมพริกแกงสด",
@@ -664,7 +685,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_022",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ปลาหมึกผัดไข่เค็มซอสเข้มข้น",
@@ -695,7 +717,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_023",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "น้ำพริกกะปิปลาทูทอดชะอมไข่",
@@ -723,7 +746,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_024",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "แกงเทโพหมูสามชั้นผักบุ้งไทย",
@@ -751,7 +775,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_025",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ไก่ต้มขมิ้นสมุนไพรใต้",
@@ -779,7 +804,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_026",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ผัดเผ็ดปลาดุกกรอบใบกะเพรา",
@@ -807,7 +833,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_027",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ยำไข่ดาวทรงเครื่องกุ้งสับ",
@@ -834,7 +861,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_028",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงจืดเต้าหู้หมูสับสาหร่าย",
@@ -867,7 +895,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงคั่วเห็ดเผาะใบชะพลู",
@@ -896,7 +925,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_030",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงฮังเลหมูสามชั้น",
@@ -926,7 +956,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_031",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "north"
     },
     {
       "title": "แกงโฮะวุ้นเส้นหน่อไม้ดอง",
@@ -955,7 +986,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_032",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "north"
     },
     {
       "title": "แกงแคไก่เมืองผักพื้นบ้าน",
@@ -985,7 +1017,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_033",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "north"
     },
     {
       "title": "แกงขนุนอ่อนกระดูกหมู",
@@ -1014,7 +1047,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_034",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "north"
     },
     {
       "title": "แกงอ่อมหมูผักชีลาว",
@@ -1044,7 +1078,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_035",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "isan"
     },
     {
       "title": "แกงอ่อมไก่บ้านใบแมงลัก",
@@ -1073,7 +1108,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_036",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "isan"
     },
     {
       "title": "แกงเปรอะหน่อไม้สดใบย่านาง",
@@ -1103,7 +1139,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_037",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "isan"
     },
     {
       "title": "แกงส้มปลาช่อนผักรวม",
@@ -1132,7 +1169,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_038",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงแดงเนื้อหน่อไม้ดอง",
@@ -1161,7 +1199,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_039",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ต้มยำปลาช่อนน้ำใส",
@@ -1191,7 +1230,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_040",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มโคล้งปลากรอบใบมะขามอ่อน",
@@ -1221,7 +1261,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_041",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มจับฉ่ายกระดูกหมูผักรวม",
@@ -1250,7 +1291,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_042",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มยำไก่บ้านใบมะขามอ่อน",
@@ -1279,7 +1321,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_043",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มแซ่บเครื่องในเนื้อ",
@@ -1308,7 +1351,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_044",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "isan"
     },
     {
       "title": "ต้มจืดมะระยัดไส้หมูสับ",
@@ -1340,7 +1384,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มยำทะเลรวมมิตรน้ำใส",
@@ -1370,7 +1415,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_046",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มข่าปลาสลิดทอดใบมะขามอ่อน",
@@ -1399,7 +1445,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_047",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ยำวุ้นเส้นทะเลรวม",
@@ -1429,7 +1476,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_048",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำถั่วพูกุ้งสดกะทิ",
@@ -1459,7 +1507,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_049",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำปลาหมึกตะไคร้หอม",
@@ -1488,7 +1537,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_050",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำปลาดุกฟูมะม่วงสับ",
@@ -1518,7 +1568,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_051",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "พล่ากุ้งตะไคร้สด",
@@ -1547,7 +1598,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_052",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำจิ๊นไก่สมุนไพรเมืองเหนือ",
@@ -1576,7 +1628,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_053",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "north"
     },
     {
       "title": "น้ำตกเนื้อย่างข้าวคั่ว",
@@ -1605,7 +1658,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_054",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "ยำไข่ต้มยางมะตูมหมูสับ",
@@ -1634,7 +1688,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_055",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "น้ำพริกอ่องหมูสับมะเขือเทศ",
@@ -1663,7 +1718,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_056",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "north"
     },
     {
       "title": "น้ำพริกหนุ่มพริกหยวกย่าง",
@@ -1691,7 +1747,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_057",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "north"
     },
     {
       "title": "น้ำพริกปลาร้าสับทรงเครื่อง",
@@ -1719,7 +1776,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_058",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "แจ่วบองปลาร้าสมุนไพร",
@@ -1748,7 +1806,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_059",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "น้ำพริกลงเรือหมูหวานไข่เค็ม",
@@ -1776,7 +1835,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_060",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "น้ำพริกมะขามอ่อนหมูสับ",
@@ -1805,7 +1865,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_061",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "น้ำพริกปลาทูพริกสด",
@@ -1833,7 +1894,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_062",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "หลนปูเค็มกะทิสด",
@@ -1862,7 +1924,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_063",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ผัดพริกขิงหมูกรอบถั่วฝักยาว",
@@ -1891,7 +1954,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_064",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดคะน้าหมูกรอบน้ำมันหอย",
@@ -1921,7 +1985,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_065",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดกะเพราหมูกรอบไข่เยี่ยวม้า",
@@ -1951,7 +2016,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_066",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดเปรี้ยวหวานปลากะพง",
@@ -1981,7 +2047,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_067",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดสะตอกุ้งสดกะปิใต้",
@@ -2011,7 +2078,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_068",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ใบเหลียงผัดไข่กุ้งเสียบ",
@@ -2041,7 +2109,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_069",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "กะหล่ำปลีทอดน้ำปลากุ้งแห้ง",
@@ -2070,7 +2139,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_070",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดโป๊ยเซียนวุ้นเส้นกุ้งสด",
@@ -2100,7 +2170,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_071",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "เนื้อผัดน้ำมันหอยพริกไทยดำ",
@@ -2130,7 +2201,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_072",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดขี้เมาทะเลกระทะร้อน",
@@ -2160,7 +2232,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_073",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดดอกกุยช่ายตับหมู",
@@ -2190,7 +2263,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_074",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดวุ้นเส้นชะอมไข่กุ้งสด",
@@ -2220,7 +2294,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_075",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ปีกไก่ทอดน้ำปลากรอบ",
@@ -2248,7 +2323,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_076",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "สามชั้นทอดน้ำปลาพริกน้ำปลา",
@@ -2277,7 +2353,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_077",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลากะพงทอดน้ำปลาซอสยำมะม่วง",
@@ -2307,7 +2384,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_078",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาทรายทอดขมิ้นกระเทียมกรอบ",
@@ -2335,7 +2413,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_079",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "กุ้งชุบแป้งทอดซอสบ๊วย",
@@ -2364,7 +2443,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_080",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่เจียวหมูสับโหระพากรอบ",
@@ -2393,7 +2473,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_081",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ทอดมันกุ้งเกล็ดขนมปังกรอบ",
@@ -2423,7 +2504,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_082",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "ไก่ทอดหาดใหญ่หอมเจียว",
@@ -2453,7 +2535,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_083",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "คอหมูย่างน้ำจิ้มแจ่ว",
@@ -2482,7 +2565,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_084",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "ไก่ย่างขมิ้นตะไคร้หอม",
@@ -2511,7 +2595,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_085",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "เนื้อเสือร้องไห้ย่างจิ้มแจ่ว",
@@ -2540,7 +2625,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_086",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "กุ้งแม่น้ำเผามันเยิ้มน้ำจิ้มซีฟู้ด",
@@ -2569,7 +2655,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_087",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาหมึกย่างน้ำจิ้มซีฟู้ดมะนาวสด",
@@ -2598,7 +2685,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_088",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูสะเต๊ะอาจาดน้ำจิ้มถั่ว",
@@ -2628,7 +2716,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_089",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "ปลานิลนึ่งสมุนไพรแจ่วปลาร้า",
@@ -2657,7 +2746,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_090",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "ห่อหมกทะเลมะพร้าวอ่อนนึ่ง",
@@ -2687,7 +2777,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_091",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่อบโอ่งสมุนไพรซอสพริกไทยดำ",
@@ -2716,7 +2807,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_092",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูฮ้องภูเก็ตพริกไทยดำ",
@@ -2745,7 +2837,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_093",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "แกงเผ็ดเป็ดย่างสับปะรดมะเขือเทศ",
@@ -2774,7 +2867,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_094",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ผัดสายบัวกุ้งสดกะปิหอม",
@@ -2802,7 +2896,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_095",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ยำมะเขือยาวเผากุ้งสดไข่ต้ม",
@@ -2830,7 +2925,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_096",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "หมูสามชั้นคั่วพริกเกลือกระเทียมกรอบ",
@@ -2858,7 +2954,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_097",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ต้มข่าปลาทูสดใบมะกรูด",
@@ -2886,7 +2983,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_098",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงกะหรี่ไก่มันฝรั่งอาจาด",
@@ -2914,7 +3012,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_099",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ผัดดอกขจรหมูสับไข่ไก่",
@@ -2942,7 +3041,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_100",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ข้าวมันไก่ต้มนุ่มน้ำจิ้มเต้าเจี้ยว",
@@ -2971,7 +3071,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_201",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ผัดกะเพราหมูสับไข่ดาวกรอบ",
@@ -3002,7 +3103,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_202",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดกุ้งหอมกระทะ",
@@ -3030,7 +3132,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_203",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ราดหน้าหมูหมักยอดคะน้า",
@@ -3059,7 +3162,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_204",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ผัดซีอิ๊วหมูเส้นใหญ่",
@@ -3088,7 +3192,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_205",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวคลุกกะปิทรงเครื่อง",
@@ -3116,7 +3221,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_206",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวไข่ข้นกุ้งสด",
@@ -3144,7 +3250,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_207",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "สุกี้น้ำไก่หมักนุ่ม",
@@ -3172,7 +3279,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_208",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดแหนมไข่ดาวเคียงพริกสด",
@@ -3201,7 +3309,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_210",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ก๋วยเตี๋ยวคั่วไก่กรอบหอมกระทะ",
@@ -3230,7 +3339,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_211",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหมูกระเทียมพริกไทยโบราณไข่ดาว",
@@ -3259,7 +3369,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_212",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ผัดมาม่าขี้เมาทะเลรวมมิตร",
@@ -3287,7 +3398,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_213",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มปลากะพงน้ำซุปขิงคื่นช่าย",
@@ -3319,7 +3431,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าเนื้อสไลซ์ผัดซีอิ๊วหัวหอม",
@@ -3348,7 +3461,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_217",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "กวยจั๊บญวนซี่โครงหมูหอมเจียว",
@@ -3378,7 +3492,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_218",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวไข่เจียวหมูสับฟูกรอบทรงเครื่อง",
@@ -3407,7 +3522,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_219",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหมูแดงหมูกรอบน้ำราดโบราณ",
@@ -3434,7 +3550,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_220",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ผัดไทยเกี๊ยวกรอบกุ้งสด",
@@ -3462,7 +3579,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_221",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "โจ๊กหมูสับเห็ดหอมไข่ลวก",
@@ -3494,7 +3612,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวยำไก่แซ่บมะนาวสด",
@@ -3521,7 +3640,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_224",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "isan"
     },
     {
       "title": "ข้าวราดผัดพริกแกงหมูชิ้นถั่วฝักยาว",
@@ -3551,7 +3671,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_225",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดคะน้าหมูกรอบพริกสด",
@@ -3581,7 +3702,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_226",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดกะเพราเนื้อสับพริกแห้งไข่ดาว",
@@ -3611,7 +3733,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_227",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดฉ่าทะเลรวมมิตรกระชายซอย",
@@ -3641,7 +3764,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_228",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดพริกเผาหอยลายใบโหระพา",
@@ -3671,7 +3795,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_229",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดเปรี้ยวหวานไก่กรอบสับปะรด",
@@ -3701,7 +3826,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_230",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดผงกะหรี่กุ้งสดไข่ข้น",
@@ -3731,7 +3857,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_231",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดหน่อไม้ฝรั่งกุ้งสดน้ำมันหอย",
@@ -3761,7 +3888,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_232",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดเต้าหู้ทรงเครื่องหมูสับ",
@@ -3794,7 +3922,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดผักบุ้งไฟแดงหมูสับเต้าเจี้ยว",
@@ -3824,7 +3953,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_234",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดผัดพริกหยวกไก่ชิ้นหอมใหญ่",
@@ -3854,7 +3984,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_235",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวราดตับหมูผัดกระเทียมพริกไทย",
@@ -3884,7 +4015,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_236",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดปูก้อนต้นหอมไข่ขยี้",
@@ -3914,7 +4046,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_237",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดต้มยำทะเลสมุนไพรสด",
@@ -3944,7 +4077,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_239",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดน้ำพริกลงเรือหมูหวานไข่เค็ม",
@@ -3974,7 +4108,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_240",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดแกงเขียวหวานไก่ยอดมะพร้าว",
@@ -4003,7 +4138,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_243",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดหมูยอพริกไทยดำใส่ไข่",
@@ -4033,7 +4169,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_244",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดสับปะรดกุ้งสดเม็ดมะม่วงหิมพานต์",
@@ -4063,7 +4200,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_245",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดเบคอนกระเทียมกรอบพริกแห้ง",
@@ -4092,7 +4230,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_246",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไก่ทอดซอสมะขามหอมเจียว",
@@ -4121,7 +4260,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_248",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไข่ข้นปูอัดซอสโชยุ",
@@ -4150,7 +4290,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_250",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าหมูสามชั้นคั่วพริกเกลือกรอบ",
@@ -4179,7 +4320,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_251",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไก่ตุ๋นเห็ดหอมน้ำแดง",
@@ -4211,7 +4353,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าลาบหมูสับข้าวคั่วหอม",
@@ -4240,7 +4383,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_253",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "isan"
     },
     {
       "title": "ข้าวหน้าปลากะพงทอดน้ำปลาพริกซอย",
@@ -4269,7 +4413,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_254",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าเนื้อย่างจิ้มแจ่วหอมข้าวคั่ว",
@@ -4297,7 +4442,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_255",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "isan"
     },
     {
       "title": "โจ๊กไก่ฉีกขิงซอยปาท่องโก๋กรอบ",
@@ -4326,7 +4472,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_257",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "โจ๊กกุ้งสดไข่เยี่ยวม้าต้นหอมซอย",
@@ -4358,7 +4505,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มหมูสับบะเต็งตั้งฉ่าย",
@@ -4390,7 +4538,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มทะเลรวมมิตรน้ำซุปกระเทียมเจียว",
@@ -4419,7 +4568,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_260",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มกุ๊ยกับยำไข่เค็มกุนเชียงทอด",
@@ -4448,7 +4598,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_261",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มไก่ฉีกเห็ดฟางซุปพริกไทยหอม",
@@ -4480,7 +4631,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ก๋วยเตี๋ยวต้มยำหมูสับถั่วลิสงคั่ว",
@@ -4510,7 +4662,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_263",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "เส้นหมี่น้ำใสลูกชิ้นปลาเยาวราช",
@@ -4540,7 +4693,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_264",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ก๋วยเตี๋ยวเนื้อสับซอสมะเขือเทศ",
@@ -4570,7 +4724,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_265",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "เส้นเล็กแห้งหมูเด้งกากหมูเจียว",
@@ -4600,7 +4755,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_266",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ก๋วยเตี๋ยวเรือหมูน้ำตกทำเร็ว",
@@ -4630,7 +4786,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_267",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "วุ้นเส้นผัดไข่เค็มกุ้งสด",
@@ -4660,7 +4817,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_268",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "สุกี้แห้งทะเลวุ้นเส้นซอสเต้าหู้ยี้",
@@ -4690,7 +4848,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_269",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "เส้นใหญ่ผัดขี้เมาไก่ฉีกใบโหระพา",
@@ -4720,7 +4879,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_270",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "เส้นหมี่ผัดกระเฉดกุ้งสดพริกกระเทียม",
@@ -4750,7 +4910,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_271",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ก๋วยเตี๋ยวลุยสวนหมูสับเห็ดหอม",
@@ -4780,7 +4941,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_272",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "บะหมี่ไก่ฉีกซอสงาคั่วน้ำมันพริกเผา",
@@ -4810,7 +4972,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_273",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "บะหมี่แห้งหมูสับต้มยำมะนาวสด",
@@ -4840,7 +5003,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_274",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "มาม่าต้มยำน้ำข้นกุ้งแม่น้ำไข่ลวก",
@@ -4870,7 +5034,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_275",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "บะหมี่ผักโมโรเฮยะผัดกุ้งกระเทียม",
@@ -4900,7 +5065,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_276",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "บะหมี่หยกหมูอบซอสพริกไทยดำ",
@@ -4930,7 +5096,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_278",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "สปาเกตตีขี้เมาปลาหมึกกุ้งสด",
@@ -4960,7 +5127,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_284",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "มักกะโรนีผัดซอสมะเขือเทศไข่ดาว",
@@ -4990,7 +5158,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_285",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ขนมจีนน้ำเงี้ยวหมูสับดอกงิ้ว",
@@ -5020,7 +5189,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_286",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "north"
     },
     {
       "title": "ขนมจีนน้ำยาป่าลูกชิ้นปลา",
@@ -5050,7 +5220,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_287",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "isan"
     },
     {
       "title": "ขนมจีนซาวน้ำกุ้งแห้งสับปะรด",
@@ -5080,7 +5251,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_288",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ขนมจีนแกงเขียวหวานไก่มะเขือเปราะ",
@@ -5110,7 +5282,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_289",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ยำขนมจีนปลาทูทอดสมุนไพร",
@@ -5140,7 +5313,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_290",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "แรปทูน่าสลัดข้าวโพดหวาน",
@@ -5170,7 +5344,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_292",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แรปไข่คนเบคอนกรอบซอสศรีราชา",
@@ -5200,7 +5375,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_293",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "แรปหมูย่างน้ำจิ้มแจ่วผักสด",
@@ -5230,7 +5406,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_294",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "isan"
     },
     {
       "title": "ข้าวราดกะเพราหมูเด้งพริกสดไข่ต้ม",
@@ -5259,7 +5436,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_300",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ปลากะพงนึ่งมะนาวพริกสด",
@@ -5289,7 +5467,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_301",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำวุ้นเส้นหมูสับกุ้งสดโบราณ",
@@ -5320,7 +5499,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_302",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ฟักทองผัดไข่ใส่หมูสับใบโหระพา",
@@ -5349,7 +5529,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_303",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงจืดเต้าหู้ไข่หมูสับผักกาดขาว",
@@ -5381,7 +5562,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อกไก่ย่างสมุนไพรน้ำจิ้มแจ่ว",
@@ -5408,7 +5590,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_305",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "ปลาทับทิมนึ่งขิงซีอิ๊ว",
@@ -5437,7 +5620,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงเลียงกุ้งสดผักรวม",
@@ -5465,7 +5649,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_307",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำถั่วพูอกไก่ฉีกกุ้งสด",
@@ -5492,7 +5677,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_308",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่ตุ๋นทรงเครื่องหมูสับ",
@@ -5523,7 +5709,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ผัดผักบุ้งไฟแดงเต้าเจี้ยว",
@@ -5550,7 +5737,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_310",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ต้มยำปลานิลน้ำใสสมุนไพร",
@@ -5578,7 +5766,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_311",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "สลัดโรลอกไก่ผักไฮโดรโปนิกส์น้ำจิ้มซีฟู้ดโยเกิร์ต",
@@ -5606,7 +5795,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_312",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลากะพงลวกจิ้มน้ำพริกเต้าเจี้ยวสมุนไพร",
@@ -5634,7 +5824,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_313",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำเห็ดรวมกุ้งสดแคลอรีต่ำ",
@@ -5662,7 +5853,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_314",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงเห็ดเผาะยอดชะอมใบย่านาง",
@@ -5690,7 +5882,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_315",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "ต้มซุปเปอร์อกไก่มะนาวพริกสด",
@@ -5719,7 +5912,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_317",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ลาบอกไก่สับข้าวคั่วหอมไร้น้ำมัน",
@@ -5748,7 +5942,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_318",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "น้ำพริกอ่องอกไก่สับเคียงผักต้มรวม",
@@ -5777,7 +5972,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_319",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "north"
     },
     {
       "title": "กุ้งอบวุ้นเส้นหม้อดินสูตรแคลอรีต่ำ",
@@ -5807,7 +6003,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_320",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ต้มจับฉ่ายผักรวมเต้าหู้ขาวเห็ดหอม",
@@ -5838,7 +6035,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ต้มยำเห็ด 3 อย่างน้ำใสไร้น้ำมัน",
@@ -5866,7 +6064,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_322",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำปลาทูย่างตะไคร้สดใบสะระแหน่",
@@ -5893,7 +6092,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_323",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงส้มมะละกอกุ้งสดไร้น้ำตาล",
@@ -5921,7 +6121,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_324",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อกไก่นึ่งฟักทองสมุนไพร",
@@ -5951,7 +6152,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่ต้มยางมะตูมยำสมุนไพรสด",
@@ -5977,7 +6179,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_326",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อกไก่ผัดพริกขิงถั่วฝักยาวไร้น้ำมัน",
@@ -6006,7 +6209,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_327",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อกไก่ต้มข่าเห็ดนางฟ้ากะทิธัญพืช",
@@ -6036,7 +6240,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_328",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "กะเพราอกไก่สับไข่ขาวพริกแห้งคลีน",
@@ -6065,7 +6270,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_329",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อกไก่นึ่งซีอิ๊วเห็ดหอมขิงซอย",
@@ -6097,7 +6303,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงเขียวหวานอกไก่มะเขือเปราะนมอัลมอนด์",
@@ -6126,7 +6333,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_331",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "น้ำตกอกไก่ย่างข้าวคั่วสมุนไพรสด",
@@ -6156,7 +6364,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_333",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "อกไก่ผัดขิงเห็ดหูหนูดำต้นหอม",
@@ -6186,7 +6395,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_334",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ต้มขมิ้นอกไก่ตะไคร้ใบมะกรูด",
@@ -6216,7 +6426,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_335",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "south"
     },
     {
       "title": "ข้าวกล้องผัดอกไก่สับผักสามสีคลีน",
@@ -6245,7 +6456,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_336",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลาแซลมอนย่างเกลือพริกไทยดำหน่อไม้ฝรั่ง",
@@ -6273,7 +6485,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_337",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงเหลืองปลากะพงยอดมะพร้าวอ่อน",
@@ -6302,7 +6515,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_338",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "south"
     },
     {
       "title": "ปลาช่อนนึ่งแจ่วผักลวกสมุนไพร",
@@ -6331,7 +6545,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_339",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "พล่าปลาทูน่าในน้ำแร่สมุนไพรสด",
@@ -6361,7 +6576,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_340",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลานิลย่างเกลือเมี่ยงผักสดน้ำจิ้มถั่วตัดคลีน",
@@ -6391,7 +6607,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_343",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลาดอลลี่ผัดพริกไทยดำขึ้นฉ่าย",
@@ -6420,7 +6637,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_344",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่เจียวไร้น้ำมันอกไก่สับชะอม",
@@ -6448,7 +6666,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_345",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่คนอกไก่ฉีกผักโขมซอสถั่วเหลือง",
@@ -6479,7 +6698,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่พะโล้อกไก่เต้าหู้ขาวสูตรไร้น้ำตาล",
@@ -6509,7 +6729,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_347",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำไข่ดาวน้ำพริกเผาคลีน",
@@ -6538,7 +6759,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_348",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่ลูกเขยอบซอสมะขามหญ้าหวาน",
@@ -6567,7 +6789,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_350",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "เต้าหู้ขาวผัดถั่วงอกต้นหอมซีอิ๊วขาว",
@@ -6596,7 +6819,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_351",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ผัดกะเพราเต้าหู้แข็งเห็ดฟางคลีน",
@@ -6625,7 +6849,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_352",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "เต้าหู้อ่อนทรงเครื่องเห็ดหอมน้ำแดงคลีน",
@@ -6654,7 +6879,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_354",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ยำเต้าหู้ขาวนึ่งพริกเผาถั่วลิสงคั่ว",
@@ -6683,7 +6909,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_355",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงจืดเต้าหู้ขาวสาหร่ายทะเลอกไก่สับ",
@@ -6715,7 +6942,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดบรอกโคลีกระเทียมพริกไทยไร้น้ำมัน",
@@ -6743,7 +6971,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_357",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "พล่ากุ้งสดตะไคร้ใบสะระแหน่",
@@ -6773,7 +7002,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_358",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลาหมึกนึ่งมะนาวกระเทียมโทน",
@@ -6802,7 +7032,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_359",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงป่ากุ้งสดผักรวมไร้กะทิ",
@@ -6831,7 +7062,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_360",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวไรซ์เบอร์รีต้มกุ้งสดขึ้นฉ่ายขิงซอย",
@@ -6860,7 +7092,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_361",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "สันในหมูอบกระเทียมพริกไทยดำผักนึ่ง",
@@ -6888,7 +7121,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_362",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "บวบผัดไข่ขาวเห็ดเข็มทอง",
@@ -6917,7 +7151,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_363",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "สลัดเต้าหู้ย่างสาหร่ายวากาเมะ",
@@ -6946,7 +7181,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_367",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "สลัดไข่ต้มอะโวคาโดผักโขมอ่อน",
@@ -6975,7 +7211,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_368",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "โปเกโบว์ลแซลมอนข้าวไรซ์เบอร์รี่",
@@ -7005,7 +7242,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_371",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "บุดดาโบว์ลเต้าหู้ย่างถั่วลูกไก่",
@@ -7035,7 +7273,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_372",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "โบว์ลกุ้งกระเทียมพริกไทยข้าวควินัว",
@@ -7064,7 +7303,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_374",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "โบว์ลไข่ข้นเห็ดแชมปิญองผักโขม",
@@ -7092,7 +7332,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_375",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "โจ๊กข้าวโอ๊ตอกไก่ฉีกเห็ดหอม",
@@ -7124,7 +7365,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวโอ๊ตคาวหน้าไข่ดาวน้ำอะโวคาโด",
@@ -7152,7 +7394,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_380",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ควินัวผัดไข่ใส่บรอกโคลีแครอท",
@@ -7181,7 +7424,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_381",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "พุดดิ้งเมล็ดเจียนมอัลมอนด์กีวี",
@@ -7209,7 +7453,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_382",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "โจ๊กควินัวกุ้งสดต้นหอมขิงซอย",
@@ -7241,7 +7486,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ซุปกะหล่ำปลีมะเขือเทศลดน้ำหนัก",
@@ -7273,7 +7519,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ซุปใสหัวไชเท้าแครอทอกไก่ก้อน",
@@ -7305,7 +7552,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ซุปใสเห็ดเข็มทองผักโขมไข่น้ำ",
@@ -7337,7 +7585,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "สมูทตี้โบว์ลอาซาอิเบอร์รี่กล้วยหอม",
@@ -7365,7 +7614,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_389",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สมูทตี้โบว์ลผักโขมอะโวคาโดกีวี",
@@ -7393,7 +7643,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_390",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สมูทตี้โบว์ลแก้วมังกรแดงมะม่วงสุก",
@@ -7421,7 +7672,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_391",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สมูทตี้โบว์ลโกโก้กล้วยแช่แข็งอัลมอนด์",
@@ -7449,7 +7701,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_392",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดดอกกะหล่ำคีโตอกไก่ไข่ขยี้",
@@ -7478,7 +7731,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_394",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "เส้นบุกผัดขี้เมาเต้าหู้มังสวิรัติ",
@@ -7507,7 +7761,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_395",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "อะโวคาโดอบไข่ชีสคีโต",
@@ -7535,7 +7790,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_396",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ซูกินีผัดกระเทียมกุ้งสดคีโต",
@@ -7563,7 +7819,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_397",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ม้วนกะหล่ำปลีนึ่งไส้เห็ดรวมมังสวิรัติ",
@@ -7592,7 +7849,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_398",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ไข่เจียวเตาอบผักโขมชีสคีโต",
@@ -7620,7 +7878,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_400",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "บัวลอยสามกษัตริย์กะทิสด",
@@ -7651,7 +7910,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_401",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวมะม่วงน้ำกะทิ",
@@ -7679,7 +7939,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_402",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "กล้วยบวชชีมะพร้าวอ่อน",
@@ -7706,7 +7967,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_403",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ทับทิมกรอบกะทิสด",
@@ -7733,7 +7995,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_404",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ฟักทองแกงบวด",
@@ -7760,7 +8023,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_405",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สังขยาฟักทองนึ่ง",
@@ -7787,7 +8051,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_406",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "เฉาก๊วยนมสดน้ำตาลทรายแดง",
@@ -7817,7 +8082,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สาคูเปียกข้าวโพดหวานมะพร้าวอ่อน",
@@ -7846,7 +8112,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_408",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ลอดช่องสิงคโปร์น้ำกะทิแตงไทย",
@@ -7874,7 +8141,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_409",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมต้มขาวไส้มะพร้าวน้ำตาลโตนด",
@@ -7902,7 +8170,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_410",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "กล้วยเชื่อมสีแดงราดกะทิสด",
@@ -7930,7 +8199,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_411",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ถั่วเขียวต้มน้ำตาลทรายแดงใบเตย",
@@ -7957,7 +8227,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_412",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "พุดดิ้งมะม่วงนมสดเจลาติน",
@@ -7988,7 +8259,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "วุ้นกะทิใบเตยหอมสองชั้น",
@@ -8016,7 +8288,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_414",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ครองแครงกะทิสดงาขาวคั่ว",
@@ -8044,7 +8317,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_415",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ลูกเดือยเปียกเผือกหอมน้ำกะทิ",
@@ -8072,7 +8346,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_416",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "วุ้นกะทิมะพร้าวน้ำหอมลูกชิด",
@@ -8099,7 +8374,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_418",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มมัดไส้กล้วยถั่วดำ",
@@ -8126,7 +8402,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_419",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "บัวลอยเผือกมะพร้าวอ่อนน้ำกะทิ",
@@ -8153,7 +8430,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_420",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "กล้วยปิ้งราดน้ำกะทิน้ำตาลมะพร้าว",
@@ -8181,7 +8459,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_421",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "เยลลี่ส้มสายน้ำผึ้งสดเจลาติน",
@@ -8208,7 +8487,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_422",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมชั้นใบเตยหอม",
@@ -8237,7 +8517,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_423",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมถ้วยตะไลหน้ากะทิ",
@@ -8266,7 +8547,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_424",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมกล้วยนึ่งมะพร้าวขูด",
@@ -8295,7 +8577,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_425",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมฟักทองนึ่งหน้ามะพร้าว",
@@ -8324,7 +8607,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_426",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเผือกนึ่งโรยมะพร้าวอ่อน",
@@ -8353,7 +8637,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_427",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมตาลนึ่งเนื้อฟู",
@@ -8382,7 +8667,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_428",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเปียกปูนใบเตยสดกะทิ",
@@ -8411,7 +8697,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_429",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเปียกปูนกาบมะพร้าวเผา",
@@ -8440,7 +8727,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_430",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมใส่ไส้ใบตอง",
@@ -8469,7 +8757,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_431",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเทียนแก้วไส้เค็ม",
@@ -8498,7 +8787,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_432",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเทียนสลัดงาไส้หวาน",
@@ -8527,7 +8817,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_433",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมด้วงอัญชันมะพร้าวขูด",
@@ -8556,7 +8847,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_434",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมเล็บมือนางน้ำกะทิ",
@@ -8585,7 +8877,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_435",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมปลากริมไข่เต่า",
@@ -8614,7 +8907,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_436",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมตะโก้เผือกหอมหน้ากะทิ",
@@ -8643,7 +8937,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_437",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมตะโก้สาคูข้าวโพด",
@@ -8672,7 +8967,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_438",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมหม้อแกงเผือกอบหอม",
@@ -8701,7 +8997,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_439",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ขนมหม้อแกงถั่วเขียวอบ",
@@ -8730,7 +9027,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_440",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวสังขยาหน้าไข่",
@@ -8759,7 +9057,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_441",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวเปียกลำไยน้ำกะทิ",
@@ -8788,7 +9087,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_442",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวดำเปียกเผือกกะทิสด",
@@ -8817,7 +9117,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_443",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวหน้ากระฉีกมะพร้าวแก้ว",
@@ -8845,7 +9146,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_444",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวแก้วใบเตยหอม",
@@ -8873,7 +9175,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_445",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "เต้าส่วนถั่วเขียวเลาะเปลือกกะทิ",
@@ -8902,7 +9205,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_446",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ถั่วดำต้มน้ำกะทิใบเตย",
@@ -8931,7 +9235,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_447",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "มันสำปะหลังเชื่อมราดกะทิสด",
@@ -8959,7 +9264,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_448",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "เผือกเชื่อมน้ำตาลทรายราดกะทิ",
@@ -8987,7 +9293,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_449",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ฟักทองเชื่อมน้ำตาลมะพร้าว",
@@ -9015,7 +9322,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_450",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สาเกเชื่อมราดน้ำกะทิเค็ม",
@@ -9043,7 +9351,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_451",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "มันเทศต้มขิงน้ำตาลทรายแดง",
@@ -9071,7 +9380,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_452",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ข้าวฟ่างเปียกน้ำกะทิสด",
@@ -9099,7 +9409,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_454",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ลอดช่องไทยใบเตยน้ำกะทิน้ำตาลโตนด",
@@ -9128,7 +9439,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_455",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ซาหริ่มกะทิสดอบควันเทียน",
@@ -9156,7 +9468,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_456",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "สละลอยแก้วน้ำเชื่อมใบเตย",
@@ -9184,7 +9497,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_457",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ลูกตาลลอยแก้วน้ำเชื่อมเย็น",
@@ -9212,7 +9526,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_458",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "กระท้อนทรงเครื่องลอยแก้ว",
@@ -9240,7 +9555,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_459",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ส้มฉุนลอยแก้วลิ้นจี่หอมเจียว",
@@ -9268,7 +9584,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_460",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ไอศกรีมกะทิสดทรงเครื่องถั่วลิสงคั่ว",
@@ -9297,7 +9614,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_461",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ชอร์ตเค้กสตรอว์เบอร์รีครีมสด",
@@ -9326,7 +9644,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_466",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ทาร์ตช็อกโกแลตกานาช",
@@ -9354,7 +9673,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_476",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "เลมอนเมอแรงก์ทาร์ต",
@@ -9383,7 +9703,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_478",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ช็อกโกแลตมูสเนื้อเนียนนุ่ม",
@@ -9411,7 +9732,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_480",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ฮันนี่โทสต์ไอศกรีมวานิลลา",
@@ -9439,7 +9761,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_485",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "มิลล์เครปวานิลลาครีมสด",
@@ -9468,7 +9791,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_487",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ไอศกรีมวานิลลาโฮมเมด",
@@ -9496,7 +9820,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_492",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ไอศกรีมช็อกโกแลตชิพไม่ง้อเครื่องปั่น",
@@ -9524,7 +9849,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_493",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ซอร์เบต์มะม่วงเสาวรส",
@@ -9552,7 +9878,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_495",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "ไดฟูกุสตรอว์เบอร์รีถั่วแดง",
@@ -9580,7 +9907,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_496",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "desserts_drinks"
+      "universalCategory": "desserts_drinks",
+      "region": "central"
     },
     {
       "title": "กะเพราไก่สับ",
@@ -9613,7 +9941,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_501",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ต้มยำกุ้งน้ำใส",
@@ -9646,7 +9975,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_503",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ต้มข่าไก่เห็ดนางฟ้า",
@@ -9682,7 +10012,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_504",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงเขียวหวานไก่มะเขือเปราะ",
@@ -9717,7 +10048,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_505",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "แกงป่าหมูถั่วฝักยาว",
@@ -9752,7 +10084,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_506",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ปลากะพงนึ่งมะนาว",
@@ -9784,7 +10117,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_507",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลานิลทอดขมิ้น",
@@ -9814,7 +10148,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_508",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ไข่เจียวหมูสับต้นหอม",
@@ -9843,7 +10178,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_509",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่ลูกเขยหอมเจียว",
@@ -9875,7 +10211,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_510",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดผักบุ้งไฟแดง",
@@ -9907,7 +10244,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_511",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กะหล่ำปลีผัดน้ำปลา",
@@ -9936,7 +10274,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_512",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ยำวุ้นเส้นหมูสับ",
@@ -9970,7 +10309,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_513",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ลาบไก่คั่วข้าวหอม",
@@ -10003,7 +10343,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_514",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "น้ำตกหมูย่าง",
@@ -10038,7 +10379,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_515",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "ส้มตำไทยถั่วลิสง",
@@ -10072,7 +10414,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_516",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "isan"
     },
     {
       "title": "แกงเลียงผักรวมกุ้งสด",
@@ -10107,7 +10450,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_517",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ฟักทองผัดไข่ใบโหระพา",
@@ -10139,7 +10483,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_518",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "มะเขือยาวผัดเต้าเจี้ยวหมูสับ",
@@ -10172,7 +10517,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_519",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดพริกเกลือ",
@@ -10204,7 +10550,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_520",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูผัดกะปิสะตอ",
@@ -10237,7 +10584,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_521",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ฉู่ฉี่ปลาแซลมอน",
@@ -10268,7 +10616,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_522",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ไข่พะโล้เต้าหู้",
@@ -10305,7 +10654,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_523",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ไก่ผัดขิงเห็ดหูหนู",
@@ -10339,7 +10689,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_524",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ผัดพริกแกงถั่วฝักยาว",
@@ -10370,7 +10721,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_525",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ต้มขมิ้น",
@@ -10403,7 +10755,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_526",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ไก่อบตะไคร้",
@@ -10435,7 +10788,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_527",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงเผ็ดไก่หน่อไม้",
@@ -10468,7 +10822,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_528",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "หมูผัดพริกไทยดำ",
@@ -10501,7 +10856,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_529",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูผัดเปรี้ยวหวานสับปะรด",
@@ -10536,7 +10892,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_530",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูสับผัดหนำเลี้ยบ",
@@ -10568,7 +10925,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_531",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ต้มจืดตำลึงหมูสับ",
@@ -10602,7 +10960,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "กุ้งอบวุ้นเส้น",
@@ -10639,7 +10998,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_534",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดซอสมะขาม",
@@ -10671,7 +11031,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_535",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดผงกะหรี่",
@@ -10709,7 +11070,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_536",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงส้มกุ้งมะละกอ",
@@ -10739,7 +11101,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_537",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ปลากะพงผัดขึ้นฉ่าย",
@@ -10773,7 +11136,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_540",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาทูต้มมะดัน",
@@ -10804,7 +11168,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_541",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่ตุ๋นทรงเครื่อง",
@@ -10840,7 +11205,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ไข่ยัดไส้หมูสับ",
@@ -10876,7 +11242,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_543",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่คั่วพริกเกลือต้นหอม",
@@ -10907,7 +11274,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_544",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "คะน้าผัดเห็ดหอม",
@@ -10938,7 +11306,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_545",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ยำมะเขือยาวย่าง",
@@ -10971,7 +11340,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_546",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ผัดบวบใส่ไข่",
@@ -11002,7 +11372,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_547",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ทอดสมุนไพร",
@@ -11034,7 +11405,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_548",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ผัดพริกหยวก",
@@ -11066,7 +11438,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_549",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ต้มฟักมะนาวดอง",
@@ -11098,7 +11471,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_550",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไก่ผัดฉ่ากระชาย",
@@ -11133,7 +11507,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_551",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงมัสมั่นไก่มันฝรั่ง",
@@ -11169,7 +11544,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_552",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "หมูทอดน้ำปลากระเทียม",
@@ -11199,7 +11575,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_553",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูคั่วพริกเกลือ",
@@ -11230,7 +11607,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_554",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูผัดใบชะพลู",
@@ -11262,7 +11640,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_555",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงจืดมะระยัดไส้หมู",
@@ -11299,7 +11678,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดน้ำพริกเผา",
@@ -11332,7 +11712,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_558",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "กุ้งต้มกะทิสายบัว",
@@ -11366,7 +11747,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_559",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งย่างเกลือมะนาว",
@@ -11398,7 +11780,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_560",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดสะตอกะปิ",
@@ -11431,7 +11814,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_561",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "south"
     },
     {
       "title": "ปลานึ่งสมุนไพร",
@@ -11464,7 +11848,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_562",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาอินทรีทอดราดน้ำปลา",
@@ -11495,7 +11880,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_563",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาผัดฉ่ากระชายพริกไทยอ่อน",
@@ -11530,7 +11916,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_564",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "น้ำพริกปลาทูย่าง",
@@ -11561,7 +11948,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_565",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "region": "central"
     },
     {
       "title": "ไข่ดาวทรงเครื่องหมูสับ",
@@ -11594,7 +11982,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_566",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ไข่ผัดมะเขือเทศ",
@@ -11625,7 +12014,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_567",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ไข่กระทะหมูสับ",
@@ -11656,7 +12046,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_568",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ยำถั่วพูไข่ต้ม",
@@ -11690,7 +12081,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_569",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ผักกาดขาวตุ๋นเห็ดหอม",
@@ -11725,7 +12117,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ยำหัวปลีย่าง",
@@ -11759,7 +12152,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_571",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดปลาทูสมุนไพร",
@@ -11792,7 +12186,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_572",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวคลุกกะปิหมูหวาน",
@@ -11828,7 +12223,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_573",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "หมูผัดพริกแกงหน่อไม้",
@@ -11859,7 +12255,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_574",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูอบน้ำผึ้งซีอิ๊ว",
@@ -11889,7 +12286,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_575",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "หมูสามชั้นคั่วพริกเกลือ",
@@ -11919,7 +12317,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_576",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงอ่อมไก่ผักชีลาว",
@@ -11952,7 +12351,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_577",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "isan"
     },
     {
       "title": "ไก่ย่างตะไคร้",
@@ -11984,7 +12384,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_578",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ข้าวมันไก่ต้ม",
@@ -12020,7 +12421,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_579",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ไก่ผัดเม็ดพริกไทยอ่อน",
@@ -12053,7 +12455,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_580",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงเหลืองปลาอินทรีหน่อไม้ดอง",
@@ -12084,7 +12487,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_581",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "south"
     },
     {
       "title": "ปลาราดพริกสามรส",
@@ -12116,7 +12520,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_582",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ปลาทูต้มส้มขิง",
@@ -12146,7 +12551,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_583",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "ปลาช่อนลุยสวน",
@@ -12180,7 +12586,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_584",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ปลากะพงลวกจิ้มเต้าเจี้ยว",
@@ -12212,7 +12619,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_585",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "กุ้งผัดพริกขี้หนูสวน",
@@ -12244,7 +12652,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_586",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มกุ้งขิง",
@@ -12279,7 +12688,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "แกงคั่วกุ้งใบชะพลู",
@@ -12309,7 +12719,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_588",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "south"
     },
     {
       "title": "ยำเห็ดรวมสมุนไพร",
@@ -12342,7 +12753,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_589",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "แกงเห็ดรวมใบแมงลัก",
@@ -12374,7 +12786,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_590",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "ผัดยอดฟักแม้วกระเทียม",
@@ -12404,7 +12817,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_591",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "region": "central"
     },
     {
       "title": "แกงส้มผักรวมมะขาม",
@@ -12436,7 +12850,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_592",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "region": "central"
     },
     {
       "title": "เมี่ยงคำสมุนไพร",
@@ -12470,7 +12885,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_593",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวยำสมุนไพรปักษ์ใต้",
@@ -12504,7 +12920,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_594",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "south"
     },
     {
       "title": "ข้าวผัดไก่กระทะร้อน",
@@ -12535,7 +12952,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_706",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวกะเพราไก่ไข่ข้น",
@@ -12568,7 +12986,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_711",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสโยเกิร์ต",
@@ -12600,7 +13019,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_712",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสขิง",
@@ -12632,7 +13052,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_714",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "บะหมี่ผัดหมูไข่",
@@ -12663,7 +13084,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_717",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าหมูผัดบาร์บีคิว",
@@ -12694,7 +13116,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_718",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "มันฝรั่งอบไส้หมูบาร์บีคิว",
@@ -12724,7 +13147,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_719",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไก่ผัดเม็ดมะม่วงด่วน",
@@ -12756,7 +13180,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_721",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดกุ้งสับปะรด",
@@ -12788,7 +13213,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_723",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้ากุ้งผัดเนยกระเทียม",
@@ -12819,7 +13245,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_725",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดไข่และผักสามสี",
@@ -12850,7 +13277,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_726",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ออมเล็ตแรปเห็ดและชีส",
@@ -12881,7 +13309,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_728",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "สลัดไข่ต้มอะโวคาโดบนขนมปัง",
@@ -12911,7 +13340,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_729",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักซอสถั่วเหลือง",
@@ -12943,7 +13373,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_730",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าผัดผักไข่",
@@ -12974,7 +13405,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_732",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "มันฝรั่งผัดเห็ดและไข่",
@@ -13005,7 +13437,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_733",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "สลัดถั่วลูกไก่อะโวคาโด",
@@ -13036,7 +13469,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_734",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้ากุ้งผัดผักรวม",
@@ -13068,7 +13502,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_737",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวผัดปลาทูน่าข้าวโพด",
@@ -13099,7 +13534,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_738",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ควินัวโบวล์เต้าหู้ผักย่าง",
@@ -13130,7 +13566,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_740",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ขนมปังหน้าเห็ดชีส",
@@ -13160,7 +13597,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_741",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไก่ซอสเห็ด",
@@ -13191,7 +13629,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_742",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวเหนียวไก่ย่างกล่องด่วน",
@@ -13222,7 +13661,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_744",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "แฟลตเบรดไก่ย่างมะเขือเทศ",
@@ -13253,7 +13693,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_746",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหมูผัดซอสพริกหวาน",
@@ -13284,7 +13725,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_747",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไข่ข้นหมูสับ",
@@ -13315,7 +13757,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_748",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "แรปหมูย่างกะหล่ำกรอบ",
@@ -13346,7 +13789,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_749",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "มักกะโรนีผัดหมูซอสมะเขือเทศ",
@@ -13377,7 +13821,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_750",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวหมูขิงไข่สุก",
@@ -13408,7 +13853,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_751",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้ากุ้งไข่ข้น",
@@ -13439,7 +13885,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_753",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "แรปกุ้งอะโวคาโด",
@@ -13470,7 +13917,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_754",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ข้าวต้มกุ้งเห็ดหอม",
@@ -13504,7 +13952,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าไข่เจียวผักรวม",
@@ -13534,7 +13983,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_760",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ข้าวไข่ข้นมะเขือเทศ",
@@ -13565,7 +14015,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_761",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "ไข่อบผักโขมในถ้วยขนมปัง",
@@ -13594,7 +14045,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_762",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "quick_easy"
+      "universalCategory": "quick_easy",
+      "region": "central"
     },
     {
       "title": "สลัดมันฝรั่งไข่และถั่วแขก",
@@ -13624,7 +14076,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_763",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "region": "central"
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักซอสขิง",
@@ -13655,7 +14108,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_764",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ผัดหมี่ผักไข่",
@@ -13686,7 +14140,8 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_765",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "region": "central"
     },
     {
       "title": "ขนมปังปิ้งอะโวคาโดไข่ต้ม",
@@ -13715,7 +14170,1218 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "recipe_id": "th_full_766",
       "country": "TH",
       "packId": "th_full",
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "region": "central"
+    },
+    {
+      "id": "th_north_01",
+      "recipe_id": "th_north_01",
+      "title": "ข้าวซอยไก่กรอบเมืองเหนือ",
+      "title_en": "Khao Soi Kai (Northern Thai Curry Noodles with Chicken)",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "region": "north",
+      "mainIngredient": "ไก่",
+      "time": "45 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "620 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "น่องไก่ติดสะโพก: 450 กรัม",
+        "เส้นบะหมี่ไข่แบน (แบ่งลวกและทอดกรอบ): 300 กรัม",
+        "พริกแกงข้าวซอยและผงกะหรี่: 3 ช้อนโต๊ะ + 1 ช้อนชา",
+        "กะทิสดและหางกะทิ: 400 มิลลิลิตร",
+        "ผักกาดดอง หอมแดงซอย มะนาว และพริกผัดน้ำมัน: 1 ชุด"
+      ],
+      "steps": [
+        "ผัดพริกแกงข้าวซอยกับหัวกะทิและผงกะหรี่ไฟอ่อนจนแตกมันหอม ใส่น่องไก่ลงผัดพอตึง",
+        "เติมหางกะทิ ปรุงรสด้วยซีอิ๊วขาว ซีอิ๊วดำเล็กน้อย และน้ำตาลปี๊บ เคี่ยวไฟอ่อน 25 นาทีจนไก่นุ่มเข้าเนื้อ",
+        "ลวกเส้นบะหมี่ใส่ชาม ราดน้ำแกงข้าวซอยร้อนๆ พร้อมน่องไก่ ท็อปด้วยบะหมี่ทอดกรอบ เสิร์ฟคู่ผักกาดดอง หอมแดง และมะนาว"
+      ],
+      "note": "เมนูซิกเนเจอร์อันดับหนึ่งของภาคเหนือ น้ำแกงกะทิหอมเครื่องเทศเข้มข้น ตัดเปรี้ยวด้วยผักกาดดองและมะนาวสด",
+      "image": "images/packs/th/th_north_01.webp",
+      "images": [
+        "images/packs/th/th_north_01.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_02",
+      "recipe_id": "th_north_02",
+      "title": "ไส้อั่วสมุนไพรย่างเตาถ่าน",
+      "title_en": "Sai Ua (Northern Thai Herb Sausage)",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "50 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "480 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "หมูบดติดมันเล็กน้อย: 500 กรัม",
+        "พริกแกงคั่วเหนือ (พริกแห้ง ตะไคร้ ข่า หอมแดง กระเทียม ขมิ้น กะปิ): 3 ช้อนโต๊ะ",
+        "ใบมะกรูดซอย ต้นหอม และผักชีซอยละเอียด: 1 ถ้วย",
+        "ไส้หมูอ่อนล้างสะอาด: 1 เส้น",
+        "น้ำปลาและผงปรุงรสเล็กน้อย: 1.5 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "นวดหมูบดกับพริกแกงคั่วเหนือ น้ำปลา ใบมะกรูดซอย ต้นหอม และผักชีจนเหนียวเข้ากันดี",
+        "ยัดส่วนผสมลงในไส้หมูอ่อนให้แน่นพอดี ใช้ไม้จิ้มฟันจิ้มรูระบายอากาศเป็นระยะแล้วมัดเป็นขด",
+        "ย่างบนเตาถ่านไฟอ่อนหรืออบที่ 180°C นาน 25–30 นาทีจนผิวนอกเกรียมหอมและสุกทั่ว หั่นเฉียงเสิร์ฟคู่ขิงสดและพริกขี้หนู"
+      ],
+      "note": "ไส้กรอกสมุนไพรล้านนาหอมกลิ่นตะไคร้ ขมิ้น และใบมะกรูด กินคู่ข้าวเหนียวร้อนๆ อร่อยมาก",
+      "image": "images/packs/th/th_north_02.webp",
+      "images": [
+        "images/packs/th/th_north_02.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_03",
+      "recipe_id": "th_north_03",
+      "title": "จอผักกาดกระดูกหมู",
+      "title_en": "Jo Phak Kat (Northern Thai Sweet & Sour Mustard Greens Soup)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "40 นาที",
+      "difficulty": "ง่าย",
+      "calories": "310 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "ผักกาดกวางตุ้งดอกหั่นท่อน: 400 กรัม",
+        "กระดูกหมูอ่อนสับชิ้น: 300 กรัม",
+        "หอมแดงทุบ กะปิ และถั่วเน่าแข็บปิ้งโขลก: 1 ชุด",
+        "น้ำมะขามเปียกและน้ำปลา: 3 ช้อนโต๊ะ + 2 ช้อนโต๊ะ",
+        "กระเทียมเจียวและพริกแห้งทอดสำหรับโรยหน้า: 1 ชุด"
+      ],
+      "steps": [
+        "ต้มกระดูกหมูในน้ำสะอาดไฟอ่อน 20 นาทีจนเปื่อยนุ่ม ละลายกะปิ หอมแดงทุบ และถั่วเน่าโขลกลงในหม้อ",
+        "ใส่ผักกาดกวางตุ้งดอกลงต้มจนผักนุ่ม ปรุงรสเปรี้ยวกลมกล่อมด้วยน้ำมะขามเปียก น้ำปลา และน้ำตาลเล็กน้อย",
+        "ตักใส่ชามโรยกระเทียมเจียวหอมๆ และพริกแห้งทอดกรอบ เสิร์ฟร้อนๆ"
+      ],
+      "note": "แกงผักกาดพื้นบ้านภาคเหนือรสเปรี้ยวอมหวานซดคล่องคอ ยิ่งอุ่นค้างคืนผักยิ่งนุ่มหอม",
+      "image": "images/packs/th/th_north_03.webp",
+      "images": [
+        "images/packs/th/th_north_03.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_04",
+      "recipe_id": "th_north_04",
+      "title": "ลาบหมูคั่วพริกลาบเหนือ",
+      "title_en": "Larb Moo Kua (Northern Thai Spiced Minced Pork Salad)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "25 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "410 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "เนื้อหมูสับละเอียดและตับหมู/หนังหมูต้มซอย: 350 กรัม",
+        "พริกลาบเหนือ (พริกแห้ง มะแขว่น ดีปลี ลูกผักชี ยี่หร่า): 2.5 ช้อนโต๊ะ",
+        "หอมแดงเจียวและกระเทียมเจียวกรอบ: 4 ช้อนโต๊ะ",
+        "ผักไผ่ (ผักแพว) ต้นหอม ผักชี และใบสะระแหน่ซอย: 1 ถ้วย",
+        "น้ำปลาและเกลือเล็กน้อย: 1.5 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "คลุกหมูสับ หนังหมู และตับหมูกับพริกลาบเหนือและน้ำซุปเล็กน้อยให้เข้ากันทั่ว",
+        "ตั้งกระทะใส่น้ำมันเจียวกระเทียมเล็กน้อย นำลาบลงคั่วไฟกลางจนหมูสุกหอมเครื่องเทศและแห้งกำลังดี ปรุงรสด้วยน้ำปลา",
+        "ปิดไฟใส่ผักไผ่ ต้นหอม ผักชี และใบสะระแหน่ซอย คลุกเคล้าแล้วโรยหอมเจียว กระเทียมเจียว เสิร์ฟคู่ผักสดพื้นบ้าน"
+      ],
+      "note": "ลาบเหนือแท้ไม่ใส่มะนาวและข้าวคั่ว แต่โดดเด่นด้วยกลิ่นหอมซ่าของมะแขว่นและเครื่องเทศพริกลาบ",
+      "image": "images/packs/th/th_north_04.webp",
+      "images": [
+        "images/packs/th/th_north_04.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_05",
+      "recipe_id": "th_north_05",
+      "title": "ตำขนุนอ่อนหมูสับใบมะกรูด",
+      "title_en": "Tam Khanun (Northern Thai Pounded Young Jackfruit Salad)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "north",
+      "mainIngredient": "ขนุนอ่อน",
+      "time": "40 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "340 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "ขนุนอ่อนต้มเปื่อยโขลกหยาบ: 350 กรัม",
+        "หมูสับ: 150 กรัม",
+        "พริกแกงเหนือ (พริกแห้ง กระเทียม หอมแดง กะปิ ปลาร้าสับ): 2 ช้อนโต๊ะ",
+        "มะเขือเทศลูกเล็กผ่าครึ่งและใบมะกรูดฉีก: 1 ถ้วย",
+        "กระเทียมเจียวและพริกแห้งทอด: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ต้มขนุนอ่อนจนเปื่อยนุ่มแล้วนำไปโขลกพอแหลกเป็นเส้นหยาบ",
+        "ผัดพริกแกงเหนือกับน้ำมันให้หอม ใส่หมูสับลงผัดจนสุก ตามด้วยขนุนโขลกและมะเขือเทศลงผัดคลุกเคล้าไฟกลาง",
+        "ปรุงรสด้วยน้ำปลา ใส่ใบมะกรูดฉีกและผักชีฝรั่ง โรยกระเทียมเจียวและพริกแห้งทอดเสิร์ฟคู่แคบหมู"
+      ],
+      "note": "อาหารมงคลชาวล้านนาเชื่อว่ากินแล้วจะมีคนเกื้อหนุน รสกลมกล่อมหอมกะปิและใบมะกรูด",
+      "image": "images/packs/th/th_north_05.webp",
+      "images": [
+        "images/packs/th/th_north_05.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_06",
+      "recipe_id": "th_north_06",
+      "title": "แอ็บหมูย่างใบตองหอม",
+      "title_en": "Aeb Moo (Northern Thai Grilled Pork Curry in Banana Leaf)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "35 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "390 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "หมูสับติดมันเล็กน้อย: 300 กรัม",
+        "ไข่ไก่: 1 ฟอง",
+        "พริกแกงเมืองเหนือ (พริกแห้ง ตะไคร้ ข่า ขมิ้น หอมแดง กระเทียม กะปิ): 2 ช้อนโต๊ะ",
+        "ใบมะกรูดซอย ต้นหอม และผักชีซอย: 1/2 ถ้วย",
+        "ใบตองกล้วยและไม้กลัดสำหรับห่อ: 1 ชุด"
+      ],
+      "steps": [
+        "คลุกหมูสับ พริกแกงเมืองเหนือ ไข่ไก่ น้ำปลา ใบมะกรูดซอย ต้นหอม และผักชีให้เข้ากันเนียน",
+        "ตักส่วนผสมห่อด้วยใบตองพับเป็นทรงสี่เหลี่ยมแบนกลัดด้วยไม้กลัดให้แน่น",
+        "ย่างบนเตาถ่านไฟอ่อนข้างละ 10–12 นาทีจนใบตองเกรียมหอมและเนื้อหมูด้านในสุกนุ่ม เปิดห่อเสิร์ฟร้อน"
+      ],
+      "note": "วิธีปรุงแบบล้านนาที่ใช้ใบตองห่อย่างไฟอ่อนจนหอมกลิ่นใบตองไหม้และขมิ้น",
+      "image": "images/packs/th/th_north_06.webp",
+      "images": [
+        "images/packs/th/th_north_06.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_07",
+      "recipe_id": "th_north_07",
+      "title": "แกงหัวปลีกระดูกหมูชะอม",
+      "title_en": "Kaeng Hua Plee (Northern Thai Banana Blossom & Pork Rib Soup)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "north",
+      "mainIngredient": "หัวปลี",
+      "time": "35 นาที",
+      "difficulty": "ง่าย",
+      "calories": "320 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "หัวปลีซอยแช่น้ำมะนาวไม่ให้ดำ: 1 หัว",
+        "กระดูกหมูอ่อนสับชิ้น: 300 กรัม",
+        "พริกแกงเมืองเหนือและน้ำปลาร้าต้มสุก: 2 ช้อนโต๊ะ + 1 ช้อนโต๊ะ",
+        "ยอดชะอมเด็ดใบและใบชะพลู: 1 ถ้วย",
+        "มะเขือเทศลูกเล็กผ่าครึ่ง: 6 ลูก"
+      ],
+      "steps": [
+        "โขลกพริกแกงเหนือแล้วละลายในหม้อน้ำเดือด ใส่กระดูกหมูลงต้มไฟอ่อน 18 นาทีจนเปื่อยนุ่ม",
+        "ใส่หัวปลีซอยและมะเขือเทศลงต้มจนหัวปลีนุ่มซึมน้ำแกง ปรุงรสด้วยน้ำปลาร้าและน้ำปลา",
+        "ใส่ยอดชะอมและใบชะพลูปิดไฟทันทีเพื่อให้ผักเขียวหอม ตักเสิร์ฟร้อน"
+      ],
+      "note": "แกงเมืองบำรุงน้ำนมและย่อยง่าย หอมกลิ่นชะอมกับใบชะพลูเข้ากับหัวปลีนุ่มๆ",
+      "image": "images/packs/th/th_north_07.webp",
+      "images": [
+        "images/packs/th/th_north_07.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_08",
+      "recipe_id": "th_north_08",
+      "title": "หมูสามชั้นทอดมะแขว่น",
+      "title_en": "Moo Thod Makhwaen (Northern Thai Crispy Pork with Makhwaen Pepper)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "30 นาที",
+      "difficulty": "ง่าย",
+      "calories": "520 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "หมูสามชั้นหั่นชิ้นยาว: 400 กรัม",
+        "เมล็ดมะแขว่นคั่วโขลกละเอียด: 1.5 ช้อนโต๊ะ",
+        "กระเทียมไทยและรากผักชีโขลก: 1.5 ช้อนโต๊ะ",
+        "น้ำปลา ซีอิ๊วขาว และแป้งทอดกรอบบางๆ: 1 ชุด",
+        "ใบมะกรูดทอดกรอบสำหรับโรยหน้า: 1 กำมือ"
+      ],
+      "steps": [
+        "หมักหมูสามชั้นกับมะแขว่นคั่วโขลก กระเทียม รากผักชี น้ำปลา และซีอิ๊วขาวอย่างน้อย 20 นาที แล้วคลุกแป้งทอดกรอบบางๆ",
+        "ทอดในน้ำมันร้อนไฟกลางจนหมูสามชั้นสุกเหลืองกรอบนอกนุ่มใน สะเด็ดน้ำมัน",
+        "หั่นชิ้นพอดีคำโรยใบมะกรูดทอดกรอบ เสิร์ฟคู่ข้าวเหนียวร้อนๆ และน้ำพริกหนุ่ม"
+      ],
+      "note": "เมล็ดมะแขว่นเครื่องเทศประจำถิ่นภาคเหนือให้กลิ่นหอมซ่าสดชื่นตัดเลี่ยนหมูสามชั้นได้ยอดเยี่ยม",
+      "image": "images/packs/th/th_north_08.webp",
+      "images": [
+        "images/packs/th/th_north_08.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_09",
+      "recipe_id": "th_north_09",
+      "title": "แกงผักปั๋งใส่จิ๊นส้ม",
+      "title_en": "Kaeng Phak Pang (Northern Thai Malabar Spinach Soup with Fermented Pork)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "north",
+      "mainIngredient": "ผักปลัง",
+      "time": "25 นาที",
+      "difficulty": "ง่าย",
+      "calories": "260 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "ยอดและดอกผักปั๋ง (ผักปลัง) ล้างสะอาด: 300 กรัม",
+        "จิ๊นส้ม (แหนมหมูเหนือ) หั่นชิ้นพอคำ: 150 กรัม",
+        "หอมแดง กระเทียม พริกแห้ง และกะปิโขลกหยาบ: 2 ช้อนโต๊ะ",
+        "มะเขือเทศลูกเล็กผ่าครึ่ง: 6 ลูก",
+        "น้ำปลาและเกลือเล็กน้อย: 1 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ต้มน้ำสะอาดให้เดือด ใส่พริกแกงโขลกและกะปิลงละลายจนหอม",
+        "ใส่มะเขือเทศและผักปั๋งลงต้มจนผักสุกนุ่มลื่นคอ แล้วใส่จิ๊นส้มลงต้มต่อ 3 นาทีให้รสเปรี้ยวกลมกล่อมออกสู่น้ำแกง",
+        "ชิมและปรุงรสด้วยน้ำปลา ตักเสิร์ฟร้อนคู่ข้าวเหนียว"
+      ],
+      "note": "แกงพื้นบ้านภาคเหนือยอดฮิต ผักปั๋งมีเมือกธรรมชาติช่วยหล่อลื่นลำไส้เข้ากันดีกับรสเปรี้ยวของจิ๊นส้ม",
+      "image": "images/packs/th/th_north_09.webp",
+      "images": [
+        "images/packs/th/th_north_09.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_10",
+      "recipe_id": "th_north_10",
+      "title": "ไข่ป่ามใบตองย่างเตาถ่าน",
+      "title_en": "Khai Pam (Northern Thai Grilled Egg in Banana Leaf)",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "region": "north",
+      "mainIngredient": "ไข่ไก่",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "240 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "ไข่ไก่สด: 4 ฟอง",
+        "ต้นหอมซอย พริกขี้หนูซอย และปูอัดหรือหมูสับรวน (ถ้าชอบ): 1 ชุด",
+        "ซีอิ๊วขาวและพริกไทยป่น: 1 ช้อนโต๊ะ",
+        "กระทงใบตองกล้วยเย็บมุม 2 กระทง: 1 ชุด"
+      ],
+      "steps": [
+        "ตอกไข่ไก่ใส่ชาม ตีผสมซีอิ๊วขาว พริกไทยป่น ต้นหอมซอย และเครื่องเคียงให้เข้ากัน",
+        "เทส่วนผสมไข่ลงในกระทงใบตองแล้ววางย่างบนตะแกรงไฟอ่อน",
+        "ย่างช้าๆ 8–10 นาทีจนไข่เซ็ตตัวนุ่มฟูและได้กลิ่นหอมของใบตองย่าง โรยพริกซอยเสิร์ฟร้อน"
+      ],
+      "note": "เมนูไข่ย่างไร้น้ำมันยอดฮิตของตลาดเช้าเชียงใหม่ หอมกลิ่นใบตองและนุ่มคล้ายไข่ตุ๋นย่าง",
+      "image": "images/packs/th/th_north_10.webp",
+      "images": [
+        "images/packs/th/th_north_10.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_11",
+      "recipe_id": "th_north_11",
+      "title": "ตำมะเขือยาวเผาไข่ต้ม",
+      "title_en": "Tam Makhuea Yao (Northern Thai Smoky Roasted Eggplant Dip with Boiled Egg)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "north",
+      "mainIngredient": "มะเขือยาว",
+      "time": "25 นาที",
+      "difficulty": "ง่าย",
+      "calories": "210 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "มะเขือยาวเผาไฟจนนิ่มลอกเปลือก: 3 ลูก",
+        "พริกหนุ่ม หอมแดง และกระเทียมย่างสุก: 1 ชุด",
+        "ไข่ต้มยางมะตูมผ่าซีก: 2 ฟอง",
+        "ต้นหอม ผักชีซอย และน้ำปลา: 1 ชุด",
+        "ผักลวกพื้นบ้านสำหรับจิ้ม: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกหนุ่ม หอมแดง และกระเทียมย่างให้ละเอียด ปรุงรสด้วยน้ำปลาและเกลือเล็กน้อย",
+        "ใส่มะเขือยาวเผาลอกเปลือกลงตำเบาๆ พอแหลกเข้ากับพริกย่าง โรยต้นหอมและผักชีซอย",
+        "ตักใส่ถ้วยจัดเคียงด้วยไข่ต้มยางมะตูมและผักลวก เสิร์ฟคู่ข้าวเหนียว"
+      ],
+      "note": "เมนูสุขภาพประจำครัวล้านนา ไร้น้ำมัน หวานหอมมะเขือยาวเผาและพริกหนุ่มย่าง",
+      "image": "images/packs/th/th_north_11.webp",
+      "images": [
+        "images/packs/th/th_north_11.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_north_12",
+      "recipe_id": "th_north_12",
+      "title": "แคบหมูน้ำพริกตาแดง",
+      "title_en": "Kaeb Moo with Nam Prik Ta Daeng (Northern Crispy Pork Rinds & Red Chili Dip)",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "region": "north",
+      "mainIngredient": "หมู",
+      "time": "25 นาที",
+      "difficulty": "ง่าย",
+      "calories": "390 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "แคบหมูทอดกรอบใหม่: 120 กรัม",
+        "พริกแห้งเม็ดใหญ่คั่ว หอมแดง และกระเทียมคั่ว: 1 ชุด",
+        "กะปิย่างและน้ำปลาร้าต้มสุก: 1 ช้อนโต๊ะ + 1 ช้อนโต๊ะ",
+        "น้ำมะขามเปียกและน้ำตาลปี๊บเล็กน้อย: 1.5 ช้อนโต๊ะ",
+        "ผักสดและไข่ต้มเคียง: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกแห้งคั่ว กระเทียมคั่ว และหอมแดงคั่วให้ละเอียดจนสีแดงสวย",
+        "ใส่กะปิย่างลงโขลกให้เข้ากัน ปรุงรสด้วยน้ำปลาร้า น้ำมะขามเปียก และน้ำตาลปี๊บให้เผ็ดเปรี้ยวเค็มกลมกล่อม",
+        "ตักใส่ถ้วยจัดเสิร์ฟคู่แคบหมูกรอบ ไข่ต้ม และผักสดลวก"
+      ],
+      "note": "ของฝากและชุดออเดิร์ฟเมืองเหนือสุดคลาสสิก น้ำพริกตาแดงเข้มข้นจิ้มกับแคบหมูกรอบเข้ากันลงตัว",
+      "image": "images/packs/th/th_north_12.webp",
+      "images": [
+        "images/packs/th/th_north_12.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_01",
+      "recipe_id": "th_isan_01",
+      "title": "ส้มตำปูปลาร้าแซ่บนัว",
+      "title_en": "Som Tum Pu Pla Ra (Isan Papaya Salad with Salted Crab & Fermented Fish)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "isan",
+      "mainIngredient": "มะละกอ",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "170 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "มะละกอดิบสับเส้นกรอบ: 200 กรัม",
+        "ปูเค็มต้มสุกล้างสะอาดแกะกระดอง: 2 ตัว",
+        "น้ำปลาร้าต้มสุกปรุงรส: 2.5 ช้อนโต๊ะ",
+        "พริกขี้หนูแห้ง พริกสด กระเทียม มะเขือเทศสีดา และมะกอกอีสาน: 1 ชุด",
+        "น้ำมะนาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกแห้ง พริกสด และกระเทียมพอหยาบ ใส่มะเขือเทศสีดา มะกอก และปูเค็มลงบุบเบาๆ",
+        "ปรุงรสด้วยน้ำปลาร้าต้มสุก น้ำมะนาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย คนให้น้ำส้มตำนัวเข้ากัน",
+        "ใส่เส้นมะละกอลงตำคลุกเคล้าเบาๆ ให้เคลือบน้ำปลาร้าทั่ว ตักใส่จานเสิร์ฟคู่ผักกาดขาวและถั่วฝักยาวสด"
+      ],
+      "note": "ราชาแห่งอาหารอีสาน รสเผ็ดเปรี้ยวนัวกลิ่นปลาร้าต้มสุกหอมฟุ้ง",
+      "image": "images/packs/th/th_isan_01.webp",
+      "images": [
+        "images/packs/th/th_isan_01.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_02",
+      "recipe_id": "th_isan_02",
+      "title": "ส้มตำไทยไข่เค็ม",
+      "title_en": "Som Tum Thai Khai Khem (Thai Papaya Salad with Salted Egg)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "isan",
+      "mainIngredient": "มะละกอ",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "260 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "มะละกอดิบสับเส้นและแครอทขูด: 200 กรัม",
+        "ไข่เค็มต้มผ่าสี่: 1 ฟอง",
+        "กุ้งแห้ง ถั่วลิสงคั่ว ถั่วฝักยาว และมะเขือเทศสีดา: 1 ชุด",
+        "พริกขี้หนู กระเทียม น้ำมะนาว น้ำปลา และน้ำตาลปี๊บ: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกขี้หนู กระเทียม และถั่วฝักยาวพอแหลก ใส่กุ้งแห้งและมะเขือเทศสีดา",
+        "ปรุงรสเปรี้ยวหวานเค็มด้วยน้ำตาลปี๊บ น้ำมะนาว และน้ำปลา ใส่เส้นมะละกอลงตำคลุกเบาๆ",
+        "ใส่ไข่เค็มผ่าซีกคลุกพอเข้ากันไม่ให้ไข่แดงเละเกินไป โรยถั่วลิสงคั่วเสิร์ฟทันที"
+      ],
+      "note": "รสเปรี้ยวหวานกลมกล่อมตัดมันเค็มของไข่แดงไข่เค็ม กินง่ายถูกปากทุกคน",
+      "image": "images/packs/th/th_isan_02.webp",
+      "images": [
+        "images/packs/th/th_isan_02.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_03",
+      "recipe_id": "th_isan_03",
+      "title": "ตำซั่วขนมจีนปลาร้า",
+      "title_en": "Tum Sua (Isan Papaya & Rice Vermicelli Salad)",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "region": "isan",
+      "mainIngredient": "ขนมจีน",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "290 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "เส้นขนมจีนสด: 150 กรัม",
+        "มะละกอดิบสับเส้นและถั่วงอกสด: 120 กรัม",
+        "น้ำปลาร้าต้มสุก พริกขี้หนู กระเทียม และมะเขือเทศสีดา: 1 ชุด",
+        "หมูยอหั่นชิ้น แคบหมู และผักชีฝรั่งซอย: 1 ชุด",
+        "น้ำมะนาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกขี้หนูกับกระเทียม ใส่มะเขือเทศสีดา ปรุงรสด้วยน้ำปลาร้าต้มสุก น้ำมะนาว น้ำปลา และน้ำตาลปี๊บ",
+        "ใส่เส้นมะละกอ เส้นขนมจีน และหมูยอลงคลุกเคล้าให้เส้นขนมจีนซับน้ำปลาร้าแซ่บทั่วถึง",
+        "ใส่ผักชีฝรั่งซอย ตักใส่จานโรยแคบหมูและถั่วงอกสดเคียงข้าง"
+      ],
+      "note": "อิ่มอร่อยในจานเดียวด้วยเส้นขนมจีนนุ่มๆ คลุกน้ำส้มตำปลาร้าแซ่บและแคบหมูกรอบ",
+      "image": "images/packs/th/th_isan_03.webp",
+      "images": [
+        "images/packs/th/th_isan_03.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_04",
+      "recipe_id": "th_isan_04",
+      "title": "ตำแตงไข่ต้มปลาร้าหอม",
+      "title_en": "Tum Taeng Khai Tom (Isan Spicy Cucumber Salad with Boiled Egg)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "isan",
+      "mainIngredient": "แตงกวา",
+      "time": "12 นาที",
+      "difficulty": "ง่าย",
+      "calories": "210 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "แตงกวาสดสับเส้นหนาพอกรอบ: 250 กรัม",
+        "ไข่ต้มสุกผ่าซีก: 2 ฟอง",
+        "น้ำปลาร้าต้มสุก พริกขี้หนู กระเทียม และมะเขือเทศสีดา: 1 ชุด",
+        "น้ำมะนาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย: 1 ชุด",
+        "เม็ดกระถินและผักชีฝรั่งซอย: 1 ชุด"
+      ],
+      "steps": [
+        "โขลกพริกขี้หนู กระเทียม และมะเขือเทศสีดา ปรุงรสด้วยน้ำปลาร้าต้มสุก น้ำมะนาว น้ำปลา และน้ำตาลปี๊บ",
+        "ใส่แตงกวาสับลงคลุกเบาๆ ไม่ตำแรงเพื่อไม่ให้น้ำแตงกวาออกมากเกินไป",
+        "ตักใส่จานวางเคียงด้วยไข่ต้มผ่าซีกและโรยเม็ดกระถินเสิร์ฟทันที"
+      ],
+      "note": "สดชื่นกรอบฉ่ำจากแตงกวาสด ตัดรสจัดจ้านด้วยไข่ต้มยางมะตูม",
+      "image": "images/packs/th/th_isan_04.webp",
+      "images": [
+        "images/packs/th/th_isan_04.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_05",
+      "recipe_id": "th_isan_05",
+      "title": "ซุปหน่อไม้งาคั่วใบย่านาง",
+      "title_en": "Sup Nor Mai (Isan Spiced Bamboo Shoot Salad with Roasted Sesame)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "isan",
+      "mainIngredient": "หน่อไม้",
+      "time": "20 นาที",
+      "difficulty": "ง่าย",
+      "calories": "160 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "หน่อไม้สดขูดเส้นต้มจืด: 300 กรัม",
+        "น้ำคั้นใบย่านางสด: 1/2 ถ้วย",
+        "ข้าวคั่ว พริกป่น และงาขาวคั่วบุบ: 2 ช้อนโต๊ะ + 1 ช้อนโต๊ะ",
+        "น้ำปลาร้าต้มสุก น้ำปลา และน้ำมะนาว: 1 ชุด",
+        "หอมแดงซอย ต้นหอม ผักชีฝรั่ง และใบสะระแหน่: 1 ถ้วย"
+      ],
+      "steps": [
+        "รวนหน่อไม้ขูดเส้นกับน้ำใบย่านางและน้ำปลาร้าในหม้อจนเดือดหอมและน้ำงวดขลุกขลิก ยกลงพักพออุ่น",
+        "ปรุงรสด้วยพริกป่น ข้าวคั่ว น้ำปลา และน้ำมะนาว คลุกเคล้าให้เข้ากัน",
+        "ใส่หอมแดงซอย ต้นหอม ผักชีฝรั่ง ใบสะระแหน่ และงาขาวคั่วบุบ ตักเสิร์ฟคู่ข้าวเหนียว"
+      ],
+      "note": "เมนูผักพื้นบ้านแคลอรีต่ำของอีสาน หอมกลิ่นใบย่านาง ข้าวคั่ว และงาขาวคั่ว",
+      "image": "images/packs/th/th_isan_05.webp",
+      "images": [
+        "images/packs/th/th_isan_05.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_06",
+      "recipe_id": "th_isan_06",
+      "title": "ไก่ย่างวิเชียรบุรีหนังกรอบ",
+      "title_en": "Kai Yang Wichian Buri (Isan Spiced Grilled Chicken)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "isan",
+      "mainIngredient": "ไก่",
+      "time": "50 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "470 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "ไก่บ้านหรือสะโพกไก่ติดน่องผ่าแบะ: 700 กรัม",
+        "กระเทียม พริกไทยเม็ด รากผักชี และตะไคร้โขลกละเอียด: 3 ช้อนโต๊ะ",
+        "ซอสหอยนางรม ซีอิ๊วขาว เกลือ และน้ำตาลปี๊บ: 1 ชุด",
+        "น้ำจิ้มแจ่วมะขามเปียกข้าวคั่ว: 1 ถ้วย"
+      ],
+      "steps": [
+        "หมักไก่กับสามเกลอ ตะไคร้โขลก ซอสหอยนางรม ซีอิ๊วขาว เกลือ และน้ำตาลปี๊บอย่างน้อย 1 ชั่วโมง",
+        "ย่างบนเตาถ่านไฟอ่อนหรืออบที่ 190°C นาน 35–40 นาที พลิกกลับด้านจนหนังแห้งกรอบสีน้ำตาลทองและเนื้อสุกหอม",
+        "สับเป็นชิ้นจัดจาน เสิร์ฟร้อนคู่ข้าวเหนียวและน้ำจิ้มแจ่วมะขามเปียก"
+      ],
+      "note": "เอกลักษณ์ไก่ย่างวิเชียรบุรีคือหนังแห้งกรอบ เนื้อในนุ่มหอมตะไคร้กระเทียมพริกไทย",
+      "image": "images/packs/th/th_isan_06.webp",
+      "images": [
+        "images/packs/th/th_isan_06.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_07",
+      "recipe_id": "th_isan_07",
+      "title": "หมกหน่อไม้หมูสามชั้นใบตอง",
+      "title_en": "Mok Nor Mai (Isan Steamed Bamboo Shoot & Pork Curry in Banana Leaf)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "isan",
+      "mainIngredient": "หน่อไม้",
+      "time": "40 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "350 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "หน่อไม้สดขูดเส้นต้มจืด: 300 กรัม",
+        "หมูสามชั้นหั่นชิ้นบาง: 180 กรัม",
+        "ข้าวเบือ (ข้าวเหนียวแช่น้ำโขลกละเอียด) และน้ำใบย่านาง: 3 ช้อนโต๊ะ + 1 ถ้วย",
+        "พริกสด ตะไคร้ หอมแดงโขลก น้ำปลาร้า และใบแมงลัก: 1 ชุด",
+        "ใบตองและไม้กลัดสำหรับห่อหมก: 1 ชุด"
+      ],
+      "steps": [
+        "ผสมหน่อไม้ขูด หมูสามชั้น น้ำใบย่านาง ข้าวเบือ พริกตะไคร้หอมแดงโขลก น้ำปลาร้า และใบแมงลักให้เข้ากัน",
+        "ตักห่อด้วยใบตองเป็นทรงหมกกลัดไม้ให้แน่น",
+        "นึ่งในซึ้งน้ำเดือดไฟกลางนาน 25–30 นาทีจนหมูและข้าวเบือสุกข้นหอม เปิดห่อเสิร์ฟร้อน"
+      ],
+      "note": "ข้าวเบือช่วยให้น้ำหมกหน่อไม้ข้นนุ่มนวล หอมใบย่านางและใบแมงลักมาก",
+      "image": "images/packs/th/th_isan_07.webp",
+      "images": [
+        "images/packs/th/th_isan_07.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_08",
+      "recipe_id": "th_isan_08",
+      "title": "ลาบเป็ดอุดรกรอบหอม",
+      "title_en": "Larb Ped Udon (Udon Thani Spicy Duck Salad with Crispy Skin)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "isan",
+      "mainIngredient": "เป็ด",
+      "time": "30 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "410 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "เนื้อเป็ดสับและเครื่องในเป็ดหั่นชิ้น: 350 กรัม",
+        "หนังเป็ดเจียวกรอบและใบมะกรูดทอดกรอบ: 1/2 ถ้วย",
+        "ข้าวคั่ว พริกป่น น้ำปลา และน้ำมะนาว: 1 ชุด",
+        "หอมแดงซอย ต้นหอม ผักชีฝรั่ง ใบสะระแหน่ และพริกแห้งทอด: 1 ถ้วย"
+      ],
+      "steps": [
+        "เจียวหนังเป็ดจนเหลืองกรอบตักพักไว้ แล้วรวนเนื้อเป็ดสับและเครื่องในกับน้ำซุปและข่าสับจนสุกหอม",
+        "ยกลงปรุงรสด้วยน้ำปลา น้ำมะนาว พริกป่น และข้าวคั่ว คลุกเคล้าให้แซ่บกลมกล่อม",
+        "ใส่หอมแดง ต้นหอม ผักชีฝรั่ง และสะระแหน่ โรยหน้าด้วยหนังเป็ดเจียวกรอบ ใบมะกรูดทอด และพริกแห้งทอด"
+      ],
+      "note": "ทีเด็ดลาบเป็ดอุดรอยู่ที่หนังเป็ดเจียวกรอบ ใบมะกรูดทอด และกลิ่นข่าหอมดับคาวเป็ดสนิท",
+      "image": "images/packs/th/th_isan_08.webp",
+      "images": [
+        "images/packs/th/th_isan_08.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_09",
+      "recipe_id": "th_isan_09",
+      "title": "ปลานิลเผาเกลือสมุนไพร",
+      "title_en": "Pla Nin Phao Kluea (Isan Salt-Crusted Grilled Tilapia with Herbs)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "isan",
+      "mainIngredient": "ปลา",
+      "time": "40 นาที",
+      "difficulty": "ง่าย",
+      "calories": "360 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "ปลานิลสดทั้งตัวควักไส้ไม่ขอดเกล็ด: 1 ตัว (700 กรัม)",
+        "ตะไคร้บุบและใบเตยสำหรับยัดท้องปลา: 1 ชุด",
+        "เกลือเม็ดผสมแป้งสาลีเล็กน้อยสำหรับพอกตัวปลา: 1/2 ถ้วย",
+        "น้ำจิ้มซีฟู้ดและน้ำจิ้มแจ่วถั่วตัดพร้อมผักสดและเส้นขนมจีน: 1 ชุด"
+      ],
+      "steps": [
+        "ล้างปลานิลให้สะอาด ยัดตะไคร้บุบและใบเตยลงในท้องปลาเพื่อดับคาวและเพิ่มกลิ่นหอม",
+        "พอกเกลือผสมแป้งบางๆ ให้ทั่วเกล็ดปลา นำขึ้นย่างไฟกลางบนเตาถ่านข้างละ 15 นาทีจนเกล็ดพองและเนื้อปลาสุกฉ่ำ",
+        "ลอกหนังเกลือออก เสิร์ฟเนื้อปลาหวานนุ่มคู่ผักสด ขนมจีน น้ำจิ้มซีฟู้ด และน้ำจิ้มแจ่ว"
+      ],
+      "note": "การพอกเกลือย่างทั้งเกล็ดช่วยกักเก็บความชุ่มฉ่ำให้เนื้อปลานิลหวานนุ่มไร้น้ำมัน",
+      "image": "images/packs/th/th_isan_09.webp",
+      "images": [
+        "images/packs/th/th_isan_09.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_10",
+      "recipe_id": "th_isan_10",
+      "title": "หมูแดดเดียวทอดอีสาน",
+      "title_en": "Moo Dad Deaw (Isan Sun-Dried Crispy Fried Pork)",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "region": "isan",
+      "mainIngredient": "หมู",
+      "time": "30 นาที",
+      "difficulty": "ง่าย",
+      "calories": "450 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "หมูสันคอหรือสะโพกหั่นเส้นหนา: 400 กรัม",
+        "เม็ดผักชีคั่วโขลก กระเทียม และพริกไทย: 1.5 ช้อนโต๊ะ",
+        "ซอสหอยนางรม ซีอิ๊วขาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย: 1 ชุด",
+        "งาขาวคั่วและน้ำจิ้มแจ่ว: 1 ชุด"
+      ],
+      "steps": [
+        "หมักหมูกับเม็ดผักชีคั่วโขลก กระเทียม พริกไทย ซอสหอยนางรม ซีอิ๊วขาว น้ำปลา น้ำตาลปี๊บ และงาขาว 30 นาที แล้วผึ่งแดดหรืออบลมร้อนให้ผิวหมาด",
+        "ทอดในน้ำมันไฟกลางค่อนอ่อนจนหมูสุกสีน้ำตาลสวย นุ่มหนึบไม่แข็งกระด้าง",
+        "ตักขึ้นสะเด็ดน้ำมัน เสิร์ฟร้อนคู่ข้าวเหนียวและน้ำจิ้มแจ่ว"
+      ],
+      "note": "หมูแดดเดียวหอมเม็ดผักชีและงาขาว เคี้ยวเพลินเข้าคู่ส้มตำและข้าวเหนียวร้อนๆ",
+      "image": "images/packs/th/th_isan_10.webp",
+      "images": [
+        "images/packs/th/th_isan_10.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_11",
+      "recipe_id": "th_isan_11",
+      "title": "ไส้กรอกอีสานย่างพริกสดขิงดอง",
+      "title_en": "Sai Krok Isan (Fermented Isan Pork & Rice Sausages)",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "region": "isan",
+      "mainIngredient": "หมู",
+      "time": "30 นาที",
+      "difficulty": "ง่าย",
+      "calories": "430 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "ไส้กรอกอีสานหมูวุ้นเส้นหรือข้าวสวย: 12 ลูก",
+        "กะหล่ำปลีสดกรอบหั่นชิ้น: 100 กรัม",
+        "ขิงดองฝานบางและพริกขี้หนูสด: 1 ชุด",
+        "ถั่วลิสงคั่วกรอบ: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ใช้ไม้จิ้มฟันจิ้มไส้กรอกอีสานเบาๆ 2–3 รูต่อลูกเพื่อไม่ให้หนังแตกตอนย่าง",
+        "ย่างบนเตาถ่านไฟอ่อนหรือหม้อทอดไร้น้ำมันที่ 175°C นาน 15–18 นาทีจนผิวนอกตึงกรอบสีเหลืองทอง",
+        "จัดใส่จานเสิร์ฟร้อนคู่กะหล่ำปลีสด ขิงดอง พริกขี้หนูสด และถั่วลิสงคั่ว"
+      ],
+      "note": "สตรีตฟู้ดอีสานยอดนิยม รสเปรี้ยวเค็มกำลังดีกินแกล้มขิงดองและพริกขี้หนูสดเข้ากันมาก",
+      "image": "images/packs/th/th_isan_11.webp",
+      "images": [
+        "images/packs/th/th_isan_11.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_isan_12",
+      "recipe_id": "th_isan_12",
+      "title": "แกงผักหวานป่าไข่มดแดง",
+      "title_en": "Kaeng Phak Wan Khai Mot Daeng (Isan Melientha Greens Soup with Ant Eggs)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "isan",
+      "mainIngredient": "ผักหวานป่า",
+      "time": "25 นาที",
+      "difficulty": "ง่าย",
+      "calories": "190 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "ยอดผักหวานป่าเด็ดอ่อน: 250 กรัม",
+        "ไข่มดแดงสดล้างสะอาด: 120 กรัม",
+        "เห็ดฟางผ่าครึ่งและวุ้นเส้นแช่น้ำ (ถ้าชอบ): 120 กรัม",
+        "พริกสด หอมแดง ตะไคร้โขลก และน้ำปลาร้าต้มสุก: 1 ชุด",
+        "ปลาย่างแกะเนื้อและใบแมงลัก: 1 ชุด"
+      ],
+      "steps": [
+        "ต้มน้ำสะอาดกับพริก หอมแดง ตะไคร้โขลก และปลาย่างแกะเนื้อจนเดือดหอม ปรุงรสด้วยน้ำปลาร้าและน้ำปลา",
+        "ใส่เห็ดฟางลงต้มจนสุก ตามด้วยยอดผักหวานป่ากดให้จมน้ำแกง",
+        "ใส่ไข่มดแดงและใบแมงลักลงไปรอเดือดเบาๆ 1 นาทีแล้วปิดไฟทันทีเพื่อให้ไข่มดแดงเต่งตึงไม่แตก"
+      ],
+      "note": "แกงฤดูร้อนสุดล้ำค่าของภาคอีสาน น้ำซุปหวานผักหวานป่าและไข่มดแดงมันๆ เปรี้ยวนิดๆ สดชื่นมาก",
+      "image": "images/packs/th/th_isan_12.webp",
+      "images": [
+        "images/packs/th/th_isan_12.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_01",
+      "recipe_id": "th_south_01",
+      "title": "แกงไตปลาน้ำข้นผักรวม",
+      "title_en": "Kaeng Tai Pla (Southern Thai Fermented Fish Entrails Curry)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "south",
+      "mainIngredient": "ปลา",
+      "time": "35 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "260 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "ไตปลาอย่างดีต้มกรองกาก: 1/2 ถ้วย",
+        "พริกแกงไตปลาใต้ (พริกขี้หนูแห้ง พริกไทยดำ ขมิ้น ตะไคร้ ข่า ผิวมะกรูด กะปิ): 3 ช้อนโต๊ะ",
+        "ปลาทูหรือปลาซาบะย่างแกะเนื้อชิ้นโต: 250 กรัม",
+        "ฟักทอง หน่อไม้ต้ม มะเขือเปราะ และถั่วฝักยาวหั่นชิ้น: 300 กรัม",
+        "ใบมะกรูดฉีกและน้ำมะขามเปียกเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "ต้มน้ำสะอาดกับไตปลากรองและพริกแกงไตปลาจนเดือดหอมจัด",
+        "ใส่ฟักทองและหน่อไม้ลงต้มจนเริ่มนุ่ม ตามด้วยมะเขือเปราะ ถั่วฝักยาว และเนื้อปลาย่าง",
+        "ปรุงรสด้วยน้ำมะขามเปียกเล็กน้อย โรยใบมะกรูดฉีก ตักเสิร์ฟร้อนคู่ขนมจีนหรือข้าวสวยและผักเหนาะ"
+      ],
+      "note": "เมนูเอกลักษณ์ปักษ์ใต้รสเผ็ดร้อนจัดจ้านไร้น้ำมันและกะทิ อุดมด้วยสมุนไพรและผักพื้นบ้าน",
+      "image": "images/packs/th/th_south_01.webp",
+      "images": [
+        "images/packs/th/th_south_01.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_02",
+      "recipe_id": "th_south_02",
+      "title": "ขนมจีนน้ำยาปูใต้",
+      "title_en": "Khanom Jeen Nam Ya Pu (Southern Thai Crab Curry with Rice Noodles)",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "region": "south",
+      "mainIngredient": "ปู",
+      "time": "35 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "540 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "เนื้อปูก้อนนึ่งสุก: 250 กรัม",
+        "พริกแกงกะทิใต้หอมขมิ้น: 3 ช้อนโต๊ะ",
+        "หัวกะทิและหางกะทิสด: 500 มิลลิลิตร",
+        "เส้นขนมจีนสดและใบมะกรูดฉีก: 400 กรัม",
+        "ผักเหนาะใต้ (ถั่วฝักยาว ใบแมงลัก ผักกาดดอง แตงกวา) และไข่ต้ม: 1 ชุด"
+      ],
+      "steps": [
+        "ผัดพริกแกงกะทิใต้กับหัวกะทิไฟอ่อนจนแตกมันสีเหลืองทองหอมฟุ้ง",
+        "เติมหางกะทิเคี่ยวให้เดือด ปรุงรสด้วยน้ำปลาและน้ำตาลปี๊บเล็กน้อย ใส่ใบมะกรูดฉีก",
+        "ใส่เนื้อปูก้อนลงต้มเบาๆ พอสุกไม่คนแรงให้เนื้อปูเป็นก้อนสวย ราดบนขนมจีนเสิร์ฟคู่ผักเหนาะและไข่ต้ม"
+      ],
+      "note": "น้ำยาปูปักษ์ใต้แท้สีเหลืองขมิ้นเข้มข้น หอมมันกะทิและได้เนื้อปูก้อนหวานเต็มคำ",
+      "image": "images/packs/th/th_south_02.webp",
+      "images": [
+        "images/packs/th/th_south_02.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_03",
+      "recipe_id": "th_south_03",
+      "title": "ไก่กอและย่างซอสกะทิใต้",
+      "title_en": "Kai Golae (Southern Thai Grilled Chicken with Spiced Coconut Glaze)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "south",
+      "mainIngredient": "ไก่",
+      "time": "50 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "490 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "สะโพกไก่หรือปีกไก่เสียบไม้: 600 กรัม",
+        "พริกแกงกอและ (พริกแห้ง หอมแดง กระเทียม ข่า ตะไคร้ ขมิ้น ลูกผักชี ยี่หร่า): 3 ช้อนโต๊ะ",
+        "หัวกะทิเข้มข้น: 250 มิลลิลิตร",
+        "น้ำมะขามเปียก น้ำตาลปี๊บ และเกลือ: 1 ชุด"
+      ],
+      "steps": [
+        "เคี่ยวหัวกะทิกับพริกแกงกอและ ปรุงรสด้วยน้ำตาลปี๊บ น้ำมะขามเปียก และเกลือจนเป็นซอสกะทิสีส้มแดงข้นมัน",
+        "หมักไก่กับซอสกอและครึ่งหนึ่งประมาณ 30 นาทีแล้วนำขึ้นย่างไฟอ่อน",
+        "ทาซอสกอและเคลือบสลับพลิกย่างซ้ำๆ จนไก่สุกหอมและผิวเคลือบซอสกะทิฉ่ำเงา เสิร์ฟร้อนคู่ข้าวเหนียว"
+      ],
+      "note": "ไก่ย่างชื่อดังของสามจังหวัดชายแดนใต้ หอมเครื่องเทศและซอสกะทิรสหวานเค็มเผ็ดกลมกล่อม",
+      "image": "images/packs/th/th_south_03.webp",
+      "images": [
+        "images/packs/th/th_south_03.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_04",
+      "recipe_id": "th_south_04",
+      "title": "แกงคั่วซี่โครงหมูใบยี่หร่า",
+      "title_en": "Kaeng Khua Pork Ribs with Tree Basil (Southern Thai Dry-Style Curry)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "south",
+      "mainIngredient": "หมู",
+      "time": "45 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "480 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "ซี่โครงหมูอ่อนสับชิ้นพอคำ: 500 กรัม",
+        "พริกแกงคั่วใต้และกะปิอย่างดี: 3 ช้อนโต๊ะ + 1 ช้อนชา",
+        "ใบยี่หร่า (ใบรา) ซอยหยาบและใบมะกรูดฉีก: 1 ถ้วย",
+        "พริกไทยอ่อนและพริกชี้ฟ้าแดงหั่นแฉลบ: 1 ชุด",
+        "น้ำปลาและน้ำตาลปี๊บเล็กน้อย: 1.5 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดพริกแกงคั่วใต้กับกะปิในกระทะน้ำมันเล็กน้อยจนหอม ใส่ซี่โครงหมูอ่อนลงคั่วให้เข้าเครื่อง",
+        "เติมน้ำสะอาดพอท่วมซี่โครงหมู เคี่ยวไฟกลางค่อนอ่อน 25 นาทีจนซี่โครงหมูเปื่อยนุ่มและน้ำแกงงวดขลุกขลิก",
+        "ปรุงรสด้วยน้ำปลาและน้ำตาลปี๊บเล็กน้อย ใส่ใบยี่หร่า ใบมะกรูด พริกไทยอ่อน และพริกชี้ฟ้าผัดเร็วๆ แล้วตักเสิร์ฟ"
+      ],
+      "note": "แกงใต้ยอดฮิตที่เผ็ดร้อนหอมใบยี่หร่า ซี่โครงหมูอ่อนเคี้ยวกรุบเข้าเนื้อเครื่องแกง",
+      "image": "images/packs/th/th_south_04.webp",
+      "images": [
+        "images/packs/th/th_south_04.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_05",
+      "recipe_id": "th_south_05",
+      "title": "ปลาหมึกต้มน้ำดำปักษ์ใต้",
+      "title_en": "Pla Muek Tom Nam Dam (Southern Thai Squid Simmered in Sweet Ink Broth)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "south",
+      "mainIngredient": "ปลาหมึก",
+      "time": "20 นาที",
+      "difficulty": "ง่าย",
+      "calories": "250 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "ปลาหมึกกล้วยสดตัวเล็กทั้งตัว (คงถุงหมึกไว้): 450 กรัม",
+        "ตะไคร้บุบ หอมแดงบุบ และกระเทียมบุบ: 1 ชุด",
+        "น้ำตาลโตนดหรือน้ำตาลปี๊บและน้ำมะขามเปียก: 1.5 ช้อนโต๊ะ + 1 ช้อนโต๊ะ",
+        "เกลือทะเลและน้ำปลา: 1 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ล้างปลาหมึกสดเบาๆ ดึงแกนใสและตาออกโดยระวังไม่ให้ถุงน้ำหมึกแตก",
+        "ต้มน้ำพอขลุกขลิกใส่ตะไคร้ หอมแดง และกระเทียมบุบจนเดือดหอม ปรุงรสด้วยน้ำตาลโตนด น้ำมะขามเปียก และเกลือ",
+        "ใส่ปลาหมึกสดลงต้มไฟกลาง 4–5 นาทีจนปลาหมึกสุกเด้งและน้ำหมึกดำละลายออกมาเป็นน้ำซุปรสหวานเค็มกลมกล่อม ตักเสิร์ฟร้อน"
+      ],
+      "note": "กับข้าวชาวเลปักษ์ใต้รสหวานเค็มซดคล่องคอ ไม่เผ็ด กินตัดรสคู่แกงเผ็ดใต้ได้ดีเยี่ยม",
+      "image": "images/packs/th/th_south_05.webp",
+      "images": [
+        "images/packs/th/th_south_05.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_06",
+      "recipe_id": "th_south_06",
+      "title": "ยำมะม่วงเบาปลากรอบกุ้งแห้ง",
+      "title_en": "Yum Mamuang Bao (Southern Thai Crispy Baby Mango Salad)",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "region": "south",
+      "mainIngredient": "มะม่วงเบา",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "220 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "มะม่วงเบาปักษ์ใต้ฝานบางแช่น้ำเย็นกรอบ: 250 กรัม",
+        "ปลาฉิ้งฉ้างทอดกรอบและกุ้งแห้งตัวโต: 1/2 ถ้วย",
+        "หอมแดงซอยและพริกขี้หนูซอย: 1/2 ถ้วย",
+        "น้ำตาลปี๊บเคี่ยว น้ำปลา กะปิหวานเล็กน้อย และเม็ดมะม่วงหิมพานต์คั่ว: 1 ชุด"
+      ],
+      "steps": [
+        "ผสมน้ำตาลปี๊บเคี่ยว น้ำปลา และกะปิหวานเล็กน้อยคนให้ละลายเข้ากันเป็นน้ำยำรสหวานเค็มนัว",
+        "ใส่มะม่วงเบาฝานบาง หอมแดงซอย และพริกขี้หนูซอยลงคลุกเคล้าเบาๆ",
+        "ตักใส่จานโรยปลาฉิ้งฉ้างทอดกรอบ กุ้งแห้ง และเม็ดมะม่วงหิมพานต์คั่วเสิร์ฟทันที"
+      ],
+      "note": "มะม่วงเบาแท้จากภาคใต้เปรี้ยวกรอบหอมเฉพาะตัว คลุกปลาฉิ้งฉ้างและเม็ดมะม่วงหิมพานต์แซ่บตาสว่าง",
+      "image": "images/packs/th/th_south_06.webp",
+      "images": [
+        "images/packs/th/th_south_06.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_07",
+      "recipe_id": "th_south_07",
+      "title": "เต้าคั่วสงขลาเส้นหมี่กุ้งทอด",
+      "title_en": "Tao Khua Songkhla (Southern Thai Rice Noodle & Crispy Prawn Salad)",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "region": "south",
+      "mainIngredient": "กุ้ง",
+      "time": "35 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "480 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "เส้นหมี่ขาวลวกสุก: 200 กรัม",
+        "กุ้งชุบแป้งทอดกรอบ เต้าหู้ขาวทอดกรอบ และหมูสามชั้นต้มหั่นบาง: 250 กรัม",
+        "ไข่เป็ดต้มยางมะตูม ผักบุ้งลวก ถั่วงอกลวก และแตงกวาหั่น: 1 ชุด",
+        "น้ำเชื่อมน้ำตาลโตนดเคี่ยวเปรี้ยวหวานและพริกน้ำส้มตำ: 1 ถ้วย"
+      ],
+      "steps": [
+        "จัดเส้นหมี่ขาวลวก ผักบุ้งลวก ถั่วงอกลวก และแตงกวาเรียงลงชาม",
+        "วางทับด้วยกุ้งทอดกรอบ เต้าหู้ทอดกรอบ หมูต้ม และไข่ต้มผ่าซีก",
+        "ราดน้ำเชื่อมน้ำตาลโตนดเคี่ยวรสหวานเค็มกลมกล่อมและเติมพริกน้ำส้มตำเปรี้ยวเผ็ดตามชอบ เสิร์ฟทันที"
+      ],
+      "note": "อาหารพื้นเมืองขึ้นชื่อของจังหวัดสงขลา คล้ายสลัดเส้นหมี่รวมมิตรกรอบนุ่มครบรสเปรี้ยวหวานเผ็ด",
+      "image": "images/packs/th/th_south_07.webp",
+      "images": [
+        "images/packs/th/th_south_07.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_08",
+      "recipe_id": "th_south_08",
+      "title": "กุ้งผัดพริกแกงใต้ใบมะกรูด",
+      "title_en": "Southern Thai Stir-Fried Prawns with Spicy Curry Paste",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "south",
+      "mainIngredient": "กุ้ง",
+      "time": "18 นาที",
+      "difficulty": "ง่าย",
+      "calories": "330 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "กุ้งสดแกะเปลือกผ่าหลัง: 350 กรัม",
+        "พริกแกงเผ็ดใต้และกะปิเล็กน้อย: 2.5 ช้อนโต๊ะ",
+        "ถั่วฝักยาวหั่นท่อนและพริกชี้ฟ้าแดงหั่นแฉลบ: 120 กรัม",
+        "ใบมะกรูดซอยละเอียด: 2 ช้อนโต๊ะ",
+        "น้ำปลาและน้ำตาลปี๊บเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "ผัดพริกแกงเผ็ดใต้กับกะปิในน้ำมันไฟกลางจนหอมฉุนและสีเหลืองแดงสวย",
+        "ใส่กุ้งสดและถั่วฝักยาวลงผัดไฟแรงเร็วๆ เติมน้ำซุปเล็กน้อยให้ขลุกขลิก",
+        "ปรุงรสด้วยน้ำปลาและน้ำตาลปี๊บเล็กน้อย โรยใบมะกรูดซอยและพริกชี้ฟ้าผัดพอเข้ากันแล้วตักเสิร์ฟร้อน"
+      ],
+      "note": "เมนูจานด่วนสไตล์ร้านข้าวแกงปักษ์ใต้ เผ็ดร้อนหอมขมิ้นและใบมะกรูดซอย กินคู่ไข่เจียวอร่อยมาก",
+      "image": "images/packs/th/th_south_08.webp",
+      "images": [
+        "images/packs/th/th_south_08.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_09",
+      "recipe_id": "th_south_09",
+      "title": "แกงส้มใต้ปลาช่อนอ้อดิบ",
+      "title_en": "Kaeng Som Tai Pla Chon (Southern Thai Sour Yellow Curry with Snakehead Fish)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "region": "south",
+      "mainIngredient": "ปลา",
+      "time": "30 นาที",
+      "difficulty": "ง่าย",
+      "calories": "270 kcal",
+      "serving": "สำหรับ 4 ที่",
+      "ingredients": [
+        "เนื้อปลาช่อนหั่นแว่นสด: 400 กรัม",
+        "อ้อดิบ (คูณ) ปอกเปลือกหั่นท่อน: 200 กรัม",
+        "พริกแกงส้มใต้ (พริกขี้หนูสด ขมิ้น กระเทียม หอมแดง กะปิ): 3 ช้อนโต๊ะ",
+        "น้ำมะขามเปียก น้ำมะนาว น้ำปลา และน้ำตาลปี๊บเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "ละลายพริกแกงส้มใต้ในหม้อน้ำเดือดจนหอมกลิ่นขมิ้นและกะปิ",
+        "ปรุงรสเปรี้ยวเผ็ดเค็มด้วยน้ำมะขามเปียก น้ำปลา และน้ำตาลปี๊บเล็กน้อย",
+        "วางชิ้นปลาช่อนลงต้มโดยไม่คนจนปลาสุก ใส่อ้อดิบลงต้มต่อ 2 นาที บีบน้ำมะนาวสดปิดท้ายเพื่อความหอมสดชื่น"
+      ],
+      "note": "แกงส้มใต้รสเปรี้ยวเผ็ดจัดจ้าน อ้อดิบนุ่มชุ่มน้ำแกงซดคล่องคอ",
+      "image": "images/packs/th/th_south_09.webp",
+      "images": [
+        "images/packs/th/th_south_09.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_10",
+      "recipe_id": "th_south_10",
+      "title": "หมี่ฮกเกี้ยนผัดซีฟู้ดภูเก็ต",
+      "title_en": "Phuket Hokkien Mee (Southern Thai Stir-Fried Yellow Noodles with Seafood)",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "region": "south",
+      "mainIngredient": "อาหารทะเล",
+      "time": "25 นาที",
+      "difficulty": "ปานกลาง",
+      "calories": "560 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "เส้นหมี่เหลืองฮกเกี้ยนเส้นกลมใหญ่: 250 กรัม",
+        "กุ้งสด ปลาหมึกหั่นแว่น และลูกชิ้นปลาภูเก็ต: 220 กรัม",
+        "ผักกวางตุ้งและกะหล่ำปลีหั่นชิ้น: 120 กรัม",
+        "น้ำซุปกระดูกหมู ซีอิ๊วดำ ซีอิ๊วขาว ซอสหอยนางรม และพริกไทย: 1 ชุด",
+        "ไข่ไก่ลวกยางมะตูมและกากหมูเจียว: 1 ชุด"
+      ],
+      "steps": [
+        "เจียวกระเทียมหอมแล้วผัดกุ้ง ปลาหมึก ลูกชิ้นปลา และผักกวางตุ้งด้วยไฟแรง",
+        "ใส่เส้นหมี่ฮกเกี้ยน เติมน้ำซุป ซีอิ๊วขาว ซีอิ๊วดำ และซอสหอยนางรมผัดเคี่ยวพอมีน้ำขลุกขลิกเคลือบเส้นเงา",
+        "ตักใส่จานวางไข่ลวกยางมะตูมตรงกลาง โรยกากหมูเจียวและพริกไทย เสิร์ฟคู่หอมแดงและแคบหมู"
+      ],
+      "note": "เมนูเส้นประจำเมืองภูเก็ต เส้นกลมเหนียวนุ่มเคลือบน้ำซุปขลุกขลิกหอมกลิ่นกระทะ",
+      "image": "images/packs/th/th_south_10.webp",
+      "images": [
+        "images/packs/th/th_south_10.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_11",
+      "recipe_id": "th_south_11",
+      "title": "หมูสามชั้นผัดเคยเค็มปักษ์ใต้",
+      "title_en": "Moo Pad Khoei Khem (Southern Thai Pork Belly Stir-Fried with Shrimp Paste)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "region": "south",
+      "mainIngredient": "หมู",
+      "time": "25 นาที",
+      "difficulty": "ง่าย",
+      "calories": "510 kcal",
+      "serving": "สำหรับ 3 ที่",
+      "ingredients": [
+        "หมูสามชั้นหั่นชิ้นบาง: 350 กรัม",
+        "เคยเค็ม (กะปิน้ำปักษ์ใต้) อย่างดี: 2 ช้อนโต๊ะ",
+        "หอมแดงซอย ตะไคร้ซอย และพริกขี้หนูสวนบุบ: 1 ถ้วย",
+        "ใบมะกรูดฉีกและน้ำตาลปี๊บเล็กน้อย: 1 ชุด"
+      ],
+      "steps": [
+        "รวนหมูสามชั้นในกระทะไฟกลางจนน้ำมันหมูออกและขอบเริ่มเกรียมสวย",
+        "ใส่หอมแดงซอย ตะไคร้ซอย และเคยเค็มลงผัดให้หอมฟุ้ง เติมน้ำเล็กน้อยและตัดรสด้วยน้ำตาลปี๊บ",
+        "ใส่พริกขี้หนูสวนบุบและใบมะกรูดฉีกผัดเข้ากัน ตักเสิร์ฟคู่ข้าวสวยร้อนๆ และแตงกวาแช่เย็น"
+      ],
+      "note": "กับข้าวบ้านๆ สุดหอมของภาคใต้ รสเค็มมันนัวจากเคยเค็มแท้และสมุนไพรซอย กินกับข้าวสวยหมดจานไวมาก",
+      "image": "images/packs/th/th_south_11.webp",
+      "images": [
+        "images/packs/th/th_south_11.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
+    },
+    {
+      "id": "th_south_12",
+      "recipe_id": "th_south_12",
+      "title": "โอ๊ะเอ๋วภูเก็ตน้ำแดงถั่วแดง",
+      "title_en": "Oh Aew Phuket (Southern Thai Banana-Seed Jelly Dessert with Shaved Ice)",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "region": "south",
+      "mainIngredient": "วุ้นโอ๊ะเอ๋ว",
+      "time": "15 นาที",
+      "difficulty": "ง่าย",
+      "calories": "210 kcal",
+      "serving": "สำหรับ 2 ที่",
+      "ingredients": [
+        "วุ้นโอ๊ะเอ๋วใสหั่นเต๋า: 200 กรัม",
+        "ถั่วแดงหลวงต้มสุกนุ่มและเฉาก๊วยหั่นเต๋า: 100 กรัม",
+        "น้ำแข็งไสละเอียด: 2 ถ้วย",
+        "น้ำเชื่อมกลิ่นสละสีแดงและน้ำเชื่อมใส: 4 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ตักวุ้นโอ๊ะเอ๋ว ถั่วแดงต้มนุ่ม และเฉาก๊วยใส่ก้นถ้วย",
+        "โปะทับด้วยน้ำแข็งไสละเอียดพูนถ้วย",
+        "ราดด้วยน้ำเชื่อมกลิ่นสละสีแดงหอมหวานเย็นชื่นใจ เสิร์ฟทันที"
+      ],
+      "note": "ขนมหวานคลายร้อนประจำจังหวัดภูเก็ต วุ้นโอ๊ะเอ๋วใสเด้งนุ่มช่วยแก้ร้อนในและสดชื่นมาก",
+      "image": "images/packs/th/th_south_12.webp",
+      "images": [
+        "images/packs/th/th_south_12.webp"
+      ],
+      "country": "TH",
+      "packId": "th_full",
+      "tier": "full"
     }
   ]
 };
