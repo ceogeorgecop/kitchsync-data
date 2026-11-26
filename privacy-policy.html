@@ -4,13 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>นโยบายความเป็นส่วนตัว — KitchSync Privacy Policy</title>
-  <meta name="description" content="นโยบายความเป็นส่วนตัวสำหรับแอปพลิเคชัน KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ) — Privacy Policy for KitchSync Android App" />
+  <meta name="description" content="นโยบายความเป็นส่วนตัวและการลบบัญชีสำหรับแอปพลิเคชัน KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ) — Privacy Policy &amp; Account Deletion for KitchSync Android App" />
   <style>
     :root {
       --emerald: #065f46;
       --emerald-dark: #064e3b;
       --emerald-soft: #ecfdf5;
       --emerald-border: #a7f3d0;
+      --rose-soft: #fff1f2;
+      --rose-border: #fecdd3;
+      --rose-ink: #9f1239;
       --cream: #fdfcfb;
       --card: #ffffff;
       --ink: #1e293b;
@@ -22,6 +25,10 @@
       box-sizing: border-box;
     }
 
+    html {
+      scroll-behavior: smooth;
+    }
+
     body {
       margin: 0;
       font-family: 'Noto Sans Thai', 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -29,6 +36,7 @@
       color: var(--ink);
       line-height: 1.72;
       -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
     }
 
     .topbar {
@@ -111,9 +119,16 @@
       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
     }
 
+    .meta-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
     .meta-pill {
       display: inline-block;
-      margin-top: 14px;
       font-size: 0.78rem;
       font-weight: 600;
       color: #ecfdf5;
@@ -121,6 +136,23 @@
       border: 1px solid rgba(255, 255, 255, 0.24);
       padding: 4px 12px;
       border-radius: 999px;
+    }
+
+    .jump-pill {
+      display: inline-block;
+      font-size: 0.76rem;
+      font-weight: 700;
+      color: #ffffff;
+      background: rgba(244, 63, 94, 0.28);
+      border: 1px solid rgba(254, 205, 211, 0.45);
+      padding: 4px 12px;
+      border-radius: 999px;
+      text-decoration: none;
+    }
+
+    .jump-pill:hover {
+      background: rgba(244, 63, 94, 0.42);
+      text-decoration: none;
     }
 
     main {
@@ -136,11 +168,47 @@
       padding: 20px 22px;
       margin-bottom: 16px;
       box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+      scroll-margin-top: 16px;
     }
 
     .highlight-card {
       background: var(--emerald-soft);
       border-color: var(--emerald-border);
+    }
+
+    .deletion-card {
+      background: #ffffff;
+      border: 2px solid var(--rose-border);
+      box-shadow: 0 6px 20px rgba(159, 18, 57, 0.06);
+    }
+
+    .deletion-card h2 {
+      color: var(--rose-ink);
+    }
+
+    .deletion-step {
+      background: var(--rose-soft);
+      border: 1px solid var(--rose-border);
+      border-radius: 14px;
+      padding: 13px 15px;
+      margin-top: 10px;
+    }
+
+    .deletion-step-title {
+      font-weight: 800;
+      font-size: 0.92rem;
+      color: var(--rose-ink);
+      margin-bottom: 5px;
+    }
+
+    .security-note {
+      background: var(--emerald-soft);
+      border: 1px solid var(--emerald-border);
+      border-radius: 14px;
+      padding: 12px 14px;
+      margin-top: 10px;
+      font-size: 0.89rem;
+      color: var(--emerald-dark);
     }
 
     h2 {
@@ -176,6 +244,15 @@
 
     li:last-child {
       margin-bottom: 0;
+    }
+
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.84em;
+      background: #f1f5f9;
+      padding: 1px 5px;
+      border-radius: 5px;
+      word-break: break-word;
     }
 
     .perm-grid {
@@ -222,6 +299,7 @@
       color: var(--emerald);
       font-weight: 700;
       text-decoration: none;
+      word-break: break-word;
     }
 
     a:hover {
@@ -238,6 +316,7 @@
       padding: 14px 16px;
       margin-top: 8px;
       font-size: 0.9rem;
+      overflow-wrap: anywhere;
     }
 
     .hidden {
@@ -280,19 +359,23 @@
           <button type="button" id="btn-lang-en" class="lang-btn" onclick="setLang('en')">🇺🇸 English</button>
         </div>
       </div>
-      <div id="updated-pill" class="meta-pill">อัปเดตล่าสุด: 26 พฤศจิกายน 2026</div>
+      <div class="meta-row">
+        <div id="updated-pill" class="meta-pill">อัปเดตล่าสุด: 26 พฤศจิกายน 2026</div>
+        <a id="jump-deletion-pill" href="#account-deletion" class="jump-pill">🗑️ วิธีลบบัญชีและข้อมูลถาวร</a>
+      </div>
     </div>
   </header>
 
   <main>
-    <!-- ==================== THAI VERSION ==================== -->
+    <!-- ==================== THAI SECTIONS 1-5 ==================== -->
     <div id="content-th">
       <section class="card highlight-card">
         <h2>🛡️ สรุปสาระสำคัญด้านความเป็นส่วนตัว</h2>
         <p>
           แอปพลิเคชัน <strong>KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ)</strong> พัฒนาโดย <strong>จ๊อด (ceogeorgecop)</strong>
-          ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้เป็นอันดับแรก แอปทำงานแบบ <strong>Local-First</strong>
-          โดยเก็บข้อมูลทั้งหมดไว้ภายในอุปกรณ์ของผู้ใช้เอง ไม่มีการบังคับสมัครสมาชิก ไม่มีการติดตามโฆษณา และไม่มีการส่งข้อมูลส่วนตัวของผู้ใช้ขึ้นเซิร์ฟเวอร์ภายนอกในเวอร์ชันปัจจุบัน
+          ออกแบบด้วยแนวคิด <strong>Offline-First (Guest Mode)</strong> ผู้ใช้สามารถใช้งานทุกฟีเจอร์หลักได้เต็มรูปแบบโดย<strong>ไม่ต้องสมัครสมาชิก</strong>
+          และมีตัวเลือกเสริม <strong>Cloud Sync (ผ่าน Supabase)</strong> เฉพาะผู้ที่ต้องการสำรองและซิงค์ข้อมูลข้ามเครื่องเท่านั้น
+          แอปไม่มีโฆษณาติดตามตัว และไม่มีการขายหรือเปิดเผยข้อมูลส่วนบุคคลแก่บุคคลภายนอก
         </p>
       </section>
 
@@ -305,22 +388,46 @@
       </section>
 
       <section class="card">
-        <h2>2. การจัดเก็บข้อมูลในเครื่อง (Local-First Storage)</h2>
-        <p>ข้อมูลทั้งหมดที่ผู้ใช้สร้างหรือบันทึกภายในแอปจะถูกจัดเก็บไว้ในหน่วยความจำภายในเครื่องของผู้ใช้เท่านั้น ได้แก่:</p>
+        <h2>2. การใช้งานแบบไม่ต้องสมัครสมาชิก (Guest Mode / Offline-First)</h2>
+        <p>
+          ผู้ใช้สามารถใช้งานแอป KitchSync ได้ทันทีโดยไม่ต้องลงทะเบียนบัญชี ข้อมูลทั้งหมดที่คุณสร้างและบันทึกจะถูกจัดเก็บไว้ภายในอุปกรณ์ของคุณเองเท่านั้น ได้แก่:
+        </p>
         <ul>
           <li>รายการวัตถุดิบในคลัง (ชื่อ ปริมาณ หน่วยนับ ราคา วันที่รับเข้า วันหมดอายุ และรูปถ่ายวัตถุดิบ)</li>
-          <li>รายการรหัสบาร์โค้ดที่ผู้ใช้บันทึกไว้เพื่อช่วยกรอกข้อมูลอัตโนมัติในครั้งถัดไป</li>
+          <li>รายการรหัสบาร์โค้ดที่บันทึกไว้เพื่อช่วยกรอกข้อมูลอัตโนมัติในครั้งถัดไป</li>
           <li>สูตรอาหารส่วนตัว รายการโปรด (❤️) Note ซื้อของ ประวัติการใช้งาน และการตั้งค่าแจ้งเตือน</li>
           <li>แคชรูปภาพและแพ็กสูตรอาหารที่ดาวน์โหลดเพื่อใช้งานแบบออฟไลน์</li>
         </ul>
         <p>
-          ข้อมูลเหล่านี้ถูกจัดเก็บผ่าน <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong> และ <strong>SharedPreferences</strong>
-          ภายในเครื่องของคุณเท่านั้น ไม่มีการอัปโหลดหรือแชร์ข้อมูลส่วนบุคคลไปยังเซิร์ฟเวอร์ของบุคคลที่สามในเวอร์ชันปัจจุบัน
+          ข้อมูลในโหมดออฟไลน์ถูกจัดเก็บผ่าน <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong> และ <strong>SharedPreferences</strong>
+          บนอุปกรณ์ของคุณเอง 100% โดยไม่มีการส่งขึ้นเซิร์ฟเวอร์ใดๆ
         </p>
       </section>
 
       <section class="card">
-        <h2>3. สิทธิ์การใช้งานที่แอปขอ (App Permissions)</h2>
+        <h2>3. การลงทะเบียนผู้ใช้และการสำรองข้อมูล Cloud (Optional Cloud Sync)</h2>
+        <p>
+          หากผู้ใช้<strong>เลือกสมัครสมาชิกหรือเข้าสู่ระบบด้วยอีเมล</strong> (ไม่บังคับ) แอปจะเชื่อมต่อกับบริการ
+          <a href="https://supabase.com" target="_blank" rel="noopener noreferrer">Supabase</a>
+          เพื่อยืนยันตัวตน (Supabase Auth) และสำรอง/ซิงค์ข้อมูลข้ามอุปกรณ์ โดยข้อมูลที่จัดเก็บบน Cloud ได้แก่:
+        </p>
+        <ul>
+          <li><strong>อีเมลบัญชีผู้ใช้ (Account Email):</strong> ใช้สำหรับเข้าสู่ระบบและยืนยันตัวตนเจ้าของบัญชี</li>
+          <li><strong>รูปโปรไฟล์ขนาดย่อ (Profile Avatar):</strong> เฉพาะกรณีที่ผู้ใช้ตั้งค่ารูปโปรไฟล์ (ย่อขนาดไม่เกิน 150×150px)</li>
+          <li><strong>รายการคลังวัตถุดิบ (Inventory):</strong> รายชื่อวัตถุดิบ ปริมาณ หน่วยนับ ราคา วันหมดอายุ และสถานะการลบ</li>
+          <li><strong>ความจำบาร์โค้ดส่วนตัว (Saved Barcodes):</strong> รหัสบาร์โค้ดและชื่อสินค้าที่ผู้ใช้บันทึกไว้</li>
+          <li><strong>เมนูโปรด (Favorites):</strong> รายการสูตรอาหารที่ผู้ใช้กดหัวใจบันทึกไว้</li>
+          <li><strong>การตั้งค่าแอป (App Settings):</strong> ภาษา ภูมิภาค ธีมสี และการตั้งค่าแจ้งเตือนวันหมดอายุ</li>
+        </ul>
+        <div class="security-note">
+          🔒 <strong>ความปลอดภัยของข้อมูล:</strong> การรับส่งข้อมูลทั้งหมดระหว่างแอปและ Supabase ถูกเข้ารหัสผ่าน <strong>HTTPS (TLS)</strong>
+          และจำกัดสิทธิ์การเข้าถึงข้อมูลในฐานข้อมูลเฉพาะเจ้าของบัญชีเท่านั้นด้วย <strong>Row Level Security (RLS)</strong>
+          ไม่มีการขาย แบ่งปัน หรือเปิดเผยข้อมูลส่วนตัวของผู้ใช้แก่บุคคลภายนอกหรือผู้ลงโฆษณา
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>4. สิทธิ์การใช้งานที่แอปขอ (App Permissions)</h2>
         <p>KitchSync ขอสิทธิ์การใช้งานเท่าที่จำเป็นต่อฟีเจอร์ที่ผู้ใช้เลือกกดใช้งานเท่านั้น:</p>
         <div class="perm-grid">
           <div class="perm-item">
@@ -337,52 +444,31 @@
           </div>
           <div class="perm-item">
             <div class="perm-title">🌐 อินเทอร์เน็ต <span class="perm-code">INTERNET</span></div>
-            <p class="perm-desc">ใช้เฉพาะเมื่อผู้ใช้กดดาวน์โหลด/อัปเดตแพ็กสูตรอาหารและรูปภาพจากคลัง KitchSync บน GitHub Pages หรือค้นหาชื่อสินค้าจากรหัสบาร์โค้ดผ่าน Open Food Facts API</p>
+            <p class="perm-desc">ใช้เมื่อผู้ใช้เลือกซิงค์บัญชีผ่าน Supabase Cloud, ดาวน์โหลด/อัปเดตแพ็กสูตรอาหารจาก GitHub Pages หรือค้นหาชื่อสินค้าจากรหัสบาร์โค้ดผ่าน Open Food Facts API</p>
           </div>
         </div>
       </section>
 
       <section class="card">
-        <h2>4. บริการภายนอกที่แอปเชื่อมต่อเมื่อผู้ใช้สั่งงาน</h2>
+        <h2>5. บริการภายนอกที่แอปเชื่อมต่อ</h2>
         <ul>
+          <li><strong>Supabase (<code>supabase.com</code>):</strong> ใช้เฉพาะเมื่อผู้ใช้สมัครสมาชิก/เข้าสู่ระบบ เพื่อยืนยันตัวตนและซิงค์ข้อมูลข้ามอุปกรณ์อย่างปลอดภัยภายใต้ HTTPS และ RLS</li>
           <li><strong>GitHub Pages (<code>ceogeorgecop.github.io/kitchsync-data</code>):</strong> ใช้สำหรับดาวน์โหลดไฟล์สูตรอาหาร รูปภาพอาหาร และตรวจสอบอัปเดตแพ็กสูตรอาหารเท่านั้น ไม่มีการส่งข้อมูลส่วนตัวของผู้ใช้</li>
           <li><strong>Open Food Facts API (<code>world.openfoodfacts.org</code>):</strong> ใช้ส่งเฉพาะรหัสบาร์โค้ดสินค้าเมื่อผู้ใช้สแกนบาร์โค้ดที่ยังไม่มีในเครื่อง เพื่อช่วยเติมชื่อสินค้าอัตโนมัติ</li>
           <li><strong>Google ML Kit (On-Device):</strong> ประมวลผลการอ่านบาร์โค้ดภายในอุปกรณ์โดยตรง</li>
         </ul>
       </section>
-
-      <section class="card">
-        <h2>5. การเก็บรักษาและการลบข้อมูล (Data Retention &amp; Deletion)</h2>
-        <p>
-          เนื่องจากข้อมูลทั้งหมดถูกเก็บไว้ในเครื่องของผู้ใช้เอง คุณมีสิทธิ์ควบคุมและลบข้อมูลทั้งหมดได้ตลอดเวลาด้วยตนเองผ่านวิธีใดวิธีหนึ่งดังนี้:
-        </p>
-        <ul>
-          <li>ลบรายการวัตถุดิบ สูตรอาหาร หรือแพ็กสูตรอาหารที่ต้องการได้โดยตรงภายในแอป</li>
-          <li>ล้างข้อมูลแอปทั้งหมดผ่านการตั้งค่าของ Android (<em>การตั้งค่า &gt; แอป &gt; KitchSync &gt; ที่เก็บข้อมูล &gt; ล้างข้อมูล</em>)</li>
-          <li>ถอนการติดตั้งแอปพลิเคชัน KitchSync ออกจากเครื่อง (ข้อมูลภายในเครื่องทั้งหมดจะถูกลบออกทันที)</li>
-        </ul>
-      </section>
-
-      <section class="card">
-        <h2>6. ช่องทางติดต่อผู้พัฒนา (Contact Developer)</h2>
-        <p>หากคุณมีคำถาม ข้อเสนอแนะ หรือข้อสงสัยเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ สามารถติดต่อผู้พัฒนาได้โดยตรงผ่านช่องทางด้านล่าง:</p>
-        <div class="contact-box">
-          <div><strong>ผู้พัฒนา:</strong> จ๊อด (ceogeorgecop)</div>
-          <div><strong>GitHub Issues / แจ้งปัญหา:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
-          <div><strong>GitHub Profile:</strong> <a href="https://github.com/ceogeorgecop" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop</a></div>
-          <div><strong>อีเมลติดต่อผู้พัฒนา:</strong> <a href="mailto:ceogeorgecop@users.noreply.github.com">ceogeorgecop@users.noreply.github.com</a></div>
-        </div>
-      </section>
     </div>
 
-    <!-- ==================== ENGLISH VERSION ==================== -->
+    <!-- ==================== ENGLISH SECTIONS 1-5 ==================== -->
     <div id="content-en" class="hidden">
       <section class="card highlight-card">
         <h2>🛡️ Privacy Summary</h2>
         <p>
           <strong>KitchSync (Smart Kitchen Inventory &amp; Recipe Assistant)</strong>, developed by <strong>Jod (ceogeorgecop)</strong>,
-          is built with a <strong>Local-First</strong> privacy architecture. All your kitchen inventory, saved barcodes, favorite recipes,
-          and preferences are stored locally on your device. No account registration is required, no ad tracking is used, and no personal data is uploaded to external servers in the current version.
+          is built with an <strong>Offline-First (Guest Mode)</strong> architecture. You can use all core features fully <strong>without creating an account</strong>.
+          Optional <strong>Cloud Sync (powered by Supabase)</strong> is available only if you choose to sign up to back up and sync data across devices.
+          KitchSync uses no ad tracking and never sells or discloses your personal data to third parties.
         </p>
       </section>
 
@@ -395,8 +481,10 @@
       </section>
 
       <section class="card">
-        <h2>2. Local-First Data Storage</h2>
-        <p>All user-created and saved data stays strictly inside your device's local storage, including:</p>
+        <h2>2. Guest Mode / Offline-First Storage (No Account Required)</h2>
+        <p>
+          You can use KitchSync immediately without registering an account. All data you create and save remains strictly inside your device's local storage, including:
+        </p>
         <ul>
           <li>Kitchen inventory items (name, quantity, unit, price, received date, expiry date, and item photos)</li>
           <li>Locally remembered barcode-to-ingredient mappings for instant future scans</li>
@@ -404,13 +492,34 @@
           <li>Downloaded recipe packs and cached food images for offline access</li>
         </ul>
         <p>
-          This data is stored locally using <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong>, and Android <strong>SharedPreferences</strong>.
-          We do not collect, sell, or transmit your personal data to external servers in the current version.
+          In Guest Mode, all data is stored 100% locally via <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong>, and Android <strong>SharedPreferences</strong>, with no data sent to any server.
         </p>
       </section>
 
       <section class="card">
-        <h2>3. App Permissions</h2>
+        <h2>3. User Account &amp; Optional Cloud Sync (Supabase)</h2>
+        <p>
+          If you <strong>optionally choose to sign up or sign in with your email</strong>, KitchSync uses
+          <a href="https://supabase.com" target="_blank" rel="noopener noreferrer">Supabase</a>
+          for authentication (Supabase Auth) and cross-device backup/sync. The data stored in your Cloud account includes:
+        </p>
+        <ul>
+          <li><strong>Account Email:</strong> Used to authenticate your account and identify ownership.</li>
+          <li><strong>Resized Profile Avatar:</strong> Stored only if you set a profile photo (resized to max 150×150px).</li>
+          <li><strong>Kitchen Inventory:</strong> Ingredient names, quantities, units, prices, expiry dates, and sync/deletion timestamps.</li>
+          <li><strong>Personal Saved Barcodes:</strong> Barcode numbers and product details you have remembered.</li>
+          <li><strong>Favorite Recipes:</strong> Recipes you have marked as favorites (❤️).</li>
+          <li><strong>App Settings:</strong> Language, region, theme, and expiry notification preferences.</li>
+        </ul>
+        <div class="security-note">
+          🔒 <strong>Data Security:</strong> All data in transit between the app and Supabase is encrypted over <strong>HTTPS (TLS)</strong>,
+          and database access is strictly isolated to the account owner using <strong>Row Level Security (RLS)</strong>.
+          We never sell, rent, or share your personal data with third parties or advertisers.
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>4. App Permissions</h2>
         <p>KitchSync requests only the permissions required for features you actively choose to use:</p>
         <div class="perm-grid">
           <div class="perm-item">
@@ -427,43 +536,111 @@
           </div>
           <div class="perm-item">
             <div class="perm-title">🌐 Internet <span class="perm-code">INTERNET</span></div>
-            <p class="perm-desc">Used only when you download/update recipe packs from KitchSync GitHub Pages or look up an unknown product barcode via the Open Food Facts API.</p>
+            <p class="perm-desc">Used when you opt into Supabase Cloud Sync, download/update recipe packs from GitHub Pages, or look up an unknown barcode via the Open Food Facts API.</p>
           </div>
         </div>
       </section>
 
       <section class="card">
-        <h2>4. Third-Party Services (On-Demand Only)</h2>
+        <h2>5. Third-Party Services</h2>
         <ul>
+          <li><strong>Supabase (<code>supabase.com</code>):</strong> Used only when you sign up or sign in, providing secure authentication and encrypted Cloud Sync protected by HTTPS and RLS.</li>
           <li><strong>GitHub Pages (<code>ceogeorgecop.github.io/kitchsync-data</code>):</strong> Used solely to download recipe pack data, food images, and pack update manifests. No personal data is sent.</li>
           <li><strong>Open Food Facts API (<code>world.openfoodfacts.org</code>):</strong> When scanning an unrecognized barcode while online, only the barcode number is queried to look up public product names.</li>
           <li><strong>Google ML Kit Barcode Scanning:</strong> Runs locally on-device for fast, private barcode recognition.</li>
         </ul>
       </section>
+    </div>
 
-      <section class="card">
-        <h2>5. Data Retention &amp; Deletion</h2>
+    <!-- ==================== SHARED ANCHOR: ACCOUNT & DATA DELETION (#account-deletion) ==================== -->
+    <section id="account-deletion" class="card deletion-card">
+      <div class="lang-th">
+        <h2>6. วิธีลบบัญชีและข้อมูลถาวร (Account &amp; Data Deletion)</h2>
         <p>
-          Because all data is stored locally on your device, you have full control to delete your data at any time:
+          ผู้ใช้มีสิทธิ์ควบคุมและลบข้อมูลทั้งหมดของตนเองได้อย่างถาวรทุกเมื่อ ทั้งข้อมูลบน <strong>Supabase Cloud</strong> และข้อมูลภายในอุปกรณ์:
         </p>
-        <ul>
-          <li>Delete individual ingredients, recipes, or downloaded packs directly inside the app.</li>
-          <li>Clear all app data via Android Settings (<em>Settings &gt; Apps &gt; KitchSync &gt; Storage &gt; Clear Data</em>).</li>
-          <li>Uninstall KitchSync from your device — all local data is permanently removed immediately.</li>
-        </ul>
-      </section>
 
-      <section class="card">
-        <h2>6. Contact Developer</h2>
-        <p>If you have any questions or requests regarding this Privacy Policy, please contact the developer via:</p>
+        <div class="deletion-step">
+          <div class="deletion-step-title">📱 วิธีที่ 1: ลบบัญชีด้วยตนเองภายในแอป (ลบถาวรทันที)</div>
+          <p>
+            เข้าเมนู <strong>"ตั้งค่า (Settings)"</strong> &rarr; การ์ด <strong>"☁️ บัญชีผู้ใช้ &amp; สำรองข้อมูล Cloud"</strong> &rarr; กดปุ่มสีแดง <strong>"🗑️ ลบบัญชีและข้อมูลถาวร"</strong> และกดยืนยัน <strong>2 ขั้นตอน</strong>
+          </p>
+          <p>
+            ระบบจะลบบัญชีผู้ใช้ (Auth Account) และข้อมูลทั้งหมดของคุณบน Supabase Cloud (คลังวัตถุดิบ บาร์โค้ดส่วนตัว เมนูโปรด รูปโปรไฟล์ และการตั้งค่า) ออกอย่างถาวรทันที <strong>ไม่ใช่การระงับชั่วคราว</strong> และไม่สามารถกู้คืนได้
+          </p>
+        </div>
+
+        <div class="deletion-step">
+          <div class="deletion-step-title">✉️ วิธีที่ 2: ขอลบบัญชีจากภายนอกแอป (กรณีลบแอปออกแล้ว)</div>
+          <p>
+            หากคุณได้ถอนการติดตั้งแอปไปแล้ว สามารถส่งคำขอลบบัญชีและข้อมูลทั้งหมดได้โดยติดต่อผู้พัฒนาผ่านอีเมล
+            <a href="mailto:ceogeorgecop@users.noreply.github.com?subject=KitchSync%20Account%20Deletion%20Request">ceogeorgecop@users.noreply.github.com</a>
+            หรือแจ้งผ่าน <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a>
+            โดยระบุ <strong>อีเมลที่ใช้ลงทะเบียนในแอป KitchSync</strong> ผู้พัฒนาจะดำเนินการลบบัญชีและข้อมูลทั้งหมดออกจากระบบอย่างถาวรภายใน <strong>7 วัน</strong>
+          </p>
+        </div>
+
+        <ul style="margin-top: 12px;">
+          <li><strong>การลบข้อมูลเฉพาะในเครื่อง (Local Data):</strong> คุณสามารถลบรายการในแอป ล้างข้อมูลแอปผ่านการตั้งค่า Android (<em>การตั้งค่า &gt; แอป &gt; KitchSync &gt; ที่เก็บข้อมูล &gt; ล้างข้อมูล</em>) หรือถอนการติดตั้งแอปเพื่อลบข้อมูลในเครื่องทั้งหมดได้ทันที</li>
+        </ul>
+      </div>
+
+      <div class="lang-en hidden">
+        <h2>6. Permanent Account &amp; Data Deletion</h2>
+        <p>
+          You have full control to permanently delete your account and all associated data from both <strong>Supabase Cloud</strong> and your local device at any time:
+        </p>
+
+        <div class="deletion-step">
+          <div class="deletion-step-title">📱 Option 1: Self-Service In-App Deletion (Immediate &amp; Permanent)</div>
+          <p>
+            Open <strong>"Settings"</strong> &rarr; <strong>"☁️ Cloud Account &amp; Backup"</strong> card &rarr; tap the red <strong>"🗑️ Delete Account &amp; Data Permanently"</strong> button and complete the <strong>2-step confirmation</strong>.
+          </p>
+          <p>
+            Your authentication account and all cloud records stored on Supabase (inventory, saved barcodes, favorites, profile avatar, and settings) are <strong>permanently deleted immediately</strong> — not temporarily deactivated — and cannot be recovered.
+          </p>
+        </div>
+
+        <div class="deletion-step">
+          <div class="deletion-step-title">✉️ Option 2: External Deletion Request (If You Already Uninstalled the App)</div>
+          <p>
+            If you have already uninstalled KitchSync, you can request permanent deletion of your account and all associated cloud data by emailing
+            <a href="mailto:ceogeorgecop@users.noreply.github.com?subject=KitchSync%20Account%20Deletion%20Request">ceogeorgecop@users.noreply.github.com</a>
+            or opening a request at <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">GitHub Issues</a>
+            from (or referencing) the <strong>registered email address</strong> used in KitchSync. The developer will permanently delete all associated account data within <strong>7 days</strong>.
+          </p>
+        </div>
+
+        <ul style="margin-top: 12px;">
+          <li><strong>Local Device Data Deletion:</strong> You can delete items directly in the app, clear app storage in Android Settings (<em>Settings &gt; Apps &gt; KitchSync &gt; Storage &gt; Clear Data</em>), or uninstall KitchSync to remove all local data immediately.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ==================== CONTACT DEVELOPER ==================== -->
+    <section class="card">
+      <div class="lang-th">
+        <h2>7. ช่องทางติดต่อผู้พัฒนา (Contact Developer)</h2>
+        <p>หากคุณมีคำถาม ข้อเสนอแนะ หรือคำขอด้านความเป็นส่วนตัวและการลบบัญชี สามารถติดต่อผู้พัฒนาได้โดยตรงผ่านช่องทางด้านล่าง:</p>
+        <div class="contact-box">
+          <div><strong>ผู้พัฒนา:</strong> จ๊อด (ceogeorgecop)</div>
+          <div><strong>GitHub Issues / แจ้งปัญหาและขอลบบัญชี:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
+          <div><strong>GitHub Profile:</strong> <a href="https://github.com/ceogeorgecop" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop</a></div>
+          <div><strong>อีเมลติดต่อผู้พัฒนา:</strong> <a href="mailto:ceogeorgecop@users.noreply.github.com">ceogeorgecop@users.noreply.github.com</a></div>
+        </div>
+      </div>
+
+      <div class="lang-en hidden">
+        <h2>7. Contact Developer</h2>
+        <p>If you have any questions, privacy inquiries, or account deletion requests, please contact the developer directly via:</p>
         <div class="contact-box">
           <div><strong>Developer:</strong> Jod (ceogeorgecop)</div>
-          <div><strong>GitHub Issues / Support:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
+          <div><strong>GitHub Issues / Support &amp; Deletion Requests:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
           <div><strong>GitHub Profile:</strong> <a href="https://github.com/ceogeorgecop" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop</a></div>
           <div><strong>Developer Email:</strong> <a href="mailto:ceogeorgecop@users.noreply.github.com">ceogeorgecop@users.noreply.github.com</a></div>
         </div>
-      </section>
-    </div>
+      </div>
+    </section>
   </main>
 
   <footer>
@@ -476,6 +653,12 @@
       document.documentElement.lang = isEn ? 'en' : 'th';
       document.getElementById('content-th').classList.toggle('hidden', isEn);
       document.getElementById('content-en').classList.toggle('hidden', !isEn);
+      document.querySelectorAll('.lang-th').forEach(function (el) {
+        el.classList.toggle('hidden', isEn);
+      });
+      document.querySelectorAll('.lang-en').forEach(function (el) {
+        el.classList.toggle('hidden', !isEn);
+      });
       document.getElementById('btn-lang-th').classList.toggle('active', !isEn);
       document.getElementById('btn-lang-en').classList.toggle('active', isEn);
       document.getElementById('brand-subtitle').textContent = isEn
@@ -484,6 +667,9 @@
       document.getElementById('updated-pill').textContent = isEn
         ? 'Last Updated: November 26, 2026'
         : 'อัปเดตล่าสุด: 26 พฤศจิกายน 2026';
+      document.getElementById('jump-deletion-pill').textContent = isEn
+        ? '🗑️ Account & Data Deletion'
+        : '🗑️ วิธีลบบัญชีและข้อมูลถาวร';
     }
 
     (function initLangFromQuery() {
