@@ -1,4 +1,4 @@
-// KitchSync Cuisine Pack: Indian (48 recipes)
+// KitchSync Cuisine Pack: Indian (56 recipes)
 // Place this file at assets/data/packs/in_popular.js
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.in_popular = {
@@ -9,8 +9,8 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
     "th": "อินเดีย",
     "en": "Indian"
   },
-  "version": "1.0.0",
-  "total_recipes": 48,
+  "version": "2026.11.26.1",
+  "total_recipes": 56,
   "recipes": [
     {
       "recipe_id": "in_pop_001",
@@ -890,7 +890,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Simmer gently for 20-25 minutes until soft and creamy; finish with a drizzle of ghee."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_012",
@@ -2783,7 +2786,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Serve warm steamed idli cakes alongside hot lentil sambar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_036",
@@ -2864,7 +2870,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Fold in poha, salt, sugar, and lemon juice; warm gently and garnish with cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_037",
@@ -3364,7 +3373,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_044",
@@ -3587,7 +3599,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Garnish with sliced almonds and serve warm or chilled."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_047",
@@ -3667,7 +3682,10 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Stir in sugar, ground cardamom, and roasted cashews until rich and glossy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "in_pop_048",
@@ -3740,6 +3758,392 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8"
+    },
+    {
+      "recipe_id": "in_pop_049",
+      "id": "in_pop_049",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "โรกันจอช — แกงแกะแคชเมียร์",
+      "title_en": "Rogan Josh",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "เนื้อแกะหรือเนื้อวัว",
+      "mainIngredient_en": "Lamb / Beef",
+      "time": "75 นาที",
+      "time_en": "75 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "540 kcal",
+      "kcal": 540,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "อินเดีย",
+        "แกงกะหรี่",
+        "แคชเมียร์"
+      ],
+      "image": "images/packs/in_popular/in_pop_049.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_049.webp"
+      ],
+      "ingredients": [
+        "เนื้อแกะหรือเนื้อน่องวัวหั่นเต๋า: 400 กรัม",
+        "โยเกิร์ตรสธรรมชาติตีเนียน: 100 กรัม",
+        "หอมใหญ่ซอยละเอียดและกระเทียมขิงบด: 100 กรัม",
+        "ผงพริกแคชเมียร์ (สีแดงสวยไม่เผ็ดจัด): 2 ช้อนโต๊ะ",
+        "ลูกกระวาน กานพลู อบเชย และผงยี่หร่า: อย่างละเล็กน้อย",
+        "เนยใส (Ghee) และน้ำซุป: 2 ช้อนโต๊ะ / 350 มล."
+      ],
+      "steps": [
+        "เจียวเครื่องเทศแห้ง (กระวาน อบเชย กานพลู) ในเนยใสจนหอม แล้วผัดหอมใหญ่จนเหลืองนุ่ม",
+        "ใส่ขิงกระเทียมบดและเนื้อแกะลงผัดให้ผิวนอกสุก เติมผงพริกแคชเมียร์และโยเกิร์ตลงคนเบาๆ ไฟอ่อน",
+        "เติมน้ำซุป ปิดฝาตุ๋นไฟอ่อน 50-60 นาทีจนเนื้อแกะเปื่อยนุ่มและน้ำแกงสีแดงเข้มหอมกลิ่นเครื่องเทศ",
+        "โรยผักชีสด เสิร์ฟร้อนๆ คู่ข้าวบาสมาติหรือแป้งนาน"
+      ],
+      "note": "แกงแกะระดับตำนานแห่งแคชเมียร์ หอมเครื่องเทศเข้มข้นและสีแดงสวยจากพริกแคชเมียร์"
+    },
+    {
+      "recipe_id": "in_pop_050",
+      "id": "in_pop_050",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "มาลัยคอฟตา — ลูกชิ้นชีสพานีร์ซอสครีมเม็ดมะม่วงหิมพานต์",
+      "title_en": "Malai Kofta",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "ชีสพานีร์และมันฝรั่งบด",
+      "mainIngredient_en": "Paneer & Potato Dumplings",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "520 kcal",
+      "kcal": 520,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "อินเดีย",
+        "มังสวิรัติ",
+        "แกงครีม",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_050.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_050.webp"
+      ],
+      "ingredients": [
+        "ชีสพานีร์ขูดละเอียดและมันฝรั่งต้มบด: อย่างละ 120 กรัม",
+        "แป้งข้าวโพด (สำหรับปั้นลูกชิ้น): 2 ช้อนโต๊ะ",
+        "มะเขือเทศสุก หอมใหญ่ และเม็ดมะม่วงหิมพานต์แช่น้ำ: 200 กรัม",
+        "ครีมสด (Cooking Cream): 50 มล.",
+        "ผงการัมมาซาลา ขมิ้น และเนยใส: อย่างละ 1 ช้อนชา"
+      ],
+      "steps": [
+        "นวดชีสพานีร์ มันฝรั่งบด แป้งข้าวโพด และเกลือเล็กน้อย ปั้นเป็นลูกกลมแล้วทอดหรืออบจนเหลืองกรอบนอกนุ่มใน",
+        "ต้มหอมใหญ่ มะเขือเทศ และเม็ดมะม่วงหิมพานต์จนนิ่มแล้วปั่นละเอียดกรองให้เนียน",
+        "เคี่ยวซอสกับเนยใส การัมมาซาลา และครีมสดไฟอ่อนจนเนียนหอมกลมกล่อม",
+        "ตักซอสใส่ชาม วางลูกชิ้นมาลัยคอฟตาลงตอนเสิร์ฟ ราดครีมสดเล็กน้อย"
+      ],
+      "note": "เมนูมังสวิรัติยอดนิยมในภัตตาคารอินเดีย เนื้อนุ่มหอมมันครีมเม็ดมะม่วง ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "in_pop_051",
+      "id": "in_pop_051",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "แกงกะหรี่ปลาสไตล์กัว",
+      "title_en": "Goan Fish Curry",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "เนื้อปลาทะเล",
+      "mainIngredient_en": "White Fish Steaks",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "420 kcal",
+      "kcal": 420,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "อินเดีย",
+        "ซีฟู้ด",
+        "แกงกะทิ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_051.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_051.webp"
+      ],
+      "ingredients": [
+        "เนื้อปลาอินทรีหรือปลากะพงหั่นชิ้น: 300 กรัม",
+        "กะทิสด: 250 มล.",
+        "มะเขือเทศ หอมแดง กระเทียม และขมิ้นผง: 100 กรัม",
+        "ผงลูกผักชี ยี่หร่า และน้ำมะขามเปียก: อย่างละ 1 ช้อนชา",
+        "ใบแกงกะหรี่ (Curry Leaves) และน้ำมันพืช: 1 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ปั่นหอมแดง กระเทียม มะเขือเทศ ขมิ้น ผงลูกผักชี และยี่หร่ากับน้ำเล็กน้อยเป็นเครื่องแกงเนียน",
+        "ผัดใบแกงกะหรี่และเครื่องแกงในน้ำมันจนหอม เติมกะทิและน้ำมะขามเปียกเคี่ยวไฟอ่อน 10 นาที",
+        "วางชิ้นปลาลงในน้ำแกงเดือดอ่อน ต้มต่อ 6-8 นาทีจนเนื้อปลาสุกขาวนุ่ม (ไม่คนแรงเพื่อไม่ให้ปลาเละ)",
+        "ตักเสิร์ฟร้อนๆ คู่ข้าวสวยหอมมะลิหรือข้าวบาสมาติ"
+      ],
+      "note": "แกงกะทิปลาสไตล์ชายฝั่งรัฐกัว เปรี้ยวหอมมะขามและกะทิกลมกล่อม เนื้อปลานุ่มย่อยง่าย"
+    },
+    {
+      "recipe_id": "in_pop_052",
+      "id": "in_pop_052",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "กุ้งแกงกะทิครีมสไตล์เบงกอล",
+      "title_en": "Prawn Malai Curry",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "กุ้งแม่น้ำ/กุ้งขาวใหญ่",
+      "mainIngredient_en": "Jumbo Prawns",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "440 kcal",
+      "kcal": 440,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "อินเดีย",
+        "ซีฟู้ด",
+        "แกงกะทิ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_052.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_052.webp"
+      ],
+      "ingredients": [
+        "กุ้งขาวตัวใหญ่หรือกุ้งแม่น้ำปอกเปลือกผ่าหลัง: 300 กรัม",
+        "กะทิเข้มข้น: 250 มล.",
+        "หอมใหญ่ปั่นละเอียดและขิงกระเทียมบด: 80 กรัม",
+        "ผงขมิ้น กระวานเขียว อบเชย และใบกระวาน: อย่างละเล็กน้อย",
+        "พริกเขียวเม็ด (ใส่ทั้งเม็ดเพื่อความหอมไม่เผ็ด): 2 เม็ด",
+        "เนยใสหรือน้ำมันมัสตาร์ด: 2 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "คลุกกุ้งกับเกลือและขมิ้นผงเล็กน้อย นาบในกระทะพอเปลี่ยนสีแล้วตักพักไว้",
+        "เจียวกระวาน อบเชย และใบกระวานในเนยใส ใส่หอมใหญ่ปั่นและขิงกระเทียมผัดจนหอมนุ่ม",
+        "เติมกะทิเข้มข้นและพริกเขียวเม็ด เคี่ยวไฟอ่อน 8 นาทีจนน้ำแกงข้นหอม",
+        "ใส่กุ้งกลับลงต้มอีก 3 นาที ปรุงเกลือและน้ำตาลเล็กน้อย เสิร์ฟคู่ข้าวบาสมาติ"
+      ],
+      "note": "ชิงรีมาลัยกะหรี่สูตรดังจากเบงกอล รสหวานมันนุ่มนวลจากกะทิและกุ้ง ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "in_pop_053",
+      "id": "in_pop_053",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "ราชมาชาวัล — แกงถั่วแดงอินเดียกับข้าวบาสมาติ",
+      "title_en": "Rajma Chawal",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "mainIngredient": "ถั่วแดงหลวงและข้าวบาสมาติ",
+      "mainIngredient_en": "Red Kidney Beans & Rice",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "460 kcal",
+      "kcal": 460,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "อินเดีย",
+        "มังสวิรัติ",
+        "สุขภาพ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_053.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_053.webp"
+      ],
+      "ingredients": [
+        "ถั่วแดงหลวงต้มเปื่อย (Red Kidney Beans): 250 กรัม",
+        "ข้าวบาสมาติหุงสุก: 200 กรัม",
+        "มะเขือเทศบดและหอมใหญ่สับ: 180 กรัม",
+        "ขิงกระเทียมบด ผงยี่หร่า ผงลูกผักชี และผงการัมมาซาลา: อย่างละ 1 ช้อนชา",
+        "น้ำมันพืชหรือเนยใส: 1.5 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่และขิงกระเทียมบดจนเหลืองหอม ใส่มะเขือเทศบดและเครื่องเทศผัดจนเข้ากันดี",
+        "ใส่ถั่วแดงต้มเปื่อยพร้อมน้ำต้มถั่ว เคี่ยวไฟอ่อน 20 นาทีพร้อมบี้ถั่วเล็กน้อยให้น้ำแกงข้นนวล",
+        "ตักแกงถั่วแดงราชมาราดข้างข้าวบาสมาติร้อนๆ เสิร์ฟอิ่มสบายท้อง"
+      ],
+      "note": "อาหารจานประจำบ้านยอดฮิตของอินเดียเหนือ โปรตีนพืชและไฟเบอร์สูง ถั่วเปื่อยนุ่มย่อยง่าย"
+    },
+    {
+      "recipe_id": "in_pop_054",
+      "id": "in_pop_054",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "ปาวภาจี — แกงผักบดเนยร้อนกับขนมปังปิ้งเนย",
+      "title_en": "Pav Bhaji",
+      "category": "จานด่วน",
+      "universalCategory": "quick_easy",
+      "mainIngredient": "ผักรวมบดและขนมปังปาว",
+      "mainIngredient_en": "Spiced Mashed Veg & Buttered Buns",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "470 kcal",
+      "kcal": 470,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "อินเดีย",
+        "สตรีทฟู้ด",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_054.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_054.webp"
+      ],
+      "ingredients": [
+        "มันฝรั่ง ดอกกะหล่ำ แครอท และถั่วลันเตาต้มเปื่อย: 300 กรัม",
+        "มะเขือเทศสับและหอมใหญ่สับ: 120 กรัม",
+        "ผงปาวภาจีมาซาลา (Pav Bhaji Masala): 1.5 ช้อนโต๊ะ",
+        "เนยจืด: 30 กรัม",
+        "ขนมปังก้อนนุ่ม (Pav หรือ Dinner Rolls) ผ่าครึ่งปิ้งเนย: 2 ก้อน",
+        "มะนาวและหอมแดงซอยสำหรับเคียง"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่และมะเขือเทศในเนยจืดจนนิ่ม ใส่ผงปาวภาจีมาซาลาผัดให้หอม",
+        "ใส่ผักต้มเปื่อยลงกระทะ ใช้ที่บดมันบดผักทั้งหมดให้ละเอียดเข้ากับซอส เติมน้ำเล็กน้อยเคี่ยวจนเนียนข้น",
+        "ปิ้งขนมปังก้อนกับเนยบนกระทะจนอุ่นหอม ตักแกงผักบดวางเนยก้อนเล็กๆ ด้านบน เสิร์ฟร้อนๆ"
+      ],
+      "note": "สตรีทฟู้ดชื่อดังแห่งมุมไบ ผักบดเนื้อเนียนนุ่มหอมเนย ทานง่ายมากสำหรับผู้สูงอายุและเด็ก"
+    },
+    {
+      "recipe_id": "in_pop_055",
+      "id": "in_pop_055",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "โชเลบาตูเร — แป้งทอดพองกับแกงถั่วลูกไก่",
+      "title_en": "Chole Bhature",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "mainIngredient": "แป้งทอดพองและถั่วลูกไก่",
+      "mainIngredient_en": "Puffed Fried Bread & Chickpea Curry",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "590 kcal",
+      "kcal": 590,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "อินเดีย",
+        "สตรีทฟู้ด",
+        "มังสวิรัติ"
+      ],
+      "image": "images/packs/in_popular/in_pop_055.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_055.webp"
+      ],
+      "ingredients": [
+        "ถั่วลูกไก่ต้มนิ่ม: 250 กรัม",
+        "หอมใหญ่ มะเขือเทศ ขิง และผงโชเลมาซาลา: 150 กรัม",
+        "แป้งสาลีอเนกประสงค์ + โยเกิร์ต + ผงฟู (สำหรับทำแป้งบาตูเร): 200 กรัม",
+        "น้ำมันสำหรับทอดและหอมแดงฝานสำหรับเคียง"
+      ],
+      "steps": [
+        "เคี่ยวถั่วลูกไก่กับหอมใหญ่ มะเขือเทศ และผงโชเลมาซาลาจนน้ำแกงสีเข้มหอมข้น",
+        "นวดแป้งสาลี โยเกิร์ต ผงฟู และน้ำอุ่นพักไว้ 30 นาที จากนั้นคลึงเป็นแผ่นกลมบาง",
+        "นำแผ่นแป้งลงทอดในน้ำมันร้อนจัด กดเบาๆ ให้แป้งพองฟูเป็นลูกโป่งสีทอง ตักซับน้ำมัน",
+        "เสิร์ฟแป้งบาตูเรร้อนๆ คู่แกงถั่วลูกไก่โชเลและหอมแดงฝาน"
+      ],
+      "note": "เมนูยอดฮิตจากเดลีและปัญจาบ แป้งทอดพองนุ่มหนึบจิ้มแกงถั่วลูกไก่รสเข้มข้น"
+    },
+    {
+      "recipe_id": "in_pop_056",
+      "id": "in_pop_056",
+      "packId": "in_popular",
+      "country": "IN",
+      "cuisine_th": "อินเดีย",
+      "cuisine_en": "Indian",
+      "title": "รัสมาลัย — ชีสนุ่มแช่นมสดหญ้าฝรั่นพิสตาชิโอ",
+      "title_en": "Rasmalai",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "ชีสสดอินเดียและนมสดหญ้าฝรั่น",
+      "mainIngredient_en": "Cottage Cheese Patties in Saffron Milk",
+      "time": "50 นาที",
+      "time_en": "50 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "อินเดีย",
+        "ของหวาน",
+        "เทศกาล",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/in_popular/in_pop_056.webp",
+      "images": [
+        "images/packs/in_popular/in_pop_056.webp"
+      ],
+      "ingredients": [
+        "ชีสสดอินเดีย (Chenna/Paneer สดนวดเนียน): 200 กรัม",
+        "นมสดเต็มมันเนย: 600 มล.",
+        "น้ำตาลทราย: 80 กรัม",
+        "หญ้าฝรั่น (Saffron) และผงกระวานเขียว: อย่างละเล็กน้อย",
+        "ถั่วพิสตาชิโอ อัลมอนด์สไลซ์ และกลีบกุหลาบแห้งสำหรับโรยหน้า"
+      ],
+      "steps": [
+        "นวดชีสสดจนเนียน ปั้นเป็นแผ่นกลมแบนแล้วต้มในน้ำเชื่อมใสจนฟูนุ่ม ตักขึ้นบีบน้ำเชื่อมออกเบาๆ",
+        "เคี่ยวนมสดกับน้ำตาล หญ้าฝรั่น และผงกระวานจนงวดลงเล็กน้อยและมีสีเหลืองทองหอม",
+        "นำก้อนชีสนุ่มลงแช่ในนมหญ้าฝรั่นเย็นจัดอย่างน้อย 2 ชั่วโมงให้ชุ่มฉ่ำ",
+        "ตักเสิร์ฟเย็นๆ โรยพิสตาชิโอ อัลมอนด์ และกลีบกุหลาบ"
+      ],
+      "note": "ราชินีขนมหวานแห่งเบงกอล นุ่มฟูชุ่มนมสดหอมหญ้าฝรั่นและกระวาน ละลายในปาก เหมาะมากสำหรับผู้สูงอายุ"
     }
   ]
 };

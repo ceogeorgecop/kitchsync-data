@@ -1,4 +1,4 @@
-// KitchSync Cuisine Pack: Spanish (48 recipes)
+// KitchSync Cuisine Pack: Spanish (58 recipes)
 // Place this file at assets/data/packs/es_popular.js
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.es_popular = {
@@ -9,8 +9,8 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
     "th": "สเปน",
     "en": "Spanish"
   },
-  "version": "1.0.0",
-  "total_recipes": 49,
+  "version": "2026.11.26.1",
+  "total_recipes": 58,
   "recipes": [
     {
       "recipe_id": "es_pop_001",
@@ -2056,7 +2056,10 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "es_pop_027",
@@ -3514,7 +3517,10 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "es_pop_046",
@@ -3585,7 +3591,10 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Coat warm slices in cinnamon sugar and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "es_pop_047",
@@ -3658,7 +3667,10 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Bake in a greased pan at 180°C (350°F) for 30 minutes; cool and dust with powdered sugar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "es_pop_048",
@@ -3773,6 +3785,438 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "images": [
         "images/packs/es/es_mig_01.webp"
       ]
+    },
+    {
+      "recipe_id": "es_pop_049",
+      "id": "es_pop_049",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "สตูว์ถั่วลูกไก่เนื้อตุ๋นสไตล์มาดริด",
+      "title_en": "Cocido Madrileno",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "ถั่วลูกไก่และเนื้อตุ๋น",
+      "mainIngredient_en": "Chickpeas & Braised Meat",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "580 kcal",
+      "kcal": 580,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "ตุ๋น",
+        "ถั่วลูกไก่",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_049.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_049.webp"
+      ],
+      "ingredients": [
+        "ถั่วลูกไก่ (Chickpeas) แช่น้ำค้างคืนหรือต้มสุก: 250 กรัม",
+        "เนื้อน่องวัวและน่องไก่: 300 กรัม",
+        "ไส้กรอกโชริโซและหมูสามชั้น: 100 กรัม",
+        "มันฝรั่ง แครอท และกะหล่ำปลีหั่นชิ้นใหญ่: 250 กรัม",
+        "น้ำซุปหรือน้ำเปล่าและเกลือ: 1 ลิตร"
+      ],
+      "steps": [
+        "ต้มเนื้อวัว ไก่ และถั่วลูกไก่ในหม้อน้ำเดือดช้อนฟองออกแล้วตุ๋นไฟอ่อน 50 นาทีจนเนื้อและถั่วเปื่อยนุ่ม",
+        "ใส่แครอท มันฝรั่ง และไส้กรอกโชริโซ ตุ๋นต่ออีก 20 นาที",
+        "ลวกกะหล่ำปลีแยกแล้วตักจัดจานรวมกับถั่วลูกไก่ ผัก และเนื้อตุ๋น (เสิร์ฟน้ำซุปใสซดคู่กันตามธรรมเนียมมาดริด)"
+      ],
+      "note": "สตูว์ประจำกรุงมาดริด เปื่อยนุ่มหอมหวานจากผักและถั่วลูกไก่ ไม่เผ็ด ทานอุ่นสบายท้อง"
+    },
+    {
+      "recipe_id": "es_pop_050",
+      "id": "es_pop_050",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "ปลาค็อดซอสน้ำมันมะกอกกระเทียมบาสก์",
+      "title_en": "Bacalao al Pil Pil",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "เนื้อปลาค็อด",
+      "mainIngredient_en": "Cod Fillet",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "390 kcal",
+      "kcal": 390,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free",
+        "Low-Carb"
+      ],
+      "tags": [
+        "สเปน",
+        "บาสก์",
+        "ซีฟู้ด",
+        "สุขภาพ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_050.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_050.webp"
+      ],
+      "ingredients": [
+        "เนื้อปลาค็อดชิ้นหนาติดหนัง: 300 กรัม",
+        "น้ำมันมะกอกบริสุทธิ์: 100 มล.",
+        "กระเทียมฝานบาง: 5 กลีบ",
+        "พริกชี้ฟ้าแดงหั่นแว่นเล็กน้อย (สำหรับตกแต่ง): 2 ชิ้น",
+        "เกลือสมุทรเล็กน้อย"
+      ],
+      "steps": [
+        "เจียวกระเทียมฝานในน้ำมันมะกอกไฟอ่อนจนเหลืองกรอบ ตักกระเทียมขึ้นพักไว้",
+        "วางเนื้อปลาค็อดลงในน้ำมันมะกอกอุ่นไฟอ่อนมาก คอนฟีต์ด้านละ 4-5 นาทีจนเนื้อปลาสุกขาวนุ่มเป็นกลีบสวย",
+        "ยกกระทะวนเป็นวงกลมเบาๆ ให้คอลลาเจนจากหนังปลาผสมกับน้ำมันมะกอกจนขึ้นเป็นซอสครีมสีทองเนียน (Pil Pil)",
+        "ตักปลาจัดจาน ราดซอสน้ำมันมะกอกและโรยกระเทียมเจียวหอมๆ"
+      ],
+      "note": "เมนูระดับตำนานของแคว้นบาสก์ เนื้อปลาค็อดนุ่มละมุน ย่อยง่าย อุดมโอเมก้าและไขมันดีจากน้ำมันมะกอก"
+    },
+    {
+      "recipe_id": "es_pop_051",
+      "id": "es_pop_051",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "สตูว์ผักสเปนโปะไข่ดาว",
+      "title_en": "Pisto Manchego",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "mainIngredient": "ซุกกินี พริกหวาน และมะเขือเทศ",
+      "mainIngredient_en": "Zucchini, Peppers & Egg",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "สุขภาพ",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_051.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_051.webp"
+      ],
+      "ingredients": [
+        "ซุกกินีและมะเขือม่วงหั่นเต๋า: 200 กรัม",
+        "พริกหวานแดง-เขียว และหอมใหญ่หั่นเต๋า: 150 กรัม",
+        "มะเขือเทศสุกสับ: 200 กรัม",
+        "ไข่ไก่ทอดดาว: 1 ฟอง",
+        "น้ำมันมะกอกบริสุทธิ์ กระเทียมสับ และเกลือ: 2 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่ กระเทียม และพริกหวานในน้ำมันมะกอกไฟอ่อนจนหอมนุ่ม",
+        "ใส่ซุกกินีและมะเขือม่วงลงผัด 5 นาที ตามด้วยมะเขือเทศสับ เคี่ยวไฟอ่อน 15 นาทีจนผักเปื่อยนุ่มหวานธรรมชาติ",
+        "ตักใส่ชามดินเผา โปะไข่ดาวเยิ้มๆ ด้านบน เสิร์ฟคู่ขนมปังอุ่น"
+      ],
+      "note": "ราตาตุยฉบับสเปนจากแคว้นลามันชา ผักเคี่ยวจนนุ่มหวานธรรมชาติ ไม่เผ็ด เหมาะกับผู้สูงอายุและสายสุขภาพ"
+    },
+    {
+      "recipe_id": "es_pop_052",
+      "id": "es_pop_052",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "แก้มหมูตุ๋นไวน์แดงนุ่มละลาย",
+      "title_en": "Carrillada de Cerdo",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "แก้มหมู",
+      "mainIngredient_en": "Pork Cheeks",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "530 kcal",
+      "kcal": 530,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "ตุ๋น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_052.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_052.webp"
+      ],
+      "ingredients": [
+        "แก้มหมูตัดแต่งสะอาด: 400 กรัม",
+        "ไวน์แดงสำหรับปรุงอาหาร: 150 มล.",
+        "หอมใหญ่ แครอท และกระเทียมหั่นหยาบ: 150 กรัม",
+        "น้ำซุปเนื้อหรือน้ำซุปผัก: 300 มล.",
+        "ใบกระวาน ไทม์ และน้ำมันมะกอก: 2 ช้อนโต๊ะ",
+        "มันฝรั่งบดเนียนสำหรับเสิร์ฟคู่"
+      ],
+      "steps": [
+        "จี่แก้มหมูในกระทะน้ำมันมะกอกให้ผิวนอกเกรียมหอมแล้วพักไว้",
+        "ผัดหอมใหญ่ แครอท และกระเทียมในหม้อเดิมจนนิ่ม เทไวน์แดงลงเคี่ยวจนกลิ่นแอลกอฮอล์ระเหย",
+        "ใส่แก้มหมู น้ำซุป ใบกระวาน และไทม์ ปิดฝาตุ๋นไฟอ่อน 75-90 นาทีจนเนื้อแก้มหมูนุ่มแทบละลายในปาก",
+        "กรองและเคี่ยวน้ำซอสให้เข้มข้นเงางาม ราดบนแก้มหมูเสิร์ฟคู่มันฝรั่งบดเนียน"
+      ],
+      "note": "จานเด็ดประจำแคว้นอันดาลูเซีย แก้มหมูเปื่อยนุ่มละลายในปาก ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "es_pop_053",
+      "id": "es_pop_053",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "ซุปอัลมอนด์กระเทียมเย็นโรยองุ่นเขียว",
+      "title_en": "Ajoblanco",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "mainIngredient": "อัลมอนด์ปอกเปลือกและองุ่นเขียว",
+      "mainIngredient_en": "Blanched Almonds & Grapes",
+      "time": "15 นาที",
+      "time_en": "15 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "ซุปเย็น",
+        "สุขภาพ",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_053.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_053.webp"
+      ],
+      "ingredients": [
+        "อัลมอนด์ดิบปอกเปลือกแช่น้ำ: 100 กรัม",
+        "เนื้อขนมปังขาวแช่น้ำบีบหมาด: 50 กรัม",
+        "กระเทียมสด (เอาไส้กลางออก): 1 กลีบ",
+        "น้ำมันมะกอกบริสุทธิ์: 3 ช้อนโต๊ะ",
+        "น้ำส้มสายชูเชอร์รีและน้ำเย็นจัด: 1 ช้อนโต๊ะ / 300 มล.",
+        "องุ่นเขียวผ่าครึ่งสำหรับโรยหน้า"
+      ],
+      "steps": [
+        "ปั่นอัลมอนด์ ขนมปังแช่น้ำ กระเทียม เกลือ และน้ำเย็นจัดจนเนียนขาวเหมือนครีม",
+        "ค่อยๆ รินน้ำมันมะกอกและน้ำส้มสายชูเชอร์รีลงปั่นต่อจนซุปเนียนเงาแล้วแช่เย็นจัดอย่างน้อย 1 ชั่วโมง",
+        "ตักใส่ชาม เหยาะน้ำมันมะกอกวนด้านบนและวางองุ่นเขียวสดเสิร์ฟเย็นชื่นใจ"
+      ],
+      "note": "กาซปาโชสีขาวแห่งเมืองมาลากา เนื้อครีมเนียนเย็นสดชื่น ไม่เผ็ด อุดมวิตามินอีและไขมันดีจากอัลมอนด์"
+    },
+    {
+      "recipe_id": "es_pop_054",
+      "id": "es_pop_054",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "ขนมปังคั่วกระเทียมโชริโซ",
+      "title_en": "Migas Extremenas",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "mainIngredient": "ขนมปังชนบทและโชริโซ",
+      "mainIngredient_en": "Rustic Bread & Chorizo",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "490 kcal",
+      "kcal": 490,
+      "dietaryTags": [
+        "Dairy-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "มื้อเช้า",
+        "จานด่วน"
+      ],
+      "image": "images/packs/es_popular/es_pop_054.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_054.webp"
+      ],
+      "ingredients": [
+        "ขนมปังชนบทค้างคืนหั่นเต๋าเล็ก: 200 กรัม",
+        "ไส้กรอกโชริโซและเบคอนหั่นเต๋า: 100 กรัม",
+        "กระเทียมทั้งเปลือกบุบ: 4 กลีบ",
+        "พริกหวานแดงหั่นเส้นและผงปาปริก้ารมควัน: 40 กรัม / 1 ช้อนชา",
+        "น้ำมันมะกอกและน้ำพรมขนมปังเล็กน้อย"
+      ],
+      "steps": [
+        "พรมน้ำผสมเกลือเล็กน้อยบนขนมปังหั่นเต๋าให้พอชื้นแต่ไม่แฉะ",
+        "ผัดกระเทียม โชริโซ เบคอน และพริกหวานในน้ำมันมะกอกจนหอมกรอบ ตักเครื่องขึ้นพักไว้",
+        "ใส่ขนมปังและผงปาปริก้าลงคั่วในกระทะน้ำมันหอมไฟกลาง 10-12 นาทีจนขนมปังกรอบนอกนุ่มในสีทอง",
+        "ใส่เครื่องโชริโซกลับลงคลุกเคล้า เสิร์ฟร้อนๆ ในกระทะเหล็ก"
+      ],
+      "note": "เมนูถนอมอาหารพื้นบ้านของสเปน เปลี่ยนขนมปังค้างคืนให้หอมกรอบอร่อยเต็มรสกระเทียมและปาปริก้า"
+    },
+    {
+      "recipe_id": "es_pop_055",
+      "id": "es_pop_055",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "ขนมนมข้นทอดโรยน้ำตาลอบเชย",
+      "title_en": "Leche Frita",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "นมสดและแป้งข้าวโพด",
+      "mainIngredient_en": "Milk Custard Squares",
+      "time": "35 นาที",
+      "time_en": "35 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "320 kcal",
+      "kcal": 320,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "สเปน",
+        "ของหวาน",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_055.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_055.webp"
+      ],
+      "ingredients": [
+        "นมสด: 400 มล.",
+        "แป้งข้าวโพด: 55 กรัม",
+        "น้ำตาลทราย: 65 กรัม",
+        "อบเชยแท่งและผิวเลมอน: อย่างละเล็กน้อย",
+        "แป้งสาลีและไข่ไก่สำหรับชุบทอด",
+        "น้ำตาลทรายผสมผงอบเชยสำหรับคลุก"
+      ],
+      "steps": [
+        "ต้มนมสดกับอบเชยแท่งและผิวเลมอนพอหอมแล้วกรองออก ผสมแป้งข้าวโพดกับน้ำตาลลงกวนไฟอ่อนจนข้นเหนียว",
+        "เทใส่ถาดสี่เหลี่ยมแช่เย็นจนเซตตัวแข็งแล้วตัดเป็นชิ้นสี่เหลี่ยมพอดีคำ",
+        "นำชิ้นนมข้นชุบแป้งสาลีและไข่ไก่ ลงทอดในน้ำมันไฟกลางจนผิวนอกเหลืองกรอบ",
+        "คลุกน้ำตาลทรายผสมผงอบเชยทันที เสิร์ฟอุ่นๆ กรอบนอกนุ่มเด้งละลายในปาก"
+      ],
+      "note": "ขนมหวานดั้งเดิมทางตอนเหนือของสเปน ด้านในเป็นพุดดิ้งนมนุ่มละมุนหอมเลมอนและอบเชย"
+    },
+    {
+      "recipe_id": "es_pop_056",
+      "id": "es_pop_056",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "คัสตาร์ดไข่คาราเมลสเปน",
+      "title_en": "Flan de Huevo",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "ไข่ไก่ นมสด และคาราเมล",
+      "mainIngredient_en": "Egg Caramel Custard",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "270 kcal",
+      "kcal": 270,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "ของหวาน",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_056.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_056.webp"
+      ],
+      "ingredients": [
+        "ไข่ไก่สด: 3 ฟอง",
+        "นมสด: 350 มล.",
+        "น้ำตาลทราย (สำหรับเนื้อคัสตาร์ด): 60 กรัม",
+        "น้ำตาลทราย + น้ำเปล่า (สำหรับเคี่ยวคาราเมล): 60 กรัม / 2 ช้อนโต๊ะ",
+        "กลิ่นวานิลลา: 1/2 ช้อนชา"
+      ],
+      "steps": [
+        "เคี่ยวน้ำตาลกับน้ำจนเป็นคาราเมลสีอำพัน เทเคลือบก้นพิมพ์พักไว้",
+        "ตีไข่ไก่ น้ำตาล นมสดอุ่น และกลิ่นวานิลลาเบาๆ ไม่ให้เกิดฟอง กรองผ่านกระชอนตาถี่แล้วเทลงพิมพ์",
+        "อบรองน้ำ (Bain-Marie) ที่ 160°C นาน 35-40 นาทีจนคัสตาร์ดเซตตัวนุ่มเด้ง",
+        "แช่เย็นอย่างน้อย 2 ชั่วโมงแล้วคว่ำลงจานให้ซอสคาราเมลไหลเยิ้มสวยงาม"
+      ],
+      "note": "ของหวานประจำบ้านชาวสเปน เนื้อเนียนนุ่มละลายในปาก ย่อยง่าย เหมาะมากสำหรับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "es_pop_057",
+      "id": "es_pop_057",
+      "packId": "es_popular",
+      "country": "ES",
+      "cuisine_th": "สเปน",
+      "cuisine_en": "Spanish",
+      "title": "ข้าวต้มนมสเปนหน้าคาราเมลเบิร์น",
+      "title_en": "Arroz con Leche Asturiano",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "ข้าวเมล็ดสั้นและนมสด",
+      "mainIngredient_en": "Rice & Milk",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "สเปน",
+        "ของหวาน",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/es_popular/es_pop_057.webp",
+      "images": [
+        "images/packs/es_popular/es_pop_057.webp"
+      ],
+      "ingredients": [
+        "ข้าวเมล็ดสั้น (ข้าวญี่ปุ่นหรือข้าวอาร์โบริโอ): 100 กรัม",
+        "นมสด: 700 มล.",
+        "น้ำตาลทราย: 65 กรัม",
+        "อบเชยแท่งและผิวเลมอน: อย่างละ 1 ชิ้น",
+        "เนยจืดเล็กน้อยและน้ำตาลทรายสำหรับเบิร์นหน้า"
+      ],
+      "steps": [
+        "เคี่ยวนมสดกับอบเชยแท่ง ผิวเลมอน และข้าวสารด้วยไฟอ่อนพร้อมคนสม่ำเสมอประมาณ 35 นาทีจนข้าวนุ่มครีมมี่",
+        "ตักอบเชยและผิวเลมอนออก เติมน้ำตาลทรายและเนยจืดคนให้ละลายเนียน",
+        "ตักใส่ถ้วยดินเผาพักให้เย็น โรยน้ำตาลทรายบางๆ ด้านบนแล้วใช้ไฟเบิร์นให้เป็นหน้าคาราเมลกรอบหอม"
+      ],
+      "note": "ข้าวต้มนมสูตรแคว้นอัสตูเรียส เนื้อข้าวนุ่มครีมมี่หอมผิวเลมอนและคาราเมลเบิร์น เหมาะกับผู้สูงอายุ"
     }
   ]
 };

@@ -1,4 +1,4 @@
-// KitchSync Cuisine Pack: Korean (48 recipes)
+// KitchSync Cuisine Pack: Korean (62 recipes)
 // Place this file at assets/data/packs/kr_popular.js
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.kr_popular = {
@@ -9,8 +9,8 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
     "th": "เกาหลี",
     "en": "Korean"
   },
-  "version": "1.0.0",
-  "total_recipes": 52,
+  "version": "2026.11.26.1",
+  "total_recipes": 62,
   "recipes": [
     {
       "recipe_id": "kr_pop_001",
@@ -77,7 +77,10 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Lower heat, cover for 3-4 minutes until puffed like a dome, and garnish with scallions and sesame oil."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "kr_pop_002",
@@ -381,7 +384,10 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "kr_pop_006",
@@ -2289,7 +2295,10 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Serve with kimchi, fresh perilla leaves, cabbage wraps, and ssamjang."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "kr_pop_029",
@@ -2528,7 +2537,10 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Garnish with egg strips, shredded roasted gim seaweed, and scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "kr_pop_032",
@@ -2697,7 +2709,10 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "kr_pop_034",
@@ -3887,6 +3902,493 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "images": [
         "images/packs/kr/kr_mig_04.webp"
       ]
+    },
+    {
+      "recipe_id": "kr_pop_049",
+      "id": "kr_pop_049",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "คัลบีจิม — ซี่โครงเนื้อตุ๋นซอสถั่วเหลืองเกาลัด",
+      "title_en": "Galbijjim",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "ซี่โครงเนื้อวัว",
+      "mainIngredient_en": "Beef Short Ribs",
+      "time": "75 นาที",
+      "time_en": "75 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "580 kcal",
+      "kcal": 580,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ตุ๋น",
+        "เทศกาล",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_049.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_049.webp"
+      ],
+      "ingredients": [
+        "ซี่โครงเนื้อวัวหั่นท่อน: 400 กรัม",
+        "หัวไชเท้าและแครอทหั่นชิ้นกลมมน: 150 กรัม",
+        "เกาลัดต้มสุกและแปะก๊วย: 60 กรัม",
+        "ซีอิ๊วเกาหลี (คันจัง): 4 ช้อนโต๊ะ",
+        "ลูกแพร์ขูดหรือน้ำผึ้ง: 3 ช้อนโต๊ะ",
+        "กระเทียมสับ น้ำมันงา และน้ำซุป: 400 มล."
+      ],
+      "steps": [
+        "แช่ซี่โครงเนื้อในน้ำเย็น 20 นาทีแล้วลวกน้ำเดือด 5 นาทีเพื่อล้างคาว",
+        "ผสมซีอิ๊วเกาหลี ลูกแพร์ขูด กระเทียม น้ำมันงา และน้ำซุปลงหม้อ ใส่ซี่โครงเนื้อตุ๋นไฟอ่อน 45 นาที",
+        "ใส่หัวไชเท้า แครอท เกาลัด และแปะก๊วย เคี่ยวต่ออีก 20-25 นาทีจนเนื้อเปื่อยนุ่มและซอสเงาข้น",
+        "ตักใส่หม้อดิน โรยต้นหอมและงาขาวคั่ว เสิร์ฟร้อนๆ"
+      ],
+      "note": "เมนูฉลองเทศกาลเกาหลี เนื้อซี่โครงเปื่อยนุ่มหวานเค็มกลมกล่อม ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "kr_pop_050",
+      "id": "kr_pop_050",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "จกบัล — ขาหมูพะโล้สไตล์เกาหลี",
+      "title_en": "Jokbal",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "ขาหมู",
+      "mainIngredient_en": "Braised Pork Trotters",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "560 kcal",
+      "kcal": 560,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ตุ๋น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_050.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_050.webp"
+      ],
+      "ingredients": [
+        "ขาหมูเลาะกระดูกหรือคากิ: 500 กรัม",
+        "ซีอิ๊วเกาหลีและมิริน: อย่างละ 4 ช้อนโต๊ะ",
+        "น้ำตาลทรายแดงหรือน้ำเชื่อมข้าวโพด: 3 ช้อนโต๊ะ",
+        "ขิงฝาน กระเทียม ต้นหอมญี่ปุ่น โป๊ยกั๊ก และอบเชย: อย่างละเล็กน้อย",
+        "ซอสซัมจังและซอสกุ้งเคย (แซอูจอด) สำหรับจิ้ม"
+      ],
+      "steps": [
+        "ลวกขาหมูในน้ำเดือด 10 นาทีแล้วล้างให้สะอาด",
+        "ต้มน้ำซุปกับซีอิ๊ว มิริน น้ำตาลทรายแดง ขิง กระเทียม และเครื่องพะโล้เกาหลีจนหอม",
+        "ใส่ขาหมูตุ๋นไฟอ่อน 75-90 นาทีจนหนังนุ่มเด้งและเนื้อเปื่อยเข้าเนื้อ",
+        "พักให้คลายร้อนแล้วหั่นชิ้นบาง เสิร์ฟคู่ผักสด กระเทียมฝาน และซอสซัมจัง"
+      ],
+      "note": "ขาหมูตุ๋นสไตล์เกาหลีหนังนุ่มหนึบหอมเครื่องเทศอ่อนๆ ไม่เผ็ด"
+    },
+    {
+      "recipe_id": "kr_pop_051",
+      "id": "kr_pop_051",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "จิมดัก — ไก่ตุ๋นวุ้นเส้นเกาหลีซอสดำ",
+      "title_en": "Jjimdak",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "สะโพกไก่และวุ้นเส้นเกาหลี",
+      "mainIngredient_en": "Chicken & Glass Noodles",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "520 kcal",
+      "kcal": 520,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ตุ๋น",
+        "วุ้นเส้น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_051.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_051.webp"
+      ],
+      "ingredients": [
+        "สะโพกไก่หั่นชิ้น: 350 กรัม",
+        "วุ้นเส้นเกาหลี (ดังมยอน) แช่น้ำจนนิ่ม: 100 กรัม",
+        "มันฝรั่งและแครอทหั่นชิ้นใหญ่: 150 กรัม",
+        "หอมใหญ่หั่นเสี้ยว: 60 กรัม",
+        "ซีอิ๊วเกาหลี น้ำผึ้ง กระเทียมสับ และน้ำซุป: 350 มล.",
+        "พริกแห้งเม็ด (ใส่หรือไม่ใส่ก็ได้): 2 เม็ด"
+      ],
+      "steps": [
+        "ต้มสะโพกไก่กับน้ำซุป ซีอิ๊วเกาหลี น้ำผึ้ง และกระเทียมสับประมาณ 15 นาที",
+        "ใส่มันฝรั่ง แครอท และหอมใหญ่ ตุ๋นต่ออีก 15 นาทีจนผักสุกนุ่ม",
+        "ใส่วุ้นเส้นเกาหลีลงเคี่ยวอีก 5-7 นาทีจนเส้นเหนียวนุ่มดูดซับซอสดำจนเงาสวย",
+        "ตักใส่จาน โรยต้นหอมและงาขาว เสิร์ฟร้อนๆ"
+      ],
+      "note": "เมนูดังจากเมืองอันดง รสหวานเค็มกลมกล่อม ไก่และผักเปื่อยนุ่ม หากไม่ใส่พริกแห้งจะเหมาะมากสำหรับผู้สูงอายุและเด็ก"
+    },
+    {
+      "recipe_id": "kr_pop_052",
+      "id": "kr_pop_052",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "นักจีบกกึม — ปลาหมึกสายผัดซอสเผ็ดเกาหลี",
+      "title_en": "Nakji Bokkeum",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "ปลาหมึกสาย",
+      "mainIngredient_en": "Small Octopus",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "360 kcal",
+      "kcal": 360,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ซีฟู้ด",
+        "รสจัด",
+        "จานด่วน"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_052.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_052.webp"
+      ],
+      "ingredients": [
+        "ปลาหมึกสายล้างสะอาดหั่นท่อน: 280 กรัม",
+        "หอมใหญ่ กะหล่ำปลี แครอท และต้นหอมหั่นชิ้น: 150 กรัม",
+        "ซอสโคชูจังและพริกป่นเกาหลี (โคชูการู): อย่างละ 1.5 ช้อนโต๊ะ",
+        "ซีอิ๊วเกาหลี น้ำเชื่อม กระเทียมสับ และน้ำมันงา: อย่างละ 1 ช้อนโต๊ะ",
+        "งาขาวคั่วสำหรับโรยหน้า"
+      ],
+      "steps": [
+        "ผสมโคชูจัง พริกป่นเกาหลี ซีอิ๊ว น้ำเชื่อม และกระเทียมสับเป็นซอสผัด",
+        "ผัดหอมใหญ่ แครอท และกะหล่ำปลีในกระทะไฟแรงจนเริ่มสุก",
+        "ใส่ปลาหมึกสายและซอสเผ็ดลงผัดเร็วๆ 2-3 นาทีจนปลาหมึกสุกเด้งไม่เหนียว",
+        "ใส่ต้นหอมและเหยาะน้ำมันงา คลุกแล้วตักเสิร์ฟโรยงาขาวคู่ข้าวสวยร้อนๆ"
+      ],
+      "note": "ปลาหมึกสายผัดซอสโคชูจังรสเผ็ดร้อนถูกใจคนชอบรสจัด ผัดไฟแรงเร็วๆ เพื่อให้เนื้อเด้งกรอบ"
+    },
+    {
+      "recipe_id": "kr_pop_053",
+      "id": "kr_pop_053",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "คงกุกซู — บะหมี่เย็นน้ำซุปถั่วเหลือง",
+      "title_en": "Kongguksu",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "mainIngredient": "เส้นโซมยอนและน้ำถั่วเหลืองปั่น",
+      "mainIngredient_en": "Noodles & Cold Soy Broth",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "410 kcal",
+      "kcal": 410,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "สุขภาพ",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_053.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_053.webp"
+      ],
+      "ingredients": [
+        "เส้นโซมยอนหรือเส้นหมี่เกาหลี: 120 กรัม",
+        "ถั่วเหลืองต้มสุก (หรือเต้าหู้อ่อน+น้ำเต้าหู้ไม่หวาน): 250 กรัม",
+        "งาขาวคั่วและถั่วลิสงหรือเมล็ดสนคั่ว: 2 ช้อนโต๊ะ",
+        "น้ำเย็นจัด: 200 มล.",
+        "แตงกวาซอยเป็นเส้นและงาขาวสำหรับโรยหน้า",
+        "เกลือสมุทรเล็กน้อย"
+      ],
+      "steps": [
+        "ปั่นถั่วเหลืองต้มสุก งาขาวคั่ว และน้ำเย็นจัดจนเนียนข้นเหมือนครีม ปรุงรสเกลือเล็กน้อยแล้วแช่เย็นจัด",
+        "ต้มเส้นโซมยอนจนสุก ล้างผ่านน้ำเย็นจัดและสะเด็ดน้ำให้เส้นเหนียวนุ่ม",
+        "จัดเส้นลงชาม เทน้ำซุปถั่วเหลืองเย็นจัดราดให้ท่วม",
+        "วางแตงกวาซอยและโรยงาขาวคั่วด้านบน เสิร์ฟเย็นชื่นใจ"
+      ],
+      "note": "เมนูคลายร้อนเพื่อสุขภาพของเกาหลี โปรตีนพืชสูง หอมมันถั่วเหลือง ไม่เผ็ดและย่อยง่ายมากสำหรับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "kr_pop_054",
+      "id": "kr_pop_054",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "จัมปง — บะหมี่ทะเลซุปแดงเกาหลี",
+      "title_en": "Jjamppong",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "mainIngredient": "บะหมี่สดและซีฟู้ดรวม",
+      "mainIngredient_en": "Noodles & Mixed Seafood",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "560 kcal",
+      "kcal": 560,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "บะหมี่",
+        "ซีฟู้ด",
+        "รสจัด"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_054.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_054.webp"
+      ],
+      "ingredients": [
+        "เส้นบะหมี่สดเกาหลี: 160 กรัม",
+        "กุ้งสด ปลาหมึก และหอยแมลงภู่: 200 กรัม",
+        "กะหล่ำปลี หอมใหญ่ ซุกกินี และเห็ดหอมหั่นชิ้น: 120 กรัม",
+        "พริกป่นเกาหลี (โคชูการู): 2 ช้อนโต๊ะ",
+        "กระเทียมสับ ขิงสับ และซีอิ๊วเกาหลี: อย่างละ 1 ช้อนโต๊ะ",
+        "น้ำซุปไก่หรือน้ำซุปดาชิ: 550 มล."
+      ],
+      "steps": [
+        "ผัดกระเทียม ขิง และพริกป่นเกาหลีในน้ำมันไฟอ่อนจนได้น้ำมันพริกสีแดงหอม",
+        "เร่งไฟแรงใส่ผักและซีฟู้ดลงผัดให้หอมกลิ่นกระทะ เหยาะซีอิ๊วเกาหลี",
+        "เติมน้ำซุปต้มเดือด 5-7 นาทีจนหอยเปิดฝาและน้ำซุปเข้มข้นหอมทะเล",
+        "ลวกเส้นบะหมี่ใส่ชาม ตักน้ำซุปซีฟู้ดร้อนๆ ราดเสิร์ฟทันที"
+      ],
+      "note": "บะหมี่ทะเลซุปแดงรสเข้มข้นหอมกลิ่นกระทะคู่ขวัญกับจาจังมยอน"
+    },
+    {
+      "recipe_id": "kr_pop_055",
+      "id": "kr_pop_055",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "คัมจาจอน — แพนเค้กมันฝรั่งขูดทอด",
+      "title_en": "Gamja Jeon",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "mainIngredient": "มันฝรั่งขูด",
+      "mainIngredient_en": "Grated Potato",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ทานเล่น",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_055.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_055.webp"
+      ],
+      "ingredients": [
+        "มันฝรั่งปอกเปลือกขูดฝอยหรือปั่นหยาบ: 300 กรัม",
+        "หอมใหญ่ขูดเล็กน้อย: 30 กรัม",
+        "แป้งมันฝรั่ง (หรือแป้งตกตะกอนจากน้ำมันฝรั่ง): 2 ช้อนโต๊ะ",
+        "เกลือป่น: 1/4 ช้อนชา",
+        "น้ำมันพืชสำหรับจี่และซอสถั่วเหลืองน้ำส้มสายชูสำหรับจิ้ม"
+      ],
+      "steps": [
+        "บีบน้ำออกจากมันฝรั่งขูดแล้วพักน้ำไว้ 5 นาที เทน้ำใสทิ้งเก็บเฉพาะแป้งมันฝรั่งก้นชามมาผสมคืนกับเนื้อมันฝรั่ง",
+        "ใส่หอมใหญ่ขูดและเกลือป่นคลุกให้เข้ากันดี",
+        "ตั้งกระทะไฟกลางใส่น้ำมันเล็กน้อย ตักมันฝรั่งแผ่เป็นแผ่นกลมบาง",
+        "จี่ข้างละ 3-4 นาทีจนขอบเหลืองกรอบและด้านในนุ่มหนึบ เสิร์ฟคู่ซอสซีอิ๊วเปรี้ยวเค็ม"
+      ],
+      "note": "แพนเค้กมันฝรั่งเกาหลีแท้ๆ กรอบนอกนุ่มหนึบใน รสอ่อนหอมมันฝรั่ง ไม่เผ็ด เหมาะกับทุกวัย"
+    },
+    {
+      "recipe_id": "kr_pop_056",
+      "id": "kr_pop_056",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "พุงออปัง — ขนมปังรูปปลาไส้ถั่วแดง",
+      "title_en": "Bungeoppang",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "แป้งวาฟเฟิลและถั่วแดงกวน",
+      "mainIngredient_en": "Pastry Batter & Red Bean Paste",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "280 kcal",
+      "kcal": 280,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ของหวาน",
+        "สตรีทฟู้ด",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_056.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_056.webp"
+      ],
+      "ingredients": [
+        "แป้งสาลีอเนกประสงค์: 120 กรัม",
+        "แป้งข้าวเหนียว (ช่วยให้ผิวกรอบหนึบ): 20 กรัม",
+        "นมสดและไข่ไก่: 150 มล. / 1 ฟอง",
+        "น้ำตาลทราย ผงฟู และเนยละลาย: อย่างละ 1 ช้อนโต๊ะ",
+        "ถั่วแดงกวนหยาบหวานกำลังดี: 120 กรัม"
+      ],
+      "steps": [
+        "ผสมแป้งสาลี แป้งข้าวเหนียว ผงฟู น้ำตาล นมสด ไข่ไก่ และเนยละลายให้เนียนเข้ากัน",
+        "อุ่นพิมพ์รูปปลาหรือพิมพ์วาฟเฟิล ทาเนยบางๆ เทแป้งลงครึ่งพิมพ์แล้วตักถั่วแดงกวนวางตรงกลาง",
+        "เทแป้งปิดทับด้านบน ปิดพิมพ์ย่างไฟอ่อนข้างละ 2-3 นาทีจนสีเหลืองทองหอมกรอบ",
+        "แคะออกจากพิมพ์เสิร์ฟอุ่นๆ หอมแป้งและถั่วแดงกวน"
+      ],
+      "note": "ขนมฤดูหนาวสุดฮิตข้างทางในเกาหลี เนื้อแป้งนุ่มหอมไส้ถั่วแดงกวนหวานละมุน"
+    },
+    {
+      "recipe_id": "kr_pop_057",
+      "id": "kr_pop_057",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "ยักกวา — ขนมดอกไม้เคลือบน้ำผึ้งขิงเกาหลี",
+      "title_en": "Yakgwa",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "แป้งสาลี น้ำมันงา และน้ำผึ้งขิง",
+      "mainIngredient_en": "Honey Ginger Pastry",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "320 kcal",
+      "kcal": 320,
+      "dietaryTags": [
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ของหวาน",
+        "ขนมโบราณ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_057.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_057.webp"
+      ],
+      "ingredients": [
+        "แป้งสาลีอเนกประสงค์: 180 กรัม",
+        "น้ำมันงาคั่ว: 3 ช้อนโต๊ะ",
+        "น้ำเชื่อมข้าวหรือน้ำผึ้งผสมน้ำขิง: 100 มล.",
+        "ผงอบเชยเล็กน้อย: 1/4 ช้อนชา",
+        "น้ำมันสำหรับทอด"
+      ],
+      "steps": [
+        "คลุกแป้งสาลีกับน้ำมันงาให้ร่วนซุย จากนั้นนวดรวมกับน้ำผึ้งน้ำขิงและผงอบเชยจนปั้นได้",
+        "กดแป้งลงพิมพ์ดอกไม้หรือตัดเป็นชิ้นพอดีคำ จิ้มรูเล็กๆ ด้วยส้อมเพื่อไม่ให้พองแตก",
+        "ทอดในน้ำมันไฟอ่อน (140-150°C) จนสุกฟูสีน้ำตาลทองแล้วพักสะเด็ดน้ำมัน",
+        "นำขนมลงแช่ในน้ำเชื่อมน้ำผึ้งขิงอุ่นๆ 15-20 นาทีให้ฉ่ำเงาแล้วพักบนตะแกรง"
+      ],
+      "note": "ขนมชาววังเกาหลีโบราณที่กำลังฮิตทั่วเอเชีย เนื้อหนึบหอมน้ำผึ้ง น้ำมันงา และขิงอ่อนๆ"
+    },
+    {
+      "recipe_id": "kr_pop_058",
+      "id": "kr_pop_058",
+      "packId": "kr_popular",
+      "country": "KR",
+      "cuisine_th": "เกาหลี",
+      "cuisine_en": "Korean",
+      "title": "โฮดูกวาจา — ขนมวอลนัตไส้ถั่วแดง",
+      "title_en": "Hodugwaja",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "แป้งเค้ก ถั่วแดงกวน และวอลนัต",
+      "mainIngredient_en": "Walnut Cake & Red Bean",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "260 kcal",
+      "kcal": 260,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "เกาหลี",
+        "ของหวาน",
+        "ทานเล่น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/kr_popular/kr_pop_058.webp",
+      "images": [
+        "images/packs/kr_popular/kr_pop_058.webp"
+      ],
+      "ingredients": [
+        "แป้งเค้ก: 120 กรัม",
+        "ไข่ไก่: 2 ฟอง",
+        "น้ำตาลทรายและเนยละลาย: อย่างละ 30 กรัม",
+        "นมสดและผงฟู: 40 มล. / 1/2 ช้อนชา",
+        "ถั่วแดงกวนเนียน: 120 กรัม",
+        "เม็ดวอลนัตอบหั่นชิ้น: 40 กรัม"
+      ],
+      "steps": [
+        "ตีไข่ไก่กับน้ำตาลจนฟู ใส่แป้งเค้กร่อนกับผงฟู นมสด และเนยละลายคนให้เนียน",
+        "อุ่นพิมพ์ขนมรูปวอลนัตหรือพิมพ์ไข่นกกระทา เทแป้งลงครึ่งพิมพ์ วางถั่วแดงกวนและเม็ดวอลนัตอบตรงกลาง",
+        "เทแป้งปิดทับแล้วอบหรือย่างไฟอ่อนจนสุกหอมสีน้ำตาลทองทั้งสองด้าน",
+        "เสิร์ฟอุ่นๆ เนื้อเค้กนุ่มหอมเข้ากันดีกับถั่วแดงและวอลนัตกรุบมัน"
+      ],
+      "note": "ของฝากขึ้นชื่อประจำเมืองชอนัน เนื้อเค้กนุ่มฟู ไส้ถั่วแดงหวานพอดีคำ เหมาะทานคู่ชาอุ่นๆ"
     }
   ]
 };

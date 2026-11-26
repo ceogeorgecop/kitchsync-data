@@ -1,4 +1,4 @@
-// KitchSync Cuisine Pack: Chinese (48 recipes)
+// KitchSync Cuisine Pack: Chinese (62 recipes)
 // Place this file at assets/data/packs/cn_popular.js
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.cn_popular = {
@@ -9,8 +9,8 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
     "th": "จีน",
     "en": "Chinese"
   },
-  "version": "1.0.0",
-  "total_recipes": 50,
+  "version": "2026.11.26.1",
+  "total_recipes": 62,
   "recipes": [
     {
       "recipe_id": "cn_pop_001",
@@ -75,7 +75,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Fold the scrambled eggs back into the tomatoes, garnish with chopped scallions, and serve."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_002",
@@ -1808,7 +1811,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Slow-cook for 45-50 minutes until ribs are tender and broth is sweet; season with salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_024",
@@ -2050,7 +2056,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Drizzle with seasoned soy sauce and pour sizzling hot oil over the aromatics."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_027",
@@ -2454,7 +2463,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_032",
@@ -2669,7 +2681,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Pleat to seal and steam over boiling water for 12-15 minutes until fluffy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_035",
@@ -3369,7 +3384,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Pour custard into tart shells and bake at 190°C (375°F) for 20-22 minutes until set."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_045",
@@ -3441,7 +3459,10 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Spoon sago into bowls, pour mango cream over, and top with pomelo sacs and mango cubes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "cn_pop_046",
@@ -3677,6 +3698,588 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "images": [
         "images/packs/cn/cn_mig_02.webp"
       ]
+    },
+    {
+      "recipe_id": "cn_pop_049",
+      "id": "cn_pop_049",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "หมูตงพอ — หมูสามชั้นตุ๋นซีอิ๊วเหล้าจีน",
+      "title_en": "Dongpo Pork",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "หมูสามชั้นชิ้นสี่เหลี่ยม",
+      "mainIngredient_en": "Pork Belly",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "620 kcal",
+      "kcal": 620,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "ตุ๋น",
+        "เทศกาล",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_049.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_049.webp"
+      ],
+      "ingredients": [
+        "หมูสามชั้นคัดมันสวยหั่นชิ้นสี่เหลี่ยมใหญ่: 450 กรัม",
+        "เหล้าจีนเส้าซิง (Shaoxing Wine): 100 มล.",
+        "ซีอิ๊วขาวและซีอิ๊วดำหวาน: 3 ช้อนโต๊ะ / 1 ช้อนโต๊ะ",
+        "น้ำตาลกรวด: 35 กรัม",
+        "ขิงฝาน ต้นหอมญี่ปุ่น และโป๊ยกั๊ก: อย่างละเล็กน้อย",
+        "ผักกวางตุ้งฮ่องกงลวกสำหรับจัดจาน: 100 กรัม"
+      ],
+      "steps": [
+        "ต้มหมูสามชั้นกับขิงและต้นหอม 10 นาทีแล้วผูกเชือกทำอาหารให้คงทรงสวย",
+        "เรียงต้นหอมและขิงรองก้นหม้อดิน วางหมูสามชั้นคว่ำหนังลงด้านล่าง",
+        "เติมเหล้าจีน ซีอิ๊วขาว ซีอิ๊วดำ น้ำตาลกรวด และน้ำซุป ปิดฝาตุ๋นไฟอ่อน 75-90 นาทีจนเนื้อและมันนุ่มละลายในปาก",
+        "พลิกด้านหนังขึ้น เคี่ยวน้ำซอสให้เงาข้น ราดบนหมูเสิร์ฟเคียงกวางตุ้งลวก"
+      ],
+      "note": "เมนูตำนานแห่งเมืองหางโจว เนื้อหมูเปื่อยนุ่มแทบไม่ต้องเคี้ยว หอมซีอิ๊วและเหล้าจีน ไม่เผ็ด"
+    },
+    {
+      "recipe_id": "cn_pop_050",
+      "id": "cn_pop_050",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "เนื้อตุ๋นหัวไชเท้าหม้อดิน",
+      "title_en": "Braised Beef Brisket with Radish",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "เนื้อน่องลายและหัวไชเท้า",
+      "mainIngredient_en": "Beef Brisket & Daikon",
+      "time": "85 นาที",
+      "time_en": "85 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "510 kcal",
+      "kcal": 510,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "ตุ๋น",
+        "หม้อดิน",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_050.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_050.webp"
+      ],
+      "ingredients": [
+        "เนื้อเสือร้องไห้หรือเนื้อน่องลายหั่นเต๋าใหญ่: 400 กรัม",
+        "หัวไชเท้าปอกเปลือกหั่นชิ้นใหญ่: 250 กรัม",
+        "ซอสชูโหว (Chu Hou Paste) หรือเต้าเจี้ยวจีน: 2 ช้อนโต๊ะ",
+        "ซีอิ๊วขาว ซอสหอยนางรม และน้ำตาลกรวด: อย่างละ 1 ช้อนโต๊ะ",
+        "ขิงฝาน โป๊ยกั๊ก และอบเชย: อย่างละเล็กน้อย",
+        "น้ำซุปหรือน้ำเปล่า: 600 มล."
+      ],
+      "steps": [
+        "ลวกเนื้อในน้ำเดือด 5 นาทีเพื่อล้างคาวแล้วพักสะเด็ดน้ำ",
+        "ผัดขิง โป๊ยกั๊ก และซอสชูโหวในหม้อจนหอม ใส่เนื้อลงผัดเคลือบซอส",
+        "เติมน้ำซุป ซีอิ๊วขาว ซอสหอยนางรม และน้ำตาลกรวด เคี่ยวไฟอ่อน 55 นาทีจนเนื้อเริ่มนุ่ม",
+        "ใส่หัวไชเท้าตุ๋นต่ออีก 20-25 นาทีจนหัวไชเท้าใสหวานและเนื้อเปื่อยนุ่ม เสิร์ฟร้อนๆ ในหม้อดิน"
+      ],
+      "note": "เนื้อตุ๋นสไตล์กวางตุ้ง เปื่อยนุ่มซึมน้ำซุปหวานจากหัวไชเท้า ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "cn_pop_051",
+      "id": "cn_pop_051",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "ไก่อบสมุนไพรจีน",
+      "title_en": "Beggar's Chicken",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "ไก่ทั้งตัว/สะโพกไก่",
+      "mainIngredient_en": "Herb Roasted Chicken",
+      "time": "65 นาที",
+      "time_en": "65 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "490 kcal",
+      "kcal": 490,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "อบ",
+        "เทศกาล",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_051.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_051.webp"
+      ],
+      "ingredients": [
+        "ไก่ครึ่งตัวหรือสะโพกไก่ติดน่อง: 500 กรัม",
+        "เห็ดหอมแห้งแช่น้ำและกระเทียมบุบ: 60 กรัม",
+        "ซีอิ๊วขาว ซอสหอยนางรม เหล้าจีน และผงพะโล้: 4 ช้อนโต๊ะ",
+        "ขิงฝานและต้นหอม: 30 กรัม",
+        "กระดาษไขหรือใบบัวสำหรับห่ออบ"
+      ],
+      "steps": [
+        "หมักไก่กับซีอิ๊วขาว ซอสหอยนางรม เหล้าจีน และผงพะโล้ประมาณ 30 นาที",
+        "วางขิง ต้นหอม กระเทียม และเห็ดหอมลงบนกระดาษไข วางไก่ทับแล้วห่อปิดให้สนิท",
+        "อบที่ 190°C นาน 45-50 นาทีแล้วเปิดห่ออบต่ออีก 10 นาทีให้หนังเหลืองหอม",
+        "สับชิ้นจัดจาน ราดน้ำซอสสมุนไพรหอมๆ ที่ได้จากการอบ"
+      ],
+      "note": "ไก่อบหอมเครื่องเทศจีนอ่อนๆ เนื้อนุ่มฉ่ำไม่แห้ง ไม่เผ็ด ทานง่ายทั้งครอบครัว"
+    },
+    {
+      "recipe_id": "cn_pop_052",
+      "id": "cn_pop_052",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "ปลาต้มพริกเสฉวน",
+      "title_en": "Sichuan Boiled Fish (Shui Zhu Yu)",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "เนื้อปลากะพงขาว",
+      "mainIngredient_en": "White Fish Fillet",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "450 kcal",
+      "kcal": 450,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "เสฉวน",
+        "หม่าล่า",
+        "รสจัด"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_052.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_052.webp"
+      ],
+      "ingredients": [
+        "เนื้อปลากะพงขาวแล่บาง: 300 กรัม",
+        "ถั่วงอกและผักกาดขาวลวก: 150 กรัม",
+        "ซอสพริกถั่วเสฉวน (โต้วป้านเจี้ยง): 2 ช้อนโต๊ะ",
+        "พริกแห้งเสฉวนและพริกไทยเสฉวน (ฮวาเจียว): 2 ช้อนโต๊ะ",
+        "กระเทียมสับ ขิงสับ และน้ำซุป: 450 มล.",
+        "ไข่ขาว 1 ฟอง + แป้งข้าวโพด 1 ช้อนโต๊ะ (สำหรับหมักปลาให้นุ่ม)"
+      ],
+      "steps": [
+        "หมักเนื้อปลาแล่บางกับไข่ขาว เกลือ และแป้งข้าวโพด 10 นาทีเพื่อให้เนื้อปลานุ่มเด้ง",
+        "ผัดซอสโต้วป้านเจี้ยง ขิง และกระเทียมจนน้ำมันแดงหอม เติมน้ำซุปต้มเดือด",
+        "ลวกผักกาดขาวและถั่วงอกรองก้นชาม จากนั้นนำเนื้อปลาลงลวกในน้ำซุปเดือด 1-2 นาทีจนสุกแล้วตักวางบนผัก",
+        "โรยพริกแห้ง ฮวาเจียว และกระเทียมสับด้านบน แล้วราดน้ำมันร้อนจัดลงไปให้กลิ่นหอมฟุ้ง แต่งหน้าด้วยผักชี"
+      ],
+      "note": "สุยจู๋อวี๋ เมนูดังประจำแคว้นเสฉวน เนื้อปลานุ่มลื่นในน้ำซุปหม่าล่าเผ็ดชาหอมพริกคั่ว"
+    },
+    {
+      "recipe_id": "cn_pop_053",
+      "id": "cn_pop_053",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "ปลาหมึกผัดพริกเกลือจีน",
+      "title_en": "Salt & Pepper Squid",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "mainIngredient": "ปลาหมึกสด",
+      "mainIngredient_en": "Squid",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "430 kcal",
+      "kcal": 430,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "ซีฟู้ด",
+        "ของทอด",
+        "จานด่วน"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_053.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_053.webp"
+      ],
+      "ingredients": [
+        "ปลาหมึกบั้งตาข่ายหั่นชิ้น: 280 กรัม",
+        "แป้งข้าวโพดสำหรับคลุกทอด: 60 กรัม",
+        "กระเทียมสับ พริกชี้ฟ้าแดง-เขียวซอย และต้นหอมซอย: 50 กรัม",
+        "เกลือสมุทร พริกไทยขาว และผงพะโล้เล็กน้อย: 1 ช้อนชา",
+        "น้ำมันสำหรับทอด"
+      ],
+      "steps": [
+        "ซับปลาหมึกให้แห้ง คลุกแป้งข้าวโพดบางๆ แล้วทอดในน้ำมันร้อนไฟแรง 1-2 นาทีจนเหลืองกรอบ ตักพักไว้",
+        "ตั้งกระทะไฟกลางใส่น้ำมันเล็กน้อย ผัดกระเทียมสับ พริกแดง-เขียว และต้นหอมจนหอม",
+        "ใส่ปลาหมึกทอดลงคั่วเร็วๆ โรยเกลือ พริกไทยขาว และผงพะโล้เล็กน้อยให้เข้ากันแล้วเสิร์ฟทันที"
+      ],
+      "note": "กับแกล้มและจานทานเล่นยอดนิยมในภัตตาคารจีน กรอบนอกนุ่มในหอมกระเทียมพริกเกลือ"
+    },
+    {
+      "recipe_id": "cn_pop_054",
+      "id": "cn_pop_054",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "หมูกรอบฮ่องกง",
+      "title_en": "Crispy Roast Pork Belly (Siu Yuk)",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "หมูสามชั้น",
+      "mainIngredient_en": "Pork Belly",
+      "time": "75 นาที",
+      "time_en": "75 min",
+      "difficulty": "ยาก",
+      "difficulty_en": "Hard",
+      "calories": "640 kcal",
+      "kcal": 640,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free",
+        "Low-Carb"
+      ],
+      "tags": [
+        "จีน",
+        "ฮ่องกง",
+        "อบ",
+        "กรอบ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_054.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_054.webp"
+      ],
+      "ingredients": [
+        "หมูสามชั้นชิ้นหนาหนังสวย: 500 กรัม",
+        "ผงพะโล้ เกลือ พริกไทยขาว และเหล้าจีน: อย่างละ 1 ช้อนชา",
+        "น้ำส้มสายชูขาวสำหรับทาหนัง: 1 ช้อนโต๊ะ",
+        "เกลือเม็ดหยาบสำหรับพอกหนังอบ: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ทาเครื่องหมักเฉพาะด้านเนื้อหมู (ห้ามโดนหนัง) ซับหนังให้แห้งสนิทแล้วจิ้มหนังให้ทั่ว ทาน้ำส้มสายชูบางๆ",
+        "ห่อฟอยล์ปิดด้านเนื้อเปิดเฉพาะด้านหนัง พอกเกลือหยาบบนหนังแล้วอบที่ 180°C นาน 40 นาที",
+        "ปัดเกลือออกแล้วอบต่อด้วยไฟบนแรง 230°C อีก 15-20 นาทีจนหนังพองฟูกรอบสีทอง",
+        "พัก 10 นาทีแล้วหั่นเป็นชิ้นพอดีคำ เสิร์ฟคู่มัสตาร์ดจีนหรือซีอิ๊วดำหวาน"
+      ],
+      "note": "ซิ่วหยกสไตล์ฮ่องกง หนังพองกรอบสนั่นแต่เนื้อด้านในยังชุ่มฉ่ำหอมผงพะโล้"
+    },
+    {
+      "recipe_id": "cn_pop_055",
+      "id": "cn_pop_055",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "มะเขือม่วงผัดซอสเสฉวน",
+      "title_en": "Yu Xiang Eggplant",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "มะเขือม่วงยาว",
+      "mainIngredient_en": "Chinese Eggplant",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "เสฉวน",
+        "มังสวิรัติ",
+        "สุขภาพ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_055.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_055.webp"
+      ],
+      "ingredients": [
+        "มะเขือม่วงยาวหั่นท่อนผ่าสี่: 300 กรัม",
+        "กระเทียมสับ ขิงสับ และต้นหอมซอย: 40 กรัม",
+        "ซอสพริกถั่วเสฉวน (โต้วป้านเจี้ยง): 1 ช้อนโต๊ะ",
+        "ซีอิ๊วขาว จิ๊กโฉ่ว และน้ำตาลทราย: อย่างละ 1 ช้อนโต๊ะ",
+        "แป้งข้าวโพดละลายน้ำเล็กน้อยและน้ำมันพืช"
+      ],
+      "steps": [
+        "นึ่งหรือจี่มะเขือม่วงในน้ำมันเล็กน้อยจนสุกนุ่มแต่ยังคงสีม่วงสวย พักไว้",
+        "ผัดขิง กระเทียม และซอสโต้วป้านเจี้ยงจนหอม เติมซีอิ๊วขาว จิ๊กโฉ่ว น้ำตาล และน้ำซุปเล็กน้อย",
+        "ใส่มะเขือม่วงลงคลุกให้ซึมซอส ใส่แป้งข้าวโพดละลายน้ำให้ซอสเคลือบเงา โรยต้นหอมซอยเสิร์ฟร้อนๆ"
+      ],
+      "note": "มะเขือม่วงผัดซอสอวี๋เซียง รสเปรี้ยวหวานเค็มเผ็ดอ่อนๆ ทานคู่ข้าวสวยอร่อยมาก"
+    },
+    {
+      "recipe_id": "cn_pop_056",
+      "id": "cn_pop_056",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "เป็ดรมควันใบชา",
+      "title_en": "Tea-Smoked Duck",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "อกเป็ด/น่องเป็ด",
+      "mainIngredient_en": "Duck",
+      "time": "60 นาที",
+      "time_en": "60 min",
+      "difficulty": "ยาก",
+      "difficulty_en": "Hard",
+      "calories": "540 kcal",
+      "kcal": 540,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "เสฉวน",
+        "รมควัน",
+        "เทศกาล"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_056.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_056.webp"
+      ],
+      "ingredients": [
+        "เป็ดครึ่งตัวหรืออกเป็ดติดหนัง: 450 กรัม",
+        "ผงพะโล้ เกลือ พริกไทยเสฉวน และเหล้าจีน: 2 ช้อนโต๊ะ",
+        "ใบชาดำ/ชาอู่หลง ข้าวสาร และน้ำตาลทรายแดง (สำหรับรมควัน): อย่างละ 2 ช้อนโต๊ะ",
+        "ต้นหอมซอยเป็นเส้นสำหรับทานคู่"
+      ],
+      "steps": [
+        "หมักเป็ดกับผงพะโล้ เกลือ พริกไทยเสฉวน และเหล้าจีน จากนั้นนำไปนึ่ง 30 นาทีจนสุกนุ่ม",
+        "รองฟอยล์ในกระทะก้นลึก ใส่ใบชา ข้าวสาร และน้ำตาลทรายแดง วางตะแกรงและวางเป็ดด้านบน ปิดฝารมควันไฟกลาง 10 นาทีจนหนังสีทองหอมกลิ่นชา",
+        "นำเป็ดไปทอดหรืออบไฟแรง 5 นาทีให้หนังกรอบ หั่นชิ้นจัดจานเคียงต้นหอมซอย"
+      ],
+      "note": "จานเด็ดแห่งเสฉวน หอมกลิ่นควันใบชาอ่อนๆ หนังกรอบเนื้อนุ่มชุ่มฉ่ำ"
+    },
+    {
+      "recipe_id": "cn_pop_057",
+      "id": "cn_pop_057",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "บะหมี่เนื้อตุ๋นจีน",
+      "title_en": "Braised Beef Noodle Soup",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "mainIngredient": "เส้นบะหมี่และเนื้อตุ๋น",
+      "mainIngredient_en": "Noodles & Braised Beef",
+      "time": "75 นาที",
+      "time_en": "75 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "580 kcal",
+      "kcal": 580,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "บะหมี่",
+        "ตุ๋น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_057.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_057.webp"
+      ],
+      "ingredients": [
+        "เส้นบะหมี่จีนหรือบะหมี่ไข่: 160 กรัม",
+        "เนื้อน่องลายหั่นชิ้นใหญ่: 300 กรัม",
+        "ผักกวางตุ้งฮ่องกงลวก: 80 กรัม",
+        "ซีอิ๊วขาว ซีอิ๊วดำ เหล้าจีน และน้ำตาลกรวด: 4 ช้อนโต๊ะ",
+        "ขิงฝาน กระเทียม โป๊ยกั๊ก และอบเชย: อย่างละเล็กน้อย",
+        "น้ำซุป: 800 มล."
+      ],
+      "steps": [
+        "ลวกเนื้อน่องลายแล้วนำลงผัดกับขิง กระเทียม และเครื่องพะโล้จนหอม",
+        "เติมซีอิ๊วขาว ซีอิ๊วดำ เหล้าจีน น้ำตาลกรวด และน้ำซุป ตุ๋นไฟอ่อน 60 นาทีจนเนื้อเปื่อยนุ่มและน้ำซุปหอมกลมกล่อม",
+        "ลวกเส้นบะหมี่และผักกวางตุ้งใส่ชาม ตักเนื้อตุ๋นและน้ำซุปร้อนๆ ราด โรยต้นหอมซอยเสิร์ฟทันที"
+      ],
+      "note": "บะหมี่เนื้อตุ๋นน้ำซุปเครื่องเทศหอมละมุน เนื้อนุ่มเปื่อย ไม่เผ็ด เหมาะกับทุกวัย"
+    },
+    {
+      "recipe_id": "cn_pop_058",
+      "id": "cn_pop_058",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "บะหมี่เส้นแบนซอสพริกกระเทียม",
+      "title_en": "Biang Biang Noodles",
+      "category": "ข้าว/เส้น",
+      "universalCategory": "rice_noodles",
+      "mainIngredient": "เส้นบะหมี่แบนกว้าง",
+      "mainIngredient_en": "Wide Hand-Pulled Noodles",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "520 kcal",
+      "kcal": 520,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "บะหมี่",
+        "รสจัด",
+        "จานด่วน"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_058.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_058.webp"
+      ],
+      "ingredients": [
+        "เส้นบะหมี่แบนใหญ่ (Biang Biang หรือเส้นใหญ่สด): 180 กรัม",
+        "ผักกวางตุ้งฮ่องกงลวก: 80 กรัม",
+        "พริกป่นจีนและกระเทียมสับละเอียด: อย่างละ 1.5 ช้อนโต๊ะ",
+        "ต้นหอมซอย: 2 ช้อนโต๊ะ",
+        "ซีอิ๊วขาวและจิ๊กโฉ่วดำ: อย่างละ 1.5 ช้อนโต๊ะ",
+        "น้ำมันพืชอุ่นร้อนจัดสำหรับราด: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ต้มเส้นบะหมี่แบนและผักกวางตุ้งจนสุกเหนียวนุ่ม ตักใส่ชามคลุกซีอิ๊วขาวและจิ๊กโฉ่วดำ",
+        "วางพริกป่นจีน กระเทียมสับ และต้นหอมซอยกองไว้ด้านบนเส้น",
+        "ตั้งน้ำมันพืชให้ร้อนจัดแล้วราดลงบนพริกและกระเทียมทันทีจนส่งเสียงฉ่าและหอมฟุ้ง คลุกเคล้าแล้วเสิร์ฟ"
+      ],
+      "note": "บะหมี่เส้นแบนยักษ์แห่งเมืองซีอาน เหนียวนุ่มหอมน้ำมันพริกกระเทียมราดสดและจิ๊กโฉ่ว"
+    },
+    {
+      "recipe_id": "cn_pop_059",
+      "id": "cn_pop_059",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "ขนมผักกาดเจี๋ยนกระทะ",
+      "title_en": "Pan-Fried Turnip Cake (Lo Bak Go)",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "mainIngredient": "หัวไชเท้าขูดและแป้งข้าวเจ้า",
+      "mainIngredient_en": "Daikon Radish & Rice Flour",
+      "time": "45 นาที",
+      "time_en": "45 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "330 kcal",
+      "kcal": 330,
+      "dietaryTags": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "ติ่มซำ",
+        "ทานเล่น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_059.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_059.webp"
+      ],
+      "ingredients": [
+        "หัวไชเท้าขูดเส้น: 350 กรัม",
+        "แป้งข้าวเจ้า: 120 กรัม",
+        "กุนเชียง เห็ดหอมแห้ง และกุ้งแห้งหั่นเต๋าเล็ก: 80 กรัม",
+        "น้ำซุปหรือน้ำต้มหัวไชเท้า: 250 มล.",
+        "เกลือ พริกไทยขาว และน้ำมันงา: เล็กน้อย"
+      ],
+      "steps": [
+        "ผัดกุนเชียง เห็ดหอม และกุ้งแห้งจนหอม พักไว้",
+        "ต้มหัวไชเท้าขูดกับน้ำเล็กน้อยจนสุกนุ่ม ใส่เครื่องผัดลงผสมแล้วเทแป้งข้าวเจ้าละลายน้ำลงกวนไฟอ่อนจนข้นเหนียว",
+        "เทใส่พิมพ์นึ่งไฟกลาง 35 นาทีจนสุก พักให้เย็นแล้วตัดเป็นแผ่นสี่เหลี่ยม",
+        "นำไปเจี๋ยนบนกระทะไฟกลางจนผิวนอกเหลืองกรอบทั้งสองด้าน เสิร์ฟคู่ซอสพริกหรือซีอิ๊วดำ"
+      ],
+      "note": "ติ่มซำยอดนิยมสไตล์ฮ่องกง ผิวนอกกรอบหอม ด้านในนุ่มละมุนรสหวานธรรมชาติจากหัวไชเท้า"
+    },
+    {
+      "recipe_id": "cn_pop_060",
+      "id": "cn_pop_060",
+      "packId": "cn_popular",
+      "country": "CN",
+      "cuisine_th": "จีน",
+      "cuisine_en": "Chinese",
+      "title": "งาดำบดร้อนสไตล์ฮ่องกง",
+      "title_en": "Black Sesame Soup",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "งาดำคั่วบด",
+      "mainIngredient_en": "Roasted Black Sesame",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "260 kcal",
+      "kcal": 260,
+      "dietaryTags": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "จีน",
+        "ของหวาน",
+        "สุขภาพ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/cn_popular/cn_pop_060.webp",
+      "images": [
+        "images/packs/cn_popular/cn_pop_060.webp"
+      ],
+      "ingredients": [
+        "งาดำคั่วหอม: 80 กรัม",
+        "แป้งข้าวเหนียวคั่วหรือข้าวสารแช่น้ำ: 25 กรัม",
+        "น้ำเปล่า: 450 มล.",
+        "น้ำตาลกรวด: 45 กรัม",
+        "เก๋ากี้และงาขาวคั่วสำหรับตกแต่งเล็กน้อย"
+      ],
+      "steps": [
+        "ปั่นงาดำคั่วกับแป้งข้าวเหนียวและน้ำเปล่าจนละเอียดเนียนเป็นเนื้อเดียวกัน",
+        "กรองผ่านกระชอนตาถี่ลงหม้อ (หากชอบเนื้อเนียนพิเศษ) เติมน้ำตาลกรวด",
+        "เคี่ยวไฟอ่อนพร้อมคนตลอดเวลา 5-8 นาทีจนซุปงาดำข้นเงาและเดือดปุดๆ",
+        "ตักใส่ถ้วย โรยงาขาวและเก๋ากี้ เสิร์ฟร้อนๆ หอมมันบำรุงสุขภาพ"
+      ],
+      "note": "ของหวานบำรุงสุขภาพสไตล์ฮ่องกง แคลเซียมสูง เนื้อเนียนอุ่นท้อง เหมาะมากสำหรับผู้สูงอายุ"
     }
   ]
 };

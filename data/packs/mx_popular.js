@@ -1,4 +1,4 @@
-// KitchSync Cuisine Pack: Mexican (48 recipes)
+// KitchSync Cuisine Pack: Mexican (72 recipes)
 // Place this file at assets/data/packs/mx_popular.js
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.mx_popular = {
@@ -9,8 +9,8 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
     "th": "เม็กซิกัน",
     "en": "Mexican"
   },
-  "version": "1.0.0",
-  "total_recipes": 53,
+  "version": "2026.11.26.1",
+  "total_recipes": 72,
   "recipes": [
     {
       "recipe_id": "mx_pop_001",
@@ -3631,7 +3631,10 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Frost with whipped heavy cream and dust with ground cinnamon."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "mx_pop_045",
@@ -3689,7 +3692,10 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "recipe_id": "mx_pop_046",
@@ -3869,7 +3875,10 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "tags": [
+        "ผู้สูงอายุ"
+      ]
     },
     {
       "title": "สเต๊กปลากะพงย่างซอสซัลซ่ามะม่วง",
@@ -4043,6 +4052,910 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "images": [
         "images/packs/mx/mx_mig_05.webp"
       ]
+    },
+    {
+      "recipe_id": "mx_pop_049",
+      "id": "mx_pop_049",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "หมูอบซอสอาชิโอเตส้มเปรี้ยวสไตล์ยูกาตัน",
+      "title_en": "Cochinita Pibil",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "สันคอหมู",
+      "mainIngredient_en": "Pork Shoulder",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "520 kcal",
+      "kcal": 520,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "อบ",
+        "หมูตุ๋น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_049.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_049.webp"
+      ],
+      "ingredients": [
+        "สันคอหมูหั่นชิ้นใหญ่: 400 กรัม",
+        "พริกแกงอาชิโอเต (Achiote Paste): 2 ช้อนโต๊ะ",
+        "น้ำส้มคั้นและน้ำมะนาวผสมกัน: 120 มล.",
+        "กระเทียมสับและออริกาโน: 1 ช้อนโต๊ะ",
+        "หอมแดงดองเปรี้ยวสำหรับโรยหน้า: 40 กรัม",
+        "แผ่นแป้งตอร์ตียาสำหรับทานคู่: 4 แผ่น"
+      ],
+      "steps": [
+        "ละลายพริกแกงอาชิโอเตกับน้ำส้มคั้น น้ำมะนาว กระเทียม และออริกาโนให้เข้ากัน",
+        "หมักสันคอหมูในซอสอย่างน้อย 30 นาทีแล้วห่อใบตองหรือฟอยล์ให้มิดชิด",
+        "อบที่ 170°C นาน 75-90 นาทีจนเนื้อหมูเปื่อยนุ่มฉีกเป็นเส้นได้ง่าย",
+        "ฉีกเนื้อหมูคลุกกับน้ำซอสในถาด เสิร์ฟพร้อมหอมแดงดองและแป้งตอร์ตียาอุ่นๆ"
+      ],
+      "note": "อาหารประจำแคว้นยูกาตัน เนื้อหมูเปื่อยนุ่มหอมส้มและเครื่องเทศอาชิโอเต ไม่เผ็ด"
+    },
+    {
+      "recipe_id": "mx_pop_050",
+      "id": "mx_pop_050",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "พริกหยวกยัดไส้ราดซอสวอลนัตทับทิม",
+      "title_en": "Chiles en Nogada",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "พริกหยวกใหญ่และหมูสับ",
+      "mainIngredient_en": "Poblano Pepper & Pork",
+      "time": "55 นาที",
+      "time_en": "55 min",
+      "difficulty": "ยาก",
+      "difficulty_en": "Hard",
+      "calories": "560 kcal",
+      "kcal": 560,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "เทศกาล",
+        "จานหลัก"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_050.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_050.webp"
+      ],
+      "ingredients": [
+        "พริกหยวกใหญ่หรือพริกปอบลาโนย่างลอกเปลือก: 2 เม็ด",
+        "หมูสับหรือเนื้อสับ: 200 กรัม",
+        "แอปเปิลและลูกเกดหั่นเต๋าเล็ก: 60 กรัม",
+        "วอลนัตอบและครีมชีสสำหรับปั่นซอส: 80 กรัม",
+        "นมสด: 80 มล.",
+        "เม็ดทับทิมสดและพาร์สลีย์สับ: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหมูสับกับหอมใหญ่ กระเทียม มะเขือเทศ แอปเปิล และลูกเกดจนสุกหอมเป็นไส้ปิกาดิโย",
+        "กรีดพริกหยวกย่างเอาเมล็ดออก แล้วยัดไส้หมูสับผลไม้ให้เต็ม",
+        "ปั่นวอลนัต ครีมชีส และนมสดจนเนียนข้นเป็นซอสครีมสีขาว (Nogada)",
+        "จัดพริกยัดไส้ลงจาน ราดซอสวอลนัตครีมให้ทั่ว โรยเม็ดทับทิมและพาร์สลีย์ให้เป็นสีธงชาติเม็กซิโก"
+      ],
+      "note": "จานประจำชาติเม็กซิโก รสหวานมันหอมถั่ววอลนัต ตัดด้วยความสดชื่นของเม็ดทับทิม"
+    },
+    {
+      "recipe_id": "mx_pop_051",
+      "id": "mx_pop_051",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ไก่ราดซอสโมเลช็อกโกแลตพริกแห้งโรยงา",
+      "title_en": "Mole Poblano con Pollo",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "น่องติดสะโพกไก่",
+      "mainIngredient_en": "Chicken Legs",
+      "time": "50 นาที",
+      "time_en": "50 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "540 kcal",
+      "kcal": 540,
+      "dietaryTags": [
+        "High-Protein",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ซอสเข้มข้น",
+        "จานหลัก"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_051.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_051.webp"
+      ],
+      "ingredients": [
+        "น่องติดสะโพกไก่: 350 กรัม",
+        "ซอสโมเล (Mole Poblano Paste) หรือพริกแห้งปั่นเครื่องเทศ: 4 ช้อนโต๊ะ",
+        "ดาร์กช็อกโกแลต 70%: 25 กรัม",
+        "น้ำซุปไก่: 350 มล.",
+        "งาขาวคั่วสำหรับโรยหน้า: 1 ช้อนโต๊ะ",
+        "น้ำมันพืชและเกลือ: เล็กน้อย"
+      ],
+      "steps": [
+        "ต้มหรืออบน่องไก่กับหอมใหญ่และกระเทียมจนสุกนุ่ม พักเก็บน้ำซุปไว้",
+        "ตั้งหม้อไฟอ่อนละลายซอสโมเลกับน้ำซุปไก่ คนจนเนียนข้น",
+        "ใส่ดาร์กช็อกโกแลตลงเคี่ยวไฟอ่อนจนละลายเงางามและได้รสกลมกล่อมหวานเค็มเผ็ดอ่อน",
+        "นำไก่ลงคลุกหรือตักซอสโมเลราดให้ชุ่ม โรยงาขาวคั่วแล้วเสิร์ฟคู่ข้าวหรือตอร์ตียา"
+      ],
+      "note": "ซอสระดับตำนานของเมืองปวยบลา ผสานเครื่องเทศ พริกแห้ง และดาร์กช็อกโกแลตอย่างลงตัว"
+    },
+    {
+      "recipe_id": "mx_pop_052",
+      "id": "mx_pop_052",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ทอสทาดาแป้งกรอบหน้าไก่ฉีกซอสชิโปตเล",
+      "title_en": "Tostadas de Tinga de Pollo",
+      "category": "จานด่วน",
+      "universalCategory": "quick_easy",
+      "mainIngredient": "อกไก่ฉีกและแป้งตอร์ตียากรอบ",
+      "mainIngredient_en": "Shredded Chicken & Tostadas",
+      "time": "25 นาที",
+      "time_en": "25 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "430 kcal",
+      "kcal": 430,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "จานด่วน",
+        "ทานเล่น"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_052.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_052.webp"
+      ],
+      "ingredients": [
+        "แผ่นทอสทาดาข้าวโพดกรอบ: 3 แผ่น",
+        "อกไก่ต้มฉีกเส้น: 180 กรัม",
+        "ถั่วบดเม็กซิกัน (Refried Beans): 3 ช้อนโต๊ะ",
+        "มะเขือเทศบดและซอสพริกชิโปตเล: 120 กรัม",
+        "ผักกาดแก้วซอย: 40 กรัม",
+        "ซาวร์ครีมและชีสเฟต้าหรือโคติยา: 2 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่ซอยกับมะเขือเทศบดและซอสชิโปตเล จากนั้นใส่ไก่ฉีกลงเคี่ยวจนซอสเคลือบทั่ว",
+        "ทาถั่วบดอุ่นๆ ลงบนแผ่นทอสทาดาข้าวโพดกรอบให้ทั่ว",
+        "ตักไก่ฉีกซอสชิโปตเลวางทับ ตามด้วยผักกาดแก้วซอย",
+        "ราดซาวร์ครีมและโรยชีส เสิร์ฟทันทีขณะแป้งยังกรอบ"
+      ],
+      "note": "เมนูจานด่วนยอดฮิต กรอบหอมแป้งข้าวโพดตัดกับไก่ฉีกรสเข้มข้น"
+    },
+    {
+      "recipe_id": "mx_pop_053",
+      "id": "mx_pop_053",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "โซเปสแป้งข้าวโพดหน้าโชริโซถั่วบด",
+      "title_en": "Sopes de Chorizo",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "mainIngredient": "แป้งข้าวโพดและไส้กรอกโชริโซ",
+      "mainIngredient_en": "Masa & Chorizo",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "470 kcal",
+      "kcal": 470,
+      "dietaryTags": [
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "สตรีทฟู้ด",
+        "ทานเล่น"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_053.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_053.webp"
+      ],
+      "ingredients": [
+        "แป้งข้าวโพดมาซาฮารินา (Masa Harina) ปั้นแผ่นขอบยก: 150 กรัม",
+        "ไส้กรอกโชริโซเม็กซิกันสับ: 120 กรัม",
+        "ถั่วแดงหรือถั่วดำบด: 4 ช้อนโต๊ะ",
+        "ผักกาดแก้วซอย: 30 กรัม",
+        "ครีมเปรี้ยวและชีสโคติยาขูด: 2 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "นวดแป้งมาซาฮารินากับน้ำอุ่น ปั้นเป็นแผ่นกลมหนา จี่บนกระทะจนสุกแล้วบีบขอบรอบๆ ให้ยกขึ้นเป็นถ้วยตื้น",
+        "ผัดไส้กรอกโชริโซในกระทะจนสุกหอมและสีสวย",
+        "ทาถั่วบดลงบนฐานแป้งโซเปส ตักโชริโซวางทับให้พูน",
+        "โรยผักกาดแก้วซอย ชีส และราดครีมเปรี้ยว เสิร์ฟร้อนๆ"
+      ],
+      "note": "สตรีทฟู้ดเม็กซิกันแท้ๆ แป้งข้าวโพดหนานุ่มขอบกรอบ เข้ากันดีกับโชริโซรสจัด"
+    },
+    {
+      "recipe_id": "mx_pop_054",
+      "id": "mx_pop_054",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ฮัวราเชสแป้งยาวย่างหน้าเนื้อย่างซัลซ่า",
+      "title_en": "Huaraches con Carne Asada",
+      "category": "จานด่วน",
+      "universalCategory": "quick_easy",
+      "mainIngredient": "เนื้อย่างและแป้งข้าวโพด",
+      "mainIngredient_en": "Grilled Steak & Masa",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "530 kcal",
+      "kcal": 530,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "สตรีทฟู้ด",
+        "ผัด/ย่าง"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_054.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_054.webp"
+      ],
+      "ingredients": [
+        "แป้งมาซาฮารินาปั้นทรงรีแบนยาว: 150 กรัม",
+        "เนื้อสเต๊กหมักย่างหั่นเต๋า (Carne Asada): 150 กรัม",
+        "ถั่วบดเม็กซิกัน: 3 ช้อนโต๊ะ",
+        "ซัลซ่าเขียว (Salsa Verde): 3 ช้อนโต๊ะ",
+        "หอมใหญ่สับ ผักชี และชีสเฟรสโก: 3 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ปั้นแป้งข้าวโพดเป็นทรงรีแบนคล้ายพื้นรองเท้าแตะ (Huarache) นำไปย่างบนกระทะเหล็กทาน้ำมันบางๆ จนสุกเหลือง",
+        "ย่างเนื้อหมักไฟแรงจนสุกพอดีแล้วหั่นเต๋าเล็ก",
+        "ทาถั่วบดทั่วแผ่นแป้ง วางเนื้อย่างและราดซัลซ่าเขียวให้ชุ่ม",
+        "โรยหอมใหญ่สับ ผักชี และชีสเฟรสโก เสิร์ฟร้อนๆ"
+      ],
+      "note": "สตรีทฟู้ดดังจากเม็กซิโกซิตี อิ่มจุใจทั้งแป้งข้าวโพดย่างหอมๆ และเนื้อย่างซัลซ่า"
+    },
+    {
+      "recipe_id": "mx_pop_055",
+      "id": "mx_pop_055",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ตามาเลสแป้งข้าวโพดนึ่งไส้หมูซอสแดง",
+      "title_en": "Tamales Rojos",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "mainIngredient": "แป้งข้าวโพดและหมูตุ๋น",
+      "mainIngredient_en": "Corn Masa & Pork",
+      "time": "75 นาที",
+      "time_en": "75 min",
+      "difficulty": "ยาก",
+      "difficulty_en": "Hard",
+      "calories": "420 kcal",
+      "kcal": 420,
+      "dietaryTags": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "นึ่ง",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_055.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_055.webp"
+      ],
+      "ingredients": [
+        "แป้งมาซาฮารินาผสมน้ำซุปและน้ำมันพืช: 200 กรัม",
+        "หมูตุ๋นฉีกผัดซอสพริกแดงอ่อน: 150 กรัม",
+        "กาบข้าวโพดแห้งแช่น้ำอุ่นจนนิ่ม: 6 แผ่น",
+        "ผงฟูและเกลือ: 1/2 ช้อนชา"
+      ],
+      "steps": [
+        "ตีแป้งมาซาฮารินากับน้ำซุป น้ำมันพืช ผงฟู และเกลือจนฟูนุ่ม",
+        "ปาดแป้งลงบนกาบข้าวโพดแช่น้ำ ตักไส้หมูซอสแดงวางตรงกลางแล้วพับห่อให้เรียบร้อย",
+        "เรียงตั้งในซึ้งนึ่งด้วยไฟกลางประมาณ 45-50 นาทีจนแป้งสุกไม่ติดกาบข้าวโพด",
+        "พักอุ่น 5 นาทีแล้วแกะกาบข้าวโพดออกรับประทานร้อนๆ"
+      ],
+      "note": "ขนมห่อกาบข้าวโพดนึ่งสูตรโบราณ แป้งนุ่มหอมข้าวโพด ย่อยง่าย"
+    },
+    {
+      "recipe_id": "mx_pop_056",
+      "id": "mx_pop_056",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "กุ้งผัดซอสพริกเผ็ดเม็กซิกัน",
+      "title_en": "Camarones a la Diabla",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "กุ้งสด",
+      "mainIngredient_en": "Shrimp",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "380 kcal",
+      "kcal": 380,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ซีฟู้ด",
+        "รสจัด",
+        "จานด่วน"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_056.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_056.webp"
+      ],
+      "ingredients": [
+        "กุ้งขาวแกะเปลือกผ่าหลัง: 250 กรัม",
+        "มะเขือเทศบด: 150 กรัม",
+        "พริกแห้งกวาฮิโยหรือซอสพริกชิโปตเล: 2 ช้อนโต๊ะ",
+        "กระเทียมสับ: 1 ช้อนโต๊ะ",
+        "เนยหรือน้ำมันมะกอก: 2 ช้อนโต๊ะ",
+        "น้ำมะนาวและเกลือ: เล็กน้อย"
+      ],
+      "steps": [
+        "ปั่นมะเขือเทศบด พริกชิโปตเล และกระเทียมให้เนียนละเอียดเป็นซอสสีแดงเข้ม",
+        "ตั้งกระทะไฟกลางใส่เนยหรือน้ำมันมะกอก ผัดกุ้งพอสุก 70% แล้วตักพักไว้",
+        "เทซอสพริกลงเคี่ยวในกระทะ 4-5 นาทีจนหอมข้น ปรุงรสเกลือและน้ำมะนาว",
+        "ใส่กุ้งกลับลงคลุกให้ซอสเคลือบทั่ว เสิร์ฟคู่ข้าวเม็กซิกันและมะนาวฝาน"
+      ],
+      "note": "ถูกปากคนไทยที่ชอบรสจัดจ้าน เผ็ดร้อนหอมพริกคั่วและกระเทียม"
+    },
+    {
+      "recipe_id": "mx_pop_057",
+      "id": "mx_pop_057",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ปลาอบซอสมะเขือเทศมะกอกเคเปอร์",
+      "title_en": "Pescado a la Veracruzana",
+      "category": "ผัด/ย่าง",
+      "universalCategory": "stirfry_grill",
+      "mainIngredient": "เนื้อปลากะพงขาว",
+      "mainIngredient_en": "White Fish Fillet",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "340 kcal",
+      "kcal": 340,
+      "dietaryTags": [
+        "Seafood",
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free",
+        "Low-Carb"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "สุขภาพ",
+        "ซีฟู้ด",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_057.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_057.webp"
+      ],
+      "ingredients": [
+        "เนื้อปลากะพงขาวแล่ชิ้น: 250 กรัม",
+        "มะเขือเทศหั่นเต๋า: 200 กรัม",
+        "หอมใหญ่ซอยและกระเทียมสับ: 60 กรัม",
+        "มะกอกเขียวไร้เมล็ด: 40 กรัม",
+        "เคเปอร์ (Capers): 1 ช้อนโต๊ะ",
+        "ใบกระวาน ออริกาโน และน้ำมันมะกอก: 2 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่และกระเทียมในน้ำมันมะกอกจนหอมนุ่ม",
+        "ใส่มะเขือเทศหั่นเต๋า มะกอกเขียว เคเปอร์ ใบกระวาน และออริกาโน เคี่ยว 10 นาทีจนเป็นซอสข้น",
+        "วางเนื้อปลากะพงลงในซอส ปิดฝาอบไฟอ่อนประมาณ 8-10 นาทีจนเนื้อปลาสุกขาวนุ่ม",
+        "ตักเสิร์ฟร้อนๆ ราดซอสมะเขือเทศมะกอกให้ทั่ว"
+      ],
+      "note": "เมนูชายฝั่งรัฐเวรากรูซ เนื้อปลานุ่มไขมันต่ำ เปรี้ยวเค็มกลมกล่อมไม่เผ็ด เหมาะกับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "mx_pop_058",
+      "id": "mx_pop_058",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "เนื้อตุ๋นนุ่มสไตล์เม็กซิกันกับตอร์ตียา",
+      "title_en": "Barbacoa de Borrego",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "เนื้อแกะหรือเนื้อวัวตุ๋น",
+      "mainIngredient_en": "Slow-Braised Lamb/Beef",
+      "time": "90 นาที",
+      "time_en": "90 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "510 kcal",
+      "kcal": 510,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ตุ๋น",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_058.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_058.webp"
+      ],
+      "ingredients": [
+        "เนื้อแกะหรือเนื้อวัวติดมันเล็กน้อย: 350 กรัม",
+        "ใบกระวาน กานพลู ยี่หร่า และออริกาโน: อย่างละเล็กน้อย",
+        "กระเทียมบุบและหอมใหญ่: 60 กรัม",
+        "น้ำส้มสายชูแอปเปิลและน้ำซุป: 200 มล.",
+        "แป้งตอร์ตียา หอมสับ ผักชี และมะนาวสำหรับเสิร์ฟ"
+      ],
+      "steps": [
+        "หมักเนื้อกับเครื่องเทศ กระเทียม น้ำส้มสายชู และเกลือให้เข้าเนื้อ",
+        "นำลงหม้อตุ๋นพร้อมน้ำซุป ปิดฝาเคี่ยวไฟอ่อน 75-90 นาทีจนเนื้อเปื่อยนุ่มฉีกง่าย",
+        "ฉีกเนื้อเป็นเส้นจัดจาน เสิร์ฟคู่แผ่นตอร์ตียาอุ่น หอมใหญ่สับ ผักชี และมะนาวสด"
+      ],
+      "note": "เนื้อตุ๋นเปื่อยนุ่มละมุนสไตล์เม็กซิกันตอนกลาง ไม่เผ็ด ทานง่ายทั้งครอบครัว"
+    },
+    {
+      "recipe_id": "mx_pop_059",
+      "id": "mx_pop_059",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "แซนด์วิชขนมปังชุบซอสพริกแดงย่างไส้มันฝรั่งโชริโซ",
+      "title_en": "Pambazos",
+      "category": "จานด่วน",
+      "universalCategory": "quick_easy",
+      "mainIngredient": "ขนมปังและมันฝรั่งโชริโซ",
+      "mainIngredient_en": "Bread, Potato & Chorizo",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ปานกลาง",
+      "difficulty_en": "Medium",
+      "calories": "580 kcal",
+      "kcal": 580,
+      "dietaryTags": [],
+      "tags": [
+        "เม็กซิกัน",
+        "สตรีทฟู้ด",
+        "แซนด์วิช"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_059.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_059.webp"
+      ],
+      "ingredients": [
+        "ขนมปังโบลิโยหรือขนมปังเบอร์เกอร์เนื้อนุ่ม: 2 ก้อน",
+        "มันฝรั่งหั่นเต๋าเล็กต้มสุก: 150 กรัม",
+        "ไส้กรอกโชริโซสับ: 100 กรัม",
+        "ซอสพริกแห้งกวาฮิโยปั่น (ไม่เผ็ดมาก): 1/2 ถ้วย",
+        "ผักกาดแก้วซอย ซาวร์ครีม และชีสเฟรสโก: 4 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดโชริโซจนสุกหอม ใส่มันฝรั่งเต๋าลงผัดคลุกเคล้าให้ซึมรสแล้วพักไว้",
+        "ทาหรือจุ่มผิวขนมปังในซอสพริกแดงให้ทั่ว จากนั้นนำไปจี่บนกระทะไฟกลางจนผิวนอกหอมกรอบเล็กน้อย",
+        "ผ่าครึ่งขนมปัง ตักไส้มันฝรั่งโชริโซใส่ให้เต็ม",
+        "โปะผักกาดแก้วซอย ราดซาวร์ครีม และโรยชีส เสิร์ฟร้อนๆ"
+      ],
+      "note": "แซนด์วิชสตรีทฟู้ดสีแดงสดอันเป็นเอกลักษณ์ของเม็กซิโก หอมพริกแห้งกวาฮิโยและมันฝรั่งโชริโซ"
+    },
+    {
+      "recipe_id": "mx_pop_060",
+      "id": "mx_pop_060",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ชิลาคิเลสซอสเขียวไข่ดาวชีส",
+      "title_en": "Chilaquiles Verdes",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "mainIngredient": "ตอร์ตียาชิปส์และไข่ดาว",
+      "mainIngredient_en": "Tortilla Chips & Egg",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "460 kcal",
+      "kcal": 460,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "มื้อเช้า",
+        "จานด่วน"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_060.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_060.webp"
+      ],
+      "ingredients": [
+        "ตอร์ตียาชิปส์ข้าวโพดกรอบ: 100 กรัม",
+        "ซัลซ่ามะเขือเทศเขียว (Salsa Verde): 180 มล.",
+        "ไข่ไก่ทอดดาว: 1 ฟอง",
+        "ซาวร์ครีมและชีสเฟรสโก: 3 ช้อนโต๊ะ",
+        "ผักชีและหอมแดงซอย: เล็กน้อย"
+      ],
+      "steps": [
+        "ตั้งกระทะอุ่นซัลซ่าเขียวให้เดือดอ่อนๆ",
+        "ใส่ตอร์ตียาชิปส์ลงคลุกเร็วๆ 1-2 นาทีให้ซอสเคลือบทั่วแต่ยังคงความกรอบบางส่วน",
+        "ตักใส่จาน โปะไข่ดาวเยิ้มๆ ด้านบน ราดซาวร์ครีม โรยชีสและผักชี เสิร์ฟทันที"
+      ],
+      "note": "อาหารเช้าสุดคลาสสิกของเม็กซิโก เปรี้ยวหอมสดชื่นจากซัลซ่ามะเขือเทศเขียว"
+    },
+    {
+      "recipe_id": "mx_pop_061",
+      "id": "mx_pop_061",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ไข่ดาวบนตอร์ตียาถั่วดำแฮมกล้วยทอด",
+      "title_en": "Huevos Motulenos",
+      "category": "มื้อเช้า",
+      "universalCategory": "breakfast_bakery",
+      "mainIngredient": "ไข่ไก่และถั่วดำบด",
+      "mainIngredient_en": "Eggs & Black Beans",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "510 kcal",
+      "kcal": 510,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "มื้อเช้า"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_061.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_061.webp"
+      ],
+      "ingredients": [
+        "แผ่นตอร์ตียาข้าวโพดจี่กรอบ: 2 แผ่น",
+        "ถั่วดำบดอุ่น: 4 ช้อนโต๊ะ",
+        "ไข่ดาว: 2 ฟอง",
+        "ซอสมะเขือเทศเม็กซิกัน: 4 ช้อนโต๊ะ",
+        "แฮมหั่นเต๋าและถั่วลันเตาต้ม: 50 กรัม",
+        "กล้วยหอมหรือกล้วยน้ำว้าหั่นชิ้นทอดเนย: 4 ชิ้น"
+      ],
+      "steps": [
+        "ทาถั่วดำบดอุ่นๆ ลงบนแผ่นตอร์ตียาจี่กรอบ วางไข่ดาวทับด้านบน",
+        "ราดซอสมะเขือเทศอุ่นๆ โรยแฮมหั่นเต๋าและถั่วลันเตาต้ม",
+        "จัดกล้วยทอดหวานหอมเคียงข้างจาน เสิร์ฟเป็นมื้อเช้าครบ 5 หมู่"
+      ],
+      "note": "อาหารเช้าประจำเมืองโมตุล รัฐยูกาตัน ผสานรสเค็มมันของไข่แฮมกับความหวานหอมของกล้วยทอด"
+    },
+    {
+      "recipe_id": "mx_pop_062",
+      "id": "mx_pop_062",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ซุปไก่มะนาวยูกาตันเส้นตอร์ตียากรอบ",
+      "title_en": "Sopa de Lima",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "อกไก่ฉีกและมะนาว",
+      "mainIngredient_en": "Chicken & Lime",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "290 kcal",
+      "kcal": 290,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ซุป",
+        "สุขภาพ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_062.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_062.webp"
+      ],
+      "ingredients": [
+        "น้ำซุปไก่ใส: 600 มล.",
+        "อกไก่ต้มฉีกเส้น: 150 กรัม",
+        "น้ำมะนาวสดและมะนาวฝานแว่น: 1 ลูก",
+        "หอมใหญ่ กระเทียม และออริกาโน: 40 กรัม",
+        "เส้นตอร์ตียาข้าวโพดอบกรอบสำหรับโรยหน้า: 30 กรัม"
+      ],
+      "steps": [
+        "ต้มน้ำซุปไก่กับหอมใหญ่ กระเทียม และออริกาโนประมาณ 15 นาทีจนหอม",
+        "ใส่อกไก่ฉีกและบีบน้ำมะนาวสดปรุงรสด้วยเกลือให้ได้รสกลมกล่อมเปรี้ยวหอมสดชื่น",
+        "ตักใส่ชาม โรยเส้นตอร์ตียาอบกรอบและวางมะนาวฝานแว่นเสิร์ฟร้อนๆ"
+      ],
+      "note": "ซุปใสขึ้นชื่อของแคว้นยูกาตัน หอมมะนาว ซดคล่องคอ ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ"
+    },
+    {
+      "recipe_id": "mx_pop_063",
+      "id": "mx_pop_063",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ซุปตอร์ตียามะเขือเทศอะโวคาโด",
+      "title_en": "Sopa Azteca",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "มะเขือเทศและอะโวคาโด",
+      "mainIngredient_en": "Tomato & Avocado",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "350 kcal",
+      "kcal": 350,
+      "dietaryTags": [
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ซุป",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_063.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_063.webp"
+      ],
+      "ingredients": [
+        "มะเขือเทศสุกย่างปั่นละเอียด: 250 กรัม",
+        "น้ำซุปไก่หรือน้ำซุปผัก: 500 มล.",
+        "อกไก่ฉีก (ใส่หรือไม่ใส่ก็ได้): 100 กรัม",
+        "อะโวคาโดหั่นชิ้น: 1/2 ลูก",
+        "เส้นตอร์ตียาอบกรอบ ซาวร์ครีม และชีสขูด: 4 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดมะเขือเทศปั่นกับกระเทียมและหอมใหญ่ในน้ำมันเล็กน้อยจนหอม",
+        "เติมน้ำซุปเคี่ยวไฟอ่อน 15 นาทีจนซุปเนียนหอม ใส่อกไก่ฉีกและปรุงเกลือตามชอบ",
+        "ตักใส่ชาม ตกแต่งด้วยอะโวคาโดสด ซาวร์ครีม ชีส และเส้นตอร์ตียากรอบก่อนเสิร์ฟ"
+      ],
+      "note": "ซุปแอซเท็กสูตรดั้งเดิม รสเปรี้ยวหวานธรรมชาติจากมะเขือเทศและมันนุ่มจากอะโวคาโด"
+    },
+    {
+      "recipe_id": "mx_pop_064",
+      "id": "mx_pop_064",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "สลัดข้าวโพดย่างชีสมะนาวพริกป่น",
+      "title_en": "Esquites",
+      "category": "ทานเล่น",
+      "universalCategory": "snacks_sides",
+      "mainIngredient": "ข้าวโพดหวานย่าง",
+      "mainIngredient_en": "Charred Sweet Corn",
+      "time": "15 นาที",
+      "time_en": "15 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "280 kcal",
+      "kcal": 280,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ทานเล่น",
+        "สตรีทฟู้ด",
+        "จานด่วน"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_064.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_064.webp"
+      ],
+      "ingredients": [
+        "เมล็ดข้าวโพดหวาน: 250 กรัม",
+        "เนยจืด: 1 ช้อนโต๊ะ",
+        "มายองเนสและซาวร์ครีม: อย่างละ 1 ช้อนโต๊ะ",
+        "ชีสโคติยาหรือพาร์เมซานขูด: 2 ช้อนโต๊ะ",
+        "น้ำมะนาวสด ผักชีสับ และพริกป่นทาฮิน: เล็กน้อย"
+      ],
+      "steps": [
+        "คั่วเมล็ดข้าวโพดกับเนยจืดในกระทะไฟแรงจนมีรอยเกรียมหอม",
+        "ปิดไฟ คลุกข้าวโพดร้อนๆ กับมายองเนส ซาวร์ครีม น้ำมะนาว และผักชีสับ",
+        "ตักใส่ถ้วย โรยชีสขูดและพริกป่นเล็กน้อย เสิร์ฟคู่ซีกมะนาว"
+      ],
+      "note": "สตรีทฟู้ดถ้วยโปรดของชาวเม็กซิกัน หอมหวานข้าวโพดคั่วตัดกับมะนาวและชีส"
+    },
+    {
+      "recipe_id": "mx_pop_065",
+      "id": "mx_pop_065",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ซุปถั่วแดงเม็กซิกันเบคอนไส้กรอก",
+      "title_en": "Frijoles Charros",
+      "category": "ซุป/แกง",
+      "universalCategory": "soups_curries",
+      "mainIngredient": "ถั่วปินโต/ถั่วแดงและเบคอน",
+      "mainIngredient_en": "Pinto Beans & Bacon",
+      "time": "40 นาที",
+      "time_en": "40 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "420 kcal",
+      "kcal": 420,
+      "dietaryTags": [
+        "High-Protein",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ซุป",
+        "ถั่ว"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_065.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_065.webp"
+      ],
+      "ingredients": [
+        "ถั่วปินโตหรือถั่วแดงต้มสุก: 250 กรัม",
+        "เบคอนและไส้กรอกหั่นชิ้น: 100 กรัม",
+        "มะเขือเทศและหอมใหญ่หั่นเต๋า: 100 กรัม",
+        "กระเทียมสับและยี่หร่าป่น: 1 ช้อนชา",
+        "น้ำซุป: 450 มล.",
+        "ผักชีสดสำหรับโรยหน้า"
+      ],
+      "steps": [
+        "เจียวเบคอนและไส้กรอกในหม้อจนหอมเหลือง",
+        "ใส่หอมใหญ่ กระเทียม และมะเขือเทศลงผัดจนนิ่ม เติมยี่หร่าป่น",
+        "ใส่ถั่วต้มสุกและน้ำซุป เคี่ยวไฟอ่อน 20 นาทีให้น้ำซุปข้นหอมกลมกล่อม",
+        "โรยผักชีสดแล้วตักเสิร์ฟร้อนๆ"
+      ],
+      "note": "ซุปถั่วสไตล์คาวบอยเม็กซิกัน อุดมโปรตีนและไฟเบอร์ หอมเบคอนและมะเขือเทศ"
+    },
+    {
+      "recipe_id": "mx_pop_066",
+      "id": "mx_pop_066",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "ซุกกินีผัดข้าวโพดมะเขือเทศชีส",
+      "title_en": "Calabacitas con Queso",
+      "category": "สุขภาพ",
+      "universalCategory": "healthy_salad",
+      "mainIngredient": "ซุกกินีและข้าวโพดหวาน",
+      "mainIngredient_en": "Zucchini & Corn",
+      "time": "20 นาที",
+      "time_en": "20 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "270 kcal",
+      "kcal": 270,
+      "dietaryTags": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "สุขภาพ",
+        "มังสวิรัติ",
+        "ผู้สูงอายุ"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_066.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_066.webp"
+      ],
+      "ingredients": [
+        "ซุกกินีหั่นเต๋า: 250 กรัม",
+        "เมล็ดข้าวโพดหวาน: 100 กรัม",
+        "มะเขือเทศหั่นเต๋า: 100 กรัม",
+        "หอมใหญ่และกระเทียมสับ: 40 กรัม",
+        "ชีสมอสซาเรลลาหรือมอนเทอเรย์แจ็กขูด: 60 กรัม",
+        "น้ำมันมะกอกและเกลือ: 1 ช้อนโต๊ะ"
+      ],
+      "steps": [
+        "ผัดหอมใหญ่และกระเทียมในน้ำมันมะกอกจนหอม",
+        "ใส่ซุกกินีและข้าวโพดหวานลงผัด 5 นาทีจนซุกกินีสุกนุ่มแต่ไม่เละ",
+        "ใส่มะเขือเทศหั่นเต๋า ปรุงรสเกลือและพริกไทยขาว ผัดต่ออีก 2 นาที",
+        "โรยชีสขูดแล้วปิดฝา 1 นาทีจนชีสละลายเยิ้ม เสิร์ฟร้อนๆ"
+      ],
+      "note": "ผัดผักสีสวยรสหวานธรรมชาติ นุ่มย่อยง่าย ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุและเด็ก"
+    },
+    {
+      "recipe_id": "mx_pop_067",
+      "id": "mx_pop_067",
+      "packId": "mx_popular",
+      "country": "MX",
+      "cuisine_th": "เม็กซิโก",
+      "cuisine_en": "Mexican",
+      "title": "แป้งทอดกรอบแผ่นบางโรยน้ำตาลอบเชย",
+      "title_en": "Bunuelos",
+      "category": "ของหวาน",
+      "universalCategory": "desserts_drinks",
+      "mainIngredient": "แป้งสาลีและน้ำตาลอบเชย",
+      "mainIngredient_en": "Fried Dough & Cinnamon Sugar",
+      "time": "30 นาที",
+      "time_en": "30 min",
+      "difficulty": "ง่าย",
+      "difficulty_en": "Easy",
+      "calories": "310 kcal",
+      "kcal": 310,
+      "dietaryTags": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "เม็กซิกัน",
+        "ของหวาน",
+        "ทานเล่น"
+      ],
+      "image": "images/packs/mx_popular/mx_pop_067.webp",
+      "images": [
+        "images/packs/mx_popular/mx_pop_067.webp"
+      ],
+      "ingredients": [
+        "แป้งสาลีอเนกประสงค์: 200 กรัม",
+        "เนยจืดละลาย: 25 กรัม",
+        "ไข่ไก่: 1 ฟอง",
+        "น้ำอุ่นและผงฟู: 70 มล. / 1/2 ช้อนชา",
+        "น้ำตาลทรายผสมผงอบเชยสำหรับโรยหน้า: 4 ช้อนโต๊ะ",
+        "น้ำมันสำหรับทอด"
+      ],
+      "steps": [
+        "นวดแป้งสาลี ผงฟู ไข่ไก่ เนยละลาย และน้ำอุ่นจนเนียน พักแป้ง 15 นาที",
+        "แบ่งแป้งเป็นก้อนเล็กแล้วคลึงให้เป็นแผ่นกลมบางมาก",
+        "ทอดในน้ำมันร้อนไฟกลางข้างละ 45-60 วินาทีจนพองกรอบสีเหลืองทอง",
+        "ตักซับน้ำมันแล้วคลุกน้ำตาลทรายผสมผงอบเชยขณะยังอุ่น เสิร์ฟกรอบหอม"
+      ],
+      "note": "ขนมหวานเทศกาลของเม็กซิโก แผ่นบางกรอบฟูหอมกลิ่นอบเชย ทานเพลินคู่กาแฟหรือโกโก้ร้อน"
     }
   ]
 };

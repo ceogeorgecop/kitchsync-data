@@ -1,8 +1,8 @@
 {
   "version": "1.1.0",
-  "updatedAt": "2026-11-25T10:44:35.806Z",
+  "updatedAt": "2026-11-26T10:33:34.206Z",
   "totalCountries": 11,
-  "totalRecipes": 1674,
+  "totalRecipes": 1754,
   "countriesFile": "data/countries.json",
   "ingredientsFile": "data/ingredients.js",
   "packs": [
@@ -142,9 +142,9 @@
       "name_th": "อาหารอิตาลี (ชุดเต็ม)",
       "name_en": "Italian (Full Pack)",
       "file": "data/packs/it_popular.js",
-      "count": 88,
-      "sizeMb": "3 MB",
-      "version": "2026.11.25.1"
+      "count": 110,
+      "sizeMb": "4 MB",
+      "version": "2026.11.26.1"
     },
     {
       "id": "mx_popular",
@@ -153,9 +153,9 @@
       "name_th": "อาหารเม็กซิโก (ชุดเต็ม)",
       "name_en": "Mexican (Full Pack)",
       "file": "data/packs/mx_popular.js",
-      "count": 53,
-      "sizeMb": "2 MB",
-      "version": "2026.11.25.1"
+      "count": 72,
+      "sizeMb": "3 MB",
+      "version": "2026.11.26.1"
     },
     {
       "id": "kr_popular",
@@ -164,9 +164,9 @@
       "name_th": "อาหารเกาหลี (ชุดเต็ม)",
       "name_en": "Korean (Full Pack)",
       "file": "data/packs/kr_popular.js",
-      "count": 52,
+      "count": 62,
       "sizeMb": "2 MB",
-      "version": "2026.11.25.1"
+      "version": "2026.11.26.1"
     },
     {
       "id": "cn_popular",
@@ -175,9 +175,9 @@
       "name_th": "อาหารจีน (ชุดเต็ม)",
       "name_en": "Chinese (Full Pack)",
       "file": "data/packs/cn_popular.js",
-      "count": 50,
+      "count": 62,
       "sizeMb": "2 MB",
-      "version": "2026.11.25.1"
+      "version": "2026.11.26.1"
     },
     {
       "id": "es_popular",
@@ -186,9 +186,9 @@
       "name_th": "อาหารสเปน (ชุดเต็ม)",
       "name_en": "Spanish (Full Pack)",
       "file": "data/packs/es_popular.js",
-      "count": 49,
+      "count": 58,
       "sizeMb": "2 MB",
-      "version": "2026.11.25.1"
+      "version": "2026.11.26.1"
     },
     {
       "id": "in_popular",
@@ -197,9 +197,9 @@
       "name_th": "อาหารอินเดีย (ชุดเต็ม)",
       "name_en": "Indian (Full Pack)",
       "file": "data/packs/in_popular.js",
-      "count": 48,
+      "count": 56,
       "sizeMb": "2 MB",
-      "version": "2026.11.25.1"
+      "version": "2026.11.26.1"
     }
   ]
 }
