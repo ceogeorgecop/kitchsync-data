@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>นโยบายความเป็นส่วนตัว — KitchSync Privacy Policy</title>
+  <meta name="description" content="นโยบายความเป็นส่วนตัวสำหรับแอปพลิเคชัน KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ) — Privacy Policy for KitchSync Android App" />
+  <style>
+    :root {
+      --emerald: #065f46;
+      --emerald-dark: #064e3b;
+      --emerald-soft: #ecfdf5;
+      --emerald-border: #a7f3d0;
+      --cream: #fdfcfb;
+      --card: #ffffff;
+      --ink: #1e293b;
+      --muted: #475569;
+      --border: #e2e8f0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans Thai', 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background-color: var(--cream);
+      color: var(--ink);
+      line-height: 1.72;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .topbar {
+      background: linear-gradient(135deg, var(--emerald-dark) 0%, var(--emerald) 100%);
+      color: #ffffff;
+      padding: 20px 16px 28px;
+      box-shadow: 0 4px 18px rgba(6, 78, 59, 0.18);
+    }
+
+    .topbar-inner {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    .topbar-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.16);
+      border: 1px solid rgba(255, 255, 255, 0.28);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 1.25rem;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+    }
+
+    .brand p {
+      margin: 2px 0 0;
+      font-size: 0.82rem;
+      color: #d1fae5;
+    }
+
+    .lang-switch {
+      display: inline-flex;
+      background: rgba(0, 0, 0, 0.22);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 999px;
+      padding: 3px;
+      gap: 2px;
+    }
+
+    .lang-btn {
+      border: 0;
+      background: transparent;
+      color: #d1fae5;
+      font-size: 0.82rem;
+      font-weight: 700;
+      padding: 6px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.16s ease;
+      font-family: inherit;
+    }
+
+    .lang-btn.active {
+      background: #ffffff;
+      color: var(--emerald-dark);
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+
+    .meta-pill {
+      display: inline-block;
+      margin-top: 14px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #ecfdf5;
+      background: rgba(255, 255, 255, 0.14);
+      border: 1px solid rgba(255, 255, 255, 0.24);
+      padding: 4px 12px;
+      border-radius: 999px;
+    }
+
+    main {
+      max-width: 780px;
+      margin: -14px auto 48px;
+      padding: 0 16px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 20px 22px;
+      margin-bottom: 16px;
+      box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
+    }
+
+    .highlight-card {
+      background: var(--emerald-soft);
+      border-color: var(--emerald-border);
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 1.06rem;
+      font-weight: 800;
+      color: var(--emerald-dark);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    p {
+      margin: 0 0 10px;
+      font-size: 0.94rem;
+      color: var(--ink);
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul {
+      margin: 6px 0 0;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+      font-size: 0.93rem;
+      color: var(--ink);
+    }
+
+    li:last-child {
+      margin-bottom: 0;
+    }
+
+    .perm-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .perm-item {
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 12px 14px;
+    }
+
+    .perm-title {
+      font-weight: 800;
+      font-size: 0.92rem;
+      color: var(--emerald-dark);
+      margin-bottom: 4px;
+    }
+
+    .perm-code {
+      display: inline-block;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.74rem;
+      background: var(--emerald-soft);
+      color: var(--emerald);
+      border: 1px solid var(--emerald-border);
+      padding: 1px 7px;
+      border-radius: 6px;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+
+    .perm-desc {
+      margin: 0;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+
+    a {
+      color: var(--emerald);
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .contact-box {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      background: #f8fafc;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-top: 8px;
+      font-size: 0.9rem;
+    }
+
+    .hidden {
+      display: none !important;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #64748b;
+      padding: 10px 16px 32px;
+    }
+
+    @media (min-width: 640px) {
+      .topbar {
+        padding: 26px 24px 34px;
+      }
+      .card {
+        padding: 24px 28px;
+      }
+      .perm-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="topbar-row">
+        <div class="brand">
+          <div class="brand-icon" aria-hidden="true">🍳</div>
+          <div>
+            <h1>KitchSync</h1>
+            <p id="brand-subtitle">ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ • นโยบายความเป็นส่วนตัว</p>
+          </div>
+        </div>
+        <div class="lang-switch" role="group" aria-label="Language Switcher">
+          <button type="button" id="btn-lang-th" class="lang-btn active" onclick="setLang('th')">🇹🇭 ภาษาไทย</button>
+          <button type="button" id="btn-lang-en" class="lang-btn" onclick="setLang('en')">🇺🇸 English</button>
+        </div>
+      </div>
+      <div id="updated-pill" class="meta-pill">อัปเดตล่าสุด: 26 พฤศจิกายน 2026</div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ==================== THAI VERSION ==================== -->
+    <div id="content-th">
+      <section class="card highlight-card">
+        <h2>🛡️ สรุปสาระสำคัญด้านความเป็นส่วนตัว</h2>
+        <p>
+          แอปพลิเคชัน <strong>KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ)</strong> พัฒนาโดย <strong>จ๊อด (ceogeorgecop)</strong>
+          ให้ความสำคัญกับความเป็นส่วนตัวของผู้ใช้เป็นอันดับแรก แอปทำงานแบบ <strong>Local-First</strong>
+          โดยเก็บข้อมูลทั้งหมดไว้ภายในอุปกรณ์ของผู้ใช้เอง ไม่มีการบังคับสมัครสมาชิก ไม่มีการติดตามโฆษณา และไม่มีการส่งข้อมูลส่วนตัวของผู้ใช้ขึ้นเซิร์ฟเวอร์ภายนอกในเวอร์ชันปัจจุบัน
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>1. ข้อมูลผู้พัฒนาและแอปพลิเคชัน</h2>
+        <p>
+          นโยบายความเป็นส่วนตัวนี้ใช้กับแอปพลิเคชัน Android ชื่อ <strong>KitchSync (ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ)</strong>
+          (Package ID: <code>com.jod.kitchsync</code>) พัฒนาและดูแลโดย <strong>จ๊อด (ceogeorgecop)</strong>
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>2. การจัดเก็บข้อมูลในเครื่อง (Local-First Storage)</h2>
+        <p>ข้อมูลทั้งหมดที่ผู้ใช้สร้างหรือบันทึกภายในแอปจะถูกจัดเก็บไว้ในหน่วยความจำภายในเครื่องของผู้ใช้เท่านั้น ได้แก่:</p>
+        <ul>
+          <li>รายการวัตถุดิบในคลัง (ชื่อ ปริมาณ หน่วยนับ ราคา วันที่รับเข้า วันหมดอายุ และรูปถ่ายวัตถุดิบ)</li>
+          <li>รายการรหัสบาร์โค้ดที่ผู้ใช้บันทึกไว้เพื่อช่วยกรอกข้อมูลอัตโนมัติในครั้งถัดไป</li>
+          <li>สูตรอาหารส่วนตัว รายการโปรด (❤️) Note ซื้อของ ประวัติการใช้งาน และการตั้งค่าแจ้งเตือน</li>
+          <li>แคชรูปภาพและแพ็กสูตรอาหารที่ดาวน์โหลดเพื่อใช้งานแบบออฟไลน์</li>
+        </ul>
+        <p>
+          ข้อมูลเหล่านี้ถูกจัดเก็บผ่าน <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong> และ <strong>SharedPreferences</strong>
+          ภายในเครื่องของคุณเท่านั้น ไม่มีการอัปโหลดหรือแชร์ข้อมูลส่วนบุคคลไปยังเซิร์ฟเวอร์ของบุคคลที่สามในเวอร์ชันปัจจุบัน
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>3. สิทธิ์การใช้งานที่แอปขอ (App Permissions)</h2>
+        <p>KitchSync ขอสิทธิ์การใช้งานเท่าที่จำเป็นต่อฟีเจอร์ที่ผู้ใช้เลือกกดใช้งานเท่านั้น:</p>
+        <div class="perm-grid">
+          <div class="perm-item">
+            <div class="perm-title">📷 กล้อง <span class="perm-code">CAMERA</span></div>
+            <p class="perm-desc">ใช้เฉพาะเมื่อผู้ใช้กดปุ่มสแกนบาร์โค้ด (ประมวลผลบนเครื่องด้วย Google ML Kit Barcode Scanning โดยไม่ส่งภาพออกนอกเครื่อง) หรือเมื่อผู้ใช้เลือกถ่ายภาพวัตถุดิบ/สูตรอาหารด้วยตนเอง</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🎙️ ไมโครโฟน <span class="perm-code">RECORD_AUDIO</span></div>
+            <p class="perm-desc">ใช้เฉพาะเมื่อผู้ใช้กดปุ่มไมโครโฟนเพื่อเพิ่มวัตถุดิบเข้าคลังด้วยคำสั่งเสียง แอปไม่ได้บันทึกหรือเก็บไฟล์เสียงของผู้ใช้ไว้</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🔔 การแจ้งเตือน <span class="perm-code">POST_NOTIFICATIONS</span></div>
+            <p class="perm-desc">ใช้สำหรับส่งการแจ้งเตือนภายในเครื่อง (Local Notification) เพื่อเตือนวัตถุดิบที่ใกล้หมดอายุหรือหมดอายุวันนี้ตามเวลาที่ผู้ใช้ตั้งค่าไว้</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🌐 อินเทอร์เน็ต <span class="perm-code">INTERNET</span></div>
+            <p class="perm-desc">ใช้เฉพาะเมื่อผู้ใช้กดดาวน์โหลด/อัปเดตแพ็กสูตรอาหารและรูปภาพจากคลัง KitchSync บน GitHub Pages หรือค้นหาชื่อสินค้าจากรหัสบาร์โค้ดผ่าน Open Food Facts API</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>4. บริการภายนอกที่แอปเชื่อมต่อเมื่อผู้ใช้สั่งงาน</h2>
+        <ul>
+          <li><strong>GitHub Pages (<code>ceogeorgecop.github.io/kitchsync-data</code>):</strong> ใช้สำหรับดาวน์โหลดไฟล์สูตรอาหาร รูปภาพอาหาร และตรวจสอบอัปเดตแพ็กสูตรอาหารเท่านั้น ไม่มีการส่งข้อมูลส่วนตัวของผู้ใช้</li>
+          <li><strong>Open Food Facts API (<code>world.openfoodfacts.org</code>):</strong> ใช้ส่งเฉพาะรหัสบาร์โค้ดสินค้าเมื่อผู้ใช้สแกนบาร์โค้ดที่ยังไม่มีในเครื่อง เพื่อช่วยเติมชื่อสินค้าอัตโนมัติ</li>
+          <li><strong>Google ML Kit (On-Device):</strong> ประมวลผลการอ่านบาร์โค้ดภายในอุปกรณ์โดยตรง</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>5. การเก็บรักษาและการลบข้อมูล (Data Retention &amp; Deletion)</h2>
+        <p>
+          เนื่องจากข้อมูลทั้งหมดถูกเก็บไว้ในเครื่องของผู้ใช้เอง คุณมีสิทธิ์ควบคุมและลบข้อมูลทั้งหมดได้ตลอดเวลาด้วยตนเองผ่านวิธีใดวิธีหนึ่งดังนี้:
+        </p>
+        <ul>
+          <li>ลบรายการวัตถุดิบ สูตรอาหาร หรือแพ็กสูตรอาหารที่ต้องการได้โดยตรงภายในแอป</li>
+          <li>ล้างข้อมูลแอปทั้งหมดผ่านการตั้งค่าของ Android (<em>การตั้งค่า &gt; แอป &gt; KitchSync &gt; ที่เก็บข้อมูล &gt; ล้างข้อมูล</em>)</li>
+          <li>ถอนการติดตั้งแอปพลิเคชัน KitchSync ออกจากเครื่อง (ข้อมูลภายในเครื่องทั้งหมดจะถูกลบออกทันที)</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>6. ช่องทางติดต่อผู้พัฒนา (Contact Developer)</h2>
+        <p>หากคุณมีคำถาม ข้อเสนอแนะ หรือข้อสงสัยเกี่ยวกับนโยบายความเป็นส่วนตัวนี้ สามารถติดต่อผู้พัฒนาได้โดยตรงผ่านช่องทางด้านล่าง:</p>
+        <div class="contact-box">
+          <div><strong>ผู้พัฒนา:</strong> จ๊อด (ceogeorgecop)</div>
+          <div><strong>GitHub Issues / แจ้งปัญหา:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
+          <div><strong>GitHub Profile:</strong> <a href="https://github.com/ceogeorgecop" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop</a></div>
+          <div><strong>อีเมลติดต่อผู้พัฒนา:</strong> <a href="mailto:ceogeorgecop@users.noreply.github.com">ceogeorgecop@users.noreply.github.com</a></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ==================== ENGLISH VERSION ==================== -->
+    <div id="content-en" class="hidden">
+      <section class="card highlight-card">
+        <h2>🛡️ Privacy Summary</h2>
+        <p>
+          <strong>KitchSync (Smart Kitchen Inventory &amp; Recipe Assistant)</strong>, developed by <strong>Jod (ceogeorgecop)</strong>,
+          is built with a <strong>Local-First</strong> privacy architecture. All your kitchen inventory, saved barcodes, favorite recipes,
+          and preferences are stored locally on your device. No account registration is required, no ad tracking is used, and no personal data is uploaded to external servers in the current version.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>1. App &amp; Developer Information</h2>
+        <p>
+          This Privacy Policy applies to the Android application <strong>KitchSync</strong> (Package ID: <code>com.jod.kitchsync</code>),
+          developed and maintained by <strong>Jod (ceogeorgecop)</strong>.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>2. Local-First Data Storage</h2>
+        <p>All user-created and saved data stays strictly inside your device's local storage, including:</p>
+        <ul>
+          <li>Kitchen inventory items (name, quantity, unit, price, received date, expiry date, and item photos)</li>
+          <li>Locally remembered barcode-to-ingredient mappings for instant future scans</li>
+          <li>Custom recipes, favorites (❤️), shopping notes, usage history, and expiry alert settings</li>
+          <li>Downloaded recipe packs and cached food images for offline access</li>
+        </ul>
+        <p>
+          This data is stored locally using <strong>IndexedDB (Dexie.js)</strong>, <strong>Cache Storage</strong>, and Android <strong>SharedPreferences</strong>.
+          We do not collect, sell, or transmit your personal data to external servers in the current version.
+        </p>
+      </section>
+
+      <section class="card">
+        <h2>3. App Permissions</h2>
+        <p>KitchSync requests only the permissions required for features you actively choose to use:</p>
+        <div class="perm-grid">
+          <div class="perm-item">
+            <div class="perm-title">📷 Camera <span class="perm-code">CAMERA</span></div>
+            <p class="perm-desc">Used only when you tap the barcode scanner (processed on-device using Google ML Kit Barcode Scanning without uploading camera frames) or when taking photos of ingredients/recipes.</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🎙️ Microphone <span class="perm-code">RECORD_AUDIO</span></div>
+            <p class="perm-desc">Used only when you tap the microphone button to add ingredients by voice. KitchSync does not record or store audio files.</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🔔 Notifications <span class="perm-code">POST_NOTIFICATIONS</span></div>
+            <p class="perm-desc">Used strictly for local on-device notifications to remind you about expiring or expired ingredients at your chosen daily time.</p>
+          </div>
+          <div class="perm-item">
+            <div class="perm-title">🌐 Internet <span class="perm-code">INTERNET</span></div>
+            <p class="perm-desc">Used only when you download/update recipe packs from KitchSync GitHub Pages or look up an unknown product barcode via the Open Food Facts API.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>4. Third-Party Services (On-Demand Only)</h2>
+        <ul>
+          <li><strong>GitHub Pages (<code>ceogeorgecop.github.io/kitchsync-data</code>):</strong> Used solely to download recipe pack data, food images, and pack update manifests. No personal data is sent.</li>
+          <li><strong>Open Food Facts API (<code>world.openfoodfacts.org</code>):</strong> When scanning an unrecognized barcode while online, only the barcode number is queried to look up public product names.</li>
+          <li><strong>Google ML Kit Barcode Scanning:</strong> Runs locally on-device for fast, private barcode recognition.</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>5. Data Retention &amp; Deletion</h2>
+        <p>
+          Because all data is stored locally on your device, you have full control to delete your data at any time:
+        </p>
+        <ul>
+          <li>Delete individual ingredients, recipes, or downloaded packs directly inside the app.</li>
+          <li>Clear all app data via Android Settings (<em>Settings &gt; Apps &gt; KitchSync &gt; Storage &gt; Clear Data</em>).</li>
+          <li>Uninstall KitchSync from your device — all local data is permanently removed immediately.</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>6. Contact Developer</h2>
+        <p>If you have any questions or requests regarding this Privacy Policy, please contact the developer via:</p>
+        <div class="contact-box">
+          <div><strong>Developer:</strong> Jod (ceogeorgecop)</div>
+          <div><strong>GitHub Issues / Support:</strong> <a href="https://github.com/ceogeorgecop/kitchsync-data/issues" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop/kitchsync-data/issues</a></div>
+          <div><strong>GitHub Profile:</strong> <a href="https://github.com/ceogeorgecop" target="_blank" rel="noopener noreferrer">https://github.com/ceogeorgecop</a></div>
+          <div><strong>Developer Email:</strong> <a href="mailto:ceogeorgecop@users.noreply.github.com">ceogeorgecop@users.noreply.github.com</a></div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2026 KitchSync by ceogeorgecop • Last updated: November 26, 2026
+  </footer>
+
+  <script>
+    function setLang(lang) {
+      var isEn = lang === 'en';
+      document.documentElement.lang = isEn ? 'en' : 'th';
+      document.getElementById('content-th').classList.toggle('hidden', isEn);
+      document.getElementById('content-en').classList.toggle('hidden', !isEn);
+      document.getElementById('btn-lang-th').classList.toggle('active', !isEn);
+      document.getElementById('btn-lang-en').classList.toggle('active', isEn);
+      document.getElementById('brand-subtitle').textContent = isEn
+        ? 'Smart Kitchen Inventory Assistant • Privacy Policy'
+        : 'ผู้ช่วยจัดการวัตถุดิบในครัวอัจฉริยะ • นโยบายความเป็นส่วนตัว';
+      document.getElementById('updated-pill').textContent = isEn
+        ? 'Last Updated: November 26, 2026'
+        : 'อัปเดตล่าสุด: 26 พฤศจิกายน 2026';
+    }
+
+    (function initLangFromQuery() {
+      try {
+        var params = new URLSearchParams(window.location.search || '');
+        if (params.get('lang') === 'en') setLang('en');
+      } catch (_) {}
+    })();
+  </script>
+</body>
+</html>
