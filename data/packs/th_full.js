@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Thai Full (766 recipes)
-// Place this file at assets/data/packs/th_full.js
+// KitchSync Master Pack: th_full (492 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.th_full = {
   "pack_id": "th_full",
@@ -41,7 +40,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pad Thai with Fresh Shrimp",
+      "desc_en": "Simmer tamarind paste, palm sugar, and fish sauce together before stir-frying so every rice noodle absorbs an even sweet-tangy glaze.",
+      "ingredients_en": [
+        "Fresh shrimp: 6 pcs",
+        "Chanthaburi rice noodles, soaked until pliable: 150 g",
+        "Eggs: 2",
+        "Firm yellow tofu, diced: 50 g",
+        "Fresh bean sprouts: 100 g",
+        "Garlic chives, cut into lengths: 1 bunch",
+        "Roasted crushed peanuts: 2 tbsp",
+        "Tamarind paste, palm sugar, and fish sauce: 2 tbsp each"
+      ],
+      "steps_en": [
+        "Heat oil in a wok, sauté shallots and diced yellow tofu until fragrant, then stir-fry fresh shrimp until just cooked and set aside.",
+        "Add soaked rice noodles with a splash of water, stir-fry until tender, then season with tamarind paste, palm sugar, and fish sauce.",
+        "Push noodles to one side, crack in the eggs, scramble lightly until almost set, then fold the noodles over to coat.",
+        "Toss in the cooked shrimp, bean sprouts, and garlic chives over high heat quickly. Serve with roasted peanuts and lime wedges."
+      ]
     },
     {
       "title": "แกงเขียวหวานไก่",
@@ -74,7 +91,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Green Curry Chicken",
+      "desc_en": "Soak quartered Thai eggplants in salted water and add them when the curry is at a rolling boil to keep them bright green and crisp.",
+      "ingredients_en": [
+        "Chicken meat, cut into bite-sized pieces: 250 g",
+        "Green curry paste: 2 tbsp",
+        "Thick coconut cream: 1 cup",
+        "Thin coconut milk: 1.5 cups",
+        "Thai eggplants, quartered: 5",
+        "Pea eggplants, stemmed: 1/3 cup",
+        "Fresh sweet basil leaves: 1 bunch",
+        "Red spur chilies, diagonally sliced: 2",
+        "Kaffir lime leaves, torn: 4",
+        "Fish sauce 1.5 tbsp and palm sugar 1 tsp"
+      ],
+      "steps_en": [
+        "Simmer half a cup of coconut cream over medium heat until oil separates, then fry the green curry paste until fragrant and vibrant green.",
+        "Add chicken pieces and stir-fry with the curry paste until sealed. Pour in the remaining coconut cream and thin coconut milk, simmering until tender.",
+        "Bring to a rolling boil, add Thai eggplants and pea eggplants, submerging them so they do not darken. Season with fish sauce and palm sugar.",
+        "Add torn kaffir lime leaves, sliced red chilies, and sweet basil leaves, press gently into the curry, turn off the heat immediately, and serve hot."
+      ]
     },
     {
       "title": "ต้มยำกุ้งน้ำข้น",
@@ -107,7 +144,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Tom Yum Goong",
+      "desc_en": "Always turn off the heat before adding fresh lime juice to preserve its bright citrus aroma and prevent bitterness.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 6 pcs",
+        "Straw mushrooms or shimeji mushrooms: 100 g",
+        "Sliced galangal 5 slices, bruised lemongrass 2 stalks, and torn kaffir lime leaves 5",
+        "Crushed bird's eye chilies: 8",
+        "Thai roasted chili paste (nam prik pao): 1.5 tbsp",
+        "Evaporated milk or coconut milk: 1/3 cup",
+        "Fresh lime juice: 2.5 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Sawtooth coriander and cilantro, chopped: 2 stalks",
+        "Clear stock: 2.5 cups"
+      ],
+      "steps_en": [
+        "Bring clear stock to a boil with galangal, lemongrass, and kaffir lime leaves until deeply aromatic.",
+        "Add mushrooms and cook briefly, then add fresh shrimp and simmer just until pink and bouncy (about 1–2 minutes).",
+        "Dissolve Thai chili paste in evaporated milk and stir into the pot. Season with fish sauce and crushed bird's eye chilies.",
+        "Turn off the heat, stir in fresh lime juice and chopped coriander, and serve immediately."
+      ]
     },
     {
       "title": "สี่สหายไข่ต้มกุ้งซอสมะขาม",
@@ -139,7 +196,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Four-Delight Soft-Boiled Eggs & Shrimp with Tamarind Sauce",
+      "desc_en": "Add 1 tsp salt to the boiling water and plunge the eggs into cold water right after cooking for easy peeling and smooth whites.",
+      "ingredients_en": [
+        "Chicken or duck eggs: 4 eggs",
+        "Fresh peeled shrimp: 6 pieces",
+        "Cooked minced pork: 100 g",
+        "Crispy fried sliced shallots: 3 tbsp",
+        "Crispy fried dried chilies: 6 pieces",
+        "Concentrated tamarind paste: 3 tbsp",
+        "Palm sugar: 2.5 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Cilantro leaves for garnish: 1 stalk"
+      ],
+      "steps_en": [
+        "Boil the eggs in boiling water for 6.5 minutes for soft-set jammy yolks, plunge into cold water, peel, halve, and arrange on a plate.",
+        "Blanch the shrimp and minced pork until just cooked and springy, then arrange in the center alongside the eggs.",
+        "Simmer tamarind paste, palm sugar, and fish sauce over low heat until glossy and thickened, balancing sour, sweet, and salty flavors.",
+        "Spoon the tamarind sauce over the eggs and shrimp, top with crispy fried shallots, fried chilies, and cilantro leaves, and serve."
+      ]
     },
     {
       "title": "ต้มข่าไก่ยอดมะพร้าวอ่อน",
@@ -171,7 +247,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tom Kha Gai (Coconut Galangal Chicken Soup)",
+      "desc_en": "Use young pinkish galangal sliced thinly so it stays tender enough to eat and gives a delicate aroma.",
+      "ingredients_en": [
+        "Chicken thigh or breast, sliced: 250 g",
+        "Fresh coconut milk: 2 cups",
+        "Young galangal, thinly sliced: 10 slices",
+        "Lemongrass, bruised and cut into lengths: 2 stalks",
+        "Kaffir lime leaves, torn: 5",
+        "Straw mushrooms, halved: 100 g",
+        "Red bird's eye chilies, crushed: 6",
+        "Fresh lime juice 2.5 tbsp and fish sauce 2 tbsp",
+        "Cilantro and green onions, chopped: 2 stalks"
+      ],
+      "steps_en": [
+        "Simmer thin coconut milk with young galangal, lemongrass, and kaffir lime leaves over medium-low heat until fragrant.",
+        "Add chicken pieces and cook gently without vigorous stirring until tender, then add straw mushrooms and thick coconut cream.",
+        "Season with fish sauce and crushed chilies; heat until steaming hot without boiling hard so the coconut milk stays smooth.",
+        "Turn off the heat, add fresh lime juice and chopped herbs, adjust to a balanced tangy-salty-creamy taste, and serve."
+      ]
     },
     {
       "title": "ต้มแซ่บกระดูกอ่อนหมู",
@@ -200,7 +295,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Pork Cartilage Soup (Tom Saap)",
+      "desc_en": "Add toasted rice powder and lime juice off the heat so the broth stays bright and fragrant without the rice clumping.",
+      "ingredients_en": [
+        "Pork soft-bone cartilage, chopped: 300 g",
+        "Galangal (5 slices), bruised lemongrass (2 stalks), kaffir lime leaves (5 leaves): 1 set",
+        "Crushed shallots: 4 bulbs",
+        "Roasted dried bird's eye chilies & crushed fresh chilies: 10 pieces",
+        "Freshly toasted rice powder: 1.5 tbsp",
+        "Fish sauce (2.5 tbsp) & fresh lime juice (3 tbsp): 1 set",
+        "Sliced culantro & green onions: 2 stalks"
+      ],
+      "steps_en": [
+        "Simmer the pork cartilage in lightly salted water over low heat for 25 minutes, skimming foam occasionally until tender.",
+        "Add galangal, lemongrass, crushed shallots, and kaffir lime leaves and simmer until aromatic.",
+        "Season with fish sauce, turn off the heat, and stir in fresh lime juice, roasted chilies, toasted rice powder, and sliced culantro."
+      ]
     },
     {
       "title": "แกงส้มชะอมไข่กุ้งสด",
@@ -229,7 +340,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sour Tamarind Curry with Acacia Omelet & Shrimp (Kaeng Som)",
+      "desc_en": "Simmer the acacia omelet pieces briefly before adding the shrimp so they soak up the tangy curry broth.",
+      "ingredients_en": [
+        "Fresh peeled shrimp: 200 g",
+        "Acacia pennata shoots (cha-om), picked: 1 bunch",
+        "Chicken eggs: 3 eggs",
+        "Southern or Central Thai sour curry paste (kaeng som): 2.5 tbsp",
+        "Concentrated tamarind paste: 4 tbsp",
+        "Palm sugar (2 tbsp) & fish sauce (2 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Beat the eggs with acacia shoots, pan-fry until golden on both sides, and cut into bite-sized squares.",
+        "Bring water to a boil and dissolve the sour curry paste thoroughly.",
+        "Season with tamarind paste, palm sugar, and fish sauce to achieve a balanced sour, sweet, salty, and spicy broth.",
+        "Add the acacia omelet squares and shrimp, simmer just until the shrimp are cooked, and serve hot."
+      ]
     },
     {
       "title": "พะแนงหมูนุ่ม",
@@ -259,7 +386,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tender Pork Panang Curry",
+      "desc_en": "Slice pork against the grain and simmer gently in coconut cream for melt-in-your-mouth tenderness.",
+      "ingredients_en": [
+        "Pork loin, thinly sliced: 250 g",
+        "Panang curry paste: 2 tbsp",
+        "Thick coconut cream: 1.5 cups",
+        "Pea eggplants: 1/3 cup",
+        "Kaffir lime leaves, finely julienned: 5",
+        "Red spur chilies, diagonally sliced: 2",
+        "Fish sauce 1.5 tbsp and palm sugar 1 tbsp"
+      ],
+      "steps_en": [
+        "Simmer half a cup of coconut cream over medium heat until oil separates, then fry Panang curry paste until fragrant.",
+        "Add sliced pork and coat evenly with the paste, then pour in the remaining coconut cream and simmer until tender and rich.",
+        "Season with fish sauce and palm sugar, add pea eggplants, and cook for 2 more minutes.",
+        "Top with finely julienned kaffir lime leaves and sliced red chilies, turn off the heat, and serve."
+      ]
     },
     {
       "title": "ผัดฉ่าปลากะพง",
@@ -288,7 +432,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Herb Stir-Fried Sea Bass (Pad Cha)",
+      "desc_en": "Lightly frying the sea bass before stir-frying keeps the pieces intact and prevents them from breaking apart in the sauce.",
+      "ingredients_en": [
+        "Sea bass fillet, cut into bite-sized pieces: 250 g",
+        "Julienne fingerroot (krachai): 1/3 cup",
+        "Fresh green peppercorns on the stem: 3 sprigs",
+        "Torn kaffir lime leaves (5 leaves) & Thai sweet basil (1 bunch): 1 set",
+        "Pounded red bird's eye chilies & garlic: 2 tbsp",
+        "Oyster sauce (1.5 tbsp) & fish sauce (1 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Dust the sea bass pieces lightly with crispy frying flour, fry until golden, and set aside.",
+        "Stir-fry the pounded chili and garlic until fragrant, then toss in julienned fingerroot, green peppercorns, and kaffir lime leaves.",
+        "Season with oyster sauce, fish sauce, a pinch of sugar, and 2 tbsp stock.",
+        "Add the fried sea bass and sweet basil leaves, toss gently to coat in the sauce, and remove from heat."
+      ]
     },
     {
       "title": "หมูทอดกระเทียมพริกไทย",
@@ -316,7 +476,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Garlic & Pepper Fried Pork",
+      "desc_en": "Fry small-clove Thai garlic over low heat for a sweeter aroma and long-lasting crunch without bitterness.",
+      "ingredients_en": [
+        "Pork neck or loin, sliced: 250 g",
+        "Finely pounded Thai garlic: 2 tbsp",
+        "Finely pounded cilantro root & white peppercorns: 1 tbsp",
+        "Light soy sauce (1.5 tbsp) & oyster sauce (1 tbsp): 1 set",
+        "Granulated sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Marinate the pork with pounded cilantro root and pepper, garlic, light soy sauce, oyster sauce, and sugar for 15 minutes.",
+        "Heat oil in a pan and fry extra minced garlic until golden and crisp, then drain and set aside.",
+        "Pan-fry the marinated pork over medium heat until cooked through and golden brown on both sides.",
+        "Plate and top with crispy fried garlic and cilantro; serve with chili sauce."
+      ]
     },
     {
       "title": "ลาบหมูคั่วหอมข้าวคั่ว",
@@ -346,7 +521,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Minced Pork Salad (Larb Moo)",
+      "desc_en": "Let the cooked pork cool slightly before adding lime juice and herbs so the leaves stay bright green.",
+      "ingredients_en": [
+        "Minced pork with a little fat: 250 g",
+        "Blanched pork liver, sliced (optional): 50 g",
+        "Freshly toasted rice powder: 2 tbsp",
+        "Roasted chili flakes: 1 tbsp",
+        "Shallots, thinly sliced: 5",
+        "Green onions, sawtooth coriander, and mint leaves: 1 cup",
+        "Fresh lime juice 2.5 tbsp and fish sauce 2 tbsp"
+      ],
+      "steps_en": [
+        "Cook minced pork in a pot with 3 tbsp stock until just cooked and juicy, then remove from heat to cool slightly.",
+        "Season with fish sauce, fresh lime juice, and roasted chili flakes, mixing well.",
+        "Add toasted rice powder, sliced shallots, green onions, sawtooth coriander, and blanched pork liver; toss gently.",
+        "Fold in mint leaves last and serve with crisp fresh vegetables."
+      ]
     },
     {
       "title": "ไก่ผัดเม็ดมะม่วงหิมพานต์",
@@ -375,7 +567,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Cashew Nuts",
+      "desc_en": "Toss in the roasted cashews right at the end before turning off the heat so they stay crunchy.",
+      "ingredients_en": [
+        "Chicken breast, diced: 250 g",
+        "Roasted cashew nuts: 1/2 cup",
+        "Crispy fried dried chilies: 5 pieces",
+        "Onion & bell pepper, diced: 100 g",
+        "Green onions, cut into lengths: 2 stalks",
+        "Oyster sauce (1.5 tbsp), light soy sauce (1 tbsp), roasted chili paste (1 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Coat the chicken lightly in crispy frying flour, fry until golden and cooked through, and set aside.",
+        "In a wok, heat roasted chili paste, oyster sauce, light soy sauce, and a pinch of sugar until fragrant.",
+        "Add the onion, bell pepper, and fried chicken, tossing to coat evenly in the sauce.",
+        "Stir in cashew nuts, fried dried chilies, and green onions, toss briefly, and serve."
+      ]
     },
     {
       "title": "ไข่ลูกเขยซอสมะขาม",
@@ -404,7 +612,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Son-in-Law Eggs with Tamarind Glaze",
+      "desc_en": "Pat the boiled eggs completely dry before frying to prevent oil splatter and achieve an even golden crust.",
+      "ingredients_en": [
+        "Hard-boiled duck or chicken eggs, peeled: 5 eggs",
+        "Concentrated tamarind paste: 3 tbsp",
+        "Palm sugar: 3 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Crispy fried sliced shallots: 3 tbsp",
+        "Crispy fried dried chilies & cilantro: 1 set"
+      ],
+      "steps_en": [
+        "Deep-fry the boiled eggs in hot oil over medium heat until golden all over, drain well, and slice in half.",
+        "Simmer tamarind paste, palm sugar, and fish sauce over low heat until thick, sticky, and glossy.",
+        "Arrange the halved eggs on a platter and spoon the tamarind glaze generously over them.",
+        "Garnish with crispy fried shallots, fried dried chilies, and cilantro leaves before serving."
+      ]
     },
     {
       "title": "มัสมั่นไก่มันฝรั่งนุ่ม",
@@ -438,7 +662,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chicken Massaman Curry with Tender Potatoes",
+      "desc_en": "Lightly pan-fry potato cubes until golden on the outside first so they hold their shape while simmering.",
+      "ingredients_en": [
+        "Chicken thighs, large chunks: 350 g",
+        "Potatoes, large cubes: 2",
+        "Yellow onion, cut into wedges: 1",
+        "Massaman curry paste: 3 tbsp",
+        "Thick coconut cream: 1.5 cups",
+        "Thin coconut milk: 2 cups",
+        "Roasted peanuts: 3 tbsp",
+        "Tamarind paste: 3 tbsp",
+        "Palm sugar: 2.5 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Cardamom pods and cinnamon sticks: 2 each"
+      ],
+      "steps_en": [
+        "Simmer half a cup of coconut cream until oil separates, then fry Massaman curry paste with cardamom and cinnamon until aromatic.",
+        "Add chicken pieces and stir-fry briefly, then pour in thin coconut milk and remaining cream; simmer gently for 20 minutes until tender.",
+        "Add potatoes, onion wedges, and roasted peanuts, simmering until potatoes are fork-tender.",
+        "Season with tamarind paste, palm sugar, and fish sauce for a rich sweet, tangy, and savory balance."
+      ]
     },
     {
       "title": "ฉู่ฉี่ปลาทูสดกะทิข้น",
@@ -468,7 +713,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Fried Mackerel in Rich Red Curry (Choo Chee Pla Tu)",
+      "desc_en": "Reduce the choo chee curry sauce until thick before pouring so it clings richly to the fish.",
+      "ingredients_en": [
+        "Fresh short-bodied mackerel, gutted and cleaned: 3 fish",
+        "Choo chee or red curry paste: 2 tbsp",
+        "Rich coconut cream: 1.5 cups",
+        "Finely julienned kaffir lime leaves: 5 leaves",
+        "Julienned red spur chili: 1 piece",
+        "Fish sauce: 1.5 tbsp",
+        "Palm sugar: 1 tbsp"
+      ],
+      "steps_en": [
+        "Score both sides of the mackerel, sprinkle lightly with salt, pan-fry until cooked and fragrant, and set aside.",
+        "Simmer 1 cup coconut cream until oil separates, then fry the curry paste until fragrant and vibrant red.",
+        "Season with fish sauce and palm sugar, simmering until the sauce reaches a thick consistency.",
+        "Pour the curry sauce over the mackerel, drizzle with remaining fresh coconut cream, and garnish with kaffir lime leaves and chili."
+      ]
     },
     {
       "title": "ต้มส้มปลากระบอกขิงสด",
@@ -500,7 +762,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "south"
+      "region": "south",
+      "name_en": "Sweet-and-Sour Mullet Soup with Fresh Ginger (Tom Som)",
+      "desc_en": "Drop the fish only into a rolling boil and do not stir until cooked to keep the broth completely free of fishiness.",
+      "ingredients_en": [
+        "Mullet, scaled and cut into steaks: 2 fish",
+        "Finely julienned mature ginger: 1/2 cup",
+        "Crushed shallots: 5 bulbs",
+        "Quality Thai shrimp paste: 1 tsp",
+        "Tamarind paste: 3 tbsp",
+        "Palm sugar: 2 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Green onions, cut into lengths: 2 stalks",
+        "Ground black pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Pound shallots, shrimp paste, and black pepper together, then dissolve into a pot of boiling water.",
+        "Season with tamarind paste, palm sugar, and fish sauce for a mellow sweet-and-sour broth.",
+        "Once boiling vigorously, gently add the mullet without stirring and cook until the fish is done.",
+        "Add julienned ginger and green onions, turn off the heat immediately, and serve."
+      ]
     },
     {
       "title": "ผัดกะเพราเนื้อสับพริกแห้งโบราณ",
@@ -530,7 +811,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Traditional Dried-Chili Beef Holy Basil Stir-Fry",
+      "desc_en": "Pounding dried and fresh chilies together and dry-stir-frying without added water gives authentic smoky wok aroma.",
+      "ingredients_en": [
+        "Coarsely minced beef: 250 g",
+        "Fresh wild holy basil leaves: 1 large handful",
+        "Pounded small dried chilies and bird's eye chilies: 2 tbsp",
+        "Coarsely pounded Thai garlic: 1.5 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Dark soy sauce (for color): 1/4 tsp",
+        "Sugar: 1/3 tsp"
+      ],
+      "steps_en": [
+        "Heat a little oil in a wok and fry pounded dried chilies and garlic over medium heat until intensely fragrant.",
+        "Turn up to high heat, add minced beef, and break it apart while dry-stir-frying.",
+        "Season with fish sauce, dark soy sauce, and sugar; keep tossing until the beef is browned and dry-roasted.",
+        "Toss in holy basil leaves for 3–4 quick turns, turn off the heat, and plate immediately."
+      ]
     },
     {
       "title": "หลนเต้าเจี้ยวกุ้งสับหมูสับ",
@@ -562,7 +860,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Coconut Dip with Fermented Soybeans, Shrimp & Pork (Lon Tao Jiao)",
+      "desc_en": "Rinse the white fermented soybeans once before pounding to tame excess saltiness and give the dip a mellow flavor.",
+      "ingredients_en": [
+        "White fermented soybeans (tao jiao), rinsed and drained: 3 tbsp",
+        "Finely minced pork: 100 g",
+        "Coarsely chopped fresh shrimp: 80 g",
+        "Fresh coconut cream: 1.5 cups",
+        "Sliced shallots: 6 bulbs",
+        "Green & red spur chilies, cut into pieces: 4 pieces",
+        "Palm sugar: 2 tbsp",
+        "Tamarind paste: 1.5 tbsp",
+        "Fresh dipping vegetables (cucumber, white turmeric, yardlong beans): 1 set"
+      ],
+      "steps_en": [
+        "Pound the rinsed fermented soybeans into a smooth paste and set aside.",
+        "Simmer coconut cream over low heat, stirring in the soybean paste, minced pork, and chopped shrimp until evenly dispersed and cooked.",
+        "Season with palm sugar and tamarind paste to balance sweet, salty, and creamy richness.",
+        "Add sliced shallots and spur chilies, simmer briefly until slightly softened, and serve with fresh vegetables."
+      ]
     },
     {
       "title": "แกงคั่วสับปะรดหอยแมลงภู่",
@@ -593,7 +910,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Coconut Curry with Pineapple & Mussels",
+      "desc_en": "Gently squeeze out a little juice from the chopped pineapple first so you can control the curry's sweet-tangy balance.",
+      "ingredients_en": [
+        "Blanched mussel meat: 200 g",
+        "Sweet Sriracha pineapple, chopped small: 250 g",
+        "Roasted red curry paste (kaeng khua): 2.5 tbsp",
+        "Coconut cream: 1 cup",
+        "Thin coconut milk: 1.5 cups",
+        "Fish sauce: 2 tbsp",
+        "Palm sugar: 1.5 tbsp",
+        "Torn kaffir lime leaves: 4 leaves"
+      ],
+      "steps_en": [
+        "Fry the curry paste in coconut cream over medium heat until fragrant and oil separates.",
+        "Add the pineapple and thin coconut milk, simmering over low heat for 10 minutes to infuse sweet-tart notes into the broth.",
+        "Season with fish sauce and palm sugar so sweetness leads with a pleasant tang.",
+        "Add the mussels and torn kaffir lime leaves, boil for 2 minutes, and remove from heat."
+      ]
     },
     {
       "title": "ทอดมันปลากรายเหนียวนุ่มอาจาดแตงกวา",
@@ -625,7 +960,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Bouncy Thai Fish Cakes with Cucumber Relish (Tod Mun Pla Krai)",
+      "desc_en": "Slapping the featherback fish paste with ice water binds the proteins for a naturally bouncy texture without baking powder.",
+      "ingredients_en": [
+        "Fresh scraped featherback fish paste (pla krai): 300 g",
+        "Red curry paste: 1.5 tbsp",
+        "Chicken egg: 1 egg",
+        "Thinly sliced yardlong beans: 1/2 cup",
+        "Finely julienned kaffir lime leaves: 5 leaves",
+        "Fish sauce: 1 tbsp",
+        "Granulated sugar: 1/2 tsp",
+        "Crushed ice (for kneading fish paste): a small amount",
+        "Cucumber peanut relish (ajat): to serve"
+      ],
+      "steps_en": [
+        "Knead the fish paste with ice-cold salted water, slapping it against the bowl until sticky and bouncy.",
+        "Add red curry paste, egg, fish sauce, and sugar, kneading until completely smooth.",
+        "Fold in sliced yardlong beans and julienned kaffir lime leaves gently until combined.",
+        "Shape into flat patties, deep-fry over medium heat until puffed and golden brown, and serve with cucumber relish."
+      ]
     },
     {
       "title": "คั่วกลิ้งหมูสับสมุนไพรใต้",
@@ -655,7 +1009,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Dry-Roasted Spicy Pork with Herbs (Khua Kling)",
+      "desc_en": "Dry-roast over low heat until completely moisture-free so every morsel of pork is coated in fragrant spices and keeps well.",
+      "ingredients_en": [
+        "Lean minced pork: 250 g",
+        "Southern khua kling curry paste: 2 tbsp",
+        "Southern shrimp paste: 1/2 tsp",
+        "Finely julienned kaffir lime leaves: 8 leaves",
+        "Fresh green peppercorns, cut into pieces: 2 sprigs",
+        "Fish sauce: 1 tbsp",
+        "Granulated sugar: 1/3 tsp"
+      ],
+      "steps_en": [
+        "In a dry pan over low heat, roast the khua kling curry paste and shrimp paste with the minced pork without adding oil.",
+        "Break up the pork and stir-fry until dry, crumbly, and infused with the curry paste.",
+        "Season with fish sauce and sugar, continuing to dry-roast until no liquid remains.",
+        "Toss in julienned kaffir lime leaves and green peppercorns, mix well, and serve."
+      ]
     },
     {
       "title": "แกงป่าไก่บ้านผักรวมพริกแกงสด",
@@ -686,7 +1057,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fiery Jungle Curry with Free-Range Chicken & Mixed Vegetables",
+      "desc_en": "Adding julienned fingerroot and fresh holy basil at the very end gives jungle curry its signature herbal heat.",
+      "ingredients_en": [
+        "Bone-in free-range chicken, chopped: 250 g",
+        "Kanchanaburi-style jungle curry paste: 2 tbsp",
+        "Thai eggplant, pea eggplant, baby corn & yardlong beans: 200 g",
+        "Julienned fingerroot (krachai): 3 tbsp",
+        "Fresh green peppercorns & diagonally sliced spur chilies: 2 sprigs",
+        "Fresh holy basil leaves: 1 bunch",
+        "Fish sauce: 2 tbsp",
+        "Clear chicken stock: 2.5 cups"
+      ],
+      "steps_en": [
+        "Saute the jungle curry paste in 1 tsp oil until aromatic, then sear the chicken pieces until firm.",
+        "Pour in chicken stock, bring to a boil, and simmer until the chicken turns tender.",
+        "Add Thai eggplants, baby corn, fingerroot, and green peppercorns; season with fish sauce.",
+        "Submerge pea eggplants, spur chilies, and holy basil into the broth and immediately turn off the heat."
+      ]
     },
     {
       "title": "ปลาหมึกผัดไข่เค็มซอสเข้มข้น",
@@ -718,7 +1107,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Rich Salted Egg Yolk Stir-Fried Squid",
+      "desc_en": "Blanching the squid briefly and patting it completely dry keeps it snappy and helps the creamy salted egg sauce cling.",
+      "ingredients_en": [
+        "Fresh squid, scored and sliced into rings: 250 g",
+        "Steamed salted egg yolks, mashed smooth: 3 yolks",
+        "Roasted chili paste: 1 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Green onions & Chinese celery, cut into lengths: 2 stalks",
+        "Red spur chili, sliced diagonally: 1 piece",
+        "Minced garlic: 1 tbsp"
+      ],
+      "steps_en": [
+        "Blanch the squid in rapidly boiling water for just 20 seconds, plunge into cold water, and drain thoroughly.",
+        "Whisk mashed salted egg yolks, roasted chili paste, oyster sauce, light soy sauce, sugar, and 2 tbsp warm water into a rich sauce.",
+        "Saute minced garlic until fragrant, then pour in the salted egg sauce and stir until bubbling and creamy.",
+        "Turn up the heat, add blanched squid, green onions, celery, and spur chili, toss quickly to coat, and serve."
+      ]
     },
     {
       "title": "น้ำพริกกะปิปลาทูทอดชะอมไข่",
@@ -747,7 +1155,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shrimp Paste Chili Dip with Fried Mackerel & Acacia Omelet",
+      "desc_en": "Wrap the shrimp paste in a banana leaf and grill gently before pounding for a rich, smoky aroma with zero fishiness.",
+      "ingredients_en": [
+        "Quality shrimp paste, grilled until fragrant: 2 tbsp",
+        "Thai garlic & bird's eye chilies: 1.5 tbsp",
+        "Fresh lime juice (3 tbsp), palm sugar (1.5 tbsp), fish sauce (1 tsp): 1 set",
+        "Crispy fried short-bodied mackerel: 2 fish",
+        "Diced acacia omelet: 1 plate",
+        "Pea eggplants, stemmed: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pound garlic and bird's eye chilies coarsely, then add the grilled shrimp paste and pound to combine.",
+        "Season with palm sugar, fresh lime juice, and fish sauce, stirring until the sugar dissolves.",
+        "Gently crush the pea eggplants into the dip and adjust for a balanced sour, salty, spicy, and sweet taste.",
+        "Transfer to a bowl and serve alongside hot fried mackerel, acacia omelet, and fresh vegetables."
+      ]
     },
     {
       "title": "แกงเทโพหมูสามชั้นผักบุ้งไทย",
@@ -776,7 +1200,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pork Belly & Water Spinach Curry with Kaffir Lime (Kaeng Thepo)",
+      "desc_en": "Simmering halved kaffir limes directly in the curry imparts the authentic, refreshing aroma of classic kaeng thepo.",
+      "ingredients_en": [
+        "Pork belly, cut into bite-sized pieces: 200 g",
+        "Thai water spinach (morning glory), cut into lengths: 1 bunch",
+        "Red curry paste (kaeng khua): 2.5 tbsp",
+        "Coconut cream (1 cup) & thin coconut milk (1.5 cups): 1 set",
+        "Kaffir lime juice & halved kaffir lime: 1 fruit",
+        "Fish sauce (2 tbsp), palm sugar (1.5 tbsp), tamarind paste (2 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Fry the curry paste with coconut cream until oil separates, then sear the pork belly until firm.",
+        "Add thin coconut milk and simmer over low heat for 15 minutes until the pork begins to soften.",
+        "Season with tamarind paste, palm sugar, fish sauce, kaffir lime juice, and drop in the halved kaffir lime.",
+        "Press the water spinach into the simmering curry, cook just until wilted, and turn off the heat."
+      ]
     },
     {
       "title": "ไก่ต้มขมิ้นสมุนไพรใต้",
@@ -805,7 +1245,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Turmeric Herbal Chicken Soup",
+      "desc_en": "Simmering dried garcinia slices (som khaek) with turmeric yields a clear golden broth with a gentle, soothing tang.",
+      "ingredients_en": [
+        "Free-range chicken, chopped: 300 g",
+        "Fresh turmeric rhizomes, smashed: 2 pieces",
+        "Bruised lemongrass (2 stalks), shallots (4 bulbs), garlic (5 cloves): 1 set",
+        "Torn kaffir lime leaves: 4 leaves",
+        "Dried garcinia slices (som khaek): 3 slices",
+        "Fish sauce (2 tbsp) & sea salt (1 tsp): 1 set"
+      ],
+      "steps_en": [
+        "Boil water with turmeric, lemongrass, shallots, garlic, and dried garcinia until aromatic and bright golden.",
+        "Add the chicken pieces without stirring, skimming off any foam to keep the broth clear.",
+        "Season with sea salt and fish sauce, then simmer gently for 15 minutes until the chicken is tender.",
+        "Stir in torn kaffir lime leaves, remove from heat, and serve piping hot."
+      ]
     },
     {
       "title": "ผัดเผ็ดปลาดุกกรอบใบกะเพรา",
@@ -834,7 +1290,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Catfish Red Curry Stir-Fry with Holy Basil",
+      "desc_en": "Reduce the curry sauce until thick before folding in crispy catfish quickly so every piece stays crunchy.",
+      "ingredients_en": [
+        "Deep-fried crispy catfish slices: 250 g",
+        "Red curry paste: 2 tbsp",
+        "Julienne fingerroot, green peppercorns, sliced red spur chili: 1/2 cup",
+        "Fresh holy basil leaves: 1 handful",
+        "Oyster sauce 1.5 tbsp, fish sauce 1 tbsp, sugar 1 tsp",
+        "Stock: 2 tbsp"
+      ],
+      "steps_en": [
+        "Fry red curry paste in oil over medium heat until fragrant, then add a splash of stock.",
+        "Season with oyster sauce, fish sauce, and sugar, simmering until the sauce thickens.",
+        "Add julienned fingerroot, green peppercorns, and sliced red chilies; stir-fry briefly.",
+        "Toss in crispy catfish and holy basil leaves quickly to coat in sauce, then turn off heat immediately."
+      ]
     },
     {
       "title": "ยำไข่ดาวทรงเครื่องกุ้งสับ",
@@ -862,7 +1334,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Fried Egg Salad with Minced Shrimp",
+      "desc_en": "Spoon the tangy dressing over just before serving so the lacy fried egg edges stay crisp.",
+      "ingredients_en": [
+        "Crispy fried eggs with runny yolks: 3 eggs",
+        "Cooked minced shrimp: 80 g",
+        "Sliced Chinese celery, tomato & onion: 1 cup",
+        "Sliced bird's eye chilies: 1 tbsp",
+        "Fresh lime juice (2.5 tbsp), fish sauce (2 tbsp), granulated sugar (1 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Cut the crispy fried eggs into bite-sized pieces and arrange on a serving plate.",
+        "Whisk fresh lime juice, fish sauce, sugar, and sliced chilies until the sugar dissolves.",
+        "Toss the cooked minced shrimp, celery, tomato, and onion into the dressing.",
+        "Spoon the salad mixture over the crispy fried eggs and serve immediately."
+      ]
     },
     {
       "title": "แกงจืดเต้าหู้หมูสับสาหร่าย",
@@ -896,7 +1383,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Soup with Egg Tofu, Minced Pork & Seaweed",
+      "desc_en": "Use medium-low heat after adding egg tofu to keep the cubes intact and the broth crystal clear (senior-friendly).",
+      "ingredients_en": [
+        "Seasoned minced pork: 150 g",
+        "Egg tofu, sliced into rounds: 1 tube",
+        "Dried seaweed: 10 g",
+        "Napa cabbage, cut into pieces: 150 g",
+        "Green onions and celery, chopped: 2 tbsp",
+        "Crispy fried garlic: 1 tbsp",
+        "Light soy sauce: 2 tbsp",
+        "Pork bone stock: 3 cups"
+      ],
+      "steps_en": [
+        "Bring pork stock to a boil over medium heat and drop in bite-sized balls of seasoned minced pork.",
+        "Skim off any foam to keep the broth clear, then add napa cabbage and simmer until tender.",
+        "Season with light soy sauce, then gently add egg tofu slices and dried seaweed.",
+        "Simmer briefly, turn off the heat, and garnish with green onions, celery, and crispy fried garlic."
+      ]
     },
     {
       "title": "แกงคั่วเห็ดเผาะใบชะพลู",
@@ -926,7 +1431,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Coconut Curry with Earthstar Mushrooms & Wild Betel Leaves",
+      "desc_en": "Halving a few of the earthstar mushrooms before cooking lets the rich curry broth soak deep inside.",
+      "ingredients_en": [
+        "Cleaned earthstar mushrooms (het phor): 250 g",
+        "Coarsely chopped wild betel leaves (cha-plu): 1 cup",
+        "Red curry paste (kaeng khua): 2 tbsp",
+        "Coconut cream: 1 cup",
+        "Thin coconut milk: 1.5 cups",
+        "Fish sauce: 1.5 tbsp",
+        "Palm sugar: 1 tsp"
+      ],
+      "steps_en": [
+        "Simmer coconut cream until oil separates, then fry the curry paste until fragrant.",
+        "Pour in thin coconut milk, bring to a boil, and simmer the earthstar mushrooms until infused with flavor.",
+        "Season with fish sauce and palm sugar to taste.",
+        "Stir in wild betel leaves until wilted, then ladle into bowls and serve."
+      ]
     },
     {
       "title": "แกงฮังเลหมูสามชั้น",
@@ -957,7 +1479,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Burmese-Style Pork Belly Curry (Kaeng Hang Lay)",
+      "desc_en": "Simmering slowly over low heat melts the pork belly fat into the spices until the meat is melt-in-your-mouth tender.",
+      "ingredients_en": [
+        "Pork belly, cut into large chunks: 400 g",
+        "Hang lay curry paste: 3 tbsp",
+        "Hang lay masala spice powder: 1 tbsp",
+        "Julienned ginger: 1/2 cup",
+        "Pickled garlic bulbs & pickling liquid: 3 bulbs",
+        "Tamarind paste: 3 tbsp",
+        "Palm sugar & dark soy sauce: 1 tbsp each",
+        "Roasted peanuts: 2 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the pork belly with hang lay curry paste, spice powder, and dark soy sauce for 30 minutes.",
+        "Sear the marinated pork in a pot until firm, then add enough water to just cover the meat.",
+        "Simmer over low heat until tender, then season with tamarind paste, palm sugar, and pickled garlic liquid.",
+        "Stir in julienned ginger, pickled garlic, and roasted peanuts, and simmer 5 minutes longer."
+      ]
     },
     {
       "title": "แกงโฮะวุ้นเส้นหน่อไม้ดอง",
@@ -987,7 +1527,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Stir-Fried Glass Noodles & Pickled Bamboo Curry (Kaeng Ho)",
+      "desc_en": "Parboiling the pickled bamboo shoots once before cooking softens any harsh tang and sharp aroma.",
+      "ingredients_en": [
+        "Sliced pork (or leftover hang lay curry): 200 g",
+        "Boiled pickled bamboo shoots, shredded: 150 g",
+        "Soaked glass noodles, cut into lengths: 100 g",
+        "Red curry paste: 2 tbsp",
+        "Chopped yardlong beans & Thai eggplants: 1 cup",
+        "Torn kaffir lime leaves & sliced lemongrass: 3 tbsp",
+        "Fish sauce & granulated sugar: 1 tbsp"
+      ],
+      "steps_en": [
+        "Fry red curry paste in a little oil until fragrant, then stir-fry the pork until cooked.",
+        "Add pickled bamboo shoots, yardlong beans, and eggplants with a splash of water, cooking until tender.",
+        "Toss in glass noodles to combine and season with fish sauce and sugar.",
+        "Scatter kaffir lime leaves and sliced lemongrass, stir-fry until dry and fragrant, and turn off the heat."
+      ]
     },
     {
       "title": "แกงแคไก่เมืองผักพื้นบ้าน",
@@ -1018,7 +1575,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Herbal Free-Range Chicken Curry (Kaeng Khae)",
+      "desc_en": "Stirring in toasted rice powder at the end thickens the broth slightly and adds an authentic Northern nutty aroma.",
+      "ingredients_en": [
+        "Free-range chicken, chopped: 300 g",
+        "Kaeng khae curry paste (dried chili, shallot, garlic, shrimp paste, fermented fish): 2 tbsp",
+        "Acacia shoots & wild betel leaves: 1 cup",
+        "Culantro & ivy gourd leaves: 1 cup",
+        "Pea eggplants & chopped yardlong beans: 1 cup",
+        "Toasted rice powder: 1 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Water: 3 cups"
+      ],
+      "steps_en": [
+        "Saute the curry paste in a splash of oil until fragrant, then sear the chicken to coat with spices.",
+        "Pour in water, bring to a boil, and simmer until the chicken becomes tender.",
+        "Add pea eggplants and yardlong beans, and season to taste with fish sauce.",
+        "Fold in acacia shoots, wild betel leaves, ivy gourd, culantro, and toasted rice powder; stir until wilted and remove from heat."
+      ]
     },
     {
       "title": "แกงขนุนอ่อนกระดูกหมู",
@@ -1048,7 +1623,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Young Jackfruit & Pork Rib Curry (Kaeng Khanun)",
+      "desc_en": "Soak sliced young jackfruit immediately in salted lime water to prevent discoloration.",
+      "ingredients_en": [
+        "Pork soft ribs, chopped: 300 g",
+        "Peeled young jackfruit, cut into chunks: 250 g",
+        "Cherry or plum tomatoes, halved: 5 pieces",
+        "Northern curry paste (dried chili, garlic, shallot, shrimp paste, fermented fish): 2 tbsp",
+        "Wild betel leaves & acacia shoots: 1 cup",
+        "Fish sauce: 1.5 tbsp",
+        "Water: 4 cups"
+      ],
+      "steps_en": [
+        "Bring water to a boil, dissolve the curry paste, and simmer the pork ribs until beginning to soften.",
+        "Add the young jackfruit and cook over medium heat until tender and infused with curry flavor.",
+        "Add tomatoes, cook until they begin to burst, and season with fish sauce.",
+        "Stir in wild betel leaves and acacia shoots until just wilted, then serve hot."
+      ]
     },
     {
       "title": "แกงอ่อมหมูผักชีลาว",
@@ -1079,7 +1671,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Isan Herbal Pork & Dill Curry (Kaeng Om Moo)",
+      "desc_en": "Dry-roasting the pork with the curry paste before adding water removes any gaminess and enriches the broth.",
+      "ingredients_en": [
+        "Pork neck, cut into bite-sized pieces: 250 g",
+        "Om curry paste (fresh chilies, shallots, lemongrass): 2 tbsp",
+        "Fresh dill, cut into lengths: 1 cup",
+        "Lemon basil & green onions, cut into lengths: 1 cup",
+        "Quartered Thai eggplants & chopped choy sum: 1 cup",
+        "Boiled fermented fish sauce (pla ra): 2 tbsp",
+        "Toasted rice powder: 1 tbsp",
+        "Water: 2 cups"
+      ],
+      "steps_en": [
+        "Dry-roast the pork neck with the om curry paste in a pot until partially cooked and fragrant.",
+        "Add just enough water to barely cover, bring to a boil, and add Thai eggplants and choy sum.",
+        "Season with boiled fermented fish sauce and a dash of regular fish sauce.",
+        "Stir in fresh dill, lemon basil, green onions, and toasted rice powder, then turn off the heat."
+      ]
     },
     {
       "title": "แกงอ่อมไก่บ้านใบแมงลัก",
@@ -1109,7 +1719,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Isan Chicken & Lemon Basil Curry (Kaeng Om Kai)",
+      "desc_en": "Using pounded soaked sticky rice (khao buea) naturally thickens the broth in traditional Isan style.",
+      "ingredients_en": [
+        "Free-range chicken, chopped: 300 g",
+        "Coarsely pounded fresh chilies, shallots & lemongrass: 2.5 tbsp",
+        "Chopped angled luffa & pumpkin: 1 cup",
+        "Lemon basil leaves: 1 cup",
+        "Green onions & fresh dill, cut into lengths: 1/2 cup",
+        "Boiled fermented fish sauce (pla ra): 2 tbsp",
+        "Soaked sticky rice, pounded smooth (khao buea): 1 tbsp"
+      ],
+      "steps_en": [
+        "Sear the chicken with the pounded aromatics in a pot until the skin tightens and releases aroma.",
+        "Add water to cover, simmer over medium heat until tender, then add pumpkin and angled luffa.",
+        "Stir in dissolved sticky rice paste to thicken the broth and season with fermented fish sauce.",
+        "Add lemon basil, green onions, and dill, stir until wilted, and serve."
+      ]
     },
     {
       "title": "แกงเปรอะหน่อไม้สดใบย่านาง",
@@ -1140,7 +1767,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Isan Bamboo Shoot & Yanang Leaf Soup (Kaeng Lao / Kaeng Puer)",
+      "desc_en": "Pre-boil fresh bamboo shoots in plain water to remove bitterness before simmering in yanang juice for a sweet, clean flavor.",
+      "ingredients_en": [
+        "Boiled fresh bamboo shoots, sliced: 250 g",
+        "Freshly squeezed yanang leaf juice: 3 cups",
+        "Oyster mushrooms & straw mushrooms: 150 g",
+        "Chopped pumpkin & angled luffa: 1 cup",
+        "Acacia shoots & lemon basil: 1 cup",
+        "Pounded fresh chilies, shallots & lemongrass: 2 tbsp",
+        "Finely pounded soaked sticky rice (khao buea): 1.5 tbsp",
+        "Boiled fermented fish sauce (pla ra): 2 tbsp"
+      ],
+      "steps_en": [
+        "Bring yanang leaf juice, pounded aromatics, and boiled bamboo shoots to a boil.",
+        "Add pumpkin and dissolved sticky rice paste, stirring gently so the rice does not stick to the bottom.",
+        "Add mushrooms and angled luffa, then season smoothly with boiled fermented fish sauce.",
+        "Finish with acacia shoots and lemon basil, stir until wilted, and remove from heat."
+      ]
     },
     {
       "title": "แกงส้มปลาช่อนผักรวม",
@@ -1170,7 +1815,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sour Tamarind Curry with Snakehead Fish & Mixed Vegetables",
+      "desc_en": "Pounding boiled fish flesh directly into the curry paste makes the broth thick and rich without using flour.",
+      "ingredients_en": [
+        "Snakehead fish steaks: 300 g",
+        "Sour curry paste pounded with boiled fish meat: 3 tbsp",
+        "Chopped daikon radish, napa cabbage & yardlong beans: 2 cups",
+        "Tamarind paste: 4 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Palm sugar: 1.5 tbsp",
+        "Water: 3.5 cups"
+      ],
+      "steps_en": [
+        "Dissolve the fish-enriched sour curry paste in water and bring to a boil.",
+        "Simmer daikon radish until translucent, then add yardlong beans and napa cabbage.",
+        "Season with tamarind paste, fish sauce, and palm sugar for a balanced sour, sweet, and savory flavor.",
+        "Lay the snakehead fish steaks into the boiling curry without stirring until fully cooked, then turn off the heat."
+      ]
     },
     {
       "title": "แกงแดงเนื้อหน่อไม้ดอง",
@@ -1200,7 +1862,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Coconut Curry with Beef & Pickled Bamboo Shoots",
+      "desc_en": "Simmer the beef in thin coconut milk over low heat until tender before adding pickled bamboo shoots so the meat stays soft.",
+      "ingredients_en": [
+        "Marbled beef, sliced into chunks: 300 g",
+        "Pickled bamboo shoots, rinsed and boiled: 200 g",
+        "Red curry paste: 2.5 tbsp",
+        "Coconut cream: 1 cup",
+        "Thin coconut milk: 1.5 cups",
+        "Sweet basil leaves & diagonally sliced red spur chili: 1/2 cup",
+        "Fish sauce & palm sugar: 1 tbsp each"
+      ],
+      "steps_en": [
+        "Simmer coconut cream until oil separates, then fry red curry paste until fragrant and deeply colored.",
+        "Toss the beef in the curry paste, add thin coconut milk, and simmer until the beef is tender.",
+        "Add pickled bamboo shoots to infuse flavors, then season with fish sauce and palm sugar.",
+        "Stir in sweet basil and red spur chili and turn off the heat immediately."
+      ]
     },
     {
       "title": "ต้มยำปลาช่อนน้ำใส",
@@ -1231,7 +1910,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Spicy Snakehead Fish Soup (Tom Yum Pla Chon)",
+      "desc_en": "Stir in lime juice only after turning off the heat to preserve its bright citrus aroma and prevent bitterness.",
+      "ingredients_en": [
+        "Snakehead fish steaks: 300 g",
+        "Galangal, lemongrass, kaffir lime leaves & crushed shallots: 1 set",
+        "Straw mushrooms, halved: 100 g",
+        "Crushed bird's eye chilies: 1 tbsp",
+        "Lime juice: 3 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Sliced culantro: 2 tbsp",
+        "Stock: 3 cups"
+      ],
+      "steps_en": [
+        "Bring stock to a rolling boil with galangal, lemongrass, kaffir lime leaves, and shallots until fragrant.",
+        "Gently add snakehead fish steaks without stirring to avoid fishiness and cook until done.",
+        "Add straw mushrooms and crushed chilies, then season with fish sauce.",
+        "Turn off the heat, add lime juice and sliced culantro, stir gently, and serve."
+      ]
     },
     {
       "title": "ต้มโคล้งปลากรอบใบมะขามอ่อน",
@@ -1262,7 +1959,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Smoky Dried Fish & Young Tamarind Leaf Soup (Tom Klong)",
+      "desc_en": "Dry-roasting the herbs and dried chilies before boiling is the secret to tom klong's signature smoky aroma.",
+      "ingredients_en": [
+        "Crispy smoked fish (snakehead or catfish): 150 g",
+        "Young tamarind leaves: 1 cup",
+        "Galangal, lemongrass, shallots & dried chilies, roasted: 1 set",
+        "Shredded oyster mushrooms: 100 g",
+        "Fish sauce: 2 tbsp",
+        "Tamarind paste: 1.5 tbsp",
+        "Sliced culantro: 2 tbsp",
+        "Water: 3.5 cups"
+      ],
+      "steps_en": [
+        "Dry-roast galangal, lemongrass, shallots, and dried chilies in a skillet until lightly charred and fragrant.",
+        "Bring water to a boil and steep the roasted aromatics to infuse a smoky herbal broth.",
+        "Add the smoked fish and oyster mushrooms, simmering so the savory fish flavor enriches the soup.",
+        "Add young tamarind leaves, season with fish sauce and tamarind paste, scatter culantro, and turn off the heat."
+      ]
     },
     {
       "title": "ต้มจับฉ่ายกระดูกหมูผักรวม",
@@ -1292,7 +2007,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Slow-Simmered Chinese Vegetable & Pork Rib Stew (Tom Jap Chai)",
+      "desc_en": "Sauteing the vegetables with seasonings until wilted before simmering releases natural sweetness and deeper aroma.",
+      "ingredients_en": [
+        "Pork soft ribs: 300 g",
+        "Daikon radish, cabbage, Chinese broccoli & choy sum: 400 g",
+        "Rehydrated dried shiitake mushrooms: 5 pieces",
+        "Finely pounded garlic, pepper & cilantro root (sam kler): 1.5 tbsp",
+        "Light soy sauce: 3 tbsp",
+        "Seasoning sauce & dark soy sauce: 1 tbsp each",
+        "Water: 5 cups"
+      ],
+      "steps_en": [
+        "Saute the pounded garlic-pepper-cilantro paste in oil until fragrant, then sear the pork ribs and shiitakes.",
+        "Add all vegetables, toss until wilted, and season with light soy sauce, seasoning sauce, and dark soy sauce.",
+        "Cover with water, bring to a boil over high heat, and skim off any foam.",
+        "Reduce to low heat and simmer for 40 minutes until the vegetables are tender and the broth is naturally sweet."
+      ]
     },
     {
       "title": "ต้มยำไก่บ้านใบมะขามอ่อน",
@@ -1322,7 +2054,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Free-Range Chicken & Young Tamarind Leaf Soup",
+      "desc_en": "Strip only the tender young tamarind leaves and shoots from the stems to keep tough twigs out of the soup.",
+      "ingredients_en": [
+        "Free-range chicken, chopped: 300 g",
+        "Stripped young tamarind leaves: 1 cup",
+        "Galangal, lemongrass, kaffir lime leaves & crushed shallots: 1 set",
+        "Crushed roasted dried bird's eye chilies: 5 pieces",
+        "Fish sauce: 2.5 tbsp",
+        "Sliced culantro: 2 tbsp",
+        "Water: 3.5 cups"
+      ],
+      "steps_en": [
+        "Bring water to a boil with galangal, lemongrass, kaffir lime leaves, and shallots.",
+        "Add the chicken and simmer over medium heat for about 20 minutes until tender.",
+        "Add young tamarind leaves for natural tartness and season with fish sauce.",
+        "Top with crushed roasted chilies and sliced culantro, stir well, and serve."
+      ]
     },
     {
       "title": "ต้มแซ่บเครื่องในเนื้อ",
@@ -1352,7 +2101,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Beef & Offal Soup (Tom Saap Neua)",
+      "desc_en": "Pre-boil the beef offal separately with lemongrass and kaffir lime leaves to eliminate any gamey odor.",
+      "ingredients_en": [
+        "Braised tender beef & offal, sliced: 300 g",
+        "Galangal, lemongrass, kaffir lime leaves & crushed shallots: 1 set",
+        "Chili flakes & toasted rice powder: 1 tbsp each",
+        "Fish sauce: 2.5 tbsp",
+        "Lime juice: 3 tbsp",
+        "Sliced green onions & culantro: 3 tbsp",
+        "Beef broth: 3.5 cups"
+      ],
+      "steps_en": [
+        "Boil beef broth with galangal, lemongrass, kaffir lime leaves, and shallots until aromatic.",
+        "Add the braised beef and offal and simmer until heated through.",
+        "Season with fish sauce, chili flakes, and toasted rice powder, stir well, and turn off the heat.",
+        "Stir in lime juice, green onions, and culantro, and serve immediately."
+      ]
     },
     {
       "title": "ต้มจืดมะระยัดไส้หมูสับ",
@@ -1385,7 +2151,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stuffed Bitter Melon & Minced Pork Clear Soup",
+      "desc_en": "Scrape away all white pith inside the bitter melon and simmer gently uncovered to greatly reduce bitterness (senior-friendly).",
+      "ingredients_en": [
+        "Chinese bitter melon, cored and cut into segments: 1",
+        "Minced pork seasoned with garlic-pepper-coriander root & soy sauce: 200 g",
+        "Soaked glass noodles, roughly chopped: 30 g",
+        "Dried shiitake mushrooms, soaked: 4",
+        "Light soy sauce: 2.5 tbsp",
+        "Rock sugar: 1 tsp",
+        "Clear stock: 4 cups"
+      ],
+      "steps_en": [
+        "Mix minced pork with chopped glass noodles and seasoning until sticky, then stuff tightly into bitter melon segments.",
+        "Bring stock to a boil, gently lower in stuffed bitter melon and shiitake mushrooms, and reduce to low heat.",
+        "Skim foam occasionally without stirring hard; simmer about 30 minutes until bitter melon is translucent and tender.",
+        "Season with light soy sauce and rock sugar, garnish with cilantro, and serve."
+      ]
     },
     {
       "title": "ต้มยำทะเลรวมมิตรน้ำใส",
@@ -1416,7 +2199,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Spicy Mixed Seafood Tom Yum",
+      "desc_en": "Cook the seafood over high heat and turn off the burner as soon as it is done so shrimp and squid stay tender.",
+      "ingredients_en": [
+        "Fresh shrimp, squid, mussels & fish fillets: 300 g",
+        "Galangal, lemongrass, kaffir lime leaves & crushed shallots: 1 set",
+        "Oyster mushrooms or straw mushrooms: 100 g",
+        "Crushed bird's eye chilies: 1 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Lime juice: 3 tbsp",
+        "Holy basil leaves & culantro: 1/2 cup",
+        "Stock: 3 cups"
+      ],
+      "steps_en": [
+        "Boil stock with galangal, lemongrass, kaffir lime leaves, and shallots until fragrant.",
+        "Add mushrooms until nearly cooked, then turn up the heat and add all the seafood.",
+        "Once the seafood is plump and cooked, season with fish sauce and crushed chilies.",
+        "Add holy basil and culantro, turn off the heat, and finish with lime juice."
+      ]
     },
     {
       "title": "ต้มข่าปลาสลิดทอดใบมะขามอ่อน",
@@ -1446,7 +2247,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Coconut Galangal Soup with Crispy Gourami & Young Tamarind Leaves",
+      "desc_en": "Add the fried snakeskin gourami at the very end so the fish stays crisp outside and tender inside.",
+      "ingredients_en": [
+        "Crispy fried sun-dried snakeskin gourami, flaked: 2 fish",
+        "Coconut cream: 1.5 cups",
+        "Thin coconut milk: 1.5 cups",
+        "Sliced young galangal, lemongrass & kaffir lime leaves: 1 set",
+        "Young tamarind leaves: 1/2 cup",
+        "Crushed bird's eye chilies: 1 tbsp",
+        "Fish sauce & palm sugar: 1 tbsp each"
+      ],
+      "steps_en": [
+        "Bring thin coconut milk to a simmer with galangal, lemongrass, and crushed shallots over medium heat.",
+        "Add young tamarind leaves and crushed chilies, then season with fish sauce and palm sugar.",
+        "Pour in coconut cream, stir gently until just returning to a simmer, and add the fried gourami.",
+        "Scatter torn kaffir lime leaves, stir gently, and immediately turn off the heat so the coconut milk does not split."
+      ]
     },
     {
       "title": "ยำวุ้นเส้นทะเลรวม",
@@ -1477,7 +2295,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Glass Noodle & Seafood Salad (Yum Woon Sen)",
+      "desc_en": "Toss the glass noodles in the dressing while still warm so they stay springy and never clump together.",
+      "ingredients_en": [
+        "Blanched glass noodles: 120 g",
+        "Blanched shrimp & squid: 200 g",
+        "Cooked minced pork: 80 g",
+        "Sliced shallots, tomatoes & Chinese celery: 1 cup",
+        "Minced red bird's eye chilies: 1 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Lime juice: 3 tbsp",
+        "Granulated sugar: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Mix fish sauce, lime juice, sugar, and minced chilies until the sugar is completely dissolved.",
+        "Toss the warm blanched glass noodles in the dressing so they absorb the flavors.",
+        "Add shrimp, squid, and cooked minced pork and toss to combine.",
+        "Fold in shallots, tomatoes, and Chinese celery gently, then plate and serve."
+      ]
     },
     {
       "title": "ยำถั่วพูกุ้งสดกะทิ",
@@ -1508,7 +2344,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Winged Bean Salad with Shrimp",
+      "desc_en": "Blanch the winged beans in salted boiling water and shock in ice water immediately to keep them vibrant green and crunchy.",
+      "ingredients_en": [
+        "Blanched sliced winged beans: 150 g",
+        "Blanched fresh shrimp: 150 g",
+        "Cooked minced pork: 80 g",
+        "Reduced coconut cream: 3 tbsp",
+        "Roasted chili paste: 1.5 tbsp",
+        "Fish sauce, lime juice & palm sugar: 2 tbsp each",
+        "Fried shallots & crushed roasted peanuts: 3 tbsp",
+        "Boiled egg, quartered: 1 egg"
+      ],
+      "steps_en": [
+        "Whisk roasted chili paste, palm sugar, fish sauce, lime juice, and reduced coconut cream until smooth.",
+        "Toss the cooked minced pork and shrimp in the creamy dressing until well coated.",
+        "Gently fold in the sliced winged beans without bruising them.",
+        "Plate, sprinkle with crispy fried shallots and crushed peanuts, and serve with boiled egg wedges."
+      ]
     },
     {
       "title": "ยำปลาหมึกตะไคร้หอม",
@@ -1538,7 +2392,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Zesty Squid & Lemongrass Salad",
+      "desc_en": "Blanch the squid in rapidly boiling water for only 30 seconds and remove immediately for a snappy, tender bite.",
+      "ingredients_en": [
+        "Blanched squid rings: 250 g",
+        "Thinly sliced lemongrass: 1/3 cup",
+        "Sliced shallots & mint leaves: 1/2 cup",
+        "Sliced bird's eye chilies: 1 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Lime juice: 2.5 tbsp",
+        "Palm sugar: 1 tbsp"
+      ],
+      "steps_en": [
+        "Stir fish sauce, lime juice, palm sugar, and sliced chilies until evenly blended.",
+        "Add the well-drained blanched squid and toss in the dressing.",
+        "Toss in sliced lemongrass and shallots until fragrant.",
+        "Scatter mint leaves, toss briefly, and transfer to a serving plate."
+      ]
     },
     {
       "title": "ยำปลาดุกฟูมะม่วงสับ",
@@ -1569,7 +2440,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Fluffy Catfish Salad with Green Mango (Yum Pla Duk Foo)",
+      "desc_en": "Fluff the grilled catfish meat as finely and dryly as possible before frying so it puffs up crisp without absorbing excess oil.",
+      "ingredients_en": [
+        "Grilled catfish meat, deboned and fluffed fine: 200 g",
+        "Shredded sour green mango: 1 cup",
+        "Sliced shallots & bird's eye chilies: 3 tbsp",
+        "Fried cashew nuts: 3 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Palm sugar: 2.5 tbsp",
+        "Lime juice: 2 tbsp",
+        "Oil for deep-frying: 2 cups"
+      ],
+      "steps_en": [
+        "Heat oil until very hot, sprinkle in the fluffed catfish to fry into a crisp golden raft, and drain on paper towels.",
+        "Simmer palm sugar with fish sauce and a splash of water until dissolved, cool, and stir in lime juice.",
+        "Toss shredded green mango, shallots, and chilies into the dressing.",
+        "Serve the mango salad on the side or in a bowl alongside the crispy catfish, topped with cashews."
+      ]
     },
     {
       "title": "พล่ากุ้งตะไคร้สด",
@@ -1599,7 +2488,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Herbal Roasted Chili Shrimp Salad (Pla Goong)",
+      "desc_en": "Blanch the shrimp just until opaque on the outside so the centers stay sweet and juicy against the bold chili paste.",
+      "ingredients_en": [
+        "Peeled fresh shrimp, lightly blanched: 250 g",
+        "Roasted chili paste: 1.5 tbsp",
+        "Thinly sliced lemongrass & finely julienned kaffir lime leaves: 1/3 cup",
+        "Sliced shallots & mint leaves: 1/2 cup",
+        "Fish sauce: 2 tbsp",
+        "Lime juice: 2.5 tbsp",
+        "Granulated sugar: 1 tsp"
+      ],
+      "steps_en": [
+        "Whisk roasted chili paste, fish sauce, lime juice, and sugar into a smooth dressing.",
+        "Toss the blanched shrimp in the dressing until thoroughly coated.",
+        "Fold in sliced lemongrass, shallots, and julienned kaffir lime leaves.",
+        "Top with mint leaves and sliced bird's eye chilies and serve immediately."
+      ]
     },
     {
       "title": "ยำจิ๊นไก่สมุนไพรเมืองเหนือ",
@@ -1629,7 +2535,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Herbal Shredded Chicken Salad (Yum Jin Kai)",
+      "desc_en": "Finely minced young galangal and roasted prickly ash (makhwaen) bring out the authentic Northern flavor of this dish.",
+      "ingredients_en": [
+        "Boiled chicken thighs, shredded: 250 g",
+        "Chicken poaching broth: 1 cup",
+        "Northern larb spice paste (dried chilies, makhwaen, toasted spices): 2 tbsp",
+        "Finely minced galangal & crispy fried garlic: 2 tbsp",
+        "Chopped green onions, cilantro & mint leaves: 1/2 cup",
+        "Fish sauce: 1.5 tbsp",
+        "Boiled sliced banana blossom (optional): 1/2 cup"
+      ],
+      "steps_en": [
+        "Warm the chicken broth slightly and stir in the Northern larb spice paste and fish sauce until dissolved.",
+        "Add the shredded chicken and boiled banana blossom, tossing well with the seasoned broth.",
+        "Mix in finely minced galangal and crispy fried garlic for extra fragrance.",
+        "Finish with chopped green onions, cilantro, and mint leaves, toss lightly, and serve."
+      ]
     },
     {
       "title": "น้ำตกเนื้อย่างข้าวคั่ว",
@@ -1659,7 +2582,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Grilled Beef Salad with Toasted Rice (Neua Nam Tok)",
+      "desc_en": "Grill the beef to medium-rare and let it rest briefly before slicing so it stays juicy and tender in the salad.",
+      "ingredients_en": [
+        "Grilled marbled beef, thinly sliced: 250 g",
+        "Toasted rice powder: 1.5 tbsp",
+        "Chili flakes: 1 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Lime juice: 2.5 tbsp",
+        "Sliced shallots, green onions, culantro & mint leaves: 1 cup",
+        "Stock: 2 tbsp"
+      ],
+      "steps_en": [
+        "Warm a splash of stock in a pot and toss in the sliced grilled beef just until heated.",
+        "Turn off the heat and season with fish sauce, lime juice, chili flakes, and toasted rice powder.",
+        "Toss in sliced shallots, green onions, and culantro until evenly coated.",
+        "Top with mint leaves and serve with fresh vegetables and warm sticky rice."
+      ]
     },
     {
       "title": "ยำไข่ต้มยางมะตูมหมูสับ",
@@ -1689,7 +2629,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Soft-Boiled Duck Egg Salad with Minced Pork",
+      "desc_en": "Slice soft-boiled eggs with a clean piece of thread instead of a knife to keep the runny yolks neat.",
+      "ingredients_en": [
+        "Soft-boiled duck eggs, halved: 3 eggs",
+        "Cooked minced pork: 100 g",
+        "Sliced shallots & bird's eye chilies: 3 tbsp",
+        "Chopped green onions & Chinese celery: 2 tbsp",
+        "Fish sauce: 2 tbsp",
+        "Lime juice: 2.5 tbsp",
+        "Granulated sugar: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Boil duck eggs for 6.5 minutes, then plunge into ice water before peeling.",
+        "Whisk fish sauce, lime juice, sugar, and sliced chilies until the sugar dissolves.",
+        "Toss the cooked minced pork, shallots, green onions, and celery with the dressing.",
+        "Arrange the halved soft-boiled eggs on a platter and spoon the salad over top."
+      ]
     },
     {
       "title": "น้ำพริกอ่องหมูสับมะเขือเทศ",
@@ -1719,7 +2676,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Pork & Tomato Chili Dip (Nam Prik Ong)",
+      "desc_en": "Choose ripe red plum tomatoes for natural sweet-tart depth and an appetizing vibrant color.",
+      "ingredients_en": [
+        "Slightly fatty minced pork: 200 g",
+        "Coarsely chopped plum tomatoes: 250 g",
+        "Nam prik ong paste (dried chilies, garlic, shallot, shrimp paste, fermented soybean disc): 2.5 tbsp",
+        "Palm sugar: 1 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Chopped green onions & cilantro: 3 tbsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Saute the nam prik ong chili paste in oil over low heat until fragrant.",
+        "Add minced pork, breaking it up and stir-frying until nearly cooked.",
+        "Add chopped tomatoes and simmer until they break down into a thick, rich sauce.",
+        "Season with palm sugar and fish sauce, garnish with green onions and cilantro, and serve."
+      ]
     },
     {
       "title": "น้ำพริกหนุ่มพริกหยวกย่าง",
@@ -1748,7 +2722,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Roasted Green Chili Dip (Nam Prik Num)",
+      "desc_en": "Pound the roasted green chilies coarsely rather than into a smooth puree for a juicy, appetizing texture.",
+      "ingredients_en": [
+        "Northern green chilies or banana peppers: 8 pieces",
+        "Peeled shallots: 6 bulbs",
+        "Small Thai garlic cloves: 10 cloves",
+        "Boiled fermented fish sauce or fish sauce: 1.5 tbsp",
+        "Salt: 1/2 tsp",
+        "Chopped cilantro for garnish: 1 tbsp"
+      ],
+      "steps_en": [
+        "Char the green chilies, shallots, and garlic over charcoal or in a dry skillet until soft and blistered.",
+        "Peel away the charred skins cleanly and set aside.",
+        "Pound garlic and shallots with salt until fine, then add the roasted green chilies and pound coarsely.",
+        "Season with fish sauce or boiled fermented fish sauce, transfer to a bowl, and garnish with cilantro."
+      ]
     },
     {
       "title": "น้ำพริกปลาร้าสับทรงเครื่อง",
@@ -1777,7 +2767,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Herbal Minced Fermented Fish Chili Dip (Nam Prik Pla Ra Sap)",
+      "desc_en": "Use boneless fermented fish fillets and cook them gently over low heat before mixing for safety and longer shelf life.",
+      "ingredients_en": [
+        "Finely minced fermented fish fillet (gourami or snakehead): 100 g",
+        "Roasted fresh chilies, shallots & garlic: 1 cup",
+        "Finely sliced lemongrass: 2 tbsp",
+        "Finely sliced young galangal & kaffir lime leaves: 2 tbsp",
+        "Lime juice: 1.5 tbsp",
+        "Granulated sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Dry-roast the fresh chilies, shallots, and garlic in a skillet until cooked and fragrant.",
+        "Pound the roasted aromatics together with finely sliced lemongrass and young galangal.",
+        "Add the minced fermented fish and pound or mix until thoroughly combined.",
+        "Season with lime juice and a pinch of sugar, scatter julienned kaffir lime leaves, and serve."
+      ]
     },
     {
       "title": "แจ่วบองปลาร้าสมุนไพร",
@@ -1807,7 +2813,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Isan Herbal Fermented Fish Dip (Jaew Bong)",
+      "desc_en": "Dry-roast all the herbs until completely moisture-free before pounding so the jaew bong stays fragrant and keeps for days.",
+      "ingredients_en": [
+        "Finely minced fermented fish (pla ra): 150 g",
+        "Dry-roasted finely sliced galangal, lemongrass & kaffir lime leaves: 1/2 cup",
+        "Roasted shallots & garlic, pounded fine: 4 tbsp",
+        "Toasted chili flakes: 2 tbsp",
+        "Thick tamarind paste: 2 tbsp",
+        "Palm sugar: 1 tsp",
+        "Vegetable oil (for cooking): 1 tbsp"
+      ],
+      "steps_en": [
+        "Pound the roasted galangal, lemongrass, and kaffir lime leaves together with the roasted shallots and garlic until fine.",
+        "Work in the minced fermented fish, then mix in toasted chili flakes and tamarind paste.",
+        "Fry the mixture in a skillet over low heat until cooked, fragrant, and nicely dry.",
+        "Balance with a touch of palm sugar and serve with fresh vegetables and sticky rice."
+      ]
     },
     {
       "title": "น้ำพริกลงเรือหมูหวานไข่เค็ม",
@@ -1836,7 +2859,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Boatman's Fried Shrimp Paste Dip with Sweet Pork & Salted Egg",
+      "desc_en": "Stir-fry the shrimp paste dip strictly over low heat so it stays aromatic without scorching.",
+      "ingredients_en": [
+        "Rich shrimp paste chili dip: 1/2 cup",
+        "Sweet glazed pork (moo wan), diced small: 100 g",
+        "Steamed salted egg yolks, diced: 2 yolks",
+        "Crispy fried fluffy catfish: 50 g",
+        "Sliced pickled garlic & pea eggplants: 4 tbsp",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Warm a little oil in a pan and gently fry the shrimp paste dip over low heat until fragrant.",
+        "Stir in the diced sweet pork and sliced pickled garlic until combined.",
+        "Toss in pea eggplants and half of the crispy fluffy catfish, mix briefly, and remove from heat.",
+        "Transfer to a bowl, top with salted egg yolks and remaining catfish, and serve with fresh vegetables."
+      ]
     },
     {
       "title": "น้ำพริกมะขามอ่อนหมูสับ",
@@ -1866,7 +2905,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Young Tamarind & Minced Pork Chili Dip",
+      "desc_en": "Scrape off the outer skin of the young tamarind pods before pounding to remove astringency and create a smooth paste.",
+      "ingredients_en": [
+        "Young green tamarind pods, scraped clean: 100 g",
+        "Minced pork: 120 g",
+        "Grilled shrimp paste: 1 tbsp",
+        "Thai garlic & bird's eye chilies: 3 tbsp",
+        "Palm sugar: 2 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pound garlic, grilled shrimp paste, and young tamarind together until smooth, then pound in bird's eye chilies.",
+        "Heat oil in a pan and saute the chili paste over low heat until fragrant.",
+        "Add minced pork, breaking it apart until cooked through, and add a splash of water to keep it moist.",
+        "Season with palm sugar and fish sauce, stirring until a thin sheen of oil rises to the surface."
+      ]
     },
     {
       "title": "น้ำพริกปลาทูพริกสด",
@@ -1895,7 +2951,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Roasted Chili & Grilled Mackerel Dip (Nam Prik Pla Tu)",
+      "desc_en": "Grilling the mackerel instead of frying gives the dip a smoky aroma while keeping it light and oil-free.",
+      "ingredients_en": [
+        "Grilled steamed mackerel, flaked boneless: 2 fish",
+        "Roasted green spur chilies, red chilies, shallots & garlic: 1 cup",
+        "Fish sauce: 2 tbsp",
+        "Lime juice: 2 tbsp",
+        "Boiled water: 3 tbsp",
+        "Chopped green onions & cilantro: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pound the roasted chilies, shallots, and garlic to a coarse paste.",
+        "Add the flaked mackerel and pound together until the fish is fluffy and blended into the chilies.",
+        "Season with fish sauce and lime juice, thinning with boiled water to your desired consistency.",
+        "Transfer to a bowl, garnish with green onions and cilantro, and serve with assorted boiled vegetables."
+      ]
     },
     {
       "title": "หลนปูเค็มกะทิสด",
@@ -1925,7 +2997,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Coconut Dip with Salted Crab (Lon Poo Khem)",
+      "desc_en": "Dissolve the minced pork in cold coconut cream before turning on the heat so the pork cooks smoothly without clumping.",
+      "ingredients_en": [
+        "Cleaned salted crabs, shells removed and chopped: 3 crabs",
+        "Minced pork: 100 g",
+        "Coconut cream: 1.5 cups",
+        "Sliced shallots, lemongrass & torn kaffir lime leaves: 1/2 cup",
+        "Green & red spur chilies, cut into pieces: 4 pieces",
+        "Tamarind paste: 3 tbsp",
+        "Palm sugar: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Mix coconut cream and minced pork in a cold pot before turning on the heat to prevent clumping.",
+        "Once simmering, add the salted crab to infuse its savory flavor and aroma into the coconut cream.",
+        "Add shallots and lemongrass, then season with tamarind paste and palm sugar for a sweet-tart balance.",
+        "Add spur chilies and kaffir lime leaves, simmer until slightly wilted, and remove from heat."
+      ]
     },
     {
       "title": "ผัดพริกขิงหมูกรอบถั่วฝักยาว",
@@ -1955,7 +3044,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Pork Belly Stir-Fried in Red Curry & Yardlong Beans (Pad Prik Khing)",
+      "desc_en": "Toss in the crispy pork belly last and turn off the heat quickly so it stays crunchy without getting soggy.",
+      "ingredients_en": [
+        "Crispy pork belly, sliced: 250 g",
+        "Yardlong beans, cut into lengths: 150 g",
+        "Red curry paste: 2 tbsp",
+        "Finely julienned kaffir lime leaves: 4 leaves",
+        "Palm sugar: 1.5 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil over medium heat and fry the red curry paste until fragrant and oil separates.",
+        "Season with palm sugar and fish sauce, stirring until the glaze thickens.",
+        "Toss in yardlong beans and stir-fry quickly until crisp-tender, then fold in crispy pork belly to coat.",
+        "Scatter julienned kaffir lime leaves, give 2-3 quick tosses, and serve immediately."
+      ]
     },
     {
       "title": "ผัดคะน้าหมูกรอบน้ำมันหอย",
@@ -1986,7 +3092,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Wok-Seared Chinese Broccoli with Crispy Pork Belly",
+      "desc_en": "Cook quickly over blazing high heat so the Chinese broccoli stays crisp, sweet, and free of any raw green taste.",
+      "ingredients_en": [
+        "Hong Kong or Thai Chinese broccoli (kailan): 250 g",
+        "Crispy pork belly, sliced: 200 g",
+        "Minced garlic: 1 tbsp",
+        "Crushed bird's eye chilies: 5 pieces",
+        "Oyster sauce: 2 tbsp",
+        "Fermented soybean paste (tao jiao): 1 tsp",
+        "Granulated sugar: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wash and diagonally slice the Chinese broccoli, piling minced garlic and crushed chilies on top ready for the wok.",
+        "Heat oil in a wok until smoking hot, then dump in the greens, chilies, garlic, and all seasonings at once.",
+        "Stir-fry rapidly over high heat for about 1 minute with a splash of water until vibrant green.",
+        "Toss in the crispy pork belly quickly to combine and serve immediately."
+      ]
     },
     {
       "title": "ผัดกะเพราหมูกรอบไข่เยี่ยวม้า",
@@ -2017,7 +3141,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Pork Belly & Century Egg Holy Basil Stir-Fry",
+      "desc_en": "Flash-frying century egg halves first keeps the yolks intact when tossing with the basil sauce.",
+      "ingredients_en": [
+        "Crispy pork belly, sliced: 200 g",
+        "Century eggs, halved: 2",
+        "Holy basil leaves: 2 cups",
+        "Pounded red bird's eye chilies and garlic: 2 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Seasoning sauce: 1 tbsp",
+        "Sugar: 1 tsp",
+        "Vegetable oil: for frying and stir-frying"
+      ],
+      "steps_en": [
+        "Heat enough oil to flash-fry century eggs until sealed, and fry half of the holy basil leaves until crisp; drain and set aside.",
+        "Pour off oil leaving 2 tbsp, then stir-fry pounded chilies and garlic until aromatic.",
+        "Season with oyster sauce, seasoning sauce, sugar, and a splash of water.",
+        "Toss in crispy pork belly, fried century eggs, and fresh holy basil until coated. Serve topped with crispy fried basil."
+      ]
     },
     {
       "title": "ผัดเปรี้ยวหวานปลากะพง",
@@ -2048,7 +3190,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet-and-Sour Crispy Sea Bass",
+      "desc_en": "Pat the sea bass completely dry before dusting with flour so it fries light and crisp without absorbing oil.",
+      "ingredients_en": [
+        "Sea bass fillet, cubed: 300 g",
+        "Pineapple chunks: 100 g",
+        "Tomato & cucumber chunks: 150 g",
+        "Onion & bell pepper chunks: 100 g",
+        "Ketchup: 3 tbsp",
+        "Vinegar & granulated sugar: 1.5 tbsp each",
+        "Crispy frying flour: 3 tbsp",
+        "Fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Coat the sea bass cubes lightly with crispy frying flour, deep-fry until golden brown, and set aside.",
+        "In a pan with a little oil, stir-fry onion, bell pepper, cucumber, and pineapple until tender-crisp.",
+        "Add ketchup, vinegar, sugar, and fish sauce, simmering until the sauce bubbles and thickens.",
+        "Gently fold in tomatoes and the crispy fried fish to coat in the glaze, then serve."
+      ]
     },
     {
       "title": "ผัดสะตอกุ้งสดกะปิใต้",
@@ -2079,7 +3239,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Stir-Fried Stink Beans with Shrimp & Shrimp Paste",
+      "desc_en": "Squeeze in lime juice off the heat to brighten the aroma and balance the savory richness of the shrimp paste.",
+      "ingredients_en": [
+        "White shrimp, peeled and deveined: 250 g",
+        "Shelled stink beans (sataw): 150 g",
+        "Quality shrimp paste: 1.5 tbsp",
+        "Pounded red bird's eye chilies, garlic & shallots: 3 tbsp",
+        "Minced pork: 80 g",
+        "Palm sugar & lime juice: 1 tbsp each",
+        "Fish sauce: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Mix the pounded chili-shallot-garlic paste with shrimp paste and stir-fry in oil over medium heat until fragrant.",
+        "Add minced pork and cook through, followed by the shrimp until they begin turning pink.",
+        "Season with palm sugar, fish sauce, and a splash of water for a light sauce.",
+        "Toss in the stink beans briefly, turn off the heat, stir in lime juice, and serve."
+      ]
     },
     {
       "title": "ใบเหลียงผัดไข่กุ้งเสียบ",
@@ -2110,7 +3288,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Stir-Fried Liang Leaves with Egg & Crispy Dried Shrimp",
+      "desc_en": "Choose tender-mature liang leaves and strip out the tough center ribs for a silky, creamy bite.",
+      "ingredients_en": [
+        "Melinjo leaves (bai liang), tender leaves picked: 200 g",
+        "Chicken eggs: 3 eggs",
+        "Crispy dried shrimp (goong siap): 40 g",
+        "Smashed and coarsely chopped garlic: 1 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Saute garlic in oil until golden and fragrant, crack in the eggs, let the whites set slightly, then gently scramble.",
+        "Add the liang leaves and stir-fry until wilted, adding a splash of water to help them soften.",
+        "Season with oyster sauce, light soy sauce, and sugar, tossing to combine.",
+        "Fold in the crispy dried shrimp at the very end, turn off the heat, and serve."
+      ]
     },
     {
       "title": "กะหล่ำปลีทอดน้ำปลากุ้งแห้ง",
@@ -2140,7 +3336,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Wok-Charred Cabbage with Fish Sauce & Crispy Dried Shrimp",
+      "desc_en": "Drain the cabbage completely dry and pour fish sauce onto the smoking-hot rim of the wok for unmistakable smoky aroma.",
+      "ingredients_en": [
+        "Green cabbage, torn into large pieces: 350 g",
+        "Small crispy fried dried shrimp: 30 g",
+        "Smashed Thai garlic: 1.5 tbsp",
+        "Quality fish sauce: 2 tbsp",
+        "Oyster sauce: 1 tsp",
+        "Granulated sugar: 0.5 tsp",
+        "Vegetable oil: 3 tbsp"
+      ],
+      "steps_en": [
+        "Wash the cabbage and drain until completely dry.",
+        "Heat oil over high heat, briefly fry garlic, then sear the cabbage until the edges char lightly.",
+        "Drizzle fish sauce around the blazing-hot rim of the wok to caramelize, then add oyster sauce and sugar.",
+        "Toss briskly to combine, scatter crispy fried dried shrimp over top, and serve."
+      ]
     },
     {
       "title": "ผัดโป๊ยเซียนวุ้นเส้นกุ้งสด",
@@ -2171,7 +3384,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Eight-Treasure Stir-Fried Glass Noodles with Shrimp (Pad Poy Sian)",
+      "desc_en": "Soak glass noodles in room-temperature water and snip into bite-sized lengths beforehand so they stay springy and untangled.",
+      "ingredients_en": [
+        "Glass noodles, soaked until soft: 120 g",
+        "Fresh peeled shrimp: 150 g",
+        "Chicken eggs: 2 eggs",
+        "Sliced wood ear mushrooms, dried lily buds & shiitake mushrooms: 100 g",
+        "Julienned carrot & shredded cabbage: 100 g",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce, light soy sauce & sugar: 3 tbsp total",
+        "Sesame oil & ground pepper: to taste"
+      ],
+      "steps_en": [
+        "Saute garlic until fragrant, sear the shrimp until nearly cooked, then crack in eggs and scramble loosely.",
+        "Add shiitakes, wood ear mushrooms, lily buds, carrot, and cabbage, stir-frying until tender-crisp.",
+        "Add the glass noodles, all seasonings, and a splash of stock, tossing until the noodles absorb the sauce.",
+        "Finish with a drizzle of sesame oil and ground pepper, toss well, and serve."
+      ]
     },
     {
       "title": "เนื้อผัดน้ำมันหอยพริกไทยดำ",
@@ -2202,7 +3433,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Beef in Oyster Sauce & Cracked Black Pepper",
+      "desc_en": "Flash-sear the beef over high heat and set aside before tossing with the sauce so it stays juicy and tender.",
+      "ingredients_en": [
+        "Beef tenderloin, thinly sliced: 250 g",
+        "Coarsely cracked black pepper: 1 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Sliced onion & green onions cut into lengths: 100 g",
+        "Oyster sauce: 2.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the sliced beef with light soy sauce, 1 tbsp oyster sauce, and a drizzle of oil for 10 minutes.",
+        "Heat oil over high heat, saute garlic, flash-sear the beef until 80% cooked, and set aside.",
+        "In the same wok, stir-fry onion and cracked black pepper until fragrant, then add remaining oyster sauce and sugar.",
+        "Return the beef and add green onions, tossing quickly to coat in the glossy sauce before serving."
+      ]
     },
     {
       "title": "ผัดขี้เมาทะเลกระทะร้อน",
@@ -2233,7 +3482,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sizzling Drunken Seafood Stir-Fry (Pad Kee Mao)",
+      "desc_en": "Blanching the seafood before stir-frying removes excess moisture so the drunken sauce stays rich and clings well.",
+      "ingredients_en": [
+        "Shrimp, squid & sliced fish fillets: 300 g",
+        "Fresh green peppercorns & julienned fingerroot: 80 g",
+        "Pounded red bird's eye chilies & garlic: 2.5 tbsp",
+        "Holy basil & torn kaffir lime leaves: 1 cup",
+        "Oyster sauce: 2 tbsp",
+        "Fish sauce & granulated sugar: 1 tbsp each",
+        "Chinese cooking wine or stock: 2 tbsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Blanch the seafood in rapidly boiling water for 20 seconds and drain well.",
+        "Heat oil in a wok and stir-fry the pounded chili and garlic until pungent and fragrant.",
+        "Toss in the seafood, fingerroot, green peppercorns, and all seasonings over high heat.",
+        "Add holy basil, kaffir lime leaves, and a splash of cooking wine, toss well, and serve on a sizzling hot plate."
+      ]
     },
     {
       "title": "ผัดดอกกุยช่ายตับหมู",
@@ -2264,7 +3531,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Pork Liver with Garlic Chive Flowers",
+      "desc_en": "Washing pork liver with tapioca starch removes odors, while flash-frying it separately keeps it tender and never tough.",
+      "ingredients_en": [
+        "Pork liver, thinly sliced: 200 g",
+        "Garlic chive flowers (flowering chives), cut into lengths: 200 g",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce: 2 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Tapioca starch (for washing liver): 1 tbsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Rub the sliced liver with tapioca starch, rinse clean, pat dry, flash-fry in hot oil until just cooked, and set aside.",
+        "Heat oil in a wok, saute garlic until fragrant, and stir-fry the garlic chive flowers over high heat.",
+        "Season with oyster sauce, light soy sauce, sugar, and a splash of water.",
+        "Return the liver to the wok, toss rapidly to combine, and serve immediately."
+      ]
     },
     {
       "title": "ผัดวุ้นเส้นชะอมไข่กุ้งสด",
@@ -2295,7 +3580,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Glass Noodles with Acacia Leaves, Egg & Shrimp",
+      "desc_en": "Add the acacia shoots right at the end and kill the heat immediately to preserve their bright green color and aroma.",
+      "ingredients_en": [
+        "Glass noodles, soaked until soft: 100 g",
+        "Fresh peeled shrimp: 150 g",
+        "Picked acacia shoots (cha-om): 100 g",
+        "Chicken eggs: 2 eggs",
+        "Pounded red bird's eye chilies & garlic: 1.5 tbsp",
+        "Oyster sauce & fish sauce: 1.5 tbsp each",
+        "Granulated sugar: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Saute the pounded chili and garlic until fragrant, then stir-fry the shrimp until just cooked.",
+        "Crack in the eggs and scramble loosely, then add glass noodles and a splash of water until soft.",
+        "Season with oyster sauce, fish sauce, and sugar, tossing evenly.",
+        "Add the acacia shoots, toss briefly until wilted and fragrant, and serve."
+      ]
     },
     {
       "title": "ปีกไก่ทอดน้ำปลากรอบ",
@@ -2324,7 +3627,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Fish Sauce Fried Chicken Wings",
+      "desc_en": "Splitting mid-joint chicken wings lengthwise helps them cook evenly to the bone while staying juicy inside and crisp outside.",
+      "ingredients_en": [
+        "Mid-joint chicken wings, split lengthwise: 500 g",
+        "Quality fish sauce: 2.5 tbsp",
+        "Ground pepper: 1 tsp",
+        "Crispy frying flour: 4 tbsp",
+        "Ice-cold water: 2 tbsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Marinate the split chicken wings with fish sauce and ground pepper for 15 minutes.",
+        "Toss with crispy frying flour and ice-cold water to form a light, even coating.",
+        "Heat plenty of oil over medium-high heat until hot, then add the wings.",
+        "Deep-fry until golden brown and crispy all over, drain well, and serve with chili sauce or jaew dipping sauce."
+      ]
     },
     {
       "title": "สามชั้นทอดน้ำปลาพริกน้ำปลา",
@@ -2354,7 +3673,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Fish Sauce Pork Belly with Chili Fish Sauce Dip",
+      "desc_en": "Pat off excess marinade before lightly dusting with crispy frying flour to reduce oil splatter and keep the crust crisp longer.",
+      "ingredients_en": [
+        "Pork belly, cut into thick strips: 400 g",
+        "Good-quality fish sauce: 2.5 tbsp",
+        "Finely minced garlic: 1 tbsp",
+        "Crispy frying flour: 3 tbsp",
+        "Sliced bird's eye chilies and sliced garlic (for chili fish sauce): 2 tbsp",
+        "Lime juice: 1.5 tbsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Marinate the pork belly with fish sauce and minced garlic for 15 minutes, then lightly coat with crispy frying flour.",
+        "Heat enough vegetable oil to submerge the pork in a pan over medium heat, then deep-fry until cooked through, golden brown, and crispy.",
+        "Transfer the pork to a wire rack to drain excess oil, then slice into bite-sized pieces.",
+        "Mix sliced chilies, sliced garlic, fish sauce, and lime juice together, and serve alongside the hot crispy pork belly."
+      ]
     },
     {
       "title": "ปลากะพงทอดน้ำปลาซอสยำมะม่วง",
@@ -2385,7 +3721,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Deep-Fried Sea Bass with Fish Sauce and Green Mango Salad",
+      "desc_en": "Serve the green mango salad on the side or in a small bowl so the sea bass skin stays crispy throughout the meal.",
+      "ingredients_en": [
+        "Butterflied sea bass: 1 whole fish (about 700 g)",
+        "Good-quality fish sauce: 3 tbsp",
+        "Palm sugar: 2 tbsp",
+        "Shredded sour green mango: 1 cup",
+        "Sliced shallots and sliced bird's eye chilies: 3 tbsp",
+        "Fried cashew nuts: 30 g",
+        "Lime juice: 2 tbsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Pat the sea bass completely dry, then deep-fry in hot oil over medium-high heat until golden and crispy on both sides; transfer to a serving platter.",
+        "Simmer the fish sauce with palm sugar and a splash of water until syrupy, then drizzle over the fried fish.",
+        "Make the dressing by combining lime juice, fish sauce, palm sugar, sliced chilies, and sliced shallots until dissolved.",
+        "Toss the shredded mango with the dressing, spoon into a bowl topped with fried cashew nuts, and serve alongside the crispy sea bass."
+      ]
     },
     {
       "title": "ปลาทรายทอดขมิ้นกระเทียมกรอบ",
@@ -2414,7 +3768,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Turmeric Fried Whiting with Crispy Garlic",
+      "desc_en": "Fry the pounded garlic until golden and crisp and set it aside before frying the fish so the garlic does not burn and turn bitter.",
+      "ingredients_en": [
+        "Scaled and scored whiting: 400 g",
+        "Finely pounded fresh turmeric: 2 tbsp",
+        "Coarsely pounded Thai garlic: 3 tbsp",
+        "Salt: 1 tsp",
+        "Ground pepper: 0.5 tsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Combine pounded turmeric, salt, and ground pepper, rub evenly over the whiting, and marinate for 15 minutes.",
+        "Heat enough oil to cover in a wok over medium heat, fry the pounded garlic until golden, then scoop out and set aside.",
+        "Deep-fry the whiting in the same oil until golden and crispy all over.",
+        "Drain the fried fish well, arrange on a plate, and garnish generously with the crispy fried garlic."
+      ]
     },
     {
       "title": "กุ้งชุบแป้งทอดซอสบ๊วย",
@@ -2444,7 +3814,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Breaded Fried Shrimp with Plum Sauce",
+      "desc_en": "Gently scoring the underside of the shrimp helps prevent them from curling tightly when they hit the hot oil.",
+      "ingredients_en": [
+        "Large white shrimp, peeled with tails on: 12 pieces",
+        "Crispy frying flour: 1 cup",
+        "Ice-cold water: 150 ml",
+        "Salt and ground pepper: 0.5 tsp each",
+        "Breadcrumbs: 1 cup",
+        "Plum sauce: 4 tbsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Lightly score the belly of each shrimp, straighten them out, and season with salt and pepper.",
+        "Whisk the crispy frying flour with ice-cold water until smooth and moderately thick, dip each shrimp in the batter, then coat evenly in breadcrumbs.",
+        "Heat oil over medium heat and deep-fry the shrimp until evenly golden brown and crispy.",
+        "Drain on paper towels, plate up, and serve with plum sauce."
+      ]
     },
     {
       "title": "ไข่เจียวหมูสับโหระพากรอบ",
@@ -2474,7 +3861,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Thai Omelette with Minced Pork & Sweet Basil",
+      "desc_en": "A few drops of lime juice whisked into the eggs help create a light, airy, golden-crisp omelette.",
+      "ingredients_en": [
+        "Eggs: 3",
+        "Minced pork: 80 g",
+        "Sweet basil leaves: 1 cup",
+        "Fish sauce: 1 tbsp",
+        "Seasoning sauce: 1 tsp",
+        "Lime juice: 0.5 tsp",
+        "Vegetable oil: 150 ml"
+      ],
+      "steps_en": [
+        "Crack eggs into a bowl with minced pork, fish sauce, seasoning sauce, lime juice, and sweet basil; whisk until frothy.",
+        "Heat a generous amount of oil in a wok over medium-high heat until shimmering hot.",
+        "Pour the egg mixture from a height into the center so it puffs up crisp; fry until golden brown underneath.",
+        "Flip and fry until golden and crisp on both sides. Drain excess oil and serve hot."
+      ]
     },
     {
       "title": "ทอดมันกุ้งเกล็ดขนมปังกรอบ",
@@ -2505,7 +3909,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Breaded Shrimp Cakes (Tod Mun Goong)",
+      "desc_en": "Chilling the shrimp mixture before shaping and frying helps it firm up, bounce nicely, and mold easily without sticking to your hands.",
+      "ingredients_en": [
+        "Finely minced fresh shrimp: 300 g",
+        "Finely minced pork back fat: 60 g",
+        "Pounded coriander root, garlic, and pepper paste: 1 tbsp",
+        "Seasoning sauce and sugar: 1 tbsp each",
+        "Cornstarch: 1.5 tbsp",
+        "Egg white: 1 piece",
+        "Breadcrumbs: 1.5 cups",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Knead the minced shrimp with pork fat, coriander-garlic-pepper paste, seasoning sauce, sugar, cornstarch, and egg white until springy and sticky, then chill for 15 minutes.",
+        "Shape the mixture into bite-sized flattened patties and coat thoroughly in breadcrumbs.",
+        "Heat oil over medium heat and fry the shrimp cakes until golden brown and crisp on both sides.",
+        "Drain well on a rack and serve warm with plum dipping sauce and cucumber."
+      ]
     },
     {
       "title": "ไก่ทอดหาดใหญ่หอมเจียว",
@@ -2536,7 +3958,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Hat Yai Fried Chicken with Crispy Shallots",
+      "desc_en": "Fry the chicken over steady medium heat so it cooks through to the bone without burning the aromatic spices on the outside.",
+      "ingredients_en": [
+        "Chicken drumsticks with thighs, scored: 600 g",
+        "Thinly sliced shallots: 1 cup",
+        "Finely pounded coriander root, garlic, and pepper: 2 tbsp",
+        "Toasted ground coriander seeds and cumin: 1 tsp each",
+        "Light soy sauce and seasoning sauce: 1.5 tbsp each",
+        "Palm sugar and salt: 1 tsp each",
+        "Crispy frying flour: 4 tbsp",
+        "Vegetable oil: for deep-frying"
+      ],
+      "steps_en": [
+        "Pound the coriander-garlic-pepper paste with ground coriander and cumin, rub onto the chicken with light soy sauce, seasoning sauce, palm sugar, and salt, and marinate for at least 30 minutes.",
+        "Fry the sliced shallots in oil over low heat until golden and crispy, then drain on paper towels.",
+        "Lightly dust the marinated chicken with crispy frying flour and fry in the same oil over medium heat until cooked through, golden, and crispy.",
+        "Drain excess oil, plate the chicken topped with crispy fried shallots, and serve with sticky rice and sweet chili sauce."
+      ]
     },
     {
       "title": "คอหมูย่างน้ำจิ้มแจ่ว",
@@ -2566,7 +4006,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Thai Grilled Pork Neck with Jaew Dipping Sauce",
+      "desc_en": "Pricking the pork neck all over with a fork before marinating helps the seasoning penetrate deeper into the meat.",
+      "ingredients_en": [
+        "Pork neck (jowl), thickly sliced: 400 g",
+        "Pounded coriander root, garlic, and pepper: 1.5 tbsp",
+        "Oyster sauce and light soy sauce: 1.5 tbsp each",
+        "Palm sugar: 1 tbsp",
+        "Fish sauce and lime juice (for sauce): 2 tbsp each",
+        "Toasted rice powder and chili flakes: 1 tbsp each",
+        "Sliced shallots and culantro: 2 tbsp"
+      ],
+      "steps_en": [
+        "Massage the pork neck with coriander-garlic-pepper paste, oyster sauce, light soy sauce, and palm sugar, then marinate for 20 minutes.",
+        "Grill over charcoal or air-fry at 180°C for 10-12 minutes per side until cooked through and nicely charred.",
+        "Mix fish sauce, lime juice, a touch of palm sugar, toasted rice powder, chili flakes, sliced shallots, and culantro to make the jaew dipping sauce.",
+        "Slice the grilled pork neck thinly on a diagonal and serve with the jaew sauce and fresh vegetables."
+      ]
     },
     {
       "title": "ไก่ย่างขมิ้นตะไคร้หอม",
@@ -2596,7 +4053,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Grilled Turmeric and Lemongrass Chicken",
+      "desc_en": "Adding coconut cream to the marinade and basting with it while grilling gives the chicken skin a vibrant golden hue and keeps the meat juicy.",
+      "ingredients_en": [
+        "Boneless or bone-in chicken thighs: 500 g",
+        "Finely pounded fresh turmeric and sliced lemongrass: 3 tbsp",
+        "Pounded garlic and black pepper: 1.5 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Palm sugar: 1 tbsp",
+        "Coconut cream: 3 tbsp",
+        "Salt: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Pound the turmeric, lemongrass, garlic, and black pepper into a fine paste, then mix with fish sauce, palm sugar, salt, and coconut cream.",
+        "Rub the marinade evenly over the chicken and refrigerate for at least 30 minutes.",
+        "Grill over low-to-medium heat, turning occasionally and basting with the remaining coconut cream until cooked through, golden, and fragrant.",
+        "Cut into bite-sized pieces and serve with jaew dipping sauce or sweet chili chicken sauce."
+      ]
     },
     {
       "title": "เนื้อเสือร้องไห้ย่างจิ้มแจ่ว",
@@ -2626,7 +4100,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Grilled Crying Tiger Beef Brisket with Jaew Sauce",
+      "desc_en": "Never slice the steak right off the grill—resting it for 5 minutes locks all the flavorful juices inside.",
+      "ingredients_en": [
+        "Marbled beef brisket (Suea Rong Hai): 400 g",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Ground black pepper: 1 tsp",
+        "Fish sauce and lime juice (for sauce): 2 tbsp each",
+        "Toasted rice powder and chili flakes: 1 tbsp each",
+        "Sliced scallions and culantro: 2 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the beef brisket with oyster sauce, light soy sauce, and ground black pepper for 15 minutes.",
+        "Heat a grill pan or charcoal grill until screaming hot and sear the beef for about 3-4 minutes per side for medium-rare.",
+        "Rest the beef on a cutting board for 5 minutes to let the juices redistribute, then slice across the grain into bite-sized strips.",
+        "Combine all jaew sauce ingredients and serve alongside the grilled beef and hot sticky rice."
+      ]
     },
     {
       "title": "กุ้งแม่น้ำเผามันเยิ้มน้ำจิ้มซีฟู้ด",
@@ -2656,7 +4147,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Charcoal-Grilled River Prawns with Seafood Dipping Sauce",
+      "desc_en": "Keep the prawns shell-side down on the grill without flipping so the rich golden tomalley stays intact inside the heads.",
+      "ingredients_en": [
+        "Medium-to-large river prawns, split down the back: 4 pieces (about 600 g)",
+        "Green bird's eye chilies: 15 pieces",
+        "Peeled Thai garlic: 10 cloves",
+        "Coriander roots: 2 pieces",
+        "Fresh lime juice: 3 tbsp",
+        "Good-quality fish sauce: 2.5 tbsp",
+        "Palm sugar: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Wash the river prawns thoroughly and split them cleanly down the back from head to tail, taking care not to spill the head tomalley.",
+        "Blend or pound the green chilies, garlic, and coriander roots until fine, then season with lime juice, fish sauce, and palm sugar.",
+        "Place the prawns shell-side down on a grill over medium-high heat for 5-7 minutes until the meat is opaque and springy and the tomalley bubbles.",
+        "Arrange on a platter and serve immediately with the zesty seafood dipping sauce."
+      ]
     },
     {
       "title": "ปลาหมึกย่างน้ำจิ้มซีฟู้ดมะนาวสด",
@@ -2686,7 +4194,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Squid with Fresh Lime Seafood Sauce",
+      "desc_en": "Grilling over medium-high heat for just a few minutes keeps the squid tender, snappy, and free from rubbery shrinkage.",
+      "ingredients_en": [
+        "Large cleaned squid: 400 g",
+        "Turmeric powder or dark soy sauce (for color): 0.5 tsp",
+        "Red and green bird's eye chilies: 15 pieces",
+        "Garlic and coriander roots: 3 tbsp",
+        "Freshly squeezed lime juice: 3 tbsp",
+        "Good-quality fish sauce: 2.5 tbsp",
+        "Palm sugar: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Score the squid in a crisscross pattern, brush lightly with diluted turmeric powder for color, and thread onto skewers.",
+        "Pound the chilies, garlic, and coriander roots until fine, then stir in lime juice, fish sauce, and palm sugar to make the seafood sauce.",
+        "Grill the squid over medium-high heat, turning frequently for 4-5 minutes until firm, lightly charred, and smoky.",
+        "Slice into bite-sized rings and serve with the seafood dipping sauce and fresh cilantro."
+      ]
     },
     {
       "title": "หมูสะเต๊ะอาจาดน้ำจิ้มถั่ว",
@@ -2717,7 +4242,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Pork Satay with Peanut Sauce and Cucumber Relish",
+      "desc_en": "Slicing the pork thinly across the grain ensures every skewer stays tender, easy to chew, and cooks evenly.",
+      "ingredients_en": [
+        "Pork loin, thinly sliced and skewered: 400 g",
+        "Curry powder and turmeric powder: 1 tsp each",
+        "Ground coriander, ground cumin, and sugar: 1 tbsp each",
+        "Coconut cream: 250 ml",
+        "Red curry paste: 2 tbsp",
+        "Finely ground roasted peanuts: 100 g",
+        "Vinegar, sugar, and salt mixture (for relish): 100 ml",
+        "Sliced cucumber, shallots, and mild red chili: 1 cup"
+      ],
+      "steps_en": [
+        "Marinate the pork with curry powder, turmeric, ground coriander, cumin, sugar, salt, and half of the coconut cream for 30 minutes.",
+        "Simmer the remaining coconut cream with red curry paste until fragrant and glossy, then stir in ground peanuts, palm sugar, tamarind paste, and salt for the peanut sauce.",
+        "Simmer vinegar, sugar, and salt until dissolved, let cool, and pour over sliced cucumber, shallots, and chilies for the relish.",
+        "Grill the pork skewers over medium heat, brushing with coconut milk as they cook until golden and aromatic; serve with peanut sauce and cucumber relish."
+      ]
     },
     {
       "title": "ปลานิลนึ่งสมุนไพรแจ่วปลาร้า",
@@ -2747,7 +4290,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Steamed Herb Tilapia with Fermented Fish Jaew Dip",
+      "desc_en": "Scrape away all the dark membrane inside the fish cavity before stuffing with herbs so the steamed tilapia tastes clean and sweet with zero muddiness.",
+      "ingredients_en": [
+        "Cleaned whole tilapia, scaled and gutted: 1 whole fish (about 700 g)",
+        "Lemongrass, kaffir lime leaves, galangal, and lemon basil: 1 cup",
+        "Salt: 1 tsp",
+        "Roasted spur chilies, shallots, and garlic: 4 tbsp",
+        "Boiled fermented fish sauce (pla ra): 2.5 tbsp",
+        "Lime juice and fish sauce: 1 tbsp each",
+        "Steamed vegetables (cabbage, yardlong beans, napa cabbage): 200 g"
+      ],
+      "steps_en": [
+        "Rub salt all over the tilapia and stuff the cavity with lemongrass, galangal, and kaffir lime leaves to remove any fishiness.",
+        "Steam in a steamer basket alongside the vegetables for 15-20 minutes until the fish is tender and cooked through.",
+        "Pound the roasted chilies, shallots, and garlic together, then season with boiled fermented fish sauce, fish sauce, and lime juice to make the jaew dip.",
+        "Plate the steamed fish garnished with lemon basil and serve alongside the steamed vegetables and fermented fish dip."
+      ]
     },
     {
       "title": "ห่อหมกทะเลมะพร้าวอ่อนนึ่ง",
@@ -2778,7 +4338,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Seafood Curry Custard in Young Coconut (Hor Mok)",
+      "desc_en": "Stir the curry custard steadily in one direction until thick and fluffy so the steamed texture sets silky smooth without separating.",
+      "ingredients_en": [
+        "Featherback fish paste, shrimp, and cut squid: 300 g",
+        "Young coconuts, hollowed out as serving bowls: 2 pieces",
+        "Red curry paste: 2.5 tbsp",
+        "Coconut cream: 250 ml",
+        "Egg: 1 piece",
+        "Thai sweet basil and shredded cabbage: 1 cup",
+        "Fish sauce and palm sugar: 1 tbsp each",
+        "Julienne kaffir lime leaves and sliced red spur chili: for garnish"
+      ],
+      "steps_en": [
+        "Beat the fish paste with red curry paste, coconut cream, egg, fish sauce, and palm sugar in one direction until smooth and thick.",
+        "Gently fold in the shrimp and squid pieces until evenly combined.",
+        "Line the bottom of the young coconut shells with shredded cabbage and sweet basil, then spoon in the seafood curry mixture.",
+        "Steam over medium heat for 15-20 minutes until set, drizzle with a little coconut cream, garnish with kaffir lime leaves and red chili, and serve."
+      ]
     },
     {
       "title": "ไก่อบโอ่งสมุนไพรซอสพริกไทยดำ",
@@ -2808,7 +4386,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Herb-Roasted Chicken with Black Pepper Sauce",
+      "desc_en": "Lining the baking tray with lemongrass and kaffir lime leaves lets the rising steam infuse herbal aroma evenly into the chicken.",
+      "ingredients_en": [
+        "Chicken leg quarters: 600 g",
+        "Pounded coriander root, garlic, and black pepper: 2 tbsp",
+        "Bruised lemongrass and kaffir lime leaves: 1 handful",
+        "Oyster sauce: 2 tbsp",
+        "Light soy sauce and seasoning sauce: 1.5 tbsp each",
+        "Honey or palm sugar: 1 tbsp",
+        "Sweet dark soy sauce: 1 tsp"
+      ],
+      "steps_en": [
+        "Mix the coriander-garlic-black pepper paste with oyster sauce, light soy sauce, seasoning sauce, honey, and sweet dark soy sauce.",
+        "Coat the chicken thoroughly with the marinade along with bruised lemongrass and kaffir lime leaves, then marinate for at least 30 minutes.",
+        "Roast at 190°C for 35-40 minutes, basting once or twice with the remaining marinade during baking.",
+        "Rest the roasted chicken for 5 minutes before chopping or serving with jaew dipping sauce."
+      ]
     },
     {
       "title": "หมูฮ้องภูเก็ตพริกไทยดำ",
@@ -2838,7 +4433,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Phuket Braised Pork Belly with Black Pepper (Moo Hong)",
+      "desc_en": "Braising over steady low heat slowly renders out excess fat, leaving the pork belly melt-in-your-mouth tender without feeling heavy.",
+      "ingredients_en": [
+        "Pork belly, cut into large cubes: 500 g",
+        "Finely pounded Thai garlic, coriander root, and black peppercorns: 3 tbsp",
+        "Sweet dark soy sauce: 2 tbsp",
+        "Light soy sauce: 2.5 tbsp",
+        "Palm sugar: 2 tbsp",
+        "Star anise and cinnamon stick: 1 piece each",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Marinate the pork belly with the garlic-coriander-pepper paste, sweet dark soy sauce, light soy sauce, and palm sugar for 20 minutes.",
+        "In a pot over medium-low heat, sauté the marinated pork with its seasoning until fragrant and richly colored.",
+        "Pour in the water, add star anise and cinnamon, bring to a boil, then reduce to low heat and cover.",
+        "Simmer for about 45 minutes until the pork is fork-tender and the sauce reduces to a rich glaze; serve with steamed rice."
+      ]
     },
     {
       "title": "แกงเผ็ดเป็ดย่างสับปะรดมะเขือเทศ",
@@ -2868,7 +4480,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Red Curry with Roast Duck, Pineapple, and Cherry Tomatoes",
+      "desc_en": "Add the roast duck toward the end and avoid overboiling so the meat stays tender and the duck skin keeps a pleasant bite.",
+      "ingredients_en": [
+        "Sliced roast duck: 250 g",
+        "Red curry paste: 2 tbsp",
+        "Coconut cream: 1 cup",
+        "Thin coconut milk: 1.5 cups",
+        "Pineapple chunks and cherry tomatoes: 150 g",
+        "Thai sweet basil and torn kaffir lime leaves: 0.5 cup",
+        "Fish sauce and palm sugar: 1.5 tbsp each"
+      ],
+      "steps_en": [
+        "Simmer half of the coconut cream with red curry paste until aromatic and the oil separates.",
+        "Add the thin coconut milk and remaining coconut cream, bring to a boil, then add the pineapple chunks and cherry tomatoes.",
+        "Stir in the sliced roast duck, simmer briefly to absorb the flavors, and season with fish sauce and palm sugar.",
+        "Add the torn kaffir lime leaves and sweet basil, stir just until wilted, and remove from heat."
+      ]
     },
     {
       "title": "ผัดสายบัวกุ้งสดกะปิหอม",
@@ -2897,7 +4526,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Lotus Stems with Shrimp and Shrimp Paste",
+      "desc_en": "Stir-fry the lotus stems over high heat as quickly as possible so they stay crisp instead of releasing water and turning limp.",
+      "ingredients_en": [
+        "Peeled lotus stems, cut into segments: 250 g",
+        "Peeled and deveined fresh shrimp: 150 g",
+        "Good-quality shrimp paste (kapi): 1 tsp",
+        "Pounded shallots and bird's eye chilies: 1.5 tbsp",
+        "Fish sauce and sugar: 1 tsp each",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Pound the shallots, chilies, and shrimp paste together until combined.",
+        "Heat oil in a wok, sauté the aromatic paste until fragrant, then add the shrimp and stir-fry until they start to turn pink.",
+        "Add the lotus stems and stir-fry briskly over high heat, seasoning with fish sauce and sugar.",
+        "Toss just until the lotus stems are crisp-tender, then transfer to a plate and serve immediately."
+      ]
     },
     {
       "title": "ยำมะเขือยาวเผากุ้งสดไข่ต้ม",
@@ -2926,7 +4571,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Charred Eggplant Salad with Shrimp and Boiled Eggs",
+      "desc_en": "Plunging the peeled charred eggplants into ice-cold water makes removing charred bits easy and keeps the flesh bright.",
+      "ingredients_en": [
+        "Charred long eggplants, peeled and segmented: 2 pieces",
+        "Blanched fresh shrimp: 120 g",
+        "Cooked minced pork: 80 g",
+        "Halved boiled eggs: 2 pieces",
+        "Sliced shallots and sliced bird's eye chilies: 3 tbsp",
+        "Fish sauce, lime juice, and palm sugar: 2 tbsp each"
+      ],
+      "steps_en": [
+        "Grill or char the eggplants until soft, peel off the charred skin, tear or cut into segments, and arrange on a plate.",
+        "Whisk together fish sauce, lime juice, palm sugar, and sliced chilies until the sugar dissolves.",
+        "Toss the cooked minced pork, blanched shrimp, and sliced shallots into the dressing.",
+        "Spoon the dressed topping over the charred eggplants and serve with halved boiled eggs and crispy fried shallots."
+      ]
     },
     {
       "title": "หมูสามชั้นคั่วพริกเกลือกระเทียมกรอบ",
@@ -2955,7 +4616,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Wok-Tossed Pork Belly with Crispy Garlic, Chili, and Salt",
+      "desc_en": "Dry-fry the pork belly until crisp and drain off the rendered fat before adding garlic so the garlic browns evenly without burning.",
+      "ingredients_en": [
+        "Bite-sized pork belly pieces: 300 g",
+        "Coarsely chopped Thai garlic: 3 tbsp",
+        "Sliced red bird's eye chilies: 1.5 tbsp",
+        "Sliced scallions: 2 tbsp",
+        "Salt: 0.5 tsp",
+        "Sugar: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Dry-fry the pork belly in a pan over medium heat until the fat renders and the edges turn golden and crispy, then pour off excess oil.",
+        "Add the chopped garlic and toss with the pork until the garlic turns golden and crisp.",
+        "Add sliced chilies, season with salt and sugar, and stir-fry to coat evenly.",
+        "Toss in sliced scallions briefly and serve hot."
+      ]
     },
     {
       "title": "ต้มข่าปลาทูสดใบมะกรูด",
@@ -2984,7 +4661,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Coconut Galangal Soup with Fresh Mackerel (Tom Kha Pla Thu)",
+      "desc_en": "Avoid stirring the pot while the fresh mackerel simmers to prevent fishiness and keep the delicate fish intact.",
+      "ingredients_en": [
+        "Cleaned fresh mackerel, cut into chunks: 3 whole fish",
+        "Fresh coconut milk: 2 cups",
+        "Sliced young galangal, lemongrass, and torn kaffir lime leaves: 1 set",
+        "Smashed shallots: 4 pieces",
+        "Fish sauce and fresh lime juice: 2.5 tbsp each",
+        "Smashed chilies and chopped cilantro: 2 tbsp"
+      ],
+      "steps_en": [
+        "Simmer thin coconut milk with galangal, lemongrass, shallots, and kaffir lime leaves until fragrant.",
+        "Gently place the mackerel chunks into the broth and cook without stirring until the fish is done.",
+        "Add the thick coconut cream, season with fish sauce and smashed chilies, and turn off the heat just as it bubbles around the edges.",
+        "Finish with fresh lime juice and chopped cilantro, stir gently, and serve."
+      ]
     },
     {
       "title": "แกงกะหรี่ไก่มันฝรั่งอาจาด",
@@ -3013,7 +4706,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Yellow Chicken Curry with Potatoes and Cucumber Relish",
+      "desc_en": "Simmering gently until the potatoes soften naturally thickens the yellow curry into a rich, velvety sauce.",
+      "ingredients_en": [
+        "Cut chicken thighs: 300 g",
+        "Diced potatoes: 200 g",
+        "Yellow curry paste and curry powder: 2.5 tbsp",
+        "Coconut cream and thin coconut milk: 1.5 cups each",
+        "Quartered onion: 1 piece",
+        "Fish sauce and palm sugar: 1.5 tbsp each"
+      ],
+      "steps_en": [
+        "Simmer half of the coconut cream with yellow curry paste and curry powder until fragrant and glossy.",
+        "Add the chicken and stir-fry to coat with the paste, then pour in the thin coconut milk and remaining coconut cream and simmer until tender.",
+        "Add the potatoes and onion and cook until the potatoes are fork-tender.",
+        "Season with fish sauce and palm sugar and serve alongside cucumber relish."
+      ]
     },
     {
       "title": "ผัดดอกขจรหมูสับไข่ไก่",
@@ -3042,7 +4751,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Cowslip Creeper Flowers with Minced Pork and Egg",
+      "desc_en": "Keep the stir-fry brief so the cowslip creeper flowers stay sweet, crisp, and vibrant green.",
+      "ingredients_en": [
+        "Cowslip creeper flowers, tough stems removed: 200 g",
+        "Minced pork: 100 g",
+        "Eggs: 2 pieces",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce and light soy sauce: 1 tbsp each",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil in a wok, sauté minced garlic until fragrant, then add minced pork and cook through.",
+        "Crack in the eggs, scramble lightly until almost set, and add the cowslip creeper flowers with a splash of water.",
+        "Season with oyster sauce and light soy sauce and toss quickly over high heat.",
+        "As soon as the flowers wilt slightly and turn bright green, turn off the heat and serve immediately."
+      ]
     },
     {
       "title": "ข้าวมันไก่ต้มนุ่มน้ำจิ้มเต้าเจี้ยว",
@@ -3072,7 +4797,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Hainanese Poached Chicken Rice with Fermented Soy Sauce",
+      "desc_en": "Poach the chicken at a gentle bare simmer—never a rolling boil—so the meat stays juicy and silky.",
+      "ingredients_en": [
+        "Chicken thigh or breast: 350 g",
+        "Aged jasmine rice: 2 cups",
+        "Sliced old ginger 6 slices and bruised Thai garlic 1 tbsp",
+        "Coriander roots 2 and green onions 2 stalks",
+        "Fermented soybean paste 2 tbsp, minced ginger 1 tbsp, minced bird's eye chili 1 tbsp",
+        "Sweet dark soy sauce, vinegar, and sugar for dipping sauce",
+        "Sliced cucumber and cilantro for garnish"
+      ],
+      "steps_en": [
+        "Simmer stock with coriander roots and ginger, then gently poach chicken over low heat for 20 minutes until juicy. Brush lightly with sesame oil.",
+        "Sauté garlic and ginger in chicken fat until fragrant, stir in jasmine rice to coat, then cook using the chicken poaching broth.",
+        "Combine fermented soybean paste, minced ginger, minced chili, sugar, vinegar, and a splash of chicken broth for the dipping sauce.",
+        "Slice chicken over fragrant rice and serve with cucumber, dipping sauce, and clear soup topped with green onions."
+      ]
     },
     {
       "title": "ผัดกะเพราหมูสับไข่ดาวกรอบ",
@@ -3104,7 +4846,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pad Kra Pao Moo (Minced Pork Basil) with Crispy Fried Egg",
+      "desc_en": "Pat holy basil leaves completely dry and toss them in at maximum heat right before turning off the stove to keep them bright green and fragrant.",
+      "ingredients_en": [
+        "Minced pork: 200 g",
+        "Fresh Thai holy basil leaves: 1 large handful",
+        "Coarsely pounded red bird's eye and Jinda chilies: 1.5 tbsp",
+        "Coarsely pounded Thai garlic: 1.5 tbsp",
+        "Chicken or duck eggs for frying: 2",
+        "Oyster sauce: 1.5 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Dark soy sauce (for color): 1/4 tsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Fry eggs in hot oil over medium-high heat until edges are lacy and crisp while yolks remain runny; place over hot steamed rice.",
+        "Leave 1.5 tbsp oil in the wok and stir-fry pounded chilies and garlic over high heat until fragrant.",
+        "Add minced pork, breaking it up until cooked through, then season with oyster sauce, fish sauce, sugar, and dark soy sauce.",
+        "Turn heat to maximum, toss in dry holy basil leaves for 3–4 quick flips, turn off heat, and serve alongside rice and crispy fried eggs."
+      ]
     },
     {
       "title": "ข้าวผัดกุ้งหอมกระทะ",
@@ -3133,7 +4894,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Wok-Fired Shrimp Fried Rice",
+      "desc_en": "Use cooled cooked rice and high heat at the end so every grain stays separate and smoky.",
+      "ingredients_en": [
+        "Cooked jasmine rice, cooled: 2 cups",
+        "Fresh shrimp, peeled and deveined: 6 pcs",
+        "Fresh eggs: 2",
+        "Minced garlic 1 tbsp and diced onion 2 tbsp",
+        "Chopped green onions 2 stalks and tomato wedges 1/2 tomato",
+        "Light soy sauce 1.5 tbsp and seasoning sauce 1 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a wok, sauté garlic and onion until fragrant, then stir-fry fresh shrimp until just cooked.",
+        "Push shrimp aside, crack in eggs and scramble lightly, then add cooked rice on top.",
+        "Turn up to high heat, drizzle light soy sauce and seasoning sauce around the wok rim, and toss until grains are dry and aromatic.",
+        "Fold in green onions and white pepper; serve with cucumber slices and lime wedges."
+      ]
     },
     {
       "title": "ราดหน้าหมูหมักยอดคะน้า",
@@ -3163,7 +4940,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Rad Na (Wide Rice Noodles with Tender Pork & Chinese Broccoli)",
+      "desc_en": "Marinate pork with egg white, soy sauce, and a touch of tapioca starch for 15 minutes for restaurant-style tenderness.",
+      "ingredients_en": [
+        "Fresh wide rice noodles: 200 g",
+        "Marinated sliced pork loin: 150 g",
+        "Chinese broccoli stalks, peeled: 150 g",
+        "Fermented soybean paste: 1 tbsp",
+        "Sweet dark soy sauce (for noodles): 1 tsp",
+        "Tapioca or cornstarch slurry: 2 tbsp",
+        "Oyster sauce 1.5 tbsp and light soy sauce 1 tbsp"
+      ],
+      "steps_en": [
+        "Toss wide rice noodles with dark soy sauce and sear in a hot wok until lightly charred and smoky; transfer to a plate.",
+        "Sauté garlic and fermented soybean paste until fragrant, pour in 2 cups stock, bring to a boil, and add marinated pork.",
+        "Season with oyster sauce, light soy sauce, and a pinch of sugar, then add Chinese broccoli.",
+        "Slowly pour in starch slurry while stirring until glossy and thickened, then ladle over the seared noodles."
+      ]
     },
     {
       "title": "ผัดซีอิ๊วหมูเส้นใหญ่",
@@ -3193,7 +4987,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pad See Ew with Pork & Wide Rice Noodles",
+      "desc_en": "Spread noodles flat against the hot wok for 15 seconds before flipping to develop smoky wok hei flavor.",
+      "ingredients_en": [
+        "Fresh wide rice noodles: 200 g",
+        "Thinly sliced pork: 150 g",
+        "Chinese broccoli, cut into pieces: 100 g",
+        "Fresh eggs: 2",
+        "Minced Thai garlic: 1 tbsp",
+        "Sweet dark soy sauce: 1.5 tsp",
+        "Light soy sauce 1.5 tbsp and oyster sauce 1 tbsp"
+      ],
+      "steps_en": [
+        "Coat wide rice noodles evenly with sweet dark soy sauce and set aside.",
+        "Sauté garlic until fragrant, stir-fry sliced pork until cooked, then crack in eggs and scramble lightly.",
+        "Add noodles and Chinese broccoli over high heat; season with light soy sauce, oyster sauce, and a pinch of sugar.",
+        "Sear and toss until noodles smell smoky and broccoli is crisp-tender. Dust with white pepper and serve."
+      ]
     },
     {
       "title": "ข้าวคลุกกะปิทรงเครื่อง",
@@ -3222,7 +5033,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Shrimp Paste Fried Rice with Sweet Pork (Khao Kluk Kapi)",
+      "desc_en": "Grilling or lightly frying the shrimp paste in oil before tossing with rice creates a smooth, savory aroma with no harsh fishiness.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 2 cups",
+        "Good-quality shrimp paste, wrapped in banana leaf and grilled: 1.5 tbsp",
+        "Pork belly or collar (for sweet braised pork): 150 g",
+        "Thin egg omelets, shredded into strips: 2 eggs",
+        "Fried sliced Chinese sausage and crispy dried shrimp: 1 set",
+        "Shredded green mango, sliced shallots, sliced chilies, and cucumber: to taste"
+      ],
+      "steps_en": [
+        "Sauté the grilled shrimp paste with garlic until fragrant, then toss in the cooked rice until evenly coated in color.",
+        "Simmer the pork with palm sugar, light soy sauce, dark soy sauce, and shallots until tender and glossy.",
+        "Mound the shrimp paste rice in the center of a platter and arrange the sweet pork, egg strips, Chinese sausage, and dried shrimp around it.",
+        "Serve with shredded green mango, sliced shallots, chilies, and lime wedges."
+      ]
     },
     {
       "title": "ข้าวไข่ข้นกุ้งสด",
@@ -3251,7 +5078,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Scrambled Eggs with Shrimp over Rice",
+      "desc_en": "Cook over low heat and pull the pan off the stove when the eggs are about 80% set so residual heat finishes them silky and soft.",
+      "ingredients_en": [
+        "Hot steamed rice: 1.5 cups",
+        "Fresh eggs: 3 pieces",
+        "Unsweetened fresh milk: 2 tbsp",
+        "Peeled and deveined fresh shrimp: 5 pieces",
+        "Salted butter: 1 tbsp",
+        "Light soy sauce: 0.5 tbsp",
+        "Ground pepper: to taste"
+      ],
+      "steps_en": [
+        "Whisk the eggs with fresh milk and light soy sauce until lightly combined.",
+        "Melt salted butter in a pan over low heat and sear the shrimp until just cooked and bouncy.",
+        "Pour in the egg mixture and gently push with a spatula until soft, creamy ribbons form while still glossy.",
+        "Slide the creamy shrimp eggs over hot steamed rice and garnish with scallions and ground pepper."
+      ]
     },
     {
       "title": "สุกี้น้ำไก่หมักนุ่ม",
@@ -3280,7 +5124,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Sukiyaki Soup with Tender Marinated Chicken",
+      "desc_en": "Marinating the chicken breast with raw egg and sesame oil before simmering keeps the slices silky tender instead of dry.",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 150 g",
+        "Napa cabbage, morning glory, and Chinese celery: 150 g",
+        "Soaked glass noodles: 1 small pack",
+        "Fresh eggs: 2 pieces",
+        "Thai sukiyaki sauce: 4 tbsp",
+        "Sesame oil: 0.5 tsp",
+        "Light soy sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the chicken slices with 1 egg, sesame oil, and light soy sauce for 5 minutes.",
+        "Bring broth to a boil, add the napa cabbage stems and marinated chicken, and simmer until tender.",
+        "Add the glass noodles, cabbage leaves, and morning glory, then drizzle in the remaining beaten egg in thin ribbons.",
+        "Stir in Chinese celery and 2 tbsp sukiyaki sauce, ladle into a bowl, and serve with extra dipping sauce on the side."
+      ]
     },
     {
       "title": "ข้าวผัดแหนมไข่ดาวเคียงพริกสด",
@@ -3310,7 +5171,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fermented Pork (Naem) Fried Rice with Fried Egg",
+      "desc_en": "Let the fermented pork sear directly against the hot wok first to bring out its tangy savory aroma.",
+      "ingredients_en": [
+        "Day-old steamed rice: 2 cups",
+        "Fermented pork sausage (naem), bite-sized pieces: 100 g",
+        "Eggs: 2",
+        "Finely diced onion: 2 tbsp",
+        "Chopped green onions and minced garlic: 1 tbsp each",
+        "Light soy sauce 1 tbsp and fish sauce 1 tsp",
+        "Sliced bird's eye chilies, lime wedges, cucumber on the side"
+      ],
+      "steps_en": [
+        "Sauté garlic and onion until fragrant, then add fermented pork and break it apart until tangy and aromatic.",
+        "Crack eggs to the side of the wok, scramble lightly, then top with day-old rice.",
+        "Turn up to high heat, toss until grains separate, and season with light soy sauce and fish sauce.",
+        "Add chopped green onions, toss for 30 seconds, and serve with fresh chilies, lime wedges, and fried egg."
+      ]
     },
     {
       "title": "ก๋วยเตี๋ยวคั่วไก่กรอบหอมกระทะ",
@@ -3340,7 +5218,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Wok-Charred Rice Noodles with Chicken (Kuay Teow Khua Gai)",
+      "desc_en": "Using lard and searing over blazing high heat infuses the wide rice noodles with smoky wok aroma and a crisp exterior.",
+      "ingredients_en": [
+        "Fresh wide rice noodles: 180 g",
+        "Marinated tender chicken thigh meat: 120 g",
+        "Rehydrated crispy squid, sliced: 50 g",
+        "Eggs: 2 pieces",
+        "Lettuce leaves (for plating): 3 leaves",
+        "Light soy sauce: 1.5 tbsp",
+        "Seasoning sauce: 1 tsp",
+        "Ground pepper: to taste",
+        "Chopped scallions and mini crispy crullers: 1 tbsp"
+      ],
+      "steps_en": [
+        "Stir-fry the chicken and crispy squid in a pan over medium heat until cooked and fragrant; set aside.",
+        "Heat a wok over very high heat with a little oil, sear the wide rice noodles untouched until lightly charred and crisp on the outside.",
+        "Push the noodles to the side, crack in the eggs, lightly scramble them, then toss the noodles back over to coat.",
+        "Return the chicken and squid, season with light soy sauce and seasoning sauce, toss hard until smoky and crisp, and serve over lettuce leaves."
+      ]
     },
     {
       "title": "ข้าวหมูกระเทียมพริกไทยโบราณไข่ดาว",
@@ -3370,7 +5267,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Classic Thai Garlic Pepper Pork with Crispy Fried Egg over Rice",
+      "desc_en": "Reserving half the fried garlic for garnishing gives you both deeply savory sauced garlic and crunchy golden bites on top.",
+      "ingredients_en": [
+        "Pork collar, cut into bite-sized pieces: 180 g",
+        "Coarsely pounded Thai garlic: 2 tbsp",
+        "Finely pounded coriander root and black pepper: 1 tsp",
+        "Light soy sauce and oyster sauce: 1 tbsp each",
+        "Sugar: 0.33 tsp",
+        "Crispy-edged fried egg with runny yolk: 1 piece",
+        "Hot steamed rice: 1.5 cups",
+        "Cilantro and sliced cucumber: for serving"
+      ],
+      "steps_en": [
+        "Marinate the pork with the coriander-pepper paste, light soy sauce, oyster sauce, and sugar for 5 minutes.",
+        "Fry the pounded Thai garlic in oil until golden and crisp, then scoop out half to set aside.",
+        "Stir-fry the marinated pork in the garlic oil over high heat until cooked, lightly caramelized, and coated in glossy sauce.",
+        "Spoon the garlic pork over steamed rice, top with the fried egg, and garnish with reserved crispy garlic and cilantro."
+      ]
     },
     {
       "title": "ผัดมาม่าขี้เมาทะเลรวมมิตร",
@@ -3399,7 +5314,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Drunken Spicy Seafood Instant Noodles (Pad Kee Mao Mama)",
+      "desc_en": "Parboil the instant noodles slightly firmer than usual so they stay springy and soak up the spicy drunken sauce without getting mushy.",
+      "ingredients_en": [
+        "Parboiled instant noodles: 2 packs",
+        "Fresh shrimp, squid, and mussels: 150 g",
+        "Fresh holy basil leaves: 1 handful",
+        "Sliced spur chili, green peppercorns, and julienne fingerroot: 1 tbsp each",
+        "Pounded bird's eye chilies and garlic: 1.5 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Dark soy sauce: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Blanch the instant noodles for about 1 minute until just al dente, drain well, and toss with a touch of oil.",
+        "Sauté the pounded chili and garlic until aromatic, then add the shrimp, squid, and mussels and sear quickly.",
+        "Add the fingerroot, green peppercorns, spur chilies, and parboiled noodles.",
+        "Season with oyster sauce, fish sauce, and dark soy sauce, toss over high heat, fold in holy basil leaves, and serve immediately."
+      ]
     },
     {
       "title": "ข้าวต้มปลากะพงน้ำซุปขิงคื่นช่าย",
@@ -3432,7 +5365,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sea Bass Rice Soup with Ginger & Celery",
+      "desc_en": "Blanch fish slices separately in rapidly boiling broth to keep the soup crystal clear with zero fishy smell (senior-friendly).",
+      "ingredients_en": [
+        "Fresh sea bass fillet, sliced: 150 g",
+        "Cooked jasmine rice: 1 cup",
+        "Fish bone or clear chicken stock: 2.5 cups",
+        "Old ginger, finely julienned: 2 tbsp",
+        "Chinese celery, cut into lengths: 2 stalks",
+        "Crispy fried garlic and preserved cabbage (tung chai): 1 tsp each",
+        "Light soy sauce 1.5 tbsp and ground white pepper"
+      ],
+      "steps_en": [
+        "Bring stock to a rolling boil and season with preserved cabbage and light soy sauce.",
+        "Blanch sea bass slices in boiling broth without stirring until opaque and cooked; remove and set aside.",
+        "Add cooked rice to the broth and simmer 3–4 minutes until plump and tender.",
+        "Ladle rice and broth into bowls, top with poached sea bass, julienned ginger, celery, fried garlic, and white pepper."
+      ]
     },
     {
       "title": "ข้าวหน้าเนื้อสไลซ์ผัดซีอิ๊วหัวหอม",
@@ -3462,7 +5412,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Soy-Braised Sliced Beef & Onion Rice Bowl",
+      "desc_en": "Simmer thinly sliced beef only until it changes color so it stays melt-in-your-mouth tender.",
+      "ingredients_en": [
+        "Thinly sliced shabu beef: 150 g",
+        "Yellow onion, sliced lengthwise: 1",
+        "Dashi or clear stock: 1/2 cup",
+        "Soy sauce (shoyu or light soy): 2 tbsp",
+        "Mirin or sugar: 1.5 tbsp",
+        "Steamed Japanese or jasmine rice: 1.5 cups",
+        "Chopped green onions and pickled red ginger: 1 set"
+      ],
+      "steps_en": [
+        "Bring stock, soy sauce, and mirin or sugar to a simmer in a pan until dissolved.",
+        "Add sliced onion and simmer over low heat for 5 minutes until translucent and sweet.",
+        "Spread thinly sliced beef evenly in the pan and simmer just 1–2 minutes until cooked through.",
+        "Spoon beef, onions, and savory broth over hot steamed rice; garnish with green onions and pickled ginger."
+      ]
     },
     {
       "title": "กวยจั๊บญวนซี่โครงหมูหอมเจียว",
@@ -3493,7 +5460,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Vietnamese-Style Pork Rib Tapioca Noodle Soup (Kuay Jab Yuan)",
+      "desc_en": "Rinsing excess surface starch off the fresh noodles before boiling keeps the broth pleasantly glossy without turning overly thick.",
+      "ingredients_en": [
+        "Fresh Vietnamese tapioca noodles: 150 g",
+        "Simmered tender pork ribs: 100 g",
+        "Ubon Vietnamese pork sausage (moo yor), sliced into strips: 60 g",
+        "Seasoned pork paste balls: 50 g",
+        "Rich pork bone broth: 2.5 cups",
+        "Crispy fried shallots: 2 tbsp",
+        "Chopped scallions and culantro: 2 stalks",
+        "Finely ground black pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Bring the pork bone broth to a boil and drop in the pork paste balls and tender pork ribs.",
+        "Rinse excess starch from the fresh tapioca noodles and add them directly to the simmering broth.",
+        "Cook until the noodles turn translucent and the broth thickens slightly, then add the Vietnamese pork sausage.",
+        "Ladle into a bowl and top generously with crispy fried shallots, chopped culantro, and ground black pepper."
+      ]
     },
     {
       "title": "ข้าวไข่เจียวหมูสับฟูกรอบทรงเครื่อง",
@@ -3523,7 +5508,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fluffy Loaded Minced Pork Omelette over Rice",
+      "desc_en": "A squeeze of lime juice and pouring eggs from a height into smoking-hot oil yields maximum crispness.",
+      "ingredients_en": [
+        "Fresh eggs: 3",
+        "Finely minced pork: 80 g",
+        "Diced onion, diced tomato, chopped green onion: 3 tbsp",
+        "Fish sauce 1 tbsp, fresh lime juice 1/2 tsp",
+        "Vegetable oil for frying: 1.5 cups",
+        "Hot steamed rice: 1.5 cups",
+        "Sriracha chili sauce on the side"
+      ],
+      "steps_en": [
+        "Combine eggs, minced pork, diced onion, tomato, green onion, fish sauce, and lime juice in a bowl.",
+        "Beat vigorously with a fork until frothy and aerated.",
+        "Heat oil in a deep wok until hot and shimmering, then pour the egg mixture from a height.",
+        "Fry until puffed and golden crisp on both sides. Drain well and serve over hot rice with Sriracha."
+      ]
     },
     {
       "title": "ข้าวหมูแดงหมูกรอบน้ำราดโบราณ",
@@ -3551,7 +5553,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai BBQ Red Pork and Crispy Pork Belly Rice (Khao Moo Daeng)",
+      "desc_en": "Simmering the red gravy with pork bone broth, ground peanuts, and toasted sesame creates a rich, nutty, well-rounded sauce.",
+      "ingredients_en": [
+        "Sliced honey-roasted red BBQ pork: 80 g",
+        "Thick-cut crispy pork belly: 80 g",
+        "Fried sliced Chinese sausage and soft-boiled egg: 1 set",
+        "Traditional peanut-sesame red BBQ pork gravy: 0.5 cup",
+        "Hot steamed rice: 1.5 cups",
+        "Cucumber, fresh scallions, and dark soy chili vinegar: for serving"
+      ],
+      "steps_en": [
+        "Plate the steamed rice and arrange sliced red BBQ pork, crispy pork belly, Chinese sausage, and halved soft-boiled egg on top.",
+        "Warm the red gravy until piping hot and ladle generously over the meats and rice.",
+        "Serve with fresh scallions, cucumber slices, and dark soy chili vinegar to cut through the richness."
+      ]
     },
     {
       "title": "ผัดไทยเกี๊ยวกรอบกุ้งสด",
@@ -3580,7 +5597,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Wonton Pad Thai with Fresh Shrimp",
+      "desc_en": "Fold in the crispy fried wonton wrappers at the very last moment so they stay crunchy while absorbing the tangy sauce.",
+      "ingredients_en": [
+        "Crispy fried wonton wrappers, cut into pieces: 1 plate",
+        "Fresh shrimp, peeled: 5 pcs",
+        "Diced yellow tofu and egg: 1 egg",
+        "Fresh bean sprouts and garlic chives: 1 cup",
+        "Sweet-tangy Pad Thai sauce: 3 tbsp",
+        "Crushed roasted peanuts and lime wedges"
+      ],
+      "steps_en": [
+        "Stir-fry diced yellow tofu and fresh shrimp until cooked, then set aside.",
+        "Scramble the egg in the wok, add Pad Thai sauce, bean sprouts, and garlic chives, and toss quickly.",
+        "Fold in crispy wontons and cooked shrimp gently for just 10 seconds to coat.",
+        "Plate immediately, sprinkle with crushed peanuts, and serve with lime wedges."
+      ]
     },
     {
       "title": "โจ๊กหมูสับเห็ดหอมไข่ลวก",
@@ -3613,7 +5646,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pork & Shiitake Congee with Soft-Boiled Egg",
+      "desc_en": "Simmering broken jasmine rice with a pinch of glutinous rice creates a silky smooth, comforting congee (senior-friendly).",
+      "ingredients_en": [
+        "Smoothly simmered broken jasmine rice congee: 1.5 cups",
+        "Seasoned minced pork, shaped into small meatballs: 80 g",
+        "Fresh shiitake mushrooms, sliced: 2",
+        "Soft-boiled egg: 1",
+        "Julienned ginger, green onions, cilantro: 1 tbsp",
+        "Crispy noodles and fried garlic: a little",
+        "Light soy sauce and ground white pepper"
+      ],
+      "steps_en": [
+        "Simmer congee over medium-low heat, adding minced pork balls and sliced shiitake mushrooms until cooked.",
+        "Season with light soy sauce and stir until smooth and creamy.",
+        "Ladle congee into a bowl and crack a soft-boiled onsen egg into the center.",
+        "Top with julienned ginger, green onions, cilantro, fried garlic, crispy noodles, and white pepper."
+      ]
     },
     {
       "title": "ข้าวยำไก่แซ่บมะนาวสด",
@@ -3641,7 +5691,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Crispy Chicken Rice Bowl (Khao Yum Gai Zaab)",
+      "desc_en": "Toss the crispy fried chicken in the dressing quickly right before serving so it stays crunchy while packed with bold, zesty flavor.",
+      "ingredients_en": [
+        "Sliced crispy fried chicken thigh: 150 g",
+        "Hot steamed rice: 1.5 cups",
+        "Freshly toasted rice powder: 1.5 tbsp",
+        "Chili flakes: 1 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Fresh lime juice: 2 tbsp",
+        "Sugar: 0.5 tsp",
+        "Sliced shallots, culantro, and mint leaves: to taste"
+      ],
+      "steps_en": [
+        "Stir fish sauce, fresh lime juice, sugar, and chili flakes together in a mixing bowl until dissolved.",
+        "Add the toasted rice powder, sliced shallots, and culantro.",
+        "Toss the crispy fried chicken pieces quickly in the spicy-tangy dressing to coat.",
+        "Spoon over hot steamed rice and garnish with fresh mint leaves to serve."
+      ]
     },
     {
       "title": "ข้าวราดผัดพริกแกงหมูชิ้นถั่วฝักยาว",
@@ -3672,7 +5740,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Curry Stir-Fried Pork and Yardlong Beans over Rice",
+      "desc_en": "Sautéing the red curry paste over medium-low heat before adding meat brings out its full aroma without scorching.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Sliced pork loin: 150 g",
+        "Red curry paste: 1.5 tbsp",
+        "Yardlong beans, cut into segments: 60 g",
+        "Shredded kaffir lime leaves: 3 leaves",
+        "Fish sauce: 1 tbsp",
+        "Palm sugar: 1 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil in a wok over medium heat and sauté the red curry paste until fragrant.",
+        "Add the pork loin and stir-fry to coat evenly in the curry paste until nearly cooked.",
+        "Toss in the yardlong beans, season with fish sauce and palm sugar, add a splash of water, and stir-fry until tender-crisp.",
+        "Sprinkle in shredded kaffir lime leaves, toss briefly, and serve over hot steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดคะน้าหมูกรอบพริกสด",
@@ -3703,7 +5789,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chinese Broccoli with Crispy Pork Belly over Rice",
+      "desc_en": "Add the crispy pork belly last and toss for no more than 15 seconds so the crackling stays crunchy.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Bite-sized crispy pork belly: 140 g",
+        "Hong Kong Chinese broccoli (gai lan), segmented: 120 g",
+        "Minced garlic: 1 tbsp",
+        "Smashed red bird's eye chilies: 5 pieces",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Sugar: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Combine the Chinese broccoli with oyster sauce, light soy sauce, sugar, minced garlic, and smashed chilies in a bowl.",
+        "Heat a steel wok over blazing high heat with a little oil until smoking.",
+        "Dump the entire broccoli and seasoning mixture into the wok and stir-fry rapidly for about 30 seconds until bright and crisp-tender.",
+        "Toss in the crispy pork belly quickly just to coat with sauce, then serve immediately over hot rice."
+      ]
     },
     {
       "title": "ข้าวราดกะเพราเนื้อสับพริกแห้งไข่ดาว",
@@ -3734,7 +5838,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Dried-Chili Beef Holy Basil over Rice with Fried Egg",
+      "desc_en": "Coarsely ground beef with a little marbling stir-fried until dry delivers bold Thai street-food flavor.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 plate (200 g)",
+        "Coarsely ground beef: 150 g",
+        "Pounded small dried chilies: 6",
+        "Pounded Thai garlic: 1 tbsp",
+        "Holy basil leaves: 1 cup",
+        "Oyster sauce: 1 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Egg: 1"
+      ],
+      "steps_en": [
+        "Fry the egg in hot oil until the edges are crisp and the yolk is runny; set aside.",
+        "In the same wok with a little oil, stir-fry pounded dried chilies and garlic until aromatic.",
+        "Turn up to high heat, stir-fry ground beef until crumbly, and season with oyster sauce and fish sauce until dry and richly glazed.",
+        "Toss in holy basil leaves until wilted, turn off heat, and spoon over jasmine rice with the fried egg."
+      ]
     },
     {
       "title": "ข้าวราดผัดฉ่าทะเลรวมมิตรกระชายซอย",
@@ -3765,7 +5887,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Herb Stir-Fried Seafood (Pad Cha) over Rice",
+      "desc_en": "Blanching the seafood briefly before stir-frying removes excess liquid and keeps shrimp and squid tender instead of rubbery.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Peeled fresh shrimp: 80 g",
+        "Scored and cut squid: 80 g",
+        "Julienne fingerroot: 30 g",
+        "Fresh green peppercorn sprigs: 2 sprigs",
+        "Pounded red jinda chilies and garlic: 2 tbsp",
+        "Thai sweet basil and torn kaffir lime leaves: 1 pinch each",
+        "Fish sauce and seasoning sauce: 1 tbsp each"
+      ],
+      "steps_en": [
+        "Blanch the shrimp and squid in boiling water for 20 seconds, then drain well and set aside.",
+        "Heat oil in a wok, fry the pounded chili and garlic until aromatic, then add julienne fingerroot and green peppercorns.",
+        "Toss in the blanched seafood and season with fish sauce, seasoning sauce, and a pinch of sugar.",
+        "Add kaffir lime leaves and sweet basil, stir-fry briskly over high heat, and spoon over steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดพริกเผาหอยลายใบโหระพา",
@@ -3796,7 +5936,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Clams with Roasted Chili Paste and Basil over Rice",
+      "desc_en": "Adding a splash of evaporated milk at the end helps the chili paste cling smoothly to the clams with a richer, rounder flavor.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Cooked clam meat: 150 g",
+        "Thai roasted chili paste (nam prik pao): 2 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Smashed red bird's eye chilies: 4 pieces",
+        "Picked sweet basil leaves: 1 cup",
+        "Evaporated milk: 2 tbsp",
+        "Fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat a little oil in a wok and sauté minced garlic and smashed chilies until aromatic.",
+        "Add the roasted chili paste and fry briefly until vibrant and glossy, then add a splash of water.",
+        "Toss in the clam meat and season with fish sauce and evaporated milk for a creamy glaze.",
+        "Fold in the sweet basil leaves, turn off the heat immediately, and serve over hot steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดเปรี้ยวหวานไก่กรอบสับปะรด",
@@ -3827,7 +5985,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Sweet and Sour Chicken with Pineapple over Rice",
+      "desc_en": "Simmer the sweet and sour sauce until thick before tossing in the crispy chicken so the coating stays crunchy and never soggy.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Battered diced chicken breast: 150 g",
+        "Pineapple chunks: 70 g",
+        "Diced tomato and cucumber: 50 g each",
+        "Onion wedges: 40 g",
+        "Ketchup: 3 tbsp",
+        "Vinegar and sugar: 1.5 tbsp each",
+        "Light soy sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Fry the battered chicken breast in medium-hot oil until golden and crispy, then drain on paper towels.",
+        "In a clean pan with a little oil, stir-fry the onion, pineapple, cucumber, and tomato until lightly tender.",
+        "Season with ketchup, vinegar, sugar, and light soy sauce, add a splash of water, and simmer until thickened.",
+        "Toss the crispy fried chicken quickly in the glossy sauce and serve over steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดผงกะหรี่กุ้งสดไข่ข้น",
@@ -3858,7 +6034,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Curry Powder Shrimp Stir-Fry over Rice",
+      "desc_en": "Whisking the curry powder and chili paste directly into the egg and evaporated milk beforehand ensures a smooth, lump-free sauce.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Peeled and deveined white shrimp: 150 g",
+        "Eggs: 2 pieces",
+        "Curry powder: 1 tbsp",
+        "Thai roasted chili paste: 1 tbsp",
+        "Evaporated milk: 3 tbsp",
+        "Onion wedges and cut Chinese celery: 40 g each",
+        "Seasoning sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs with curry powder, roasted chili paste, evaporated milk, and seasoning sauce in a bowl.",
+        "Heat oil in a wok and stir-fry the onion and shrimp until the shrimp begin to turn pink.",
+        "Lower the heat, pour in the egg mixture, and gently fold until thick, creamy, and soft.",
+        "Sprinkle with Chinese celery and sliced spur chili, fold gently, and serve over hot steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดหน่อไม้ฝรั่งกุ้งสดน้ำมันหอย",
@@ -3889,7 +6083,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oyster Sauce Stir-Fried Shrimp and Asparagus over Rice",
+      "desc_en": "Peeling the woody lower ends of the asparagus and slicing diagonally helps them cook quickly without tough fibers.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Peeled and deveined white shrimp: 150 g",
+        "Asparagus, sliced diagonally: 120 g",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 0.5 tbsp",
+        "Sugar: 0.5 tsp",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Peel the tough lower stems of the asparagus, slice diagonally into pieces, and rinse clean.",
+        "Heat oil in a wok, fry minced garlic until golden and fragrant, then stir-fry the shrimp over high heat.",
+        "Add the asparagus and a splash of water so the spears cook evenly.",
+        "Season with oyster sauce, light soy sauce, and sugar, toss well, and serve over steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดเต้าหู้ทรงเครื่องหมูสับ",
@@ -3923,7 +6135,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Braised Egg Tofu and Minced Pork Gravy over Rice",
+      "desc_en": "Lightly pan-frying the egg tofu slices until firm helps them hold their shape and soak up the savory gravy, making this ideal for seniors.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Sliced egg tofu, lightly pan-fried: 1 tube",
+        "Minced pork: 100 g",
+        "Sliced fresh shiitake mushrooms: 40 g",
+        "Diced carrot and baby corn: 30 g each",
+        "Oyster sauce and light soy sauce: 1 tbsp each",
+        "Cornstarch slurry: 1 tbsp",
+        "Sliced scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Sauté minced garlic with minced pork until cooked, then add shiitake mushrooms, carrot, and baby corn.",
+        "Pour in 0.5 cup broth or water and season with oyster sauce, light soy sauce, and ground pepper.",
+        "Slowly drizzle in the cornstarch slurry while stirring gently until the sauce turns glossy and thick.",
+        "Gently fold in the fried egg tofu and sliced scallions without breaking the tofu, then ladle over steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดผักบุ้งไฟแดงหมูสับเต้าเจี้ยว",
@@ -3954,7 +6184,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Flash-Fried Morning Glory with Minced Pork over Rice",
+      "desc_en": "Stacking all seasonings right on top of the morning glory before dumping into a blazing-hot wok cooks the greens in seconds without darkening.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Thai water spinach (morning glory), segmented: 150 g",
+        "Cooked minced pork: 80 g",
+        "Smashed garlic and red jinda chilies: 1.5 tbsp",
+        "Fermented soybean paste (tao jiew): 1 tbsp",
+        "Oyster sauce: 1 tbsp",
+        "Sugar: 0.5 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Place the washed morning glory in a bowl and top with fermented soybean paste, oyster sauce, sugar, garlic, chilies, and cooked minced pork.",
+        "Heat oil in a steel wok over maximum heat until smoking hot.",
+        "Dump everything into the wok at once and splash a little water around the edges.",
+        "Toss rapidly for about 20 seconds until the greens are wilted yet crisp and bright, then serve over rice."
+      ]
     },
     {
       "title": "ข้าวราดผัดพริกหยวกไก่ชิ้นหอมใหญ่",
@@ -3985,7 +6233,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Banana Peppers and Onion over Rice",
+      "desc_en": "Combining pale green banana peppers with a touch of red spur chili adds vibrant color and a distinct sweet-peppery aroma.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Bite-sized chicken breast slices: 150 g",
+        "Diagonally sliced banana peppers: 80 g",
+        "Onion wedges: 50 g",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce and sugar: 1 tsp each",
+        "Cut scallions: 20 g"
+      ],
+      "steps_en": [
+        "Heat oil in a wok, sauté minced garlic until fragrant, and stir-fry the chicken breast until cooked through.",
+        "Add the onion wedges and sliced banana peppers and stir-fry over high heat.",
+        "Season with oyster sauce, light soy sauce, and sugar, adding a splash of water to blend.",
+        "Toss in cut scallions and ground pepper for 10 seconds, then serve over hot steamed rice."
+      ]
     },
     {
       "title": "ข้าวราดตับหมูผัดกระเทียมพริกไทย",
@@ -4016,7 +6282,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Garlic Pepper Stir-Fried Pork Liver over Rice",
+      "desc_en": "Stir-frying the pork liver over high heat for under 2 minutes keeps it tender and bouncy rather than dry and tough.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Thinly sliced pork liver: 150 g",
+        "Minced garlic: 2 tbsp",
+        "Ground white pepper: 1 tsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Sugar: 0.5 tsp",
+        "Cilantro and cucumber slices: for garnish"
+      ],
+      "steps_en": [
+        "Wash the pork liver with salted water or tapioca starch, pat dry, and marinate with light soy sauce and white pepper for 5 minutes.",
+        "Fry the minced garlic in oil until golden and crisp, then scoop out half to reserve.",
+        "Turn up to high heat, stir-fry the pork liver rapidly, and season with oyster sauce and sugar.",
+        "As soon as the liver is just cooked through and tender, spoon over steamed rice and top with crispy garlic and cilantro."
+      ]
     },
     {
       "title": "ข้าวผัดปูก้อนต้นหอมไข่ขยี้",
@@ -4047,7 +6331,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Lump Crab Fried Rice with Green Onions & Scrambled Egg",
+      "desc_en": "Chilled day-old jasmine rice guarantees fluffy, separate grains that never turn mushy.",
+      "ingredients_en": [
+        "Chilled cooked jasmine rice: 1 cup (200 g)",
+        "Steamed lump crab meat: 100 g",
+        "Eggs: 2",
+        "Minced garlic: 1 tsp",
+        "Chopped green onions: 2 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Ground white pepper: 1/2 tsp",
+        "Lime wedges and chili fish sauce (prik nam pla): for serving"
+      ],
+      "steps_en": [
+        "Heat oil in a wok, sauté minced garlic until fragrant, then crack in eggs and gently scramble until half set.",
+        "Add chilled rice and stir-fry over high heat, breaking up clumps until grains separate.",
+        "Season with light soy sauce, a pinch of sugar, and white pepper; toss until smoky.",
+        "Gently fold in lump crab meat and green onions without breaking the crab lumps. Serve with lime and chili fish sauce."
+      ]
     },
     {
       "title": "ข้าวผัดต้มยำทะเลสมุนไพรสด",
@@ -4078,7 +6380,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tom Yum Seafood Fried Rice with Fresh Herbs",
+      "desc_en": "Squeeze fresh lime juice after turning off the heat to keep its zesty fragrance bright and non-bitter.",
+      "ingredients_en": [
+        "Chilled cooked jasmine rice: 1 cup (200 g)",
+        "Shrimp and sliced squid: 140 g",
+        "Thai roasted chili paste (nam prik pao): 1.5 tbsp",
+        "Finely sliced galangal, lemongrass, and kaffir lime leaves: 1 tbsp each",
+        "Straw mushrooms, halved: 50 g",
+        "Fish sauce: 1 tbsp",
+        "Lime juice: 1.5 tbsp",
+        "Crushed bird's eye chilies: 4"
+      ],
+      "steps_en": [
+        "Sauté sliced galangal, lemongrass, and kaffir lime leaves in oil until aromatic, then stir-fry shrimp, squid, and mushrooms until cooked.",
+        "Add roasted chili paste and rice; stir-fry over high heat until every grain is coated in Tom Yum flavors.",
+        "Season with fish sauce, a pinch of sugar, and crushed chilies, tossing until dry and fragrant.",
+        "Turn off heat, toss with fresh lime juice, and serve immediately."
+      ]
     },
     {
       "title": "ข้าวผัดน้ำพริกลงเรือหมูหวานไข่เค็ม",
@@ -4109,7 +6429,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shrimp Paste Chili Dip Fried Rice (Khao Pad Nam Prik Long Ruea)",
+      "desc_en": "Fry the shrimp paste chili dip gently in a little oil over medium heat before adding rice for a mellow, rich aroma.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup (200 g)",
+        "Seasoned shrimp paste chili dip (nam prik kapi): 2 tbsp",
+        "Sweet glazed pork (moo wan), sliced: 80 g",
+        "Salted egg yolk, sliced: 1",
+        "Sliced pickled garlic and pea eggplants: 1 tbsp each",
+        "Fried Chinese sausage, diagonally sliced: 40 g",
+        "Sliced cucumber and yardlong beans: on the side",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil in a wok and fry the shrimp paste chili dip until fragrant.",
+        "Add cooked rice and toss until every grain is evenly coated and dry.",
+        "Stir in pea eggplants and sliced pickled garlic briefly, then transfer to a serving plate.",
+        "Arrange sweet pork, fried Chinese sausage, salted egg yolk, cucumber, and yardlong beans around the rice."
+      ]
     },
     {
       "title": "ข้าวผัดแกงเขียวหวานไก่ยอดมะพร้าว",
@@ -4139,7 +6477,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Green Curry Chicken Fried Rice with Young Coconut Shoots",
+      "desc_en": "Reduce the curry paste and coconut cream until thick before adding rice so the fried rice stays fluffy, not soggy.",
+      "ingredients_en": [
+        "Chilled cooked jasmine rice: 1 cup (200 g)",
+        "Chicken thigh, sliced: 120 g",
+        "Green curry paste: 1.5 tbsp",
+        "Thick coconut cream: 3 tbsp",
+        "Young coconut shoots, sliced: 60 g",
+        "Sweet basil leaves and sliced red spur chili: 1 pinch each",
+        "Fish sauce and palm sugar: 1 tsp each"
+      ],
+      "steps_en": [
+        "Simmer coconut cream and green curry paste in a wok over medium heat until fragrant and oil separates.",
+        "Stir-fry chicken until cooked, add young coconut shoots, and season with fish sauce and palm sugar.",
+        "Add chilled rice and stir-fry over high heat until dry, fluffy, and infused with green curry flavor.",
+        "Toss in sweet basil leaves and sliced red chili until wilted, then plate and serve."
+      ]
     },
     {
       "title": "ข้าวผัดหมูยอพริกไทยดำใส่ไข่",
@@ -4170,7 +6525,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Black Pepper Vietnamese Pork Sausage (Moo Yor) Fried Rice",
+      "desc_en": "Pan-sear the diced pork sausage until lightly golden at the edges first for extra flavor and bounce.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup (200 g)",
+        "Black pepper pork sausage (moo yor), diced: 120 g",
+        "Egg: 1",
+        "Minced garlic: 1 tsp",
+        "Finely diced carrot: 30 g",
+        "Green-cap seasoning sauce: 1 tbsp",
+        "Coarsely ground black pepper: 1/2 tsp",
+        "Chopped green onions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Sauté minced garlic in oil until fragrant, then sear diced moo yor until lightly browned at the edges.",
+        "Crack in the egg and scramble lightly, followed by diced carrots and cooked rice.",
+        "Season with seasoning sauce and a pinch of sugar; stir-fry over high heat until fluffy.",
+        "Toss with coarsely ground black pepper and chopped green onions, then serve."
+      ]
     },
     {
       "title": "ข้าวผัดสับปะรดกุ้งสดเม็ดมะม่วงหิมพานต์",
@@ -4201,7 +6574,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pineapple Shrimp Fried Rice with Cashews",
+      "desc_en": "Pat diced pineapple dry with paper towels before stir-frying so the rice stays fluffy and golden.",
+      "ingredients_en": [
+        "Chilled cooked jasmine rice: 1 cup (200 g)",
+        "White shrimp, peeled and deveined: 120 g",
+        "Fresh pineapple, diced: 80 g",
+        "Roasted cashew nuts: 30 g",
+        "Curry powder: 1 tsp",
+        "Diced Chinese sausage and raisins: 2 tbsp each",
+        "Light soy sauce: 1 tbsp",
+        "Crispy pork floss: 2 tbsp"
+      ],
+      "steps_en": [
+        "Stir-fry shrimp and diced Chinese sausage in oil until cooked through.",
+        "Add rice and curry powder, tossing until grains turn golden yellow, then season with light soy sauce.",
+        "Fold in diced pineapple and raisins quickly so the pineapple does not release excess juice.",
+        "Plate and garnish with roasted cashews and crispy pork floss."
+      ]
     },
     {
       "title": "ข้าวผัดเบคอนกระเทียมกรอบพริกแห้ง",
@@ -4231,7 +6622,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Bacon, Fried Garlic & Dried Chili Fried Rice",
+      "desc_en": "Render the bacon fat and use it to fry both the garlic chips and rice for rich smoky flavor with no extra oil needed.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup (200 g)",
+        "Bacon, cut into bite-sized pieces: 100 g",
+        "Thinly sliced garlic: 2 tbsp",
+        "Crispy fried dried chilies, cut into pieces: 4",
+        "Egg: 1",
+        "Light soy sauce: 1 tbsp",
+        "Chopped green onions: 2 tbsp"
+      ],
+      "steps_en": [
+        "Render bacon in a dry wok until crisp and golden; remove bacon, leaving the rendered fat in the wok.",
+        "Fry thinly sliced garlic in the bacon fat over low heat until golden crisp; remove and drain.",
+        "Turn up to high heat, scramble the egg, add rice, and season with light soy sauce and pepper.",
+        "Toss with crispy bacon, fried dried chilies, and green onions; plate and top with crispy garlic."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ทอดซอสมะขามหอมเจียว",
@@ -4261,7 +6669,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Chicken with Tamarind Glaze and Fried Shallots over Rice",
+      "desc_en": "Let the tamarind glaze cool slightly before drizzling over the fried chicken so the crust stays crispy longer.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Battered crispy fried chicken thigh: 160 g",
+        "Thick tamarind paste: 3 tbsp",
+        "Palm sugar: 2 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Crispy fried shallots: 2 tbsp",
+        "Fried dried chilies and cilantro: to taste"
+      ],
+      "steps_en": [
+        "Fry the battered chicken thigh in medium-hot oil until golden and crispy, drain well, and slice into pieces.",
+        "In a small pan over low heat, simmer the tamarind paste, palm sugar, and fish sauce until thick and glossy.",
+        "Arrange the sliced crispy chicken over hot steamed rice.",
+        "Drizzle the tamarind glaze evenly over the chicken and garnish with crispy shallots, fried dried chilies, and cilantro."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ข้นปูอัดซอสโชยุ",
@@ -4291,7 +6716,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Scrambled Eggs with Crab Stick and Shoyu over Rice",
+      "desc_en": "Cook over low heat throughout and remove from the stove while still slightly runny so carryover heat sets the eggs soft and silky.",
+      "ingredients_en": [
+        "Hot steamed rice: 1 cup (200 g)",
+        "Eggs: 2 pieces",
+        "Shredded crab sticks (surimi): 80 g",
+        "Unsweetened fresh milk: 2 tbsp",
+        "Unsalted butter: 1 tsp",
+        "Shoyu (Japanese soy sauce) and ground pepper: to taste",
+        "Sliced scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs with fresh milk and ground pepper, then stir in half of the shredded crab sticks.",
+        "Melt unsalted butter in a nonstick pan over low heat to coat the surface.",
+        "Pour in the egg mixture and gently swirl from the edges toward the center with chopsticks or a spatula until soft and creamy.",
+        "Slide the eggs over steamed rice, top with remaining crab sticks and scallions, and add a dash of shoyu before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูสามชั้นคั่วพริกเกลือกรอบ",
@@ -4321,7 +6763,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Chili-Salt Pork Belly with Garlic over Rice",
+      "desc_en": "Dry-fry the pork belly over medium heat until the fat renders and the edges crisp before adding garlic so both turn golden together without burning.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Diced pork belly: 160 g",
+        "Minced garlic: 3 tbsp",
+        "Sliced red bird's eye chilies: 1.5 tbsp",
+        "Sliced scallions: 2 tbsp",
+        "Fine salt: 0.5 tsp",
+        "Sugar: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Dry-fry the diced pork belly in a pan over medium heat until the fat renders out and the pork turns golden and crisp; drain excess oil.",
+        "Add minced garlic and toss with the pork belly until the garlic turns golden and fragrant.",
+        "Add sliced chilies, season with salt and sugar, and stir-fry so the seasoning clings to the pork.",
+        "Turn off the heat, toss in sliced scallions, and spoon over hot steamed rice."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ตุ๋นเห็ดหอมน้ำแดง",
@@ -4354,7 +6813,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Braised Shiitake Chicken Gravy over Rice",
+      "desc_en": "Using the strained mushroom soaking liquid as broth adds deep umami aroma to the gravy, making it a comforting dish well suited for seniors.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Cut chicken thigh: 150 g",
+        "Rehydrated dried shiitake mushrooms, sliced: 4 pieces",
+        "Oyster sauce and sweet dark soy sauce: 1 tbsp each",
+        "Light soy sauce and sesame oil: 1 tsp each",
+        "Tapioca starch slurry: 1.5 tbsp",
+        "Sliced scallions and blanched choy sum: for serving"
+      ],
+      "steps_en": [
+        "Heat a little sesame oil in a pot and lightly sear garlic with the shiitake mushrooms and chicken thigh.",
+        "Pour in 1 cup of mushroom soaking liquid, season with oyster sauce, light soy sauce, and sweet dark soy sauce, and simmer over medium heat for 12 minutes until tender.",
+        "Gradually stir in the tapioca starch slurry until the gravy thickens, turns glossy, and returns to a simmer.",
+        "Ladle the braised chicken and gravy over steamed rice and serve with blanched choy sum and pickled chili."
+      ]
     },
     {
       "title": "ข้าวหน้าลาบหมูสับข้าวคั่วหอม",
@@ -4384,7 +6860,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Minced Pork Larb over Rice",
+      "desc_en": "Fold in toasted rice powder and mint leaves right before serving to keep the crunch and bright green color.",
+      "ingredients_en": [
+        "Steamed jasmine rice or sticky rice: 1 plate (200 g)",
+        "Minced pork with a little fat: 150 g",
+        "Fish sauce and lime juice: 2 tbsp each",
+        "Roasted chili powder: 1 tsp",
+        "Freshly ground toasted rice powder: 1.5 tbsp",
+        "Sliced shallots and chopped green onions/cilantro: 2 tbsp each",
+        "Fresh mint leaves: 1 handful"
+      ],
+      "steps_en": [
+        "Cook minced pork in a pot with 3 tbsp stock or water until tender, then turn off heat.",
+        "While warm, season with fish sauce, lime juice, chili powder, and a pinch of sugar.",
+        "Toss gently with toasted rice powder, shallots, green onions, cilantro, and mint leaves.",
+        "Spoon Larb over steamed rice and serve with crisp cucumber and fresh cabbage."
+      ]
     },
     {
       "title": "ข้าวหน้าปลากะพงทอดน้ำปลาพริกซอย",
@@ -4414,7 +6907,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Fish Sauce Sea Bass with Fresh Chili Lime Relish over Rice",
+      "desc_en": "Patting the fish fillets completely dry and dusting lightly with flour prevents sticking and gives an even, crispy crust.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Boneless sea bass fillets, cut into pieces: 160 g",
+        "Dry crispy frying flour: 2 tbsp",
+        "Good-quality fish sauce: 1.5 tbsp",
+        "Palm sugar: 1 tbsp",
+        "Sliced bird's eye chilies and sliced shallots: 1 tbsp each",
+        "Lime juice: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Pat the sea bass pieces dry, lightly dust with crispy frying flour, and fry in hot oil until golden and crisp; drain well.",
+        "Simmer the fish sauce with palm sugar and a splash of water in a small pan until dissolved, then drizzle over the fried fish.",
+        "Combine fish sauce, lime juice, sliced chilies, and sliced shallots for a bright side dressing.",
+        "Arrange the crispy fish sauce sea bass over steamed rice, spoon a little chili-lime dressing over, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเนื้อย่างจิ้มแจ่วหอมข้าวคั่ว",
@@ -4443,7 +6953,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Grilled Beef Rice Bowl with Toasted Rice Jaew Sauce",
+      "desc_en": "Resting the grilled steak for 5 minutes before slicing locks in the natural juices so they stay inside the meat instead of spilling onto the board.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 serving (200 g)",
+        "Beef brisket or sirloin: 160 g",
+        "Oyster sauce and light soy sauce (for marinade): 1 tsp each",
+        "Fish sauce and tamarind paste: 1.5 tbsp each",
+        "Chili flakes and toasted rice powder: 1 tbsp each",
+        "Sliced shallots and culantro: 1 tbsp each"
+      ],
+      "steps_en": [
+        "Marinate the beef with oyster sauce and light soy sauce for 10 minutes, then sear in a very hot pan for 2 minutes per side to desired doneness.",
+        "Rest the steak on a cutting board for 5 minutes before slicing thinly on a diagonal.",
+        "Mix fish sauce, tamarind paste, a touch of palm sugar, chili flakes, toasted rice powder, shallots, and culantro to make the jaew sauce.",
+        "Fan the sliced grilled beef over hot steamed rice and drizzle or serve with the jaew sauce."
+      ]
     },
     {
       "title": "โจ๊กไก่ฉีกขิงซอยปาท่องโก๋กรอบ",
@@ -4473,7 +6999,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shredded Chicken Congee with Ginger & Crispy Crullers",
+      "desc_en": "Coarsely blending cooked rice with chicken stock cuts silky congee cooking time down to 15–20 minutes.",
+      "ingredients_en": [
+        "Broken jasmine rice or coarsely blended cooked rice: 1 cup",
+        "Chicken stock: 3 cups",
+        "Poached chicken breast, shredded: 100 g",
+        "Young ginger, julienned: 1 tbsp",
+        "Crispy Chinese crullers (patongko), sliced: 30 g",
+        "Light soy sauce: 1.5 tbsp",
+        "Chopped green onions and white pepper: to taste"
+      ],
+      "steps_en": [
+        "Simmer broken or blended rice with chicken stock over medium-low heat, stirring often until smooth and creamy.",
+        "Season with light soy sauce and ground white pepper to taste.",
+        "Ladle hot congee into bowls and top neatly with shredded chicken breast.",
+        "Garnish with julienned ginger, green onions, and crispy crullers; serve hot."
+      ]
     },
     {
       "title": "โจ๊กกุ้งสดไข่เยี่ยวม้าต้นหอมซอย",
@@ -4506,7 +7049,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fresh Shrimp & Century Egg Congee",
+      "desc_en": "A drizzle of sesame oil after turning off the heat adds a comforting aroma that pairs beautifully with shrimp and century egg (senior-friendly).",
+      "ingredients_en": [
+        "Coarsely blended cooked rice: 1 cup",
+        "Pork or chicken stock: 3 cups",
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Century egg, peeled and quartered: 1",
+        "Light soy sauce: 1.5 tbsp",
+        "Julienned ginger and chopped green onions: 1 tbsp each",
+        "Sesame oil and ground white pepper: to taste"
+      ],
+      "steps_en": [
+        "Simmer blended rice with stock over low heat until smooth and thick; season with light soy sauce and sesame oil.",
+        "Add fresh shrimp to the gently simmering congee and cook about 2 minutes until pink and bouncy.",
+        "Ladle congee and shrimp into bowls and arrange century egg wedges on the side.",
+        "Garnish with julienned ginger, chopped green onions, and white pepper before serving."
+      ]
     },
     {
       "title": "ข้าวต้มหมูสับบะเต็งตั้งฉ่าย",
@@ -4539,7 +7099,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Minced Pork & Sweet Braised Pork (Ba-Teng) Rice Soup",
+      "desc_en": "Simmering preserved cabbage (tung chai) directly in the broth gives classic old-school Thai rice soup aroma (senior-friendly).",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup",
+        "Pork bone stock: 3 cups",
+        "Seasoned minced pork, formed into small meatballs: 100 g",
+        "Sweet braised pork (ba-teng), diced: 50 g",
+        "Preserved cabbage (tung chai): 1 tbsp",
+        "Crispy fried garlic and chopped celery: 1 tbsp each",
+        "Light soy sauce and white pepper: to taste"
+      ],
+      "steps_en": [
+        "Bring pork bone stock to a boil and drop in minced pork meatballs until they float and cook through.",
+        "Season the broth with light soy sauce and preserved cabbage to taste.",
+        "Add cooked rice and simmer 3–5 minutes until grains soften and absorb the savory broth.",
+        "Ladle into bowls and top with diced ba-teng, fried garlic, chopped celery, and white pepper."
+      ]
     },
     {
       "title": "ข้าวต้มทะเลรวมมิตรน้ำซุปกระเทียมเจียว",
@@ -4569,7 +7146,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Mixed Seafood Rice Soup with Crispy Garlic",
+      "desc_en": "Blanch seafood separately and place on top of the rice soup to keep the broth crystal clear and clean-tasting.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup",
+        "Clear stock: 3 cups",
+        "Blanched shrimp, squid, and fish slices: 150 g",
+        "Ground galangal or julienned ginger: 1 tsp",
+        "Chopped Chinese celery and green onions: 1 tbsp each",
+        "Crispy fried garlic: 1.5 tbsp",
+        "Light soy sauce and fish sauce: 1 tbsp each"
+      ],
+      "steps_en": [
+        "Bring clear stock to a boil and season with light soy sauce, fish sauce, and a pinch of galangal powder.",
+        "Add cooked rice and simmer 3 minutes until plump and infused with broth.",
+        "Ladle rice soup into bowls and arrange blanched shrimp, squid, and fish on top.",
+        "Garnish with crispy fried garlic, celery, green onions, and white pepper; serve with fermented soybean dipping sauce."
+      ]
     },
     {
       "title": "ข้าวต้มกุ๊ยกับยำไข่เค็มกุนเชียงทอด",
@@ -4599,7 +7193,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pandan Rice Porridge with Spicy Salted Egg Salad & Chinese Sausage",
+      "desc_en": "Pan-cooking Chinese sausage in a splash of water first renders its fat gently so it caramelizes without burning.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup",
+        "Water 3 cups and pandan leaf 1",
+        "Boiled salted egg, quartered: 1",
+        "Pan-fried Chinese sausage, diagonally sliced: 60 g",
+        "Sliced shallots, Chinese celery, and sliced bird's eye chilies: 1 tbsp each",
+        "Lime juice and sugar: 1 tbsp each",
+        "Fish sauce: 1/2 tbsp"
+      ],
+      "steps_en": [
+        "Simmer cooked rice with water and pandan leaf over medium heat for about 10 minutes until soft and slightly creamy.",
+        "Cook Chinese sausage in a pan with a splash of water until dry and lightly browned, then slice diagonally.",
+        "Mix lime juice, fish sauce, sugar, chilies, and shallots; toss with salted egg and celery for a zesty salad.",
+        "Ladle pandan rice porridge into bowls and serve alongside salted egg salad and Chinese sausage."
+      ]
     },
     {
       "title": "ข้าวต้มไก่ฉีกเห็ดฟางซุปพริกไทยหอม",
@@ -4632,7 +7243,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shredded Chicken & Straw Mushroom Peppery Rice Soup",
+      "desc_en": "Simmering pounded garlic, coriander root, and peppercorn from the start infuses the broth with gentle warming spice (senior-friendly).",
+      "ingredients_en": [
+        "Cooked jasmine rice: 1 cup",
+        "Chicken stock: 3 cups",
+        "Poached chicken breast, shredded: 100 g",
+        "Straw mushrooms, quartered: 60 g",
+        "Pounded coriander root, garlic, and white pepper: 1 tbsp",
+        "Light soy sauce: 1.5 tbsp",
+        "Chopped green onions, cilantro, and fried garlic: to taste"
+      ],
+      "steps_en": [
+        "Simmer chicken stock with pounded coriander root, garlic, and pepper until fragrant, then add straw mushrooms until cooked.",
+        "Season the broth with light soy sauce and a pinch of salt.",
+        "Add cooked rice and shredded chicken, simmering 3 more minutes until comforting and flavorful.",
+        "Ladle into bowls and top with crispy fried garlic, green onions, cilantro, and white pepper."
+      ]
     },
     {
       "title": "ก๋วยเตี๋ยวต้มยำหมูสับถั่วลิสงคั่ว",
@@ -4663,7 +7291,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Tom Yum Pork Noodle Soup with Roasted Peanuts",
+      "desc_en": "Add freshly crushed roasted peanuts and fresh lime juice right after removing from the heat to preserve their bright aroma.",
+      "ingredients_en": [
+        "Thin rice noodles (sen lek): 150 g",
+        "Minced pork: 100 g",
+        "Pork bone broth: 400 ml",
+        "Bean sprouts: 50 g",
+        "Fresh lime juice: 2 tbsp",
+        "Fish sauce: 1.5 tbsp",
+        "Chili flakes: 1 tsp",
+        "Crushed roasted peanuts: 2 tbsp"
+      ],
+      "steps_en": [
+        "Bring the pork broth to a boil, cook the minced pork until done, and set some aside for topping.",
+        "Blanch the thin rice noodles and bean sprouts in boiling water until tender, then transfer to a bowl.",
+        "Season directly in the bowl with lime juice, fish sauce, chili flakes, and crushed roasted peanuts.",
+        "Ladle the hot minced pork broth over the noodles, toss to combine, and garnish with scallions and cilantro."
+      ]
     },
     {
       "title": "เส้นหมี่น้ำใสลูกชิ้นปลาเยาวราช",
@@ -4694,7 +7340,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Yaowarat Clear Fish Ball Rice Vermicelli Soup",
+      "desc_en": "Blanch the soaked rice vermicelli for just 10-15 seconds and shake dry so the strands stay springy and never soggy.",
+      "ingredients_en": [
+        "Soaked rice vermicelli (sen mee): 120 g",
+        "Fish balls: 6 pieces",
+        "Sliced fish cake (hue gway): 4 pieces",
+        "Clear broth: 450 ml",
+        "Cut choy sum: 60 g",
+        "Fried garlic oil: 1 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Ground pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Bring the clear broth to a boil and season with light soy sauce and ground pepper.",
+        "Add the fish balls and sliced fish cake to the broth and simmer until they float and are heated through.",
+        "Blanch the rice vermicelli and choy sum in boiling water and place them in a serving bowl.",
+        "Pour the hot broth with fish balls over the noodles and top with crispy fried garlic before serving."
+      ]
     },
     {
       "title": "ก๋วยเตี๋ยวเนื้อสับซอสมะเขือเทศ",
@@ -4725,7 +7389,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai-Style Minced Beef Tomato Gravy Noodles",
+      "desc_en": "Pan-frying the wide rice noodles in a hot wok before ladling on the gravy adds smoky aroma and keeps them from turning mushy.",
+      "ingredients_en": [
+        "Wide rice noodles (sen yai): 180 g",
+        "Minced beef: 120 g",
+        "Diced tomatoes: 100 g",
+        "Chopped onion: 50 g",
+        "Ketchup: 3 tbsp",
+        "Seasoning sauce: 1.5 tbsp",
+        "Curry powder: 1 tsp",
+        "Broth: 200 ml"
+      ],
+      "steps_en": [
+        "Pan-fry the wide rice noodles with a little oil until lightly seared and fragrant, then transfer to a plate.",
+        "Sauté the chopped onion and minced beef until nearly cooked, then stir in curry powder and diced tomatoes.",
+        "Pour in the broth, ketchup, and seasoning sauce and simmer until the gravy thickens and coats the beef.",
+        "Ladle the savory beef tomato sauce over the noodles and garnish with Chinese celery and ground black pepper."
+      ]
     },
     {
       "title": "เส้นเล็กแห้งหมูเด้งกากหมูเจียว",
@@ -4756,7 +7438,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Dry Thin Rice Noodles with Pork Balls and Crispy Pork Cracklings",
+      "desc_en": "Toss the noodles in garlic oil immediately after draining so the thin rice noodles never clump together.",
+      "ingredients_en": [
+        "Thin rice noodles (sen lek): 150 g",
+        "Seasoned pork paste (moo deng): 100 g",
+        "Crispy pork cracklings: 30 g",
+        "Sweet dark soy sauce: 1 tsp",
+        "Light soy sauce: 1.5 tbsp",
+        "Pickled chili vinegar: 1 tbsp",
+        "Garlic oil: 1.5 tbsp",
+        "Bean sprouts and sliced scallions: 50 g"
+      ],
+      "steps_en": [
+        "Shape the seasoned pork paste into bite-sized balls and poach in boiling water until they float.",
+        "Blanch the thin rice noodles and bean sprouts until tender, drain thoroughly, and transfer to a bowl.",
+        "Toss the noodles with garlic oil, light soy sauce, sweet dark soy sauce, and pickled chili vinegar.",
+        "Top with the poached pork balls, crispy pork cracklings, and sliced scallions to serve."
+      ]
     },
     {
       "title": "ก๋วยเตี๋ยวเรือหมูน้ำตกทำเร็ว",
@@ -4787,7 +7487,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Quick Pork Boat Noodles (Kuay Teow Ruea)",
+      "desc_en": "Keep the heat low when stirring in fresh pork blood or coconut cream so the broth turns velvety smooth without curdling.",
+      "ingredients_en": [
+        "Thin rice noodles (sen lek): 150 g",
+        "Sliced pork loin: 100 g",
+        "Pork meatballs: 4 pieces",
+        "Prepared five-spice braised broth: 400 ml",
+        "Fresh pork blood or thick coconut cream: 3 tbsp",
+        "Thai morning glory, segmented: 60 g",
+        "Thai chili sauce and fermented bean curd: 2 tbsp",
+        "Sweet basil leaves and fried garlic: 20 g"
+      ],
+      "steps_en": [
+        "Bring the braised broth to a boil and stir in the chili sauce, fermented bean curd, and pork meatballs.",
+        "Blanch the sliced pork, thin rice noodles, and morning glory separately in boiling water and arrange in a bowl.",
+        "Reduce the broth heat to low and whisk in the pork blood or coconut cream gently until smooth and uncurdled.",
+        "Ladle the hot boat noodle broth over the bowl and top with crispy fried garlic and fresh sweet basil."
+      ]
     },
     {
       "title": "วุ้นเส้นผัดไข่เค็มกุ้งสด",
@@ -4818,7 +7536,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Salted Egg Yolk Stir-Fried Glass Noodles with Shrimp",
+      "desc_en": "Mashing the salted egg yolks smoothly with a little broth before stir-frying helps the rich sauce coat every strand evenly.",
+      "ingredients_en": [
+        "Soaked glass noodles: 120 g",
+        "Peeled fresh shrimp: 120 g",
+        "Mashed salted egg yolks: 2 pieces",
+        "Minced garlic: 1 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Sugar: 1 tsp",
+        "Chinese celery and red spur chili: 40 g",
+        "Broth: 60 ml"
+      ],
+      "steps_en": [
+        "Sauté minced garlic and mashed salted egg yolks over low heat until foamy and aromatic.",
+        "Add the shrimp and stir-fry until they start to change color, then pour in broth, oyster sauce, and sugar.",
+        "Add the glass noodles and toss briskly so they absorb the salted egg sauce until tender.",
+        "Fold in Chinese celery and sliced red spur chili, cook for 10 seconds more, and serve."
+      ]
     },
     {
       "title": "สุกี้แห้งทะเลวุ้นเส้นซอสเต้าหู้ยี้",
@@ -4849,7 +7585,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Dry Seafood Sukiyaki Stir-Fry with Fermented Bean Curd Sauce",
+      "desc_en": "Using high heat at the end of stir-frying gives the glass noodles a smoky wok char and prevents them from turning watery.",
+      "ingredients_en": [
+        "Fresh glass noodles: 130 g",
+        "Cut shrimp and squid: 140 g",
+        "Egg: 1 piece",
+        "Napa cabbage and morning glory: 100 g",
+        "Fermented bean curd sukiyaki sauce: 4 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Sesame oil: 1 tsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Sauté minced garlic until fragrant, then stir-fry the shrimp and squid over high heat until nearly cooked.",
+        "Crack in the egg and scramble lightly, followed by the napa cabbage and morning glory until just wilted.",
+        "Add the glass noodles, sukiyaki sauce, and sesame oil, tossing until the sauce reduces and clings to the noodles.",
+        "Plate up, sprinkle with toasted white sesame seeds, and serve with extra sukiyaki sauce if desired."
+      ]
     },
     {
       "title": "เส้นใหญ่ผัดขี้เมาไก่ฉีกใบโหระพา",
@@ -4880,7 +7634,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Drunken Wide Rice Noodles with Shredded Chicken and Sweet Basil",
+      "desc_en": "Using poached shredded chicken breast lets the meat cook fast and soak up the bold drunken stir-fry sauce along with every noodle.",
+      "ingredients_en": [
+        "Wide rice noodles (sen yai): 180 g",
+        "Poached shredded chicken breast: 120 g",
+        "Pounded bird's eye chilies and garlic: 2 tbsp",
+        "Fresh green peppercorns and julienne fingerroot: 30 g",
+        "Thai sweet basil leaves: 1 cup",
+        "Oyster sauce: 1.5 tbsp",
+        "Fish sauce and sugar: 1.5 tbsp",
+        "Diagonally sliced baby corn: 50 g"
+      ],
+      "steps_en": [
+        "Sauté the pounded chili and garlic in hot oil until fiercely aromatic.",
+        "Add the baby corn, green peppercorns, fingerroot, and shredded chicken and toss together.",
+        "Add the wide rice noodles, oyster sauce, fish sauce, and sugar, then toss rapidly over high heat.",
+        "Turn off the heat, fold in the sweet basil until wilted and fragrant, and serve immediately."
+      ]
     },
     {
       "title": "เส้นหมี่ผัดกระเฉดกุ้งสดพริกกระเทียม",
@@ -4911,7 +7683,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Rice Vermicelli with Water Mimosa and Shrimp",
+      "desc_en": "Add the water mimosa last and turn off the heat right away so the tender shoots stay crisp rather than stringy.",
+      "ingredients_en": [
+        "Soaked rice vermicelli (sen mee): 120 g",
+        "Peeled and deveined fresh shrimp: 120 g",
+        "Trimmed water mimosa shoots: 100 g",
+        "Pounded jinda chilies and garlic: 2 tbsp",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Sugar: 1 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the pounded chili and garlic over medium heat until fragrant, then stir-fry the shrimp until cooked.",
+        "Add the rice vermicelli and water, seasoning with oyster sauce, light soy sauce, and sugar.",
+        "Turn up the heat and stir-fry until the vermicelli absorbs the sauce and dries nicely.",
+        "Toss in the water mimosa shoots briskly for just 15 seconds so they remain bright green and crisp, then serve."
+      ]
     },
     {
       "title": "ก๋วยเตี๋ยวลุยสวนหมูสับเห็ดหอม",
@@ -4942,7 +7732,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Fresh Noodle Rolls with Minced Pork and Shiitake (Kuay Teow Lui Suan)",
+      "desc_en": "Warming the wide rice noodle sheets in the microwave for 20 seconds before rolling keeps them pliable so they wrap cleanly without tearing.",
+      "ingredients_en": [
+        "Fresh wide rice noodle sheets: 4 pieces",
+        "Cooked minced pork: 120 g",
+        "Sautéed diced fresh shiitake mushrooms: 60 g",
+        "Lettuce and sweet basil leaves: 80 g",
+        "Julienne carrot and cucumber: 60 g",
+        "Light soy sauce (for seasoning pork): 1 tbsp",
+        "Blended green bird's eye chilies and garlic: 2 tbsp",
+        "Fresh lime seafood dipping sauce: 4 tbsp"
+      ],
+      "steps_en": [
+        "Stir-fry the minced pork with shiitake mushrooms and light soy sauce until cooked and aromatic, then let cool slightly.",
+        "Lay a rice noodle sheet flat on a clean board and layer with lettuce, sweet basil, carrot, and cucumber.",
+        "Spoon the minced pork and shiitake filling across the center and roll tightly into a neat log.",
+        "Slice into bite-sized pieces and serve with spicy green chili seafood dipping sauce."
+      ]
     },
     {
       "title": "บะหมี่ไก่ฉีกซอสงาคั่วน้ำมันพริกเผา",
@@ -4973,7 +7781,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shredded Chicken Egg Noodles with Roasted Sesame and Chili Oil",
+      "desc_en": "Chilling the boiled egg noodles in cold water gives them a bouncy, springy bite that pairs wonderfully with the savory sesame dressing.",
+      "ingredients_en": [
+        "Egg noodles: 140 g",
+        "Steamed shredded chicken breast: 120 g",
+        "Japanese roasted sesame dressing: 2.5 tbsp",
+        "Chili paste oil: 1 tbsp",
+        "Light soy sauce: 1 tsp",
+        "Julienne cucumber: 50 g",
+        "Sliced scallions: 1 tbsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Boil the egg noodles for 2 minutes, rinse under cold water, and drain thoroughly.",
+        "Whisk the roasted sesame dressing, chili paste oil, and light soy sauce together in a bowl.",
+        "Toss the egg noodles in the sauce until every strand is evenly coated, then plate up.",
+        "Top with shredded chicken breast and julienne cucumber, and finish with scallions and toasted sesame seeds."
+      ]
     },
     {
       "title": "บะหมี่แห้งหมูสับต้มยำมะนาวสด",
@@ -5004,7 +7830,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Dry Tom Yum Minced Pork Egg Noodles with Fresh Lime",
+      "desc_en": "Saving 2 tbsp of the pork cooking liquid to toss into the bowl helps the dry tom yum seasoning dissolve and coat the noodles smoothly.",
+      "ingredients_en": [
+        "Egg noodles: 140 g",
+        "Minced pork: 100 g",
+        "Cut choy sum: 50 g",
+        "Thai roasted chili paste: 1 tbsp",
+        "Fresh lime juice: 1.5 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Sugar: 1 tsp",
+        "Crushed roasted peanuts and pork cracklings: 2 tbsp"
+      ],
+      "steps_en": [
+        "Simmer the minced pork with a splash of water in a pot until cooked, then set aside.",
+        "Boil the egg noodles and choy sum until tender, drain well, and place in a bowl.",
+        "Toss the noodles with roasted chili paste, lime juice, fish sauce, and sugar until evenly seasoned.",
+        "Top with the cooked minced pork, crushed roasted peanuts, and crispy pork cracklings before serving."
+      ]
     },
     {
       "title": "มาม่าต้มยำน้ำข้นกุ้งแม่น้ำไข่ลวก",
@@ -5035,7 +7879,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Tom Yum Instant Noodles with River Prawns and Soft-Boiled Egg",
+      "desc_en": "Stir in the evaporated milk and squeeze the lime juice after turning off the heat so the creamy broth stays smooth without curdling.",
+      "ingredients_en": [
+        "Tom yum flavored instant noodles: 1 pack",
+        "Large river prawns or white shrimp: 120 g",
+        "Soft-boiled egg: 1 piece",
+        "Halved straw mushrooms: 50 g",
+        "Evaporated milk: 3 tbsp",
+        "Thai roasted chili paste: 1 tbsp",
+        "Lime and culantro: 20 g",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Bring the water to a boil, then cook the straw mushrooms and prawns until the prawns turn pink and cooked.",
+        "Add the instant noodles and boil for 2 minutes until just tender.",
+        "Reduce the heat and stir in the seasoning packet, roasted chili paste, and evaporated milk until dissolved and creamy.",
+        "Pour into a bowl, squeeze in fresh lime juice, place the soft-boiled egg in the center, and garnish with sliced culantro."
+      ]
     },
     {
       "title": "บะหมี่ผักโมโรเฮยะผัดกุ้งกระเทียม",
@@ -5066,7 +7928,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Garlic Shrimp Stir-Fried Moroheiya Vegetable Noodles",
+      "desc_en": "Parboil the moroheiya noodles to about 80% doneness before stir-frying so they hold a pleasant bite instead of turning mushy.",
+      "ingredients_en": [
+        "Moroheiya vegetable noodles: 2 cakes",
+        "Peeled fresh shrimp: 120 g",
+        "Minced garlic: 1.5 tbsp",
+        "Small broccoli florets: 60 g",
+        "Oyster sauce: 1.5 tbsp",
+        "Light soy sauce: 1 tbsp",
+        "Ground white pepper: 0.5 tsp",
+        "Rice bran oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Boil the moroheiya noodles and broccoli florets for 2 minutes, then drain well.",
+        "Sauté minced garlic in rice bran oil until golden and fragrant, then stir-fry the shrimp until cooked.",
+        "Add the noodles and broccoli to the pan and season with oyster sauce and light soy sauce.",
+        "Toss evenly to combine, sprinkle with ground white pepper, and serve hot."
+      ]
     },
     {
       "title": "บะหมี่หยกหมูอบซอสพริกไทยดำ",
@@ -5097,7 +7977,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Jade Noodles with Black Pepper Glazed Pork",
+      "desc_en": "Let the seared pork rest for 2 minutes before slicing so the juices stay locked inside the meat.",
+      "ingredients_en": [
+        "Jade noodles: 150 g",
+        "Thickly sliced pork collar: 130 g",
+        "Black pepper sauce: 2.5 tbsp",
+        "Smashed garlic: 2 cloves",
+        "Honey: 1 tsp",
+        "Blanched Taiwanese choy sum: 60 g",
+        "Sesame oil: 1 tsp",
+        "Water: 80 ml"
+      ],
+      "steps_en": [
+        "Marinate the pork collar with black pepper sauce and honey for 5 minutes, then sear in a pan until cooked and nicely browned.",
+        "Pour in the water and smashed garlic, simmering until the sauce reduces to a glossy glaze around the pork.",
+        "Boil the jade noodles until tender, toss lightly with sesame oil, and plate alongside the blanched choy sum.",
+        "Slice the glazed pork, arrange over the jade noodles, and spoon the remaining black pepper sauce on top."
+      ]
     },
     {
       "title": "สปาเกตตีขี้เมาปลาหมึกกุ้งสด",
@@ -5128,7 +8026,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Drunken Spaghetti with Squid and Shrimp",
+      "desc_en": "Blanching the squid and shrimp just until cooked and stir-frying briefly keeps the seafood tender and bouncy.",
+      "ingredients_en": [
+        "Spaghetti: 120 g",
+        "Fresh shrimp and squid rings: 140 g",
+        "Pounded bird's eye chilies and garlic: 2 tbsp",
+        "Green peppercorns and julienned fingerroot: 30 g",
+        "Holy basil leaves: 1 cup",
+        "Oyster sauce and light soy sauce: 2 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Boil the spaghetti in salted water until al dente, then drain and set aside.",
+        "Stir-fry the pounded chilies and garlic in hot oil until fragrant, then add the shrimp and squid and cook until just done.",
+        "Add the green peppercorns, fingerroot, cooked spaghetti, oyster sauce, light soy sauce, and sugar.",
+        "Turn up the heat and toss to combine well, then stir in the holy basil leaves until wilted and fragrant before serving."
+      ]
     },
     {
       "title": "มักกะโรนีผัดซอสมะเขือเทศไข่ดาว",
@@ -5159,7 +8075,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai-Style Tomato Macaroni Stir-Fry with Fried Egg",
+      "desc_en": "Stir-frying with salted butter adds rich aroma and smoothly balances the tanginess of the ketchup.",
+      "ingredients_en": [
+        "Cooked elbow macaroni: 150 g",
+        "Egg (for frying): 1 whole",
+        "Sliced sausages: 80 g",
+        "Diced onion and tomato: 80 g",
+        "Tomato ketchup: 3 tbsp",
+        "Seasoning sauce: 1 tbsp",
+        "Granulated sugar: 1 tsp",
+        "Salted butter: 1 tbsp"
+      ],
+      "steps_en": [
+        "Fry the egg in a pan to your preferred doneness, then remove and set aside.",
+        "Sauté the onion, tomato, and sliced sausages in salted butter until cooked and fragrant.",
+        "Add the cooked macaroni, tomato ketchup, seasoning sauce, and granulated sugar.",
+        "Stir-fry until the sauce evenly coats the pasta, plate it up, and top with the fried egg."
+      ]
     },
     {
       "title": "ขนมจีนน้ำเงี้ยวหมูสับดอกงิ้ว",
@@ -5190,7 +8124,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern Thai Kanom Jeen Nam Ngiao (Pork & Tomato Noodle Soup)",
+      "desc_en": "Lightly mash some cherry tomatoes in the pot to enrich the broth with natural sweet-tangy flavor.",
+      "ingredients_en": [
+        "Fermented rice noodles (kanom jeen): 180 g",
+        "Minced pork: 120 g",
+        "Nam Ngiao curry paste: 2 tbsp",
+        "Cherry tomatoes, halved: 100 g",
+        "Dried cotton tree flowers (dok ngio), soaked: 20 g",
+        "Pork blood jelly, cubed: 60 g",
+        "Stock: 400 ml",
+        "Bean sprouts, pickled mustard greens, and fried garlic: 60 g"
+      ],
+      "steps_en": [
+        "Fry Nam Ngiao curry paste in a little oil until fragrant, then add minced pork and stir-fry until cooked.",
+        "Pour in stock, soaked cotton tree flowers, and cherry tomatoes; simmer 8 minutes until tomatoes soften.",
+        "Gently add cubed pork blood jelly, simmer 2 more minutes, and adjust seasoning.",
+        "Place rice noodles in a bowl, ladle hot Nam Ngiao broth over, and serve with pickled mustard greens, bean sprouts, and fried garlic."
+      ]
     },
     {
       "title": "ขนมจีนน้ำยาป่าลูกชิ้นปลา",
@@ -5221,7 +8173,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Jungle Fish Curry Rice Noodles (Kanom Jeen Nam Ya Pa)",
+      "desc_en": "Pounding boiled mackerel meat with fingerroot thickens and perfumes the herbal broth in just minutes.",
+      "ingredients_en": [
+        "Fermented rice noodles (kanom jeen): 180 g",
+        "Boiled mackerel meat, deboned: 100 g",
+        "Fish balls: 5",
+        "Jungle curry paste and fingerroot: 2 tbsp",
+        "Boiled fermented fish sauce (pla ra): 2 tbsp",
+        "Water: 450 ml",
+        "Cut green onions and kaffir lime leaves: 20 g",
+        "Sliced yardlong beans and shredded cabbage: 80 g"
+      ],
+      "steps_en": [
+        "Pound or blend boiled mackerel meat with jungle curry paste and fingerroot until smooth.",
+        "Bring water to a boil and dissolve the curry paste mixture and fermented fish sauce into the pot.",
+        "Add fish balls, kaffir lime leaves, and green onions; simmer 3 minutes until aromatic.",
+        "Arrange rice noodles on a plate, ladle spicy herbal broth over, and serve with crisp fresh vegetables."
+      ]
     },
     {
       "title": "ขนมจีนซาวน้ำกุ้งแห้งสับปะรด",
@@ -5252,7 +8222,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Kanom Jeen Sao Nam (Coconut, Pineapple & Dried Shrimp Noodles)",
+      "desc_en": "Soak thinly julienned young ginger in cold water to mellow its heat and boost crisp freshness.",
+      "ingredients_en": [
+        "Fermented rice noodles (kanom jeen): 160 g",
+        "Ground dried shrimp: 30 g",
+        "Thick coconut cream, gently heated: 150 ml",
+        "Finely chopped pineapple: 80 g",
+        "Young ginger, finely julienned: 30 g",
+        "Sliced garlic and bird's eye chilies: 20 g",
+        "Simmered fish sauce and palm sugar syrup: 3 tbsp",
+        "Boiled egg, halved: 1"
+      ],
+      "steps_en": [
+        "Gently heat thick coconut cream with a pinch of salt just until barely bubbling, then set aside.",
+        "Arrange rice noodles on a plate surrounded by chopped pineapple, julienned ginger, sliced garlic, chilies, and ground dried shrimp.",
+        "Add boiled egg halves on the side along with sweet fish sauce syrup.",
+        "To eat, drizzle coconut cream and sweet fish sauce over everything and toss well."
+      ]
     },
     {
       "title": "ขนมจีนแกงเขียวหวานไก่มะเขือเปราะ",
@@ -5283,7 +8271,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Green Curry Chicken over Kanom Jeen Rice Noodles",
+      "desc_en": "Add Thai eggplants into a rolling boil and submerge them so they stay vibrant green and tender.",
+      "ingredients_en": [
+        "Fermented rice noodles (kanom jeen): 160 g",
+        "Chicken thigh, sliced: 140 g",
+        "Green curry paste: 2 tbsp",
+        "Coconut milk: 250 ml",
+        "Thai eggplants, quartered: 70 g",
+        "Sweet basil leaves and kaffir lime leaves: 20 g",
+        "Fish sauce: 1.5 tbsp",
+        "Palm sugar: 1 tsp"
+      ],
+      "steps_en": [
+        "Simmer half of the coconut milk with green curry paste until fragrant and lightly separated.",
+        "Stir-fry chicken pieces until sealed, then pour in remaining coconut milk and bring to a boil.",
+        "Add Thai eggplants, kaffir lime leaves, fish sauce, and palm sugar; simmer until eggplants are tender.",
+        "Stir in sweet basil leaves, turn off heat, and ladle generously over kanom jeen rice noodles."
+      ]
     },
     {
       "title": "ยำขนมจีนปลาทูทอดสมุนไพร",
@@ -5314,7 +8320,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Rice Noodle Salad with Fried Mackerel & Herbs",
+      "desc_en": "Reserve half of the flaked fried mackerel to sprinkle on top when plating so it stays crisp.",
+      "ingredients_en": [
+        "Fermented rice noodles (kanom jeen): 150 g",
+        "Fried Thai mackerel, deboned and flaked: 1 fish",
+        "Boiled fermented fish sauce (pla ra): 2 tbsp",
+        "Fresh lime juice: 2 tbsp",
+        "Roasted chili powder and palm sugar: 1.5 tbsp",
+        "Sliced shallots and sliced yardlong beans: 50 g",
+        "Chopped sawtooth coriander: 15 g",
+        "Blanched Vietnamese pork sausage (moo yor), sliced: 50 g"
+      ],
+      "steps_en": [
+        "Whisk fermented fish sauce, lime juice, chili powder, and palm sugar until dissolved.",
+        "Toss in shallots, yardlong beans, sawtooth coriander, and blanched moo yor slices.",
+        "Gently fold in rice noodles and flaked fried mackerel until evenly coated.",
+        "Transfer to a plate and serve immediately with crisp fresh vegetables."
+      ]
     },
     {
       "title": "แรปทูน่าสลัดข้าวโพดหวาน",
@@ -5345,7 +8369,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Corn Tuna Salad Wrap",
+      "desc_en": "Squeeze all the mineral water out of the tuna before mixing with mayonnaise so the salad filling stays thick and holds together well.",
+      "ingredients_en": [
+        "Whole wheat tortilla wraps: 2 pieces",
+        "Canned tuna in mineral water, drained and squeezed dry: 100 g",
+        "Cooked sweet corn kernels: 40 g",
+        "Low-fat mayonnaise: 2 tbsp",
+        "Finely chopped onion: 1 tbsp",
+        "Chopped romaine lettuce: 50 g",
+        "Ground black pepper: 0.5 tsp",
+        "Lime juice: 1 tsp"
+      ],
+      "steps_en": [
+        "Mix the tuna, sweet corn, chopped onion, mayonnaise, lime juice, and ground black pepper together.",
+        "Warm the tortilla wraps in a dry pan or microwave for 15 seconds until soft and pliable.",
+        "Lay the romaine lettuce down the center of each tortilla and spoon the tuna salad filling on top.",
+        "Roll the wraps tightly and slice diagonally in half to serve."
+      ]
     },
     {
       "title": "แรปไข่คนเบคอนกรอบซอสศรีราชา",
@@ -5376,7 +8418,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Bacon and Scrambled Egg Sriracha Wrap",
+      "desc_en": "Pan-toasting the wrap seam-side down first helps seal the fold so it stays rolled neatly.",
+      "ingredients_en": [
+        "Tortilla wraps: 2 pieces",
+        "Eggs: 2 whole",
+        "Chopped crispy fried bacon: 40 g",
+        "Cheddar cheese slice: 1 slice",
+        "Sriracha chili sauce: 1.5 tbsp",
+        "Fresh milk: 1 tbsp",
+        "Fresh spinach or salad greens: 40 g",
+        "Unsalted butter: 1 tsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs with fresh milk and cook gently with unsalted butter over low heat into soft scrambled eggs.",
+        "Warm the tortillas, then layer the cheddar cheese, salad greens, scrambled eggs, and crispy bacon.",
+        "Drizzle Sriracha chili sauce over the filling to taste.",
+        "Roll tightly and toast in a pan over low heat for 30 seconds per side until the cheese melts."
+      ]
     },
     {
       "title": "แรปหมูย่างน้ำจิ้มแจ่วผักสด",
@@ -5407,7 +8467,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Grilled Pork Neck Wrap with Jaew Dipping Sauce",
+      "desc_en": "Adding fresh mint leaves to the wrap cuts through the richness of the pork neck and brings an aromatic Isan flair.",
+      "ingredients_en": [
+        "Tortilla wraps: 2 pieces",
+        "Sliced pork neck: 130 g",
+        "Oyster sauce and light soy sauce: 1.5 tbsp",
+        "Toasted rice jaew dipping sauce: 2.5 tbsp",
+        "Lettuce and fresh mint leaves: 50 g",
+        "Julienne cucumber and carrot sticks: 50 g",
+        "Sliced shallots: 1 tbsp",
+        "Vegetable oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Marinate the sliced pork neck with oyster sauce and light soy sauce for 5 minutes, then grill in a pan until cooked and fragrant.",
+        "Warm the tortillas until soft and top with lettuce, mint leaves, cucumber, and carrot.",
+        "Arrange the grilled pork and sliced shallots over the vegetables, then drizzle generously with jaew dipping sauce.",
+        "Roll tightly, cut in half, and serve with the remaining jaew sauce on the side."
+      ]
     },
     {
       "title": "ข้าวราดกะเพราหมูเด้งพริกสดไข่ต้ม",
@@ -5437,7 +8515,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Bouncy Pork Ball Holy Basil over Rice with Soft-Boiled Egg",
+      "desc_en": "Adding a splash of water while stir-frying bouncy pork balls helps them cook evenly and stay juicy.",
+      "ingredients_en": [
+        "Steamed jasmine rice: 1 plate (200 g)",
+        "Seasoned bouncy pork paste (moo deng), shaped into bite-sized balls: 150 g",
+        "Pounded red Jinda chilies and garlic: 1.5 tbsp",
+        "Holy basil leaves: 1 cup",
+        "Oyster sauce and fish sauce: 1 tbsp each",
+        "Soft-boiled egg, halved: 1",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil in a wok and stir-fry pounded chilies and garlic until fragrant.",
+        "Add bouncy pork balls with a splash of water and stir-fry until cooked through and juicy.",
+        "Season with oyster sauce, fish sauce, and a pinch of sugar.",
+        "Toss in holy basil leaves quickly, spoon over jasmine rice, and serve with soft-boiled egg."
+      ]
     },
     {
       "title": "ปลากะพงนึ่งมะนาวพริกสด",
@@ -5468,7 +8563,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Sea Bass with Spicy Lime & Chili Sauce",
+      "desc_en": "Steam only when the steamer is at a full boil and pour off half the steaming liquid before adding the lime sauce for 100% fresh, clean flavor.",
+      "ingredients_en": [
+        "Fresh whole white sea bass, scaled and scored: 1 fish (~500 g)",
+        "Fresh lime juice: 4 tbsp",
+        "Fish sauce: 3 tbsp",
+        "Palm sugar or white sugar: 1.5 tbsp",
+        "Finely minced Thai garlic: 2 tbsp",
+        "Finely minced bird's eye chilies: 1.5 tbsp",
+        "Bruised lemongrass and kaffir lime leaves (for steaming bed): 1 set",
+        "Chinese celery stalks and thin lime slices for garnish"
+      ],
+      "steps_en": [
+        "Place bruised lemongrass and kaffir lime leaves on a steaming dish, lay the sea bass on top, and steam over high boiling water for 10–12 minutes until flaky.",
+        "Meanwhile, mix lime juice, fish sauce, sugar, minced chilies, and minced garlic until sugar dissolves.",
+        "Once cooked, drain half the steaming liquid from the dish and pour the spicy lime sauce over the hot fish.",
+        "Garnish with lime slices and celery, cover for 30 seconds to infuse aroma, and serve hot."
+      ]
     },
     {
       "title": "ยำวุ้นเส้นหมูสับกุ้งสดโบราณ",
@@ -5500,7 +8613,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Classic Thai Glass Noodle Salad with Minced Pork and Shrimp",
+      "desc_en": "Blanching the glass noodles in the pork cooking broth and tossing while still warm lets them soak up the tangy dressing without drying out.",
+      "ingredients_en": [
+        "Dried glass noodles, soaked until soft and cut into lengths: 1 small pack",
+        "Minced pork: 100 g",
+        "Fresh shrimp, peeled and deveined: 6 pieces",
+        "Sliced shallots (4 bulbs) and tomato wedges (1 whole): 1 set",
+        "Chinese celery and scallions, cut into lengths: 2 stalks",
+        "Sliced bird's eye chilies: 8 pieces",
+        "Freshly squeezed lime juice: 3 tbsp",
+        "Fish sauce: 2.5 tbsp",
+        "Simmered sugar syrup or granulated sugar: 1.5 tsp"
+      ],
+      "steps_en": [
+        "Bring half a cup of broth to a boil in a pot, cook the minced pork and blanch the shrimp until plump, then set the shrimp aside.",
+        "Blanch the glass noodles in the pork broth until translucent and chewy, then lift out along with the minced pork and 2 tbsp of the broth.",
+        "Stir the fish sauce, sugar, fresh lime juice, and sliced chilies together in a mixing bowl until dissolved.",
+        "Toss in the warm glass noodles, minced pork, shrimp, shallots, tomato, scallions, and Chinese celery so the noodles absorb the dressing, and serve immediately."
+      ]
     },
     {
       "title": "ฟักทองผัดไข่ใส่หมูสับใบโหระพา",
@@ -5530,7 +8662,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Pumpkin with Egg, Minced Pork, and Sweet Basil",
+      "desc_en": "Peeling only parts of the pumpkin so strips of green skin remain helps the pieces hold their shape without turning mushy.",
+      "ingredients_en": [
+        "Firm Thai pumpkin, cut into chunks: 250 g",
+        "Fresh eggs: 2 whole",
+        "Minced pork: 100 g",
+        "Fresh Thai sweet basil leaves: 0.5 bunch",
+        "Coarsely chopped Thai garlic: 1 tbsp",
+        "Oyster sauce (1 tbsp), light soy sauce (1 tbsp), and sugar (0.5 tsp): 1 set",
+        "Water (for steaming the pumpkin): 0.33 cup"
+      ],
+      "steps_en": [
+        "Heat a wok and fry the chopped garlic until golden and fragrant, then add the minced pork and break it apart until cooked.",
+        "Add the pumpkin chunks and toss, pour in 1/3 cup water, cover, and steam over medium heat for 3–4 minutes until tender yet intact.",
+        "Push the pumpkin to the side, crack the eggs into the center, let them half-set, and season with oyster sauce, light soy sauce, and sugar.",
+        "Fold the pumpkin gently with the eggs, toss in the sweet basil leaves just until wilted, turn off the heat, and serve."
+      ]
     },
     {
       "title": "แกงจืดเต้าหู้ไข่หมูสับผักกาดขาว",
@@ -5563,7 +8712,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Soup with Egg Tofu, Minced Pork & Napa Cabbage",
+      "desc_en": "Drop pork balls into gently bubbling stock and skim foam for a crystal-clear soup with tender pork (senior-friendly).",
+      "ingredients_en": [
+        "Minced pork marinated with light soy sauce & pepper: 150 g",
+        "Egg tofu, thickly sliced: 2 tubes",
+        "Napa cabbage, cut into pieces: 150 g",
+        "Soaked glass noodles: 50 g",
+        "Crispy fried garlic for garnish: 1 tbsp",
+        "Green onions and Chinese celery, chopped: 2 stalks",
+        "Clear stock 3 cups and light soy sauce 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Bring clear stock to a gentle boil, drop in bite-sized minced pork balls, and skim foam until clear.",
+        "Add napa cabbage stems until tender, followed by leaves and glass noodles; season with light soy sauce.",
+        "Gently slide in egg tofu rounds and simmer over low heat for 2 minutes without stirring vigorously.",
+        "Turn off heat, garnish with green onions, celery, white pepper, and crispy fried garlic, and serve hot."
+      ]
     },
     {
       "title": "อกไก่ย่างสมุนไพรน้ำจิ้มแจ่ว",
@@ -5591,7 +8757,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Herb-Grilled Chicken Breast with Jaew Dipping Sauce",
+      "desc_en": "Slicing the chicken breast to an even thickness and avoiding overcooking keeps the meat tender and juicy.",
+      "ingredients_en": [
+        "Skinless chicken breast, thinly butterflied: 250 g",
+        "Pounded garlic, pepper, and cilantro root (sam gler): 1 tbsp",
+        "Low-sodium light soy sauce: 1.5 tbsp",
+        "Finely chopped galangal and lemongrass (for marinade): 1 tbsp",
+        "Fish sauce, lime juice, chili flakes, toasted rice powder, sliced scallions (for jaew sauce): to taste"
+      ],
+      "steps_en": [
+        "Marinate the chicken breast with the garlic-pepper-cilantro paste, chopped lemongrass, and light soy sauce for 15 minutes.",
+        "Grill on a nonstick pan or air-fry at 180°C for 12–15 minutes until cooked through and juicy.",
+        "Combine fish sauce, lime juice, chili flakes, toasted rice powder, and sliced scallions to make a zesty jaew dipping sauce.",
+        "Slice the grilled chicken breast and serve alongside fresh vegetables and the jaew sauce."
+      ]
     },
     {
       "title": "ปลาทับทิมนึ่งขิงซีอิ๊ว",
@@ -5621,7 +8802,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Red Tilapia with Ginger and Soy Sauce",
+      "desc_en": "Steaming over a rolling boil for no more than 10 minutes keeps the fish sweet, tender, and easy to enjoy (ideal for seniors).",
+      "ingredients_en": [
+        "Red tilapia or sea bass fillets: 250 g",
+        "Finely julienned young ginger: 3 tbsp",
+        "Julienned scallions and Chinese celery: 2 stalks",
+        "Light soy sauce (1.5 tbsp), sesame oil (0.5 tsp), and broth (3 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Arrange the fish fillets on a deep heatproof plate and scatter half of the julienned young ginger on top.",
+        "Mix the light soy sauce, sesame oil, and broth together and pour evenly over the fish.",
+        "Steam over high heat in rapidly boiling water for 8–10 minutes until the flesh turns opaque and tender.",
+        "Top with the remaining ginger, scallions, and Chinese celery, cover for 30 seconds more, and serve."
+      ]
     },
     {
       "title": "แกงเลียงกุ้งสดผักรวม",
@@ -5650,7 +8845,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Spicy Mixed Vegetable and Shrimp Soup (Kaeng Liang)",
+      "desc_en": "Adding the lemon basil leaves at the very end and turning off the heat immediately preserves their vibrant green color and fragrant aroma.",
+      "ingredients_en": [
+        "Fresh peeled shrimp: 150 g",
+        "Pumpkin, angled luffa, ivy gourd, baby corn, and straw mushrooms: 300 g",
+        "Lemon basil leaves: 1 bunch",
+        "Finely pounded peppercorns, shrimp paste, and shallots: 2 tbsp",
+        "Ground dried shrimp: 1.5 tbsp",
+        "Fish sauce (1.5 tbsp) and water (3.5 cups): 1 set"
+      ],
+      "steps_en": [
+        "Bring the water to a boil and dissolve the pounded curry paste and ground dried shrimp into the broth.",
+        "Add the pumpkin and baby corn first until nearly tender, followed by the luffa, straw mushrooms, and ivy gourd.",
+        "Add the fresh shrimp and cook just until they turn pink, then season with fish sauce.",
+        "Stir in the lemon basil leaves, press them into the broth, turn off the heat immediately, and serve hot."
+      ]
     },
     {
       "title": "ยำถั่วพูอกไก่ฉีกกุ้งสด",
@@ -5678,7 +8889,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Winged Bean Salad with Shredded Chicken and Shrimp",
+      "desc_en": "Plunging the winged beans into ice water immediately after blanching locks in their crisp texture and bright green color.",
+      "ingredients_en": [
+        "Thinly sliced winged beans, blanched: 150 g",
+        "Boiled and shredded chicken breast: 100 g",
+        "Blanched fresh shrimp: 5 pieces",
+        "Halved boiled egg (1 whole) and crispy fried shallots (1 tbsp): 1 set",
+        "Roasted chili paste (1 tbsp), lime juice (2 tbsp), fish sauce (1.5 tbsp), coconut sugar (1 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Blanch the winged beans in lightly salted boiling water for 30 seconds, then immediately chill in ice water to keep them crisp and vibrant.",
+        "Whisk the roasted chili paste, lime juice, fish sauce, and coconut sugar together until smooth.",
+        "Toss the winged beans, shredded chicken, and blanched shrimp in the dressing until evenly coated.",
+        "Plate alongside the boiled egg halves and garnish with crispy shallots and a sprinkle of roasted peanuts."
+      ]
     },
     {
       "title": "ไข่ตุ๋นทรงเครื่องหมูสับ",
@@ -5710,7 +8936,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Silky Steamed Egg Custard with Minced Pork",
+      "desc_en": "Straining the egg mixture and steaming gently over low heat yields a silky, bubble-free custard (senior-friendly).",
+      "ingredients_en": [
+        "Fresh eggs: 3",
+        "Clear stock: 1.5 cups",
+        "Cooked minced pork: 80 g",
+        "Finely diced carrot and sliced shiitake mushrooms: 50 g",
+        "Chopped green onion: 1 stalk",
+        "Light soy sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Whisk eggs with clear stock and light soy sauce, then strain through a fine sieve once for smoothness.",
+        "Place diced carrot and mushrooms in a heatproof bowl, pour in egg mixture, and steam over low heat for ~12 minutes with lid slightly ajar.",
+        "Once custard sets, top with cooked minced pork and steam 2 more minutes.",
+        "Garnish with chopped green onion and a pinch of white pepper; serve warm."
+      ]
     },
     {
       "title": "ผัดผักบุ้งไฟแดงเต้าเจี้ยว",
@@ -5738,7 +8980,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "High-Heat Stir-Fried Morning Glory with Soybean Paste",
+      "desc_en": "Piling all the seasonings directly onto the morning glory and dumping everything into a smoking-hot wok at once keeps the greens crisp.",
+      "ingredients_en": [
+        "Chinese morning glory, cut into lengths: 250 g",
+        "Smashed Thai garlic and red bird's eye chilies: 1.5 tbsp",
+        "Fermented soybean paste: 1 tbsp",
+        "Oyster sauce (1 tbsp), light soy sauce (1 tsp), granulated sugar (0.5 tsp): 1 set",
+        "Broth (2 tbsp) and vegetable oil (1 tbsp): 1 set"
+      ],
+      "steps_en": [
+        "Wash and drain the morning glory thoroughly, then pile the chilies, garlic, soybean paste, oyster sauce, light soy sauce, and sugar on top of the greens.",
+        "Heat the vegetable oil in a wok over very high heat until lightly smoking.",
+        "Add the morning glory and all the seasonings in one quick motion along with 2 tbsp of broth.",
+        "Toss briskly for just 30–40 seconds until the stems are wilted yet crunchy, then transfer straight to a plate."
+      ]
     },
     {
       "title": "ต้มยำปลานิลน้ำใสสมุนไพร",
@@ -5767,7 +9024,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Herbal Tilapia Tom Yum Soup",
+      "desc_en": "Avoid stirring the pot right after adding the fish; wait until the rolling boil sets the fillets so they stay intact without a fishy smell.",
+      "ingredients_en": [
+        "Tilapia fillets, cut into large chunks: 250 g",
+        "Galangal (5 slices), bruised lemongrass (2 stalks), kaffir lime leaves (5 leaves), bruised shallots (3 bulbs): 1 set",
+        "Torn oyster mushrooms: 100 g",
+        "Crushed bird's eye chilies: 8 pieces",
+        "Fish sauce (2 tbsp) and fresh lime juice (2.5 tbsp): 1 set",
+        "Holy basil or culantro leaves: 1 bunch"
+      ],
+      "steps_en": [
+        "Bring water to a rolling boil with the galangal, lemongrass, shallots, and kaffir lime leaves.",
+        "Gently add the tilapia chunks without stirring so the flesh stays firm and free of any fishy odor.",
+        "Once the fish is cooked, add the oyster mushrooms and season with fish sauce and crushed chilies.",
+        "Remove from heat, stir in fresh lime juice and holy basil or culantro, and serve immediately."
+      ]
     },
     {
       "title": "สลัดโรลอกไก่ผักไฮโดรโปนิกส์น้ำจิ้มซีฟู้ดโยเกิร์ต",
@@ -5796,7 +9069,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fresh Chicken Breast Salad Rolls with Yogurt Seafood Dip",
+      "desc_en": "Do not oversoak the rice paper; lift it out as soon as it is wet all over so it softens to the ideal chewy texture for rolling.",
+      "ingredients_en": [
+        "Vietnamese rice paper wrappers, moistened: 6 pieces",
+        "Boiled and shredded chicken breast: 120 g",
+        "Green oak, red oak lettuce, shredded carrot, and cucumber: 150 g",
+        "Plain low-fat yogurt: 3 tbsp",
+        "Lime juice, minced bird's eye chili, and garlic: 1 tbsp",
+        "Salt and honey: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Dip each rice paper wrapper in clean water for 5 seconds and lay it flat on a board.",
+        "Layer the lettuce, carrot, cucumber, and shredded chicken breast, roll tightly into neat cylinders, and slice in half.",
+        "Blend the yogurt, chilies, garlic, lime juice, honey, and salt together until smooth for the dipping sauce.",
+        "Arrange the salad rolls on a platter and serve with the clean yogurt seafood dip."
+      ]
     },
     {
       "title": "ปลากะพงลวกจิ้มน้ำพริกเต้าเจี้ยวสมุนไพร",
@@ -5825,7 +9114,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Herbal Poached Sea Bass with Spicy Soybean Dip",
+      "desc_en": "Poaching the fish in rapidly boiling water infused with herbs completely removes fishiness while preserving its natural sweetness.",
+      "ingredients_en": [
+        "Fresh sea bass, thickly sliced: 200 g",
+        "Lemongrass, galangal, and kaffir lime leaves (for poaching): 1 set",
+        "Low-sodium mashed fermented soybean paste: 2 tbsp",
+        "Minced mature ginger, minced bird's eye chili, and lime juice: 1 tbsp",
+        "Coconut flower sugar: 1 tsp",
+        "Fresh Chinese celery (for plating): 1 bunch"
+      ],
+      "steps_en": [
+        "Bring water to a rapid boil with galangal, lemongrass, and kaffir lime leaves until deeply aromatic.",
+        "Poach the sea bass slices for 1.5–2 minutes until opaque and firm, then drain and arrange over fresh Chinese celery.",
+        "Stir the soybean paste, minced ginger, minced chilies, lime juice, and coconut flower sugar together until combined.",
+        "Serve the warm poached fish alongside the tangy, savory, and spicy soybean dipping sauce."
+      ]
     },
     {
       "title": "ยำเห็ดรวมกุ้งสดแคลอรีต่ำ",
@@ -5854,7 +9159,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Low-Calorie Spicy Mixed Mushroom and Shrimp Salad",
+      "desc_en": "Drain the blanched mushrooms thoroughly before tossing so excess liquid does not water down the zesty dressing.",
+      "ingredients_en": [
+        "Shimeji, king oyster, and snow fungus mushrooms: 200 g",
+        "Peeled, blanched shrimp: 5 pieces",
+        "Freshly squeezed lime juice: 2.5 tbsp",
+        "Low-sodium fish sauce: 2 tbsp",
+        "Sugar substitute or stevia: 1 tsp",
+        "Sliced chilies, shallots, tomatoes, and Chinese celery: 1 cup"
+      ],
+      "steps_en": [
+        "Tear the mushrooms into bite-sized pieces, blanch in boiling water for 1 minute, and drain thoroughly.",
+        "Mix the lime juice, low-sodium fish sauce, stevia, and sliced chilies until balanced and zesty.",
+        "Toss the drained mushrooms, blanched shrimp, shallots, tomatoes, and Chinese celery with the dressing.",
+        "Plate and serve immediately as a light, low-calorie meal."
+      ]
     },
     {
       "title": "แกงเห็ดเผาะยอดชะอมใบย่านาง",
@@ -5883,7 +9204,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Isan Puffball Mushroom and Cha-Om Curry in Yanang Broth",
+      "desc_en": "Tossing in the cha-om shoots last and turning off the heat immediately preserves their fragrance and prevents them from turning dark and mushy.",
+      "ingredients_en": [
+        "Cleaned puffball mushrooms, halved: 150 g",
+        "Fresh cha-om (climbing wattle) shoots: 1 bunch",
+        "Freshly squeezed yanang leaf juice: 2.5 cups",
+        "Coarsely pounded dried chilies, shallots, and lemongrass: 1.5 tbsp",
+        "Clean boiled fermented fish sauce or pure fish sauce: 2 tbsp",
+        "Chopped pumpkin and angled luffa: 100 g"
+      ],
+      "steps_en": [
+        "Bring the yanang leaf juice and pounded curry paste to a boil until fragrant.",
+        "Add the pumpkin and puffball mushrooms and simmer until tender and pleasantly chewy.",
+        "Season with boiled fermented fish sauce to achieve a savory, umami-rich balance.",
+        "Add the angled luffa and cha-om shoots, stir just until wilted, turn off the heat immediately, and serve hot."
+      ]
     },
     {
       "title": "ต้มซุปเปอร์อกไก่มะนาวพริกสด",
@@ -5913,7 +9250,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Zesty Super Chicken Breast Soup with Lime and Fresh Chilies",
+      "desc_en": "Turning off the heat before adding fresh lime juice gives the broth a bright, refreshing tartness without any bitterness.",
+      "ingredients_en": [
+        "Chicken breast, cut into large chunks: 200 g",
+        "Torn oyster mushrooms: 100 g",
+        "Galangal, lemongrass, kaffir lime leaves, and bruised shallots: 1 set",
+        "Crushed bird's eye chilies: 10 pieces",
+        "Freshly squeezed lime juice (3 tbsp) and fish sauce (2 tbsp): 1 set",
+        "Sliced culantro: 2 stalks",
+        "Clear broth: 3 cups"
+      ],
+      "steps_en": [
+        "Bring the broth to a rolling boil with galangal, lemongrass, shallots, and kaffir lime leaves.",
+        "Add the chicken breast and simmer gently, skimming off any foam until the broth is clear and the chicken is tender.",
+        "Add the oyster mushrooms and season with fish sauce.",
+        "Turn off the heat, stir in fresh lime juice, crushed chilies, and sliced culantro, and serve hot."
+      ]
     },
     {
       "title": "ลาบอกไก่สับข้าวคั่วหอมไร้น้ำมัน",
@@ -5943,7 +9297,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Oil-Free Spicy Minced Chicken Larb with Toasted Rice",
+      "desc_en": "Cooking the minced chicken gently in broth until just tender rather than dry keeps it moist so it absorbs the larb dressing evenly.",
+      "ingredients_en": [
+        "Finely minced skinless chicken breast: 250 g",
+        "Clear vegetable broth: 3 tbsp",
+        "Freshly toasted rice powder: 1.5 tbsp",
+        "Chili flakes: 1 tbsp",
+        "Low-sodium fish sauce: 1.5 tbsp",
+        "Fresh lime juice: 2 tbsp",
+        "Sliced shallots, culantro, scallions, and mint leaves: 1 cup"
+      ],
+      "steps_en": [
+        "Cook the minced chicken breast with vegetable broth in a pot over medium heat until tender, then remove from heat to cool slightly.",
+        "Season with low-sodium fish sauce, fresh lime juice, and chili flakes, stirring well.",
+        "Fold in the toasted rice powder, sliced shallots, culantro, and scallions gently.",
+        "Top with fresh mint leaves and serve with crisp cabbage and cucumber."
+      ]
     },
     {
       "title": "น้ำพริกอ่องอกไก่สับเคียงผักต้มรวม",
@@ -5973,7 +9344,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "north"
+      "region": "north",
+      "name_en": "Northern-Style Chicken Nam Prik Ong with Boiled Vegetables",
+      "desc_en": "Simmering the tomatoes until they break down completely into the chicken provides natural sweet-tangy flavor without adding sugar.",
+      "ingredients_en": [
+        "Finely minced chicken breast: 180 g",
+        "Finely diced ripe tomatoes: 200 g",
+        "Finely pounded dried chilies, garlic, shallots, and shrimp paste: 2 tbsp",
+        "Mashed white fermented soybean paste: 1 tbsp",
+        "Fish sauce: 1 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Blanched vegetables (cabbage, yardlong beans, baby corn): to taste"
+      ],
+      "steps_en": [
+        "Sauté the pounded chili paste in 1 tsp of rice bran oil until fragrant.",
+        "Add the minced chicken breast and stir-fry until cooked, then add the diced tomatoes and mashed soybean paste.",
+        "Simmer over low heat until the tomatoes break down into a rich, thick red sauce.",
+        "Season with fish sauce to balance the natural sweetness and tang of the tomatoes, and serve with blanched vegetables."
+      ]
     },
     {
       "title": "กุ้งอบวุ้นเส้นหม้อดินสูตรแคลอรีต่ำ",
@@ -6004,7 +9392,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Low-Calorie Claypot Baked Shrimp with Glass Noodles",
+      "desc_en": "Lining the bottom of the pot with ginger and black peppercorns infuses the glass noodles with rich aroma without using lard or bacon.",
+      "ingredients_en": [
+        "Large fresh shrimp, whiskers trimmed: 5 pieces",
+        "Soaked glass noodles: 80 g",
+        "Sliced mature ginger, crushed garlic, and crushed black peppercorns: 1 tbsp",
+        "Low-sodium oyster sauce: 1.5 tbsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Sesame oil: 0.5 tsp",
+        "Clear chicken broth: 0.33 cup",
+        "Chinese celery, cut into lengths: 2 stalks"
+      ],
+      "steps_en": [
+        "Mix the oyster sauce, light soy sauce, sesame oil, and chicken broth, then toss the glass noodles in the mixture to absorb the seasoning.",
+        "Layer the sliced ginger, crushed garlic, and black peppercorns across the bottom of a claypot or nonstick pot.",
+        "Spread the seasoned noodles on top, arrange the shrimp over them, cover, and bake over medium-low heat for 6–8 minutes.",
+        "Once the shrimp turn bright orange, scatter the Chinese celery on top, cover for 30 seconds more, and serve."
+      ]
     },
     {
       "title": "ต้มจับฉ่ายผักรวมเต้าหู้ขาวเห็ดหอม",
@@ -6036,7 +9442,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Mixed Vegetable Stew with Tofu and Shiitake (Jab Chai)",
+      "desc_en": "Wilting the vegetables in a pan before simmering releases their natural sweetness for a smooth, comforting broth (ideal for seniors).",
+      "ingredients_en": [
+        "Bok choy, cabbage, daikon radish, and Chinese broccoli: 300 g",
+        "Firm white tofu, diced and pan-seared: 1 block",
+        "Soaked dried shiitake mushrooms, sliced: 4 pieces",
+        "Crushed Chinese garlic and cilantro root: 1 tbsp",
+        "Low-sodium light soy sauce (2 tbsp) and dark soy sauce (0.5 tsp): 1 set",
+        "Clear vegetable broth: 3 cups"
+      ],
+      "steps_en": [
+        "Pan-sear the diced white tofu until golden on the edges, then set aside.",
+        "Sauté the garlic, cilantro root, and shiitake mushrooms until fragrant, then add all the vegetables and stir-fry until wilted.",
+        "Transfer to a pot with the vegetable broth and seared tofu, and season with light and dark soy sauces.",
+        "Simmer over low heat for 25 minutes until the vegetables are tender and the broth is naturally sweet, then serve."
+      ]
     },
     {
       "title": "ต้มยำเห็ด 3 อย่างน้ำใสไร้น้ำมัน",
@@ -6065,7 +9487,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oil-Free Clear Trio Mushroom Tom Yum Soup",
+      "desc_en": "Adding fresh holy basil leaves after turning off the heat boosts the aroma and helps soothe digestion.",
+      "ingredients_en": [
+        "Straw, oyster, and shimeji mushrooms: 250 g",
+        "Sliced galangal, bruised lemongrass, kaffir lime leaves, and shallots: 1 set",
+        "Crushed bird's eye chilies: 8 pieces",
+        "Freshly squeezed lime juice (3 tbsp) and low-sodium fish sauce (2 tbsp): 1 set",
+        "Sliced culantro and holy basil leaves: 1 cup",
+        "Clear vegetable broth: 3 cups"
+      ],
+      "steps_en": [
+        "Bring the vegetable broth to a boil with galangal, lemongrass, shallots, and kaffir lime leaves until fragrant.",
+        "Add all three mushrooms and simmer until tender, then season with low-sodium fish sauce.",
+        "Remove from heat and stir in fresh lime juice, crushed chilies, culantro, and holy basil leaves.",
+        "Mix well and serve hot as a light, soothing, low-calorie soup."
+      ]
     },
     {
       "title": "ยำปลาทูย่างตะไคร้สดใบสะระแหน่",
@@ -6093,7 +9531,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Mackerel Salad with Fresh Lemongrass and Mint",
+      "desc_en": "Using grilled mackerel instead of deep-fried fish cuts excess fat while adding a delicious natural smoky aroma.",
+      "ingredients_en": [
+        "Grilled mackerel fillets, deboned: 2 pieces",
+        "Thinly sliced lemongrass: 3 tbsp",
+        "Sliced shallots, bird's eye chilies, and julienned ginger: 2 tbsp",
+        "Fresh mint leaves: 1 bunch",
+        "Fresh lime juice (2.5 tbsp), low-sodium fish sauce (1.5 tbsp), honey (0.5 tsp): 1 set"
+      ],
+      "steps_en": [
+        "Stir the lime juice, low-sodium fish sauce, and honey together until well blended.",
+        "Toss in the sliced lemongrass, shallots, ginger, and chilies.",
+        "Flake the grilled mackerel into bite-sized pieces and fold them in gently.",
+        "Garnish with fresh mint leaves and serve with crisp cabbage and cucumber."
+      ]
     },
     {
       "title": "แกงส้มมะละกอกุ้งสดไร้น้ำตาล",
@@ -6122,7 +9575,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sugar-Free Sour Curry with Green Papaya and Shrimp (Kaeng Som)",
+      "desc_en": "Simmering green papaya until translucent draws out natural sweetness from the vegetable without any added sugar.",
+      "ingredients_en": [
+        "Fresh peeled shrimp: 150 g",
+        "Peeled green papaya, cut into chunks: 200 g",
+        "Kaeng som sour curry paste: 2 tbsp",
+        "Concentrated tamarind paste: 3 tbsp",
+        "Low-sodium pure fish sauce: 2 tbsp",
+        "Water: 3 cups"
+      ],
+      "steps_en": [
+        "Bring water to a boil and whisk in the kaeng som curry paste until dissolved.",
+        "Add the green papaya chunks and simmer over medium heat until translucent, tender, and naturally sweet.",
+        "Season with tamarind paste and fish sauce to achieve a bright, tangy-savory balance.",
+        "Add the fresh shrimp, cook just until they turn pink and bouncy, turn off the heat immediately, and serve hot."
+      ]
     },
     {
       "title": "อกไก่นึ่งฟักทองสมุนไพร",
@@ -6153,7 +9622,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Herbal Steamed Chicken Breast and Pumpkin",
+      "desc_en": "Steaming the pumpkin and chicken together lets their natural juices mingle for gentle sweetness (ideal for seniors).",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 200 g",
+        "Pumpkin, cut into bite-sized pieces: 150 g",
+        "Sliced lemongrass and torn kaffir lime leaves: 1 tbsp",
+        "Low-sodium light soy sauce (1 tbsp) and low-sodium oyster sauce (1 tsp): 1 set",
+        "Ground white pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Marinate the chicken breast with light soy sauce, oyster sauce, and white pepper for 10 minutes.",
+        "Arrange the pumpkin pieces in a steaming dish and lay the marinated chicken on top.",
+        "Scatter the sliced lemongrass and torn kaffir lime leaves evenly over everything.",
+        "Steam over high heat in boiling water for 12–15 minutes until both chicken and pumpkin are tender, then serve."
+      ]
     },
     {
       "title": "ไข่ต้มยางมะตูมยำสมุนไพรสด",
@@ -6180,7 +9664,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Soft-Boiled Eggs with Fresh Thai Herbal Dressing",
+      "desc_en": "Boiling the eggs for exactly 6 minutes and plunging them into ice water yields jammy, vibrant orange yolks.",
+      "ingredients_en": [
+        "Soft-boiled eggs, halved: 3 whole",
+        "Sliced lemongrass, shallots, and bird's eye chilies: 2 tbsp",
+        "Julienned young ginger and Chinese celery: 1 tbsp",
+        "Freshly squeezed lime juice (2 tbsp), low-sodium fish sauce (1.5 tbsp), honey (0.33 tsp): 1 set"
+      ],
+      "steps_en": [
+        "Arrange the halved soft-boiled eggs neatly on a serving plate.",
+        "Mix the lime juice, low-sodium fish sauce, honey, and sliced chilies until dissolved.",
+        "Fold in the sliced lemongrass, shallots, young ginger, and Chinese celery to form an herbal dressing.",
+        "Spoon the herbal dressing generously over the soft-boiled eggs and serve immediately."
+      ]
     },
     {
       "title": "อกไก่ผัดพริกขิงถั่วฝักยาวไร้น้ำมัน",
@@ -6210,7 +9708,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oil-Free Stir-Fried Chicken Breast with Yardlong Beans and Curry Paste",
+      "desc_en": "Stir-frying the yardlong beans briefly over high heat preserves their crisp snap and bright green color.",
+      "ingredients_en": [
+        "Skinless chicken breast, sliced: 150 g",
+        "Yardlong beans, cut into lengths: 80 g",
+        "Clean red roast curry paste (prik khing): 1 tbsp",
+        "Julienned kaffir lime leaves: 3 leaves",
+        "Vegetable broth or water: 3 tbsp",
+        "Low-sodium fish sauce: 1 tsp",
+        "Monk fruit sweetener: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick pan over medium heat with a splash of broth and sauté the curry paste until fragrant.",
+        "Add the sliced chicken breast and stir-fry with a bit more broth to prevent sticking until cooked through.",
+        "Toss in the yardlong beans briefly until crisp-tender, and season with low-sodium fish sauce and monk fruit sweetener.",
+        "Sprinkle in the julienned kaffir lime leaves, give a quick toss, turn off the heat, and serve."
+      ]
     },
     {
       "title": "อกไก่ต้มข่าเห็ดนางฟ้ากะทิธัญพืช",
@@ -6241,7 +9756,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Light Cereal-Milk Chicken and Oyster Mushroom Tom Kha",
+      "desc_en": "Turning off the heat before adding lime juice ensures a bright, fresh citrus aroma without bitterness.",
+      "ingredients_en": [
+        "Chicken breast, cut into bite-sized pieces: 150 g",
+        "Shredded oyster mushrooms: 100 g",
+        "Plant-based cereal milk (coconut milk alternative): 150 ml",
+        "Water: 150 ml",
+        "Sliced galangal and bruised lemongrass: 30 g each",
+        "Torn kaffir lime leaves: 3 leaves",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Boil the water with galangal, lemongrass, and kaffir lime leaves until fragrant.",
+        "Add the chicken breast and oyster mushrooms and simmer over medium heat until the chicken is tender.",
+        "Reduce to low heat, pour in the cereal milk, season with low-sodium fish sauce, stir gently just until simmering again, and turn off the heat.",
+        "Stir in the fresh lime juice and ladle into a bowl to serve."
+      ]
     },
     {
       "title": "กะเพราอกไก่สับไข่ขาวพริกแห้งคลีน",
@@ -6271,7 +9804,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clean Holy Basil Chicken Stir-Fry with Dried Chilies and Egg Whites",
+      "desc_en": "Toasting dried chilies instead of frying fresh ones delivers bold, smoky heat without needing any cooking oil.",
+      "ingredients_en": [
+        "Finely minced chicken breast: 150 g",
+        "Liquid egg whites: 100 g",
+        "Holy basil leaves: 1 cup",
+        "Coarsely pounded dried chilies and garlic: 1.5 tbsp",
+        "Low-sodium oyster sauce: 1 tbsp",
+        "Low-sodium light soy sauce: 1 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick pan over medium heat with a splash of water and toast the pounded dried chilies and garlic until fragrant.",
+        "Add the minced chicken breast and cook, breaking it apart so it stays crumbly and tender.",
+        "Season with low-sodium oyster sauce and light soy sauce, tossing until the chicken is well coated.",
+        "Pour the liquid egg whites into the side of the pan to scramble into bite-sized curds, then toss in the holy basil leaves briefly and turn off the heat."
+      ]
     },
     {
       "title": "อกไก่นึ่งซีอิ๊วเห็ดหอมขิงซอย",
@@ -6304,7 +9854,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Chicken Breast with Shiitake, Ginger, and Soy Sauce",
+      "desc_en": "Slicing the chicken breast slightly thinner helps the savory sauce penetrate evenly so the meat stays juicy (ideal for seniors).",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 180 g",
+        "Sliced fresh shiitake mushrooms: 60 g",
+        "Julienned mature ginger: 20 g",
+        "Scallions, cut into lengths: 2 stalks",
+        "Low-sodium Japanese soy sauce: 1.5 tbsp",
+        "Sesame oil: 0.5 tsp",
+        "Ground white pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Mix the Japanese soy sauce, sesame oil, and white pepper together, then toss with the chicken breast and marinate for 10 minutes.",
+        "Arrange the chicken in a heatproof dish and top with the sliced shiitake mushrooms and julienned ginger.",
+        "Steam over boiling water on medium heat for 12–15 minutes until the chicken is cooked through.",
+        "Scatter the scallions on top, cover to steam for 1 more minute, and serve."
+      ]
     },
     {
       "title": "แกงเขียวหวานอกไก่มะเขือเปราะนมอัลมอนด์",
@@ -6334,7 +9901,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Almond Milk Green Curry with Chicken Breast and Thai Eggplant",
+      "desc_en": "Swapping fresh coconut milk for unsweetened almond milk cuts saturated fat by more than half while keeping the curry creamy and aromatic.",
+      "ingredients_en": [
+        "Sliced chicken breast: 150 g",
+        "Quartered Thai eggplants: 80 g",
+        "Clean green curry paste: 1.5 tbsp",
+        "Unsweetened almond milk: 200 ml",
+        "Sweet basil leaves and diagonally sliced red spur chili: 30 g",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Stevia sweetener: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Simmer about 50 ml of almond milk with the green curry paste in a pot over low heat until fragrant.",
+        "Add the chicken breast and stir-fry until the exterior firms up and is coated with the paste.",
+        "Pour in the remaining almond milk and add the Thai eggplants, simmering until tender.",
+        "Season with low-sodium fish sauce and stevia, stir in the sweet basil and sliced red chili, and turn off the heat."
+      ]
     },
     {
       "title": "น้ำตกอกไก่ย่างข้าวคั่วสมุนไพรสด",
@@ -6365,7 +9949,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Grilled Chicken Breast Nam Tok Salad with Fresh Herbs",
+      "desc_en": "Resting the grilled chicken breast for about 3 minutes before slicing locks in its natural juices.",
+      "ingredients_en": [
+        "Skinless chicken breast: 160 g",
+        "Ground toasted rice powder: 1 tbsp",
+        "Chili flakes: 1 tsp",
+        "Sliced shallots: 2 bulbs",
+        "Sliced scallions and culantro: 30 g",
+        "Fresh mint leaves: 10 leaves",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Grill the chicken breast on a nonstick pan or in an air fryer until tender, let it rest briefly, then slice thinly.",
+        "Mix the lime juice, low-sodium fish sauce, chili flakes, and 2 tbsp of hot broth in a mixing bowl.",
+        "Toss in the sliced grilled chicken, shallots, toasted rice powder, scallions, and culantro until evenly coated.",
+        "Plate, garnish with fresh mint leaves, and serve with crisp fresh vegetables."
+      ]
     },
     {
       "title": "อกไก่ผัดขิงเห็ดหูหนูดำต้นหอม",
@@ -6396,7 +9998,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken Breast with Young Ginger and Wood Ear Mushrooms",
+      "desc_en": "Choosing young ginger instead of mature ginger offers a milder, easier-to-eat warmth that gently boosts metabolism.",
+      "ingredients_en": [
+        "Chicken breast, cut into strips: 150 g",
+        "Julienned young ginger: 50 g",
+        "Sliced black wood ear mushrooms: 70 g",
+        "Scallions, cut into lengths: 40 g",
+        "Minced garlic: 1 tsp",
+        "Low-sodium fermented soybean paste: 1 tsp",
+        "Low-sodium light soy sauce: 1 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat with a splash of water and sauté the minced garlic until fragrant, then add the chicken strips.",
+        "Stir-fry until the chicken is nearly cooked, then add the julienned ginger and wood ear mushrooms.",
+        "Season with low-sodium soybean paste and light soy sauce, adding a little water so the flavors coat evenly.",
+        "Toss in the scallions for 2–3 quick stirs, turn off the heat, and serve."
+      ]
     },
     {
       "title": "ต้มขมิ้นอกไก่ตะไคร้ใบมะกรูด",
@@ -6427,7 +10047,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Thai Turmeric Chicken Soup with Lemongrass",
+      "desc_en": "Lightly bruising the fresh turmeric root before boiling helps release its curcumin and earthy aroma into the broth.",
+      "ingredients_en": [
+        "Chicken breast, cut into chunks: 160 g",
+        "Bruised fresh turmeric root: 20 g",
+        "Bruised lemongrass, cut into stalks: 2 stalks",
+        "Bruised shallots: 3 bulbs",
+        "Torn kaffir lime leaves: 4 leaves",
+        "Concentrated tamarind juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Water: 350 ml"
+      ],
+      "steps_en": [
+        "Bring water to a boil and simmer the turmeric, lemongrass, shallots, and kaffir lime leaves until the broth turns golden yellow.",
+        "Add the chicken breast and cook over medium heat, skimming off foam to keep the broth clear.",
+        "Once the chicken is tender, season with tamarind juice and low-sodium fish sauce for a bright, savory-tangy taste.",
+        "Simmer for 1 more minute to let the broth infuse the chicken, then serve piping hot."
+      ]
     },
     {
       "title": "ข้าวกล้องผัดอกไก่สับผักสามสีคลีน",
@@ -6457,7 +10095,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clean Minced Chicken Brown Rice Stir-Fry with Trio Veggies",
+      "desc_en": "Using cooked brown rice chilled overnight keeps the grains separate and fluffy without turning mushy in an oil-free stir-fry.",
+      "ingredients_en": [
+        "Cooked and chilled brown rice: 150 g",
+        "Minced chicken breast: 120 g",
+        "Diced carrots, sweet corn, and green peas: 80 g",
+        "Egg: 1 whole",
+        "Minced garlic: 1 tsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Ground black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick pan over medium heat with 1 tbsp of water, and cook the minced garlic and minced chicken until done.",
+        "Push the chicken to the side, crack in the egg, and scramble it into small pieces.",
+        "Add the chilled brown rice and trio vegetables, tossing well over high heat.",
+        "Season with low-sodium light soy sauce and black pepper, stir-fry until the grains are dry and fluffy, and serve."
+      ]
     },
     {
       "title": "ปลาแซลมอนย่างเกลือพริกไทยดำหน่อไม้ฝรั่ง",
@@ -6486,7 +10141,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Seared Salmon with Sea Salt, Black Pepper, and Asparagus",
+      "desc_en": "Pan-searing skin-side down first without extra oil renders the salmon's healthy fats to crisp the skin and roast the asparagus.",
+      "ingredients_en": [
+        "Salmon fillet: 130 g",
+        "Asparagus spears, woody ends trimmed: 100 g",
+        "Himalayan pink salt: 0.25 tsp",
+        "Coarsely cracked black pepper: 0.5 tsp",
+        "Thinly sliced garlic: 2 cloves",
+        "Lemon juice: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the salmon dry and season both sides evenly with Himalayan salt and cracked black pepper.",
+        "Place the salmon skin-side down in a dry nonstick pan over medium heat and sear until the skin is crispy.",
+        "Flip the salmon and add the asparagus and sliced garlic to sear in the rendered salmon oil.",
+        "Once the salmon reaches your desired doneness and the asparagus is crisp-tender, plate and finish with a squeeze of lemon juice."
+      ]
     },
     {
       "title": "แกงเหลืองปลากะพงยอดมะพร้าวอ่อน",
@@ -6516,7 +10187,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Yellow Curry with Sea Bass and Young Coconut Shoots",
+      "desc_en": "Adding the fish to a rapidly boiling curry without stirring prevents fishiness and keeps the fillets intact.",
+      "ingredients_en": [
+        "Sea bass fillets, cut into chunks: 160 g",
+        "Sliced young coconut shoots: 120 g",
+        "Southern Thai yellow curry paste: 1.5 tbsp",
+        "Fresh tamarind juice: 2 tbsp",
+        "Fresh lime juice: 1 tbsp",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Water: 350 ml"
+      ],
+      "steps_en": [
+        "Bring water to a boil and stir in the Southern yellow curry paste until dissolved and aromatic.",
+        "Add the young coconut shoots and simmer for about 5 minutes until they begin to soften.",
+        "Season with tamarind juice and low-sodium fish sauce, then bring back to a rolling boil.",
+        "Gently place the sea bass chunks in without stirring until cooked through, then turn off the heat and stir in fresh lime juice."
+      ]
     },
     {
       "title": "ปลาช่อนนึ่งแจ่วผักลวกสมุนไพร",
@@ -6546,7 +10234,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Herbal Steamed Snakehead Fish with Jaew Sauce and Vegetables",
+      "desc_en": "Lining the steaming plate with lemongrass and kaffir lime leaves effectively removes the earthy odor of freshwater fish.",
+      "ingredients_en": [
+        "Snakehead fish fillets, sliced: 170 g",
+        "Lemongrass and kaffir lime leaves (for steaming bed): 30 g",
+        "Chili flakes and toasted rice powder: 1 tsp each",
+        "Clean pasteurized fermented fish sauce: 1 tbsp",
+        "Fresh lime juice: 1.5 tbsp",
+        "Sliced shallots and culantro: 20 g",
+        "Cabbage and angled luffa (for steaming): 150 g"
+      ],
+      "steps_en": [
+        "Arrange lemongrass and kaffir lime leaves on a steaming plate, then top with the snakehead fish, cabbage, and angled luffa.",
+        "Steam over boiling water for about 15 minutes until both fish and vegetables are tender.",
+        "Mix the clean fermented fish sauce, lime juice, chili flakes, toasted rice powder, shallots, and culantro to make the jaew dip.",
+        "Plate the steamed fish and vegetables and serve alongside the herbal jaew dipping sauce."
+      ]
     },
     {
       "title": "พล่าปลาทูน่าในน้ำแร่สมุนไพรสด",
@@ -6577,7 +10282,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Thai Herbal Tuna Salad (Pla Tuna)",
+      "desc_en": "Squeezing the tuna as dry as possible before tossing keeps the herbal pla dressing bold and concentrated.",
+      "ingredients_en": [
+        "Canned tuna in mineral water, squeezed dry: 140 g",
+        "Thinly sliced lemongrass: 2 tbsp",
+        "Finely julienned kaffir lime leaves: 1 tbsp",
+        "Sliced shallots: 2 bulbs",
+        "Sliced bird's eye chilies: 1 tsp",
+        "Low-fat roasted chili paste: 1 tsp",
+        "Fresh lime juice and low-sodium fish sauce: 1.5 tbsp each",
+        "Fresh mint leaves: 10 leaves"
+      ],
+      "steps_en": [
+        "Whisk the low-fat chili paste, fresh lime juice, and low-sodium fish sauce together in a bowl until smooth.",
+        "Stir in the sliced lemongrass, shallots, and bird's eye chilies.",
+        "Add the drained tuna and julienned kaffir lime leaves, folding gently so the fish flakes stay intact.",
+        "Plate, garnish with fresh mint leaves, and serve with crisp iceberg lettuce."
+      ]
     },
     {
       "title": "ปลานิลย่างเกลือเมี่ยงผักสดน้ำจิ้มถั่วตัดคลีน",
@@ -6608,7 +10331,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Salt-Grilled Tilapia Lettuce Wraps with Clean Peanut Sauce",
+      "desc_en": "Using natural peanut butter instead of candied peanut brittle drastically cuts refined sugar while keeping the dip rich and nutty.",
+      "ingredients_en": [
+        "Boneless tilapia fillets: 160 g",
+        "Fine salt (for rubbing fish): 0.5 tsp",
+        "Unsweetened natural peanut butter: 1 tbsp",
+        "Finely pounded bird's eye chilies, garlic, and cilantro root: 1.5 tbsp",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Cooked brown rice vermicelli: 50 g",
+        "Lettuce and sweet basil leaves: 120 g"
+      ],
+      "steps_en": [
+        "Rub salt lightly over the tilapia fillets and air-fry at 180°C for 12–15 minutes until cooked and golden.",
+        "Whisk the natural peanut butter, pounded chili-garlic paste, lime juice, fish sauce, and 2 tbsp boiled water until creamy.",
+        "Cut the grilled tilapia into bite-sized pieces.",
+        "Serve with cooked brown rice vermicelli, lettuce, sweet basil leaves, and the clean peanut dipping sauce."
+      ]
     },
     {
       "title": "ปลาดอลลี่ผัดพริกไทยดำขึ้นฉ่าย",
@@ -6638,7 +10379,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Dory Fish with Black Pepper and Chinese Celery",
+      "desc_en": "Patting the dory fillets dry and searing them gently rather than stirring vigorously keeps the delicate fish pieces whole.",
+      "ingredients_en": [
+        "Dory fish fillets, cut into chunks: 160 g",
+        "Chinese celery, cut into lengths: 60 g",
+        "Diagonally sliced red spur chili: 1 piece",
+        "Minced garlic: 1 tsp",
+        "Coarsely ground black pepper: 1 tsp",
+        "Low-sodium oyster sauce: 1 tbsp",
+        "Vegetable broth or water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Pat the dory fish chunks completely dry to minimize excess moisture during cooking.",
+        "Heat a nonstick pan over medium heat with a splash of broth and sauté the garlic and black pepper until fragrant.",
+        "Lay the dory pieces gently in the pan to sear until opaque on the bottom before carefully flipping.",
+        "Season with oyster sauce, toss in the Chinese celery and red chili just until wilted, and serve."
+      ]
     },
     {
       "title": "ไข่เจียวไร้น้ำมันอกไก่สับชะอม",
@@ -6667,7 +10425,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oil-Free Thai Omelet with Minced Chicken and Cha-Om",
+      "desc_en": "Pre-cooking the minced chicken before mixing it into the eggs ensures the omelet cooks evenly without getting watery.",
+      "ingredients_en": [
+        "Whole egg: 1 whole",
+        "Egg whites: 2 pieces",
+        "Pre-cooked minced chicken breast: 80 g",
+        "Fresh cha-om (climbing wattle) leaves: 50 g",
+        "Low-sodium fish sauce: 1 tsp",
+        "Ground pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Beat the whole egg and egg whites together in a bowl, seasoning with low-sodium fish sauce and pepper.",
+        "Stir in the cooked minced chicken breast and cha-om leaves until evenly combined.",
+        "Heat a nonstick pan over low-to-medium heat, then pour in the egg mixture and spread it evenly.",
+        "Cover and cook for 3–4 minutes until the bottom is golden, then flip and cook for 2 more minutes."
+      ]
     },
     {
       "title": "ไข่คนอกไก่ฉีกผักโขมซอสถั่วเหลือง",
@@ -6699,7 +10473,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Soft Scrambled Eggs with Shredded Chicken, Spinach, and Soy Sauce",
+      "desc_en": "Cooking over low heat the entire time and removing from the burner just before fully set yields silky scrambled eggs without butter (ideal for seniors).",
+      "ingredients_en": [
+        "Eggs: 2 whole",
+        "Boiled and finely shredded chicken breast: 70 g",
+        "Washed baby spinach: 80 g",
+        "Unsweetened soy milk: 2 tbsp",
+        "Low-sodium soy sauce: 1 tsp",
+        "Ground black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs together with the unsweetened soy milk and low-sodium soy sauce.",
+        "Wilt the baby spinach in a nonstick pan over low heat with 1 tbsp water, then add the shredded chicken.",
+        "Pour in the egg mixture and gently push from the edges toward the center with a silicone spatula.",
+        "Turn off the heat while the eggs are still slightly soft and glossy, plate, and sprinkle with black pepper."
+      ]
     },
     {
       "title": "ไข่พะโล้อกไก่เต้าหู้ขาวสูตรไร้น้ำตาล",
@@ -6730,7 +10520,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sugar-Free Five-Spice Braised Chicken, Eggs, and Tofu (Kai Palo)",
+      "desc_en": "Simmering slowly over low heat lets the eggs and tofu absorb rich spice aromas without needing caramelized sugar.",
+      "ingredients_en": [
+        "Peeled hard-boiled eggs: 2 whole",
+        "Chicken breast, cut into large cubes: 120 g",
+        "Firm white tofu, cubed: 100 g",
+        "Palo spice set (cinnamon, star anise, five-spice powder): 1 set",
+        "Pounded cilantro root, garlic, and pepper: 1 tbsp",
+        "Lightly sweetened dark soy sauce and low-sodium light soy sauce: 1 tbsp each",
+        "Monk fruit sweetener: 1 tsp",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Dry-toast the pounded cilantro root, garlic, and pepper with five-spice powder in a pot over low heat until fragrant, then add water and whole spices.",
+        "Season with dark soy sauce, light soy sauce, and monk fruit sweetener, stirring until dissolved.",
+        "Add the chicken breast, boiled eggs, and white tofu, and simmer gently over low heat for 20 minutes.",
+        "Once the eggs and tofu are richly colored and infused, ladle into a bowl, garnish with cilantro, and serve."
+      ]
     },
     {
       "title": "ยำไข่ดาวน้ำพริกเผาคลีน",
@@ -6760,7 +10568,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Water-Poached Egg Salad with Clean Roasted Chili Dressing",
+      "desc_en": "Frying eggs in water with a lid traps steam so they cook tender like soft-poached eggs, slice cleanly, and add zero oil calories.",
+      "ingredients_en": [
+        "Eggs: 2 whole",
+        "Low-fat roasted chili paste: 1 tsp",
+        "Sliced onion: 40 g",
+        "Tomato wedges: 50 g",
+        "Chinese celery, cut into lengths: 30 g",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat 2 tbsp water in a nonstick pan over low heat, crack in the eggs, and cover until the whites are set.",
+        "Cut the water-fried eggs into bite-sized pieces and arrange on a serving plate.",
+        "Whisk the lime juice, low-sodium fish sauce, and chili paste together, then toss with the onion, tomato, and Chinese celery.",
+        "Spoon the zesty vegetable dressing over the eggs and serve immediately."
+      ]
     },
     {
       "title": "ไข่ลูกเขยอบซอสมะขามหญ้าหวาน",
@@ -6790,7 +10615,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Air-Fried Son-in-Law Eggs with Stevia Tamarind Glaze",
+      "desc_en": "Dry-roasting sliced shallots in a pan over low heat until crispy saves substantial calories compared to deep-frying.",
+      "ingredients_en": [
+        "Soft-boiled eggs: 2 whole",
+        "Thick tamarind paste: 2 tbsp",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Stevia sweetener: 1 tsp",
+        "Dry-roasted crispy shallots: 1.5 tbsp",
+        "Roasted dried chilies: 2 pieces",
+        "Cilantro leaves: 5 g"
+      ],
+      "steps_en": [
+        "Air-fry the peeled soft-boiled eggs at 180°C for 4–5 minutes until the outsides are lightly blistered and golden.",
+        "Simmer the tamarind paste, fish sauce, and stevia in a pan over low heat until thick and glossy.",
+        "Halve the eggs, arrange on a plate, and spoon the warm tamarind glaze evenly over them.",
+        "Garnish with dry-roasted shallots, roasted dried chilies, and cilantro leaves to serve."
+      ]
     },
     {
       "title": "เต้าหู้ขาวผัดถั่วงอกต้นหอมซีอิ๊วขาว",
@@ -6820,7 +10662,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried White Tofu with Bean Sprouts and Scallions",
+      "desc_en": "Searing the tofu until firm on the outside before stir-frying prevents it from crumbling when tossed with the bean sprouts.",
+      "ingredients_en": [
+        "Firm white tofu, cut into batons: 150 g",
+        "Trimmed bean sprouts: 120 g",
+        "Scallions, cut into lengths: 40 g",
+        "Minced garlic: 1 tsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Ground white pepper: 0.5 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pan-sear the white tofu batons in a nonstick pan over medium heat until golden on both sides, then set aside.",
+        "Add a splash of water and minced garlic to the same pan and sauté until fragrant.",
+        "Toss in the bean sprouts and scallions over high heat quickly, seasoning with light soy sauce and white pepper.",
+        "Return the tofu to the pan, fold gently 2–3 times, and turn off the heat immediately."
+      ]
     },
     {
       "title": "ผัดกะเพราเต้าหู้แข็งเห็ดฟางคลีน",
@@ -6850,7 +10709,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clean Holy Basil Stir-Fried Firm Tofu and Straw Mushrooms",
+      "desc_en": "Air-frying the tofu cubes before stir-frying gives them a chewy bite that soaks up the holy basil sauce wonderfully.",
+      "ingredients_en": [
+        "Firm white tofu, cubed: 150 g",
+        "Halved straw mushrooms: 100 g",
+        "Holy basil leaves: 1 cup",
+        "Coarsely pounded red chilies and garlic: 1.5 tbsp",
+        "Low-sodium seasoning sauce: 1 tbsp",
+        "Dark soy sauce (for color): 0.25 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Air-fry the tofu cubes at 180°C for 8 minutes until crispy outside and tender inside.",
+        "Heat a splash of water in a pan, sauté the pounded chili and garlic until fragrant, then add the straw mushrooms and cook through.",
+        "Add the air-fried tofu, season with seasoning sauce and dark soy sauce, and toss to coat.",
+        "Stir in the holy basil leaves quickly until aromatic, turn off the heat, and serve."
+      ]
     },
     {
       "title": "เต้าหู้อ่อนทรงเครื่องเห็ดหอมน้ำแดงคลีน",
@@ -6880,7 +10756,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Silken Tofu with Chicken and Shiitake Gravy",
+      "desc_en": "Steaming the delicate silken tofu separately before ladling on the savory gravy keeps it hot and intact without breaking in the pan.",
+      "ingredients_en": [
+        "Soft tube tofu, sliced into rounds: 150 g",
+        "Minced chicken breast: 60 g",
+        "Diced fresh shiitake mushrooms and carrots: 60 g",
+        "Cornstarch slurry: 1 tbsp",
+        "Low-sodium oyster sauce: 1 tbsp",
+        "Vegetable broth: 150 ml",
+        "Sliced scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Arrange the sliced tube tofu on a heatproof plate and steam for about 5 minutes until hot and set.",
+        "Bring the vegetable broth to a simmer over medium heat and cook the minced chicken, shiitake mushrooms, and carrots until tender.",
+        "Season with oyster sauce, then slowly stir in the cornstarch slurry until the gravy thickens and turns glossy.",
+        "Ladle the hot gravy over the steamed tofu, top with sliced scallions, and serve immediately."
+      ]
     },
     {
       "title": "ยำเต้าหู้ขาวนึ่งพริกเผาถั่วลิสงคั่ว",
@@ -6910,7 +10803,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Tofu Salad with Chili Paste and Roasted Peanuts",
+      "desc_en": "Draining the steamed tofu thoroughly before spooning on the dressing keeps the salad flavors bright and concentrated.",
+      "ingredients_en": [
+        "Firm white tofu, cut into bite-sized pieces: 160 g",
+        "Low-fat roasted chili paste: 1 tsp",
+        "Coarsely crushed roasted peanuts: 1 tbsp",
+        "Sliced shallots and lemongrass: 30 g",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Chopped cilantro: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the white tofu for about 7 minutes until hot and tender, drain well, and arrange on a serving plate.",
+        "Whisk the chili paste, fresh lime juice, and low-sodium light soy sauce together until smooth.",
+        "Fold the sliced shallots and lemongrass into the dressing.",
+        "Spoon the dressing over the steamed tofu and garnish with crushed peanuts and chopped cilantro before serving."
+      ]
     },
     {
       "title": "แกงจืดเต้าหู้ขาวสาหร่ายทะเลอกไก่สับ",
@@ -6943,7 +10853,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Seaweed Soup with Soft Tofu and Minced Chicken",
+      "desc_en": "Lightly rinsing the preserved cabbage before adding it to the broth reduces excess salt while keeping its savory aroma (ideal for seniors).",
+      "ingredients_en": [
+        "Soft white tofu, cubed: 120 g",
+        "Minced chicken breast: 100 g",
+        "Dried soup seaweed: 10 g",
+        "Lightly rinsed preserved Tianjin cabbage (tung chai): 0.5 tsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Ground white pepper: 0.5 tsp",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Season the minced chicken breast lightly with white pepper and shape into bite-sized meatballs.",
+        "Bring water to a boil, drop in the chicken meatballs over medium heat, and skim off any foam for a clear broth.",
+        "Add the soft tofu and preserved cabbage, then season with low-sodium light soy sauce.",
+        "Stir in the seaweed, simmer for 1 more minute, turn off the heat, and serve hot."
+      ]
     },
     {
       "title": "กุ้งผัดบรอกโคลีกระเทียมพริกไทยไร้น้ำมัน",
@@ -6972,7 +10899,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oil-Free Garlic Pepper Shrimp and Broccoli Stir-Fry",
+      "desc_en": "Blanching the broccoli in boiling water for 1 minute and shocking it in cold water keeps the florets crisp and bright green.",
+      "ingredients_en": [
+        "Peeled and deveined whiteleg shrimp: 150 g",
+        "Blanched broccoli florets: 150 g",
+        "Minced garlic: 1 tbsp",
+        "Low-sodium oyster sauce: 1 tbsp",
+        "Ground white pepper: 0.5 tsp",
+        "Vegetable broth or water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick pan over medium heat with a splash of broth and sauté the minced garlic until fragrant.",
+        "Add the shrimp and stir-fry until about 70% cooked and turning pink.",
+        "Toss in the blanched broccoli florets and season with low-sodium oyster sauce and white pepper.",
+        "Stir-fry briskly over high heat for 30 seconds until evenly coated, turn off the heat, and plate."
+      ]
     },
     {
       "title": "พล่ากุ้งสดตะไคร้ใบสะระแหน่",
@@ -7003,7 +10946,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Fresh Shrimp Salad with Lemongrass and Mint (Pla Goong)",
+      "desc_en": "Avoid over-blanching the shrimp, as cooking them too long makes the meat shrink, toughen, and lose its natural sweetness.",
+      "ingredients_en": [
+        "Peeled and deveined whiteleg shrimp: 160 g",
+        "Thinly sliced lemongrass: 2 tbsp",
+        "Sliced shallots: 2 bulbs",
+        "Sliced bird's eye chilies: 1 tsp",
+        "Low-fat roasted chili paste: 1 tsp",
+        "Fresh lime juice: 1.5 tbsp",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Fresh mint leaves: 15 leaves"
+      ],
+      "steps_en": [
+        "Blanch the shrimp in rapidly boiling water for 1–2 minutes until plump and just cooked, then drain thoroughly.",
+        "Whisk the chili paste, lime juice, and low-sodium fish sauce together in a mixing bowl.",
+        "Toss the blanched shrimp, sliced lemongrass, shallots, and chilies in the dressing until well coated.",
+        "Fold in the fresh mint leaves gently and plate to serve."
+      ]
     },
     {
       "title": "ปลาหมึกนึ่งมะนาวกระเทียมโทน",
@@ -7033,7 +10994,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Squid with Spicy Lime and Pickled Garlic Dressing",
+      "desc_en": "Steaming squid quickly over high heat keeps the rings tender and bouncy rather than rubbery.",
+      "ingredients_en": [
+        "Squid, sliced into rings: 160 g",
+        "Thinly sliced pickled or fresh solo garlic: 20 g",
+        "Chopped bird's eye chilies: 1 tbsp",
+        "Blanched Chinese broccoli stems (for plating): 80 g",
+        "Fresh lime juice: 2 tbsp",
+        "Low-sodium fish sauce: 1.5 tbsp",
+        "Monk fruit sweetener: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Steam the squid rings over rapidly boiling water for just 3–4 minutes until cooked, then arrange over the blanched Chinese broccoli stems.",
+        "Mix the lime juice, low-sodium fish sauce, monk fruit sweetener, chopped chilies, and sliced garlic together.",
+        "Stir 2 tbsp of the squid steaming liquid into the dressing for extra depth of flavor.",
+        "Pour the zesty lime dressing over the squid and serve immediately."
+      ]
     },
     {
       "title": "แกงป่ากุ้งสดผักรวมไร้กะทิ",
@@ -7063,7 +11041,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Coconut-Free Thai Jungle Curry with Shrimp and Vegetables (Kaeng Pa)",
+      "desc_en": "Jungle curry is completely oil-free and coconut-free, offering very low calories while warming herbs help stimulate metabolism.",
+      "ingredients_en": [
+        "Peeled whiteleg shrimp: 150 g",
+        "Thai jungle curry paste: 1.5 tbsp",
+        "Chopped Thai eggplants and yardlong beans: 100 g",
+        "Julienned fingerroot and green peppercorns: 30 g",
+        "Holy basil leaves: 1 handful",
+        "Low-sodium fish sauce: 1 tbsp",
+        "Water: 350 ml"
+      ],
+      "steps_en": [
+        "Bring water to a boil and dissolve the jungle curry paste until deeply aromatic.",
+        "Add the Thai eggplants and yardlong beans and simmer for about 4 minutes until nearly tender.",
+        "Season with low-sodium fish sauce, then add the fingerroot, green peppercorns, and shrimp.",
+        "Once the shrimp turn bright pink, stir in the holy basil leaves and turn off the heat immediately."
+      ]
     },
     {
       "title": "ข้าวไรซ์เบอร์รีต้มกุ้งสดขึ้นฉ่ายขิงซอย",
@@ -7093,7 +11088,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Riceberry Congee with Fresh Shrimp, Celery, and Ginger",
+      "desc_en": "Using pre-cooked riceberry makes comforting rice soup in minutes while letting you track carbohydrate portions accurately.",
+      "ingredients_en": [
+        "Cooked riceberry rice: 120 g",
+        "Peeled whiteleg shrimp: 130 g",
+        "Chopped Chinese celery: 20 g",
+        "Finely julienned ginger: 15 g",
+        "Preserved Tianjin cabbage (tung chai): 0.5 tsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Vegetable broth or water: 400 ml"
+      ],
+      "steps_en": [
+        "Bring the vegetable broth to a boil, add the cooked riceberry, and simmer for 5 minutes until the grains soften.",
+        "Season with low-sodium light soy sauce and preserved cabbage.",
+        "Add the shrimp and simmer for about 2 minutes until cooked and bouncy, then turn off the heat.",
+        "Ladle into a bowl and garnish with chopped Chinese celery, julienned ginger, and a pinch of ground pepper."
+      ]
     },
     {
       "title": "สันในหมูอบกระเทียมพริกไทยดำผักนึ่ง",
@@ -7122,7 +11134,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Garlic Pepper Air-Fried Pork Tenderloin with Steamed Vegetables",
+      "desc_en": "Pork tenderloin is the leanest cut of pork, offering protein levels comparable to chicken breast with minimal marbled fat.",
+      "ingredients_en": [
+        "Pork tenderloin, silverskin trimmed: 160 g",
+        "Finely pounded garlic and black pepper: 1 tbsp",
+        "Low-sodium light soy sauce: 1 tbsp",
+        "Low-sodium oyster sauce: 1 tsp",
+        "Chunked carrots and pumpkin (for steaming): 120 g",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the pork tenderloin with pounded garlic, black pepper, light soy sauce, and oyster sauce for 15 minutes.",
+        "Air-fry the pork tenderloin at 180°C for 12–15 minutes until cooked through and juicy.",
+        "Meanwhile, steam the carrots and pumpkin until tender.",
+        "Slice the roasted pork tenderloin into medallions and serve hot alongside the steamed vegetables."
+      ]
     },
     {
       "title": "บวบผัดไข่ขาวเห็ดเข็มทอง",
@@ -7152,7 +11180,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Angled Luffa with Egg Whites and Enoki Mushrooms",
+      "desc_en": "Angled luffa naturally releases plenty of moisture as it cooks, so avoid adding much extra water to prevent a watery dish.",
+      "ingredients_en": [
+        "Peeled angled luffa, diagonally sliced: 150 g",
+        "Liquid egg whites: 120 g",
+        "Enoki mushrooms, roots trimmed: 70 g",
+        "Minced garlic: 1 tsp",
+        "Low-sodium oyster sauce: 1 tbsp",
+        "Ground white pepper: 0.25 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick pan over medium heat with a splash of water and sauté the minced garlic until fragrant.",
+        "Add the angled luffa and stir-fry until translucent and tender, then add the enoki mushrooms.",
+        "Push the vegetables to the side, pour in the egg whites, and let them begin to set before scrambling gently.",
+        "Season with low-sodium oyster sauce and white pepper, toss everything together, and serve."
+      ]
     },
     {
       "title": "สลัดเต้าหู้ย่างสาหร่ายวากาเมะ",
@@ -7182,7 +11227,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Seared Tofu and Wakame Seaweed Salad",
+      "desc_en": "Pressing excess moisture out of the tofu with paper towels before searing helps it brown evenly without sticking to the pan.",
+      "ingredients_en": [
+        "Firm white tofu, cubed: 150 g",
+        "Rehydrated dried wakame seaweed: 20 g",
+        "Torn iceberg lettuce: 70 g",
+        "Shredded carrot: 30 g",
+        "Low-sodium Japanese soy sauce: 1 tbsp",
+        "Rice vinegar: 1 tbsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu cubes dry and pan-sear in a nonstick skillet until golden and crisp on the outside.",
+        "Whisk the Japanese soy sauce and rice vinegar together for a light dressing.",
+        "Arrange the iceberg lettuce, shredded carrot, and squeezed-dry wakame seaweed in a salad bowl.",
+        "Top with the seared tofu, drizzle with the soy-vinegar dressing, and sprinkle with toasted sesame seeds."
+      ]
     },
     {
       "title": "สลัดไข่ต้มอะโวคาโดผักโขมอ่อน",
@@ -7212,7 +11274,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Boiled Egg, Avocado, and Baby Spinach Salad",
+      "desc_en": "Boiling the eggs for about 8 minutes produces creamy, fully set yolks without turning dry or chalky.",
+      "ingredients_en": [
+        "Boiled eggs, quartered: 2 whole",
+        "Sliced avocado: 0.5 piece",
+        "Baby spinach: 60 g",
+        "Thinly sliced shallot: 1 bulb",
+        "Balsamic vinegar: 1 tbsp",
+        "Olive oil: 1 tsp",
+        "Ground black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Wash and dry the baby spinach thoroughly, then arrange it on a salad plate.",
+        "Layer the sliced shallots, avocado, and quartered boiled eggs over the spinach.",
+        "Whisk the balsamic vinegar, olive oil, and ground black pepper together.",
+        "Drizzle the dressing over the salad right before serving."
+      ]
     },
     {
       "title": "โปเกโบว์ลแซลมอนข้าวไรซ์เบอร์รี่",
@@ -7243,7 +11322,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Salmon Riceberry Poke Bowl",
+      "desc_en": "Letting the riceberry cool slightly before topping with raw salmon helps preserve the fish's fresh texture.",
+      "ingredients_en": [
+        "Sashimi-grade salmon, cubed: 100 g",
+        "Cooked riceberry rice: 100 g",
+        "Boiled and shelled edamame: 30 g",
+        "Sliced avocado: 0.33 piece",
+        "Diced Japanese cucumber: 40 g",
+        "Low-sodium shoyu: 1 tbsp",
+        "Sesame oil: 0.5 tsp",
+        "Toasted white sesame seeds and shredded nori: to taste"
+      ],
+      "steps_en": [
+        "Toss the cubed salmon with low-sodium shoyu, sesame oil, and toasted sesame seeds, and let marinate for 5 minutes.",
+        "Scoop the warm riceberry rice into the bottom of a bowl as a base.",
+        "Neatly arrange the marinated salmon, edamame, avocado, and Japanese cucumber on top.",
+        "Finish with shredded nori and an extra sprinkle of toasted sesame seeds before eating."
+      ]
     },
     {
       "title": "บุดดาโบว์ลเต้าหู้ย่างถั่วลูกไก่",
@@ -7274,7 +11371,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Roasted Tofu and Chickpea Buddha Bowl with Tahini Sauce",
+      "desc_en": "Massaging the kale leaves with a squeeze of lime juice before eating softens the greens and makes them much easier to digest.",
+      "ingredients_en": [
+        "Firm white tofu, cubed: 120 g",
+        "Cooked chickpeas: 60 g",
+        "Steamed Japanese sweet potato, cubed: 80 g",
+        "Shredded red cabbage: 40 g",
+        "Kale leaves: 50 g",
+        "Tahini (sesame paste): 1 tbsp",
+        "Lime juice: 1 tbsp",
+        "Paprika powder: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Toss the chickpeas and tofu with paprika and roast in a pan or air fryer until golden and fragrant.",
+        "Massage the kale leaves with a bit of lime juice until softened to mellow their raw bitterness.",
+        "Whisk the tahini, remaining lime juice, and 1 tbsp warm water together into a smooth, creamy sauce.",
+        "Arrange the steamed sweet potato, red cabbage, kale, roasted tofu, and chickpeas in a bowl and drizzle with tahini sauce."
+      ]
     },
     {
       "title": "โบว์ลกุ้งกระเทียมพริกไทยข้าวควินัว",
@@ -7304,7 +11419,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Garlic Pepper Shrimp and Tri-Color Quinoa Bowl",
+      "desc_en": "Stir-frying the shrimp quickly over high heat locks in their snappy, bouncy texture without overcooking.",
+      "ingredients_en": [
+        "Peeled whiteleg shrimp, tail-on: 8 pieces",
+        "Cooked tri-color quinoa: 90 g",
+        "Blanched yardlong beans or green beans, cut into lengths: 60 g",
+        "Minced garlic: 1 tbsp",
+        "Cracked black pepper: 0.5 tsp",
+        "Olive oil: 1 tsp",
+        "Low-sodium light soy sauce: 1 tsp"
+      ],
+      "steps_en": [
+        "Warm olive oil in a pan and sauté the minced garlic over low heat until golden and fragrant.",
+        "Add the shrimp and stir-fry until just cooked, seasoning with low-sodium light soy sauce and cracked black pepper.",
+        "Scoop the cooked quinoa into a bowl and arrange the blanched green beans alongside.",
+        "Top with the garlic pepper shrimp and serve warm."
+      ]
     },
     {
       "title": "โบว์ลไข่ข้นเห็ดแชมปิญองผักโขม",
@@ -7333,7 +11465,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Scrambled Egg Bowl with Champignon Mushrooms and Spinach",
+      "desc_en": "Adding almond milk to the eggs instead of heavy cream creates a soft, velvety scramble with less fat.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Sliced champignon mushrooms: 70 g",
+        "Blanched and squeezed spinach: 60 g",
+        "Unsweetened almond milk: 2 tbsp",
+        "Cooked oats or brown rice: 80 g",
+        "Pink salt and black pepper: to taste"
+      ],
+      "steps_en": [
+        "Beat the eggs together with almond milk, salt, and black pepper until well combined.",
+        "Dry-saute the champignon mushrooms in a non-stick pan without oil until softened and fragrant.",
+        "Pour the eggs into the pan and gently fold over low heat with a spatula until soft and creamy.",
+        "Scoop the rice or oats into a bowl, top with blanched spinach, and finish with the mushroom scrambled eggs."
+      ]
     },
     {
       "title": "โจ๊กข้าวโอ๊ตอกไก่ฉีกเห็ดหอม",
@@ -7366,7 +11514,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Oatmeal Congee with Shredded Chicken Breast and Shiitake Mushrooms",
+      "desc_en": "Using oats instead of white rice keeps you fuller longer and provides beta-glucan fiber for weight management, making it ideal for seniors.",
+      "ingredients_en": [
+        "Quick or fine oats: 45 g",
+        "Boiled shredded chicken breast: 80 g",
+        "Julienne fresh shiitake mushrooms: 40 g",
+        "Clear vegetable broth or water: 300 ml",
+        "Julienne ginger: 1 tbsp",
+        "Chopped scallions and cilantro: 1 tbsp",
+        "Low-sodium soy sauce and white pepper: to taste"
+      ],
+      "steps_en": [
+        "Bring the vegetable broth to a boil, add the julienned shiitake mushrooms, and simmer for about 3 minutes.",
+        "Stir in the oats and cook continuously over low heat until smooth and thickened like congee.",
+        "Season with low-sodium soy sauce and ground white pepper.",
+        "Ladle into a bowl and garnish with shredded chicken breast, julienned ginger, scallions, and cilantro."
+      ]
     },
     {
       "title": "ข้าวโอ๊ตคาวหน้าไข่ดาวน้ำอะโวคาโด",
@@ -7395,7 +11560,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Savory Oatmeal Bowl with Poached Egg and Avocado",
+      "desc_en": "Adding 1 teaspoon of vinegar to the poaching water helps the egg whites set neatly around the yolk.",
+      "ingredients_en": [
+        "Rolled oats: 40 g",
+        "Egg: 1 piece",
+        "Thinly sliced avocado: 1/3 piece",
+        "Water or vegetable broth: 200 ml",
+        "Keto Sriracha sauce or chili flakes: to taste",
+        "Pink salt and black pepper: to taste"
+      ],
+      "steps_en": [
+        "Simmer the oats in vegetable broth over low heat until tender, then season lightly with pink salt.",
+        "Bring water to a gentle simmer in a separate pot, swirl to create a whirlpool, and crack in the egg to poach for about 3 minutes.",
+        "Spoon the savory oats into a bowl and top with sliced avocado and the poached egg.",
+        "Sprinkle with black pepper and drizzle with a little Sriracha sauce before serving."
+      ]
     },
     {
       "title": "ควินัวผัดไข่ใส่บรอกโคลีแครอท",
@@ -7425,7 +11606,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Egg-Fried Quinoa with Broccoli and Carrot",
+      "desc_en": "Using cooked and chilled quinoa helps keep the grains fluffy and separate instead of mushy when stir-fried.",
+      "ingredients_en": [
+        "Cooked chilled quinoa: 100 g",
+        "Eggs: 2 pieces",
+        "Small broccoli florets: 60 g",
+        "Finely diced carrot: 30 g",
+        "Minced garlic: 1 tsp",
+        "Olive oil: 1 tsp",
+        "Low-sodium soy sauce: 1.5 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a pan and saute the minced garlic with diced carrot and broccoli until the vegetables begin to soften.",
+        "Crack the eggs into the pan and scramble until just set into small curds.",
+        "Add the cooked quinoa and stir-fry over medium heat until evenly combined.",
+        "Season with low-sodium soy sauce, toss until dry and fluffy, and serve."
+      ]
     },
     {
       "title": "พุดดิ้งเมล็ดเจียนมอัลมอนด์กีวี",
@@ -7454,7 +11652,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Kiwi Almond Milk Chia Seed Pudding",
+      "desc_en": "Stirring the mixture again 5 minutes after soaking is the key to keeping the chia seeds from clumping at the bottom for a smooth pudding.",
+      "ingredients_en": [
+        "Chia seeds: 2.5 tbsp",
+        "Unsweetened almond milk: 180 ml",
+        "Peeled and diced kiwi: 1 piece",
+        "Vanilla extract: 1/4 tsp",
+        "Toasted sliced almonds: 1 tsp",
+        "Monk fruit sweetener: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the chia seeds, almond milk, vanilla extract, and monk fruit sweetener in a glass jar and stir well.",
+        "Let stand for 5 minutes, then stir again thoroughly to prevent the chia seeds from settling at the bottom.",
+        "Cover and refrigerate for at least 3 hours until the chia seeds swell into a thick pudding.",
+        "Top with diced kiwi and toasted sliced almonds before serving."
+      ]
     },
     {
       "title": "โจ๊กควินัวกุ้งสดต้นหอมขิงซอย",
@@ -7487,7 +11701,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Quinoa Porridge with Fresh Shrimp, Scallions, and Ginger",
+      "desc_en": "Quinoa offers complete protein and a low glycemic index, making this an easily digestible breakfast or dinner ideal for seniors.",
+      "ingredients_en": [
+        "Uncooked white quinoa: 45 g",
+        "Peeled and deveined fresh shrimp: 5 pieces",
+        "Clear vegetable broth: 350 ml",
+        "Julienne ginger: 1 tbsp",
+        "Chopped scallions: 1 tbsp",
+        "Low-sodium soy sauce: 1.5 tsp",
+        "Ground white pepper: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Rinse the quinoa thoroughly and simmer in vegetable broth over low heat for about 15 minutes until tender and bloomed.",
+        "Add the fresh shrimp and cook for 2 more minutes until pink and opaque.",
+        "Season with low-sodium soy sauce and ground white pepper.",
+        "Ladle into a bowl and garnish with julienned ginger and chopped scallions before serving."
+      ]
     },
     {
       "title": "ซุปกะหล่ำปลีมะเขือเทศลดน้ำหนัก",
@@ -7520,7 +11751,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Light Cabbage and Tomato Slimming Soup",
+      "desc_en": "This very low-calorie, high-fiber vegetable soup makes a great light snack or gentle dinner, and is well suited for seniors.",
+      "ingredients_en": [
+        "Chopped cabbage: 150 g",
+        "Tomato wedges: 100 g",
+        "Diced green bell pepper: 40 g",
+        "Onion wedges: 50 g",
+        "Chopped celery stalks: 40 g",
+        "Water or vegetable broth: 450 ml",
+        "Pink salt and black pepper: to taste"
+      ],
+      "steps_en": [
+        "Bring the vegetable broth to a boil, add the onion and tomatoes, and simmer for about 5 minutes to release their natural sweetness.",
+        "Add the cabbage, green bell pepper, and celery to the pot.",
+        "Reduce to medium heat and simmer for another 10 minutes until the vegetables are tender.",
+        "Season with pink salt and freshly cracked black pepper before serving."
+      ]
     },
     {
       "title": "ซุปใสหัวไชเท้าแครอทอกไก่ก้อน",
@@ -7553,7 +11801,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Radish and Carrot Soup with Chicken Meatballs",
+      "desc_en": "Simmering over low heat and skimming off the foam regularly keeps the broth crystal clear and appetizing, making it great for seniors.",
+      "ingredients_en": [
+        "Finely minced chicken breast: 100 g",
+        "Sliced daikon radish: 100 g",
+        "Sliced carrot: 50 g",
+        "Crushed garlic: 2 cloves",
+        "Cilantro root: 1 stalk",
+        "Water: 400 ml",
+        "Low-sodium soy sauce and white pepper: to taste"
+      ],
+      "steps_en": [
+        "Season the minced chicken breast with a splash of soy sauce and white pepper, then shape into bite-sized meatballs.",
+        "Boil water with the cilantro root, garlic, daikon radish, and carrot until the vegetables turn translucent.",
+        "Gently drop the chicken meatballs into the pot and simmer over low heat until cooked through and floating.",
+        "Season with a little more low-sodium soy sauce, skim any foam from the surface, and serve."
+      ]
     },
     {
       "title": "ซุปใสเห็ดเข็มทองผักโขมไข่น้ำ",
@@ -7586,7 +11851,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Enoki Mushroom and Spinach Egg-Drop Soup",
+      "desc_en": "Drizzling the beaten egg through a coarse strainer into boiling broth creates fluffy, delicate egg ribbons ideal for seniors.",
+      "ingredients_en": [
+        "Spinach leaves: 100 g",
+        "Trimmed enoki mushrooms: 70 g",
+        "Egg: 1 piece",
+        "Clear vegetable broth: 350 ml",
+        "Minced garlic: 1/2 tsp",
+        "Low-sodium soy sauce: 1 tsp",
+        "Ground pepper: to taste"
+      ],
+      "steps_en": [
+        "Bring the vegetable broth and minced garlic to a boil, add the enoki mushrooms, and cook for 2 minutes.",
+        "Beat the egg and slowly drizzle it in a thin stream into the rolling boiling broth while stirring gently.",
+        "Add the spinach leaves and cook for 1 more minute until wilted.",
+        "Season with low-sodium soy sauce and sprinkle with ground pepper before serving."
+      ]
     },
     {
       "title": "สมูทตี้โบว์ลอาซาอิเบอร์รี่กล้วยหอม",
@@ -7615,7 +11897,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Acai Berry and Banana Smoothie Bowl",
+      "desc_en": "Use the minimum amount of almond milk needed to blend so the smoothie stays thick and spoonable.",
+      "ingredients_en": [
+        "Organic acai berry powder: 1 tbsp",
+        "Frozen sliced banana: 1 piece",
+        "Frozen blueberries: 50 g",
+        "Unsweetened almond milk: 80 ml",
+        "Roasted pumpkin seeds: 1 tsp",
+        "Unsweetened toasted coconut flakes: 1 tsp"
+      ],
+      "steps_en": [
+        "Place the acai powder, frozen banana, frozen blueberries, and almond milk into a blender.",
+        "Blend on high speed until smooth and as thick as soft-serve ice cream.",
+        "Scoop the smoothie into a bowl and smooth the surface.",
+        "Top with roasted pumpkin seeds and toasted coconut flakes, and serve immediately."
+      ]
     },
     {
       "title": "สมูทตี้โบว์ลผักโขมอะโวคาโดกีวี",
@@ -7644,7 +11942,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spinach, Avocado, and Kiwi Green Smoothie Bowl",
+      "desc_en": "Frozen pineapple completely masks the grassy flavor of spinach while adding refreshing natural sweetness without any added syrup.",
+      "ingredients_en": [
+        "Baby spinach: 40 g",
+        "Avocado: 1/2 piece",
+        "Frozen pineapple: 60 g",
+        "Unsweetened fresh coconut water: 80 ml",
+        "Sliced kiwi: 1/2 piece",
+        "Chia seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Blend the baby spinach, avocado, frozen pineapple, and coconut water together until completely smooth.",
+        "Pour the mixture into a chilled bowl.",
+        "Arrange the sliced kiwi neatly on top.",
+        "Sprinkle with chia seeds for extra crunch and fiber before serving."
+      ]
     },
     {
       "title": "สมูทตี้โบว์ลแก้วมังกรแดงมะม่วงสุก",
@@ -7673,7 +11987,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Dragon Fruit and Ripe Mango Smoothie Bowl",
+      "desc_en": "Cutting the fruit into small pieces and freezing them for at least 4 hours beforehand produces the smoothest, creamiest texture.",
+      "ingredients_en": [
+        "Frozen red-fleshed dragon fruit: 120 g",
+        "Frozen ripe mango: 60 g",
+        "Plain Greek yogurt: 2 tbsp",
+        "Ice-cold water: 30 ml",
+        "Sliced banana (for garnish): 4 pieces",
+        "Ground flaxseed: 1 tsp"
+      ],
+      "steps_en": [
+        "Add the frozen red dragon fruit, mango, Greek yogurt, and cold water to a blender.",
+        "Blend until smooth, thick, and vibrant magenta.",
+        "Scoop into a serving bowl.",
+        "Top with banana slices and a sprinkle of ground flaxseed."
+      ]
     },
     {
       "title": "สมูทตี้โบว์ลโกโก้กล้วยแช่แข็งอัลมอนด์",
@@ -7702,7 +12032,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Cacao, Frozen Banana, and Almond Smoothie Bowl",
+      "desc_en": "This bowl satisfies chocolate and dessert cravings during weight loss without any refined sugar.",
+      "ingredients_en": [
+        "Frozen chopped banana: 1.5 pieces",
+        "100% unsweetened cacao powder: 1 tbsp",
+        "Unsweetened soy milk: 70 ml",
+        "Natural almond butter: 1 tsp",
+        "Cacao nibs: 1 tsp",
+        "Coarsely chopped roasted almonds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Blend the frozen banana, cacao powder, and soy milk until smooth and thick like chocolate soft-serve.",
+        "Scoop into a bowl and drizzle almond butter across the top.",
+        "Sprinkle with coarsely chopped roasted almonds and cacao nibs.",
+        "Serve immediately while still icy cold."
+      ]
     },
     {
       "title": "ข้าวผัดดอกกะหล่ำคีโตอกไก่ไข่ขยี้",
@@ -7732,7 +12078,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Keto Cauliflower Fried Rice with Chicken Breast and Scrambled Egg",
+      "desc_en": "Squeezing excess moisture out of the riced cauliflower with cheesecloth before stir-frying gives it a dry, fluffy texture like real fried rice.",
+      "ingredients_en": [
+        "Finely riced cauliflower: 150 g",
+        "Finely diced chicken breast: 100 g",
+        "Eggs: 2 pieces",
+        "Coconut oil: 1 tsp",
+        "Minced garlic: 1 tsp",
+        "Tamari soy sauce: 1 tbsp",
+        "Chopped scallions and white pepper: to taste"
+      ],
+      "steps_en": [
+        "Heat coconut oil in a pan, saute the garlic until fragrant, and stir-fry the chicken breast until cooked through.",
+        "Crack in the eggs and scramble them into small pieces.",
+        "Add the riced cauliflower and stir-fry quickly over high heat so it does not release excess moisture.",
+        "Season with tamari soy sauce and white pepper, garnish with chopped scallions, and serve."
+      ]
     },
     {
       "title": "เส้นบุกผัดขี้เมาเต้าหู้มังสวิรัติ",
@@ -7762,7 +12125,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Vegan Drunken Shirataki Noodles with Tofu",
+      "desc_en": "Konjac shirataki noodles have virtually no calories or simple carbs, helping manage blood sugar and overall meal energy.",
+      "ingredients_en": [
+        "Rinsed shirataki noodles: 150 g",
+        "Sliced firm white tofu: 100 g",
+        "Sliced king oyster mushrooms: 60 g",
+        "Red spur chilies and fresh green peppercorns: 20 g",
+        "Holy basil leaves: 1 handful",
+        "Rice bran oil: 1 tsp",
+        "Mushroom soy sauce and dark soy sauce: 1.5 tsp"
+      ],
+      "steps_en": [
+        "Blanch the shirataki noodles in boiling water for 1 minute to remove any odor, then drain well.",
+        "Heat rice bran oil in a pan, sear the tofu until golden, and add the king oyster mushrooms to stir-fry.",
+        "Toss in the shirataki noodles, red spur chilies, and green peppercorns until evenly mixed.",
+        "Season with mushroom soy sauce and a touch of dark soy sauce, toss in the holy basil briefly, and remove from heat."
+      ]
     },
     {
       "title": "อะโวคาโดอบไข่ชีสคีโต",
@@ -7791,7 +12171,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Keto Baked Egg and Cheese Avocado Boats",
+      "desc_en": "If the avocado halves wobble, slice a thin sliver off the rounded bottom so they sit flat and steady on the baking tray.",
+      "ingredients_en": [
+        "Halved and pitted avocado: 1 piece",
+        "Small eggs: 2 pieces",
+        "Shredded mozzarella cheese: 15 g",
+        "Coarsely ground black pepper: 1/4 tsp",
+        "Pink salt: to taste",
+        "Chopped parsley: 1 tsp"
+      ],
+      "steps_en": [
+        "Scoop a small amount of flesh out of each avocado cavity to make enough room for the eggs.",
+        "Carefully crack one egg into each avocado half.",
+        "Sprinkle with pink salt, black pepper, and shredded mozzarella cheese.",
+        "Bake in an air fryer or oven at 180°C for 12–15 minutes until set, then garnish with chopped parsley before serving."
+      ]
     },
     {
       "title": "ซูกินีผัดกระเทียมกุ้งสดคีโต",
@@ -7820,7 +12216,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Keto Garlic Butter Shrimp with Zucchini Noodles",
+      "desc_en": "Do not cook the zucchini noodles for more than 2 minutes or they will turn soggy and release too much water.",
+      "ingredients_en": [
+        "Zucchini noodles (zoodles): 150 g",
+        "Peeled fresh shrimp: 7 pieces",
+        "Minced garlic: 1 tbsp",
+        "Unsalted grass-fed butter: 1 tsp",
+        "Fresh lemon juice: 1 tsp",
+        "Pink salt and black pepper: to taste"
+      ],
+      "steps_en": [
+        "Melt the butter in a pan and saute the minced garlic until fragrant.",
+        "Add the fresh shrimp and cook until pink and cooked through.",
+        "Toss in the zucchini noodles and stir-fry quickly for 1–2 minutes until just heated through.",
+        "Season with pink salt, black pepper, and a squeeze of fresh lemon juice, then serve immediately."
+      ]
     },
     {
       "title": "ม้วนกะหล่ำปลีนึ่งไส้เห็ดรวมมังสวิรัติ",
@@ -7850,7 +12262,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Vegan Steamed Cabbage Rolls with Mixed Mushroom Filling",
+      "desc_en": "Shaving down the thick central rib on the back of each cabbage leaf makes rolling much easier without tearing.",
+      "ingredients_en": [
+        "Large whole cabbage leaves: 4 pieces",
+        "Coarsely chopped fresh shiitake mushrooms: 60 g",
+        "Coarsely chopped oyster mushrooms: 60 g",
+        "Finely chopped carrot: 30 g",
+        "Mashed firm white tofu: 50 g",
+        "Mushroom soy sauce: 1 tbsp",
+        "Ground pepper: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Blanch the cabbage leaves in boiling water until pliable, plunge into cold water, and trim down the thick center stems.",
+        "Mix the shiitake mushrooms, oyster mushrooms, carrot, mashed tofu, mushroom soy sauce, and pepper into a filling.",
+        "Spoon the filling onto each cabbage leaf, fold in the sides, and roll up tightly.",
+        "Steam over boiling water for about 10 minutes until cooked through and fragrant, then serve with chili soy dipping sauce."
+      ]
     },
     {
       "title": "ไข่เจียวเตาอบผักโขมชีสคีโต",
@@ -7879,7 +12308,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Keto Baked Spinach and Cheddar Egg Muffins",
+      "desc_en": "Baking in molds without frying oil creates fluffy, low-calorie egg bites that pack easily for meals on the go.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Coarsely chopped baby spinach: 50 g",
+        "Shredded cheddar cheese: 20 g",
+        "Halved cherry tomatoes: 4 pieces",
+        "Heavy cream or almond milk: 2 tbsp",
+        "Pink salt and black pepper: to taste"
+      ],
+      "steps_en": [
+        "Whisk the eggs with almond milk or cream, pink salt, and black pepper until combined.",
+        "Divide the baby spinach and halved cherry tomatoes into baking ramekins or muffin tins.",
+        "Pour the egg mixture evenly over the vegetables and top with shredded cheddar cheese.",
+        "Bake in an air fryer or oven at 180°C for 12–15 minutes until puffed and golden."
+      ]
     },
     {
       "title": "บัวลอยสามกษัตริย์กะทิสด",
@@ -7911,7 +12356,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Three-Color Rice Balls in Sweet Coconut Milk (Bua Loy)",
+      "desc_en": "Using both palm sugar and granulated sugar with a pinch of salt gives the coconut milk a mellow, rounded sweetness.",
+      "ingredients_en": [
+        "Glutinous rice flour: 200 g",
+        "Steamed mashed pumpkin (yellow): 50 g",
+        "Steamed mashed taro (pale purple): 50 g",
+        "Concentrated pandan juice (green): 3 tbsp",
+        "Rich fresh coconut milk: 2 cups",
+        "Coconut palm sugar: 1/3 cup",
+        "Granulated sugar: 2 tbsp",
+        "Salt: 1/2 tsp",
+        "Knotted pandan leaves: 2 pieces"
+      ],
+      "steps_en": [
+        "Divide the glutinous rice flour into three portions and knead separately with mashed pumpkin, mashed taro, and pandan juice until smooth, then roll into small balls.",
+        "Boil water in a pot, drop in the rice balls, and transfer them to cold water as soon as they float so they stay chewy.",
+        "Simmer the coconut milk with pandan leaves over low heat, stirring in the palm sugar, granulated sugar, and salt until dissolved and fragrant.",
+        "Add the three-color rice balls into the warm sweet coconut milk, stir gently, and serve right away."
+      ]
     },
     {
       "title": "ข้าวเหนียวมะม่วงน้ำกะทิ",
@@ -7940,7 +12404,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Mango Sticky Rice with Coconut Cream",
+      "desc_en": "Tossing the hot steamed sticky rice with hot sweetened coconut milk helps the grains absorb the creaminess evenly without turning mushy.",
+      "ingredients_en": [
+        "Soaked Thai sticky rice (overnight): 250 g",
+        "Sweet ripe mangoes (Nam Dok Mai): 2 pieces",
+        "Coconut cream: 1.5 cups",
+        "Granulated sugar: 1/3 cup",
+        "Salt: 1 tsp",
+        "Knotted pandan leaves: 2 pieces",
+        "Crispy toasted mung beans: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the sticky rice over cheesecloth in boiling water for about 20 minutes until tender and translucent.",
+        "Simmer the coconut cream with sugar, salt, and pandan leaves until dissolved, reserving a portion for drizzling.",
+        "Pour the warm coconut mixture over the hot sticky rice, stir to coat, cover, and let rest for 15 minutes until absorbed.",
+        "Serve the sticky rice alongside sliced ripe mango, drizzled with extra coconut cream and topped with toasted mung beans."
+      ]
     },
     {
       "title": "กล้วยบวชชีมะพร้าวอ่อน",
@@ -7968,7 +12449,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Bananas in Sweet Coconut Milk with Young Coconut",
+      "desc_en": "Boiling the bananas in their skins before peeling removes astringency and keeps the fruit firm and intact in the coconut milk.",
+      "ingredients_en": [
+        "Half-ripe Nam Wa bananas (greenish-yellow skin): 5 pieces",
+        "Fresh coconut milk: 2 cups",
+        "Shredded young coconut meat: 1/2 cup",
+        "Coconut palm sugar: 1/3 cup",
+        "Granulated sugar: 2 tbsp",
+        "Salt: 1/2 tsp",
+        "Knotted pandan leaves: 2 pieces"
+      ],
+      "steps_en": [
+        "Boil the unpeeled bananas for 5 minutes, then peel and slice diagonally into bite-sized pieces.",
+        "Simmer the thin coconut milk with pandan leaves, palm sugar, granulated sugar, and salt until dissolved.",
+        "Add the sliced bananas and young coconut meat, simmering gently over low heat for 5 minutes.",
+        "Stir in the thick coconut cream, heat until tiny bubbles form around the edges, and remove from heat immediately."
+      ]
     },
     {
       "title": "ทับทิมกรอบกะทิสด",
@@ -7996,7 +12494,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Rubies Water Chestnuts in Coconut Milk (Tub Tim Krob)",
+      "desc_en": "Plunging the boiled rubies straight into ice-cold water keeps the tapioca coating glossy and chewy around the crisp water chestnuts.",
+      "ingredients_en": [
+        "Finely diced fresh water chestnuts: 150 g",
+        "Concentrated red sala syrup: 3 tbsp",
+        "Tapioca starch: 1 cup",
+        "Fresh coconut milk (candle-smoked if available): 1.5 cups",
+        "Granulated sugar, salt, and crushed ice: to taste"
+      ],
+      "steps_en": [
+        "Soak the diced water chestnuts in red syrup for 15 minutes until tinted, then toss thoroughly in tapioca starch and sift off the excess.",
+        "Drop the coated cubes into boiling water until they float and turn translucent, then transfer immediately to ice water.",
+        "Simmer the coconut milk with sugar and a pinch of salt until dissolved, then let cool completely.",
+        "Spoon the red rubies into bowls, pour over the chilled coconut milk, and serve with finely crushed ice."
+      ]
     },
     {
       "title": "ฟักทองแกงบวด",
@@ -8024,7 +12537,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pumpkin in Sweet Coconut Milk (Fak Thong Kaeng Buat)",
+      "desc_en": "Soaking the pumpkin pieces in limewater before cooking keeps them firm and intact without falling apart.",
+      "ingredients_en": [
+        "Firm pumpkin chunks: 300 g",
+        "Pickling limewater (for soaking): 2 cups",
+        "Fresh coconut milk: 2 cups",
+        "Coconut palm sugar: 1/3 cup",
+        "Granulated sugar: 2 tbsp",
+        "Salt: 1/2 tsp",
+        "Pandan leaves: 2 pieces"
+      ],
+      "steps_en": [
+        "Partially peel the pumpkin, cut into bite-sized pieces, soak in limewater for 20 minutes, then rinse well and drain.",
+        "Simmer the thin coconut milk with pandan leaves, palm sugar, granulated sugar, and salt until dissolved and fragrant.",
+        "Add the pumpkin and cook over medium-low heat until tender but still holding its shape.",
+        "Stir in the thick coconut cream, bring just to a gentle edge-simmer, turn off the heat, and serve warm or chilled."
+      ]
     },
     {
       "title": "สังขยาฟักทองนึ่ง",
@@ -8052,7 +12582,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Coconut Custard in Whole Pumpkin (Sankaya Fak Thong)",
+      "desc_en": "Squeezing fresh pandan leaves with the eggs and palm sugar removes any eggy odor while infusing a delicate floral aroma.",
+      "ingredients_en": [
+        "Small whole pumpkin (hollowed and cleaned): 1 piece",
+        "Chicken or duck eggs: 4 pieces",
+        "Coconut cream: 1 cup",
+        "Coconut palm sugar: 1/2 cup",
+        "Fresh pandan leaves (for whisking): 3 pieces",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Squeeze and whisk the eggs with palm sugar, salt, and fresh pandan leaves until the sugar dissolves and the mixture is frothy, then strain through cheesecloth.",
+        "Stir the coconut cream into the egg mixture until smooth and evenly blended.",
+        "Pour the custard into the hollowed pumpkin, leaving about 1 cm of space at the top for expansion.",
+        "Steam over boiling water on medium heat for 25–30 minutes until the custard is set, then cool before slicing."
+      ]
     },
     {
       "title": "เฉาก๊วยนมสดน้ำตาลทรายแดง",
@@ -8083,7 +12629,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chilled Grass Jelly with Fresh Milk and Brown Sugar",
+      "desc_en": "Sprinkling fine dark brown sugar on top adds a rich caramel aroma signature to milk grass jelly, and makes a gentle treat for seniors.",
+      "ingredients_en": [
+        "Diced chewy grass jelly: 200 g",
+        "Chilled whole milk: 1 cup",
+        "Evaporated milk: 2 tbsp",
+        "Dark brown sugar: 2 tbsp",
+        "Finely crushed ice: 1 cup"
+      ],
+      "steps_en": [
+        "Rinse the grass jelly once in clean water and cut into bite-sized cubes.",
+        "Add crushed ice to a glass or bowl, followed by the diced grass jelly.",
+        "Pour in the chilled milk and evaporated milk until the grass jelly is submerged.",
+        "Sprinkle dark brown sugar generously on top and serve immediately."
+      ]
     },
     {
       "title": "สาคูเปียกข้าวโพดหวานมะพร้าวอ่อน",
@@ -8113,7 +12674,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Tapioca Pearl Pudding with Corn and Young Coconut",
+      "desc_en": "Sprinkling the tapioca pearls gradually into rapidly boiling water while stirring prevents them from clumping into gummy lumps.",
+      "ingredients_en": [
+        "Small pandan tapioca pearls: 1 cup",
+        "Cooked sweet corn kernels: 1/2 cup",
+        "Shredded young coconut meat: 1/2 cup",
+        "Granulated sugar: 1/2 cup",
+        "Water: 3.5 cups",
+        "Salted coconut cream (for topping): 1 cup",
+        "Knotted pandan leaves: 2 pieces"
+      ],
+      "steps_en": [
+        "Boil water with pandan leaves until bubbling, then slowly sprinkle in the tapioca pearls while stirring constantly.",
+        "Cook over medium-low heat until the pearls turn mostly translucent with tiny white centers.",
+        "Stir in the sugar, sweet corn, and young coconut meat until the sugar dissolves, then turn off the heat.",
+        "Spoon into bowls and drizzle with salted coconut cream before serving."
+      ]
     },
     {
       "title": "ลอดช่องสิงคโปร์น้ำกะทิแตงไทย",
@@ -8142,7 +12720,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai-Style Chewy Pandan Noodles in Coconut Milk with Melon",
+      "desc_en": "Kneading the tapioca starch with boiling hot water is essential so the noodles stay springy and chewy without breaking apart.",
+      "ingredients_en": [
+        "Tapioca starch kneaded with hot pandan water: 1.5 cups",
+        "Bite-sized ripe Thai muskmelon pieces: 1/2 cup",
+        "Candle-smoked coconut milk: 1.5 cups",
+        "Coconut palm sugar syrup: 1/2 cup",
+        "Finely crushed ice: 1 cup",
+        "Shredded jackfruit (for garnish): 2 tbsp"
+      ],
+      "steps_en": [
+        "Knead the tapioca starch with boiling pandan juice until smooth, roll out thinly, and slice into long strips.",
+        "Boil the strips until they float and turn translucent, then plunge straight into ice-cold water.",
+        "Mix the smoked coconut milk with the palm sugar syrup until well combined.",
+        "Layer the noodles and muskmelon in glasses, pour over the sweetened coconut milk, top with shredded jackfruit and crushed ice, and serve."
+      ]
     },
     {
       "title": "ขนมต้มขาวไส้มะพร้าวน้ำตาลโตนด",
@@ -8171,7 +12765,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chewy Coconut Rice Dumplings (Khanom Tom)",
+      "desc_en": "Steaming the grated coconut for 5 minutes before coating the dumplings keeps them fresh longer and brings out a richer aroma.",
+      "ingredients_en": [
+        "Glutinous rice flour kneaded with pandan water: 200 g",
+        "Grated young-mature coconut: 200 g",
+        "Palmyra palm sugar or coconut sugar: 150 g",
+        "Water (for simmering filling): 3 tbsp",
+        "Salt: 1/2 tsp",
+        "Steamed salted grated coconut (for coating): 1 cup"
+      ],
+      "steps_en": [
+        "Simmer the palm sugar with water until dissolved, add the grated coconut, and stir until sticky enough to roll into small filling balls.",
+        "Flatten pieces of glutinous rice dough, place a coconut ball inside, seal completely, and roll smooth.",
+        "Boil the dumplings until they float to the surface, then lift out and drain.",
+        "Toss immediately in steamed salted grated coconut until evenly coated and serve."
+      ]
     },
     {
       "title": "กล้วยเชื่อมสีแดงราดกะทิสด",
@@ -8200,7 +12810,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Candied Bananas in Syrup with Coconut Cream",
+      "desc_en": "Squeezing fresh lime juice into the simmering syrup reacts with the bananas to give them a natural, glossy ruby-red hue.",
+      "ingredients_en": [
+        "Half-ripe to ripe Nam Wa bananas: 8 pieces",
+        "White granulated sugar: 1.5 cups",
+        "Water: 2 cups",
+        "Fresh lime juice: 1 tsp",
+        "Pickling limewater (for soaking): 2 cups",
+        "Salted coconut cream (for topping): 1/2 cup"
+      ],
+      "steps_en": [
+        "Peel and halve the bananas, soak in limewater for 20 minutes, then rinse and drain.",
+        "Bring water and sugar to a boil, add the bananas, and simmer over medium-low heat.",
+        "Once the bananas soften, squeeze in fresh lime juice and continue simmering gently until the syrup thickens and the bananas turn glossy red.",
+        "Plate the candied bananas and drizzle with savory-sweet salted coconut cream."
+      ]
     },
     {
       "title": "ถั่วเขียวต้มน้ำตาลทรายแดงใบเตย",
@@ -8228,7 +12854,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Mung Bean Soup with Brown Sugar and Pandan",
+      "desc_en": "Always boil the mung beans until soft and split before adding sugar, as adding sugar too early toughens the beans.",
+      "ingredients_en": [
+        "Whole mung beans: 1 cup",
+        "Dark brown or unrefined cane sugar: 1/2 cup",
+        "Water: 4 cups",
+        "Knotted pandan leaves: 3 pieces",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Rinse the mung beans thoroughly, soak in warm water for 30 minutes, and drain.",
+        "Simmer the mung beans in clean water with pandan leaves over medium heat for about 20 minutes until soft and split.",
+        "Stir in the brown sugar and salt until dissolved, then simmer for 3 more minutes so the beans absorb the sweetness.",
+        "Remove from heat and serve warm, or chill over ice for a refreshing dessert."
+      ]
     },
     {
       "title": "พุดดิ้งมะม่วงนมสดเจลาติน",
@@ -8260,7 +12901,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Fresh Milk Mango Pudding",
+      "desc_en": "Warming the milk without letting it boil preserves the gelatin's setting power for a silky, bouncy texture suitable for seniors.",
+      "ingredients_en": [
+        "Pureed ripe mango: 1 cup",
+        "Whole milk: 1 cup",
+        "Gelatin powder: 2 tsp",
+        "Granulated sugar: 2 tbsp",
+        "Diced ripe mango (for garnish): 1/2 cup",
+        "Fresh mint leaves: to taste"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in cold water for 5 minutes.",
+        "Warm the milk with sugar until hot without boiling, then stir in the bloomed gelatin until completely dissolved.",
+        "Whisk the pureed mango into the warm milk mixture until smooth and uniform.",
+        "Pour into serving glasses, chill for 2–3 hours until set, and garnish with diced mango and mint leaves."
+      ]
     },
     {
       "title": "วุ้นกะทิใบเตยหอมสองชั้น",
@@ -8289,7 +12946,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Two-Layer Pandan and Coconut Agar Jelly",
+      "desc_en": "Pouring the second layer while the first is just barely set on top helps the two layers bond tightly without sliding apart.",
+      "ingredients_en": [
+        "Agar-agar powder: 2 tbsp",
+        "Concentrated fresh pandan juice: 1.5 cups",
+        "Fresh coconut cream: 1.5 cups",
+        "Granulated sugar: 3/4 cup",
+        "Salt: 1/2 tsp",
+        "Water: 1.5 cups"
+      ],
+      "steps_en": [
+        "For the pandan layer, soak 1 tbsp agar powder in water, boil until dissolved, stir in half the sugar and the pandan juice, pour into a mold, and let partially set.",
+        "For the coconut layer, soak the remaining 1 tbsp agar powder in water, boil until dissolved, and stir in the coconut cream, remaining sugar, and salt until hot.",
+        "Gently spoon or pour the warm coconut layer over the slightly set pandan layer.",
+        "Let cool completely, refrigerate until firm, and cut into bite-sized squares."
+      ]
     },
     {
       "title": "ครองแครงกะทิสดงาขาวคั่ว",
@@ -8318,7 +12991,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Caramelized Shell Pasta Dumplings in Coconut Milk (Krong Kraeng)",
+      "desc_en": "Pressing the dough with even pressure onto the ribbed board gives the dumplings crisp ridges that hold the sweet coconut milk well.",
+      "ingredients_en": [
+        "Tapioca starch mixed with rice flour: 1 cup",
+        "Boiling hot pandan or butterfly pea water: 1/2 cup",
+        "Fresh coconut cream: 2 cups",
+        "Granulated sugar: 1/2 cup",
+        "Salt: 1/2 tsp",
+        "Toasted white sesame seeds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Knead the flours with boiling hot herb water until smooth, shape into small ovals, and roll across a ridged wooden paddle to form ribbed shells.",
+        "Boil the dumplings until they float and turn translucent, then transfer to cold water.",
+        "Simmer the coconut cream with sugar and salt over low heat until dissolved and fragrant.",
+        "Stir the drained dumplings into the warm coconut milk, ladle into bowls, and sprinkle with toasted white sesame seeds."
+      ]
     },
     {
       "title": "ลูกเดือยเปียกเผือกหอมน้ำกะทิ",
@@ -8347,7 +13036,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Job's Tears and Taro Pudding with Coconut Cream",
+      "desc_en": "Using arrowroot starch instead of tapioca starch keeps the syrup glossy and thick without turning watery once cooled.",
+      "ingredients_en": [
+        "Soaked dried Job's tears (overnight): 1 cup",
+        "Finely diced fragrant taro: 1/2 cup",
+        "Arrowroot starch dissolved in water: 2 tbsp",
+        "Granulated sugar: 1/2 cup",
+        "Water: 3 cups",
+        "Salted coconut cream (for topping): 1/2 cup"
+      ],
+      "steps_en": [
+        "Boil the soaked Job's tears until tender and bloomed, then add the diced taro and cook until soft.",
+        "Stir in the sugar until completely dissolved.",
+        "Slowly pour in the arrowroot slurry while stirring quickly until the liquid turns glossy and thickened, then turn off the heat.",
+        "Ladle into bowls, top with salted coconut cream, and serve warm."
+      ]
     },
     {
       "title": "วุ้นกะทิมะพร้าวน้ำหอมลูกชิด",
@@ -8375,7 +13080,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fragrant Coconut Water and Palm Seed Agar Jelly",
+      "desc_en": "Using real fresh aromatic coconut water delivers naturally sweet, refreshing flavor without any artificial flavoring.",
+      "ingredients_en": [
+        "Fresh aromatic coconut water: 2 cups",
+        "Young coconut meat and palm seeds: 100 g",
+        "Agar-agar powder: 1.5 tbsp",
+        "Fresh coconut cream: 1 cup",
+        "Granulated sugar: 1/3 cup",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the coconut water with agar powder until dissolved, stir in sugar and young coconut meat, and pour half into molds.",
+        "Simmer the coconut cream with the remaining agar powder and salt until dissolved.",
+        "Scatter palm seeds over the partially set first layer and gently pour the coconut cream layer on top.",
+        "Cool completely, chill until firm, and cut into refreshing cold squares."
+      ]
     },
     {
       "title": "ข้าวต้มมัดไส้กล้วยถั่วดำ",
@@ -8403,7 +13124,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Banana and Black Bean Sticky Rice Bundles (Khao Tom Mat)",
+      "desc_en": "Stir-frying the sticky rice with coconut milk over low heat until it pulls cleanly from the pan keeps the bundles chewy and fresh for days.",
+      "ingredients_en": [
+        "Soaked Thai sticky rice: 250 g",
+        "Halved ripe Nam Wa bananas: 4 pieces",
+        "Boiled black beans: 50 g",
+        "Fresh coconut cream: 1.5 cups",
+        "Granulated sugar: 1/2 cup",
+        "Salt: 1 tsp",
+        "Banana leaves and bamboo strips for wrapping: to taste"
+      ],
+      "steps_en": [
+        "Stir-fry the soaked sticky rice with coconut cream, sugar, and salt until the liquid is fully absorbed.",
+        "Layer two banana leaves, scatter black beans, add a spoonful of coconut sticky rice, place a banana half in the center, and cover with more rice.",
+        "Fold the banana leaves neatly, pair two bundles together, and tie securely with bamboo strips.",
+        "Steam over briskly boiling water for 30 minutes until the rice is translucent and the bananas turn ruby red."
+      ]
     },
     {
       "title": "บัวลอยเผือกมะพร้าวอ่อนน้ำกะทิ",
@@ -8431,7 +13169,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Taro Rice Balls in Coconut Milk with Young Coconut",
+      "desc_en": "Kneading the steamed taro while it is still warm lets the flour absorb the taro smoothly for soft, fragrant dumplings.",
+      "ingredients_en": [
+        "Steamed mashed taro: 150 g",
+        "Glutinous rice flour: 150 g",
+        "Shredded young coconut meat: 1/2 cup",
+        "Fresh coconut cream: 2 cups",
+        "Coconut palm sugar: 1/3 cup",
+        "Salt: 1/2 tsp",
+        "Knotted pandan leaves: 2 pieces"
+      ],
+      "steps_en": [
+        "Knead the glutinous rice flour with mashed taro and a little warm water at a time until smooth, then roll into small balls.",
+        "Boil the taro rice balls until they float, then transfer to cold water.",
+        "Simmer the coconut cream with pandan leaves, palm sugar, and salt until dissolved and fragrant.",
+        "Add the taro balls and young coconut meat to the warm coconut milk, stir gently, and serve."
+      ]
     },
     {
       "title": "กล้วยปิ้งราดน้ำกะทิน้ำตาลมะพร้าว",
@@ -8460,7 +13215,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Bananas with Caramelized Coconut Palm Sugar Sauce",
+      "desc_en": "Gently flattening the grilled bananas lets the rich palm sugar coconut sauce soak deeply into every bite.",
+      "ingredients_en": [
+        "Half-ripe Nam Wa bananas: 6 pieces",
+        "Pure coconut palm sugar: 1/2 cup",
+        "Fresh coconut cream: 1/2 cup",
+        "Butter: 1 tbsp",
+        "Salt: 1/4 tsp",
+        "Pandan leaf: 1 piece"
+      ],
+      "steps_en": [
+        "Slice the bananas into thick rounds, skewer them, and grill over charcoal or a dry pan over low heat until golden and fragrant.",
+        "Gently press the grilled bananas slightly flat with a rolling pin.",
+        "Simmer the palm sugar, coconut cream, butter, salt, and pandan leaf over low heat until thick and caramel-like.",
+        "Arrange the grilled bananas on a plate and generously pour the warm coconut sauce over the top."
+      ]
     },
     {
       "title": "เยลลี่ส้มสายน้ำผึ้งสดเจลาติน",
@@ -8488,7 +13259,22 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fresh Sai Nam Phueng Tangerine Gelatin Jelly",
+      "desc_en": "Avoid boiling the tangerine juice to preserve its vitamin C and bright, fresh citrus aroma.",
+      "ingredients_en": [
+        "Freshly squeezed Sai Nam Phueng tangerine juice: 2 cups",
+        "Gelatin powder: 2.5 tsp",
+        "Pure honey: 1.5 tbsp",
+        "Peeled tangerine segments (membranes removed): 1/2 cup",
+        "Water (for blooming gelatin): 3 tbsp"
+      ],
+      "steps_en": [
+        "Sprinkle the gelatin powder over the water and let bloom for 5 minutes.",
+        "Warm half of the tangerine juice until hot, then stir in the honey and bloomed gelatin until completely dissolved.",
+        "Pour in the remaining fresh tangerine juice and stir well.",
+        "Arrange the tangerine segments in glasses, pour in the juice mixture, and chill for 2–3 hours until bouncy and set."
+      ]
     },
     {
       "title": "ขนมชั้นใบเตยหอม",
@@ -8518,7 +13304,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Pandan Layer Cake (Khanom Chan)",
+      "desc_en": "Let the cake cool completely before slicing so the layers set firmly and peel cleanly without sticking to the knife.",
+      "ingredients_en": [
+        "Tapioca starch: 150 g",
+        "Arrowroot starch: 50 g",
+        "Rice flour: 30 g",
+        "Coconut cream: 300 ml",
+        "Granulated sugar: 180 g",
+        "Concentrated pandan juice: 100 ml",
+        "Water: 100 ml"
+      ],
+      "steps_en": [
+        "Simmer the sugar with coconut cream and water until dissolved, then let cool completely.",
+        "Mix the three flours together and gradually whisk in the cooled coconut syrup until smooth and lump-free.",
+        "Divide the batter in half, tinting one portion with pandan juice and leaving the other creamy white.",
+        "Steam alternating thin layers over medium heat for 4 minutes per layer until the pan is full, then cool completely before slicing."
+      ]
     },
     {
       "title": "ขนมถ้วยตะไลหน้ากะทิ",
@@ -8548,7 +13351,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Pandan Coconut Custard Cups (Khanom Thuai)",
+      "desc_en": "Steaming the empty ceramic cups until piping hot before pouring the batter keeps the custard from sticking and makes unmolding easy.",
+      "ingredients_en": [
+        "Rice flour: 100 g",
+        "Arrowroot starch: 20 g",
+        "Coconut palm sugar: 120 g",
+        "Thin coconut milk: 250 ml",
+        "Pandan juice: 60 ml",
+        "Coconut cream (for topping): 250 ml",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the rice flour, arrowroot starch, palm sugar, thin coconut milk, and pandan juice, kneading until smooth and dissolved.",
+        "For the topping, whisk the coconut cream with a pinch of rice flour and salt until smooth.",
+        "Steam empty ceramic cups until very hot, fill three-quarters full with the pandan base, and steam over high heat for 8 minutes.",
+        "Top up each cup with the salted coconut cream mixture and steam for 5 more minutes until set and glossy."
+      ]
     },
     {
       "title": "ขนมกล้วยนึ่งมะพร้าวขูด",
@@ -8578,7 +13398,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Banana Cake with Grated Coconut (Khanom Kluai)",
+      "desc_en": "Using overly ripe bananas with black-speckled skins gives the steamed cakes deeper aroma and natural sweetness.",
+      "ingredients_en": [
+        "Very ripe Nam Wa bananas: 500 g",
+        "Rice flour: 120 g",
+        "Tapioca starch: 40 g",
+        "Coconut cream: 200 ml",
+        "Granulated sugar: 100 g",
+        "Shredded young-mature coconut meat: 100 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mash the very ripe bananas until smooth and set aside.",
+        "Mix the rice flour, tapioca starch, sugar, salt, and coconut cream until well blended.",
+        "Fold the mashed bananas and most of the shredded coconut evenly into the batter.",
+        "Spoon into small cups or banana-leaf baskets, sprinkle the remaining coconut on top, and steam over high heat for 20 minutes."
+      ]
     },
     {
       "title": "ขนมฟักทองนึ่งหน้ามะพร้าว",
@@ -8608,7 +13445,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Pumpkin Cake with Shredded Coconut",
+      "desc_en": "Kneading the flour with palm sugar before adding the pumpkin keeps the cake chewy, tender, and free of dense lumps.",
+      "ingredients_en": [
+        "Steamed mashed pumpkin: 300 g",
+        "Rice flour: 100 g",
+        "Tapioca starch: 30 g",
+        "Coconut cream: 180 ml",
+        "Coconut palm sugar: 100 g",
+        "Shredded coconut: 80 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the pumpkin until tender and mash smoothly while still warm.",
+        "Whisk the rice flour, tapioca starch, palm sugar, salt, and coconut cream together until dissolved.",
+        "Fold in the mashed pumpkin and half of the shredded coconut until smooth and uniform.",
+        "Pour into a tray or molds, scatter the remaining coconut on top, and steam over high heat for 20 minutes."
+      ]
     },
     {
       "title": "ขนมเผือกนึ่งโรยมะพร้าวอ่อน",
@@ -8638,7 +13492,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Taro Cake Topped with Young Coconut",
+      "desc_en": "Folding in diced taro alongside the mash adds delightful texture in every bite.",
+      "ingredients_en": [
+        "Steamed fragrant taro: 300 g",
+        "Rice flour: 100 g",
+        "Tapioca starch: 40 g",
+        "Coconut cream: 200 ml",
+        "Granulated sugar: 110 g",
+        "Shredded young coconut meat: 100 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mash part of the steamed taro smoothly and cut the rest into small cubes.",
+        "Mix both flours with coconut cream, sugar, and salt until smooth and dissolved.",
+        "Stir in the mashed taro, diced taro, and half of the young coconut meat evenly.",
+        "Pour into a mold, top with the remaining young coconut, and steam over high heat for 25 minutes."
+      ]
     },
     {
       "title": "ขนมตาลนึ่งเนื้อฟู",
@@ -8668,7 +13539,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fluffy Steamed Toddy Palm Cakes (Khanom Tan)",
+      "desc_en": "Steam over briskly boiling water and lift the lid carefully so condensation does not drip onto the cakes.",
+      "ingredients_en": [
+        "Strained ripe toddy palm pulp: 200 g",
+        "Rice flour: 250 g",
+        "Coconut cream: 300 ml",
+        "Granulated sugar: 180 g",
+        "Baking powder: 1 tsp",
+        "Shredded coconut: 100 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Knead the rice flour gradually with the toddy palm pulp and coconut cream until smooth.",
+        "Add the sugar and salt, knead until dissolved, then let the batter rest in a warm place for 2 hours.",
+        "Stir the baking powder into the rested batter until light and airy.",
+        "Spoon into banana-leaf cups or ceramic molds, top with shredded coconut, and steam over high heat for 15 minutes."
+      ]
     },
     {
       "title": "ขนมเปียกปูนใบเตยสดกะทิ",
@@ -8698,7 +13586,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fresh Pandan Coconut Pudding (Khanom Piak Poon)",
+      "desc_en": "Stir continuously over medium-low heat so the pudding cooks evenly and does not scorch at the bottom of the pan.",
+      "ingredients_en": [
+        "Rice flour: 100 g",
+        "Tapioca starch: 30 g",
+        "Pickling limewater: 400 ml",
+        "Concentrated pandan juice: 200 ml",
+        "Coconut palm sugar: 150 g",
+        "Coconut cream (for topping): 150 ml",
+        "Toasted white sesame seeds: 1 tbsp",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Whisk the rice flour, tapioca starch, palm sugar, limewater, and pandan juice until dissolved, then strain.",
+        "Cook over medium heat, stirring constantly until thick, glossy, and pulling away from the pan.",
+        "Spoon into bowls or a tray and let cool completely until set.",
+        "Simmer the coconut cream with a pinch of salt until thick, drizzle over the pudding, and sprinkle with toasted sesame seeds."
+      ]
     },
     {
       "title": "ขนมเปียกปูนกาบมะพร้าวเผา",
@@ -8728,7 +13634,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Black Coconut Pudding with Roasted Coconut Husk Charcoal",
+      "desc_en": "Straining the charred coconut husk water through several layers of cheesecloth ensures a smooth pudding free of grit.",
+      "ingredients_en": [
+        "Rice flour: 120 g",
+        "Arrowroot starch: 30 g",
+        "Strained charred coconut husk water: 250 ml",
+        "Pickling limewater: 350 ml",
+        "Coconut palm sugar: 160 g",
+        "Shredded young-mature coconut: 100 g",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Mix both flours with palm sugar, limewater, and charred coconut husk water until dissolved.",
+        "Strain the mixture through cheesecloth into a brass wok or heavy-bottomed pot.",
+        "Cook over medium heat, stirring constantly until glossy, thick, and fragrant.",
+        "Pour into a tray, smooth the surface, let cool completely, then slice into squares and toss with salted shredded coconut."
+      ]
     },
     {
       "title": "ขนมใส่ไส้ใบตอง",
@@ -8758,7 +13681,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Coconut Custard Stuffed with Sweet Coconut (Khanom Sai Sai)",
+      "desc_en": "Boiling the stuffed dough balls before wrapping them with the coconut cream topping keeps the parcels neat and prevents leaking.",
+      "ingredients_en": [
+        "Grated white coconut meat: 200 g",
+        "Coconut palm sugar: 150 g",
+        "Glutinous rice flour: 150 g",
+        "Coconut cream (for topping): 300 ml",
+        "Rice flour (for topping): 40 g",
+        "Fresh pandan juice: 100 ml",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Simmer the palm sugar and grated coconut until sticky, let cool, and roll into small balls.",
+        "Knead the glutinous rice flour with pandan juice until soft, wrap around each coconut ball, and boil until cooked.",
+        "Cook the coconut cream, rice flour, and salt over low heat, stirring until moderately thick.",
+        "Spoon the coconut cream onto banana leaves, top with a stuffed dough ball, fold into tall pyramid parcels secured with toothpicks, and steam for 15 minutes."
+      ]
     },
     {
       "title": "ขนมเทียนแก้วไส้เค็ม",
@@ -8788,7 +13728,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Translucent Savory Mung Bean Stuffed Pyramid Dumplings (Khanom Tian Kaew)",
+      "desc_en": "Brushing the inside of each banana leaf with a thin film of oil ensures the translucent dumplings unwrap cleanly.",
+      "ingredients_en": [
+        "Steamed mashed split mung beans: 150 g",
+        "Mung bean starch: 100 g",
+        "Granulated sugar: 100 g",
+        "Water: 450 ml",
+        "Coriander root, garlic, and pepper paste (Sam Kler): 1 tbsp",
+        "Chopped shallots: 2 tbsp",
+        "Salt: 1/2 tsp",
+        "Vegetable oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Saute the spice paste and shallots in oil until fragrant, add the mashed mung beans, 50 g sugar, and salt, cook until firm, and roll into filling balls.",
+        "Whisk the mung bean starch with the remaining sugar and water, then cook over gentle heat, stirring until thick and translucent.",
+        "Lightly oil banana-leaf cones, spoon in a layer of clear dough, place a mung bean ball inside, and cover completely with more dough.",
+        "Fold into neat pyramid parcels and steam over medium heat for 15 minutes."
+      ]
     },
     {
       "title": "ขนมเทียนสลัดงาไส้หวาน",
@@ -8818,7 +13776,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sesame-Coated Sweet Coconut Pyramid Dumplings",
+      "desc_en": "Toasting the white sesame seeds over low heat until golden and fragrant beforehand gives the dumplings an irresistible aroma.",
+      "ingredients_en": [
+        "Glutinous rice flour: 200 g",
+        "Coconut palm sugar: 150 g",
+        "Grated white coconut meat: 200 g",
+        "Toasted white sesame seeds: 40 g",
+        "Butterfly pea or pandan water: 150 ml",
+        "Vegetable oil: 2 tbsp",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Stir-fry the grated coconut with palm sugar and salt until sticky, let cool, and roll into small balls.",
+        "Knead the glutinous rice flour with the herbal water until smooth and pliable.",
+        "Flatten pieces of dough, wrap around the coconut filling, roll smooth, and coat thoroughly in toasted white sesame seeds.",
+        "Wrap in lightly oiled banana leaves and steam over medium heat for 20 minutes."
+      ]
     },
     {
       "title": "ขนมด้วงอัญชันมะพร้าวขูด",
@@ -8848,7 +13823,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Butterfly Pea Ridged Rice Dumplings with Grated Coconut (Khanom Duang)",
+      "desc_en": "Kneading the flour with very warm butterfly pea water helps the dough come together smoothly without cracking.",
+      "ingredients_en": [
+        "Rice flour: 150 g",
+        "Tapioca starch: 30 g",
+        "Warm butterfly pea water: 180 ml",
+        "Shredded young-mature coconut: 120 g",
+        "Granulated sugar: 50 g",
+        "Toasted white sesame seeds: 1 tbsp",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Knead the rice flour and tapioca starch with warm butterfly pea water until smooth and moldable.",
+        "Roll small pieces of dough across a ridged wooden paddle or the back of a fork to create ribbed curls.",
+        "Drop into boiling water until they float, then transfer briefly to cold water and drain.",
+        "Toss the dumplings with shredded coconut and salt, and serve with sesame-mixed sugar on the side."
+      ]
     },
     {
       "title": "ขนมเล็บมือนางน้ำกะทิ",
@@ -8878,7 +13870,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tapered Rice Noodles in Sweet Coconut Milk (Khanom Leb Mue Nang)",
+      "desc_en": "Boiling the tapered noodles in rapidly boiling water and plunging them straight into cold water keeps them glossy and separate.",
+      "ingredients_en": [
+        "Rice flour: 150 g",
+        "Tapioca starch: 50 g",
+        "Pandan juice and butterfly pea water: 80 ml each",
+        "Coconut cream: 250 ml",
+        "Granulated sugar: 80 g",
+        "Grated white coconut meat: 80 g",
+        "Toasted white sesame seeds: 1 tbsp",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Divide the flours in half and knead one batch with pandan juice and the other with butterfly pea water until smooth.",
+        "Roll small pieces of dough into slender strands with pointed ends.",
+        "Boil until they float, plunge into cold water, and drain well.",
+        "Warm the coconut cream with sugar and salt, ladle over the noodles, and garnish with grated coconut and toasted sesame seeds."
+      ]
     },
     {
       "title": "ขนมปลากริมไข่เต่า",
@@ -8908,7 +13918,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Two-Tone Sweet and Salty Coconut Rice Noodles (Khanom Plakrim Khai Tao)",
+      "desc_en": "The charm of this classic dessert lies in pairing caramel-sweet palm sugar broth with rich, savory salted coconut cream.",
+      "ingredients_en": [
+        "Rice flour: 150 g",
+        "Tapioca starch: 50 g",
+        "Coconut cream: 350 ml",
+        "Thin coconut milk: 250 ml",
+        "Coconut palm sugar: 160 g",
+        "Pandan leaves: 3 pieces",
+        "Salt: 1 tsp"
+      ],
+      "steps_en": [
+        "Knead both flours with warm water, roll into tiny tapered noodles, boil until cooked, and set aside.",
+        "For the sweet brown layer, simmer thin coconut milk, palm sugar, and pandan leaves until dissolved, then add half the noodles and cook until slightly thickened.",
+        "For the savory white layer, simmer coconut cream with salt, add the remaining noodles and a little dissolved rice flour, and stir until thickened.",
+        "Spoon the sweet brown layer into bowls first, then top with the creamy white salted layer."
+      ]
     },
     {
       "title": "ขนมตะโก้เผือกหอมหน้ากะทิ",
@@ -8938,7 +13965,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fragrant Taro and Coconut Cream Pudding Cups (Tako Phueak)",
+      "desc_en": "Pouring the coconut cream topping while the base is still warm helps both layers fuse cleanly without separating.",
+      "ingredients_en": [
+        "Steamed diced fragrant taro: 150 g",
+        "Rice flour (for base): 80 g",
+        "Granulated sugar: 120 g",
+        "Pandan water: 500 ml",
+        "Coconut cream (for topping): 350 ml",
+        "Rice flour (for topping): 40 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the base rice flour, sugar, and pandan water until dissolved, then cook over medium heat, stirring until clear and thickened.",
+        "Fold in the steamed diced taro and spoon into pandan-leaf cups until halfway full.",
+        "Whisk the coconut cream, topping rice flour, and salt until smooth, then cook over low heat until thick.",
+        "Spoon the warm coconut cream topping over the taro base and let cool until set."
+      ]
     },
     {
       "title": "ขนมตะโก้สาคูข้าวโพด",
@@ -8968,7 +14012,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tapioca Pearl and Sweet Corn Coconut Pudding Cups (Tako Saku)",
+      "desc_en": "Give the tapioca pearls only a quick rinse and add them to rapidly boiling water so they cook cleanly without turning pasty.",
+      "ingredients_en": [
+        "Small tapioca pearls: 100 g",
+        "Cooked sweet corn kernels: 120 g",
+        "Granulated sugar: 120 g",
+        "Water or pandan water: 600 ml",
+        "Coconut cream: 350 ml",
+        "Rice flour: 40 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Quickly rinse the tapioca pearls, drop into boiling water, and stir constantly until almost translucent.",
+        "Add the sugar and sweet corn kernels, stir until clear and thickened, then spoon halfway into cups.",
+        "Cook the coconut cream, rice flour, and salt over low heat, stirring until thick and glossy.",
+        "Top the tapioca corn base with the coconut cream layer and let cool until set."
+      ]
     },
     {
       "title": "ขนมหม้อแกงเผือกอบหอม",
@@ -8998,7 +14059,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Baked Thai Taro Custard Cake (Khanom Mor Kaeng Phueak)",
+      "desc_en": "Whisking the duck eggs with pandan leaves eliminates egginess while adding an authentic Thai fragrance.",
+      "ingredients_en": [
+        "Steamed mashed fragrant taro: 250 g",
+        "Duck eggs: 4 pieces",
+        "Coconut cream: 250 ml",
+        "Coconut palm sugar: 180 g",
+        "Crispy fried sliced shallots: 30 g",
+        "Pandan leaves (for whisking): 3 pieces",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Squeeze and whisk the duck eggs with palm sugar, salt, and pandan leaves until dissolved, then strain through a sieve.",
+        "Blend or whisk the mashed taro, coconut cream, and strained egg mixture together until completely smooth.",
+        "Pour into a baking pan lightly greased with shallot oil.",
+        "Bake at 180°C for 35–40 minutes until golden brown on top, then scatter crispy fried shallots over the surface."
+      ]
     },
     {
       "title": "ขนมหม้อแกงถั่วเขียวอบ",
@@ -9028,7 +14106,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Baked Thai Mung Bean Custard Cake (Khanom Mor Kaeng Thua)",
+      "desc_en": "Soaking the split mung beans overnight before steaming ensures they blend into an ultra-smooth, silky custard.",
+      "ingredients_en": [
+        "Steamed split mung beans: 200 g",
+        "Duck eggs: 4 pieces",
+        "Coconut cream: 250 ml",
+        "Coconut palm sugar: 170 g",
+        "Crispy fried sliced shallots: 30 g",
+        "Pandan leaves: 3 pieces",
+        "Salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Mash or blend the steamed mung beans with the coconut cream until silky smooth.",
+        "Whisk the duck eggs, palm sugar, and salt with pandan leaves until dissolved, then strain out the leaves.",
+        "Combine the mung bean mixture with the egg mixture and pour into a baking pan greased with shallot oil.",
+        "Bake at 180°C for 35–40 minutes until golden and fragrant, then top with crispy fried shallots."
+      ]
     },
     {
       "title": "ข้าวเหนียวสังขยาหน้าไข่",
@@ -9058,7 +14153,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Coconut Sticky Rice with Steamed Egg Custard",
+      "desc_en": "Steaming the custard over medium-low heat with the lid slightly ajar keeps the surface smooth and free of air bubbles.",
+      "ingredients_en": [
+        "Soaked Thai sticky rice: 250 g",
+        "Coconut cream (for rice): 200 ml",
+        "Duck eggs: 3 pieces",
+        "Coconut cream (for custard): 150 ml",
+        "Coconut palm sugar: 150 g",
+        "Pandan leaves: 3 pieces",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the sticky rice until tender, then toss with 200 ml coconut cream, 40 g sugar, and salt, and cover to absorb.",
+        "Whisk the duck eggs, remaining palm sugar, 150 ml coconut cream, and pandan leaves until smooth, then strain.",
+        "Pour the custard into a heatproof dish and steam over medium-low heat for 20 minutes until set and smooth.",
+        "Plate the coconut sticky rice and top with slices of the steamed egg custard."
+      ]
     },
     {
       "title": "ข้าวเหนียวเปียกลำไยน้ำกะทิ",
@@ -9088,7 +14200,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Warm Sticky Rice Porridge with Longan and Coconut Cream",
+      "desc_en": "Add the longan flesh at the very end and simmer only briefly so it stays crisp and juicy.",
+      "ingredients_en": [
+        "Thai sticky rice: 150 g",
+        "Pitted fresh longan flesh: 200 g",
+        "Water: 700 ml",
+        "Granulated sugar: 120 g",
+        "Coconut cream: 200 ml",
+        "Pandan leaves: 2 pieces",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil water with pandan leaves, add the rinsed sticky rice, and cook, stirring occasionally, until the grains are soft and bloomed.",
+        "Stir in the sugar until completely dissolved.",
+        "Add the longan flesh, simmer for 3 more minutes, and remove from heat.",
+        "Warm the coconut cream with salt and drizzle over each bowl of longan sticky rice before serving."
+      ]
     },
     {
       "title": "ข้าวเหนียวดำเปียกเผือกกะทิสด",
@@ -9118,7 +14247,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Black Sticky Rice Pudding with Taro and Coconut Cream",
+      "desc_en": "Soaking black sticky rice in warm water for at least 3 hours cuts cooking time and helps the grains turn tender faster.",
+      "ingredients_en": [
+        "Soaked black sticky rice (3 hours): 150 g",
+        "Diced fragrant taro: 150 g",
+        "Water: 800 ml",
+        "Granulated sugar: 130 g",
+        "Coconut cream: 200 ml",
+        "Pandan leaves: 2 pieces",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Simmer the black sticky rice in water with pandan leaves over medium heat until the grains split and soften.",
+        "Add the diced taro and cook until tender without breaking apart.",
+        "Stir in the sugar until dissolved, then turn off the heat.",
+        "Warm the coconut cream with salt and spoon over the black sticky rice pudding just before serving."
+      ]
     },
     {
       "title": "ข้าวเหนียวหน้ากระฉีกมะพร้าวแก้ว",
@@ -9147,7 +14293,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Sticky Rice with Caramelized Coconut Topping (Khao Niao Na Kra Chik)",
+      "desc_en": "Cook the caramelized coconut topping over low heat the entire time so the palm sugar does not burn and the coconut stays moist.",
+      "ingredients_en": [
+        "Soaked Thai sticky rice: 250 g",
+        "Coconut cream: 200 ml",
+        "Shredded young-mature coconut: 200 g",
+        "Coconut palm sugar: 150 g",
+        "Granulated sugar (for rice): 50 g",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the sticky rice until cooked, toss with coconut cream, granulated sugar, and salt, and cover to absorb.",
+        "Simmer the palm sugar with a splash of water until dissolved and syrupy.",
+        "Add the shredded coconut and stir-fry over low heat until nearly dry and glossy.",
+        "Plate the coconut sticky rice and crown it with the caramelized coconut topping."
+      ]
     },
     {
       "title": "ข้าวเหนียวแก้วใบเตยหอม",
@@ -9176,7 +14338,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Glossy Pandan Sweet Sticky Rice Candy (Khao Niao Kaew)",
+      "desc_en": "Stirring the steamed sticky rice into the coconut syrup over low heat lets the grains absorb the glaze until glossy like glass.",
+      "ingredients_en": [
+        "Soaked Thai sticky rice: 250 g",
+        "Coconut cream: 250 ml",
+        "Granulated sugar: 200 g",
+        "Concentrated pandan juice: 80 ml",
+        "Salt: 1/2 tsp",
+        "Toasted white sesame seeds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the sticky rice until cooked through with distinct, intact grains and set aside.",
+        "Simmer the coconut cream, sugar, pandan juice, and salt until bubbling and syrupy.",
+        "Fold in the steamed sticky rice and stir gently over low heat until the syrup is absorbed and the grains turn glossy.",
+        "Press firmly into a tray, let cool completely, cut into squares, and sprinkle with toasted white sesame seeds."
+      ]
     },
     {
       "title": "เต้าส่วนถั่วเขียวเลาะเปลือกกะทิ",
@@ -9206,7 +14384,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Warm Sweet Mung Bean Soup with Coconut Cream (Tao Suan)",
+      "desc_en": "Using arrowroot starch keeps the thick sweet soup clear and glossy without turning watery as it cools.",
+      "ingredients_en": [
+        "Soaked split mung beans (2 hours): 200 g",
+        "Arrowroot starch: 50 g",
+        "Granulated sugar: 150 g",
+        "Water: 700 ml",
+        "Coconut cream: 250 ml",
+        "Pandan leaves: 3 pieces",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the soaked split mung beans over boiling water for about 20 minutes until tender while keeping the beans intact.",
+        "Boil water with pandan leaves and sugar until dissolved, then slowly stir in the dissolved arrowroot starch until thick and clear.",
+        "Gently fold the steamed mung beans into the thickened syrup and turn off the heat.",
+        "Warm the coconut cream with salt and drizzle over each serving of mung bean soup."
+      ]
     },
     {
       "title": "ถั่วดำต้มน้ำกะทิใบเตย",
@@ -9236,7 +14431,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Black Beans in Pandan Coconut Milk",
+      "desc_en": "Add the coconut cream last and avoid letting it come to a rolling boil to prevent the coconut milk from splitting.",
+      "ingredients_en": [
+        "Dried black beans (soaked overnight): 200 g",
+        "Coconut cream: 250 ml",
+        "Thin coconut milk: 400 ml",
+        "Coconut sugar: 140 g",
+        "Granulated sugar: 40 g",
+        "Pandan leaves: 3 leaves",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the soaked black beans in clean water until tender, then drain off the water.",
+        "Bring the thin coconut milk and pandan leaves to a boil, add the cooked black beans, and simmer for 5 minutes.",
+        "Season with coconut sugar, granulated sugar, and salt, stirring until completely dissolved.",
+        "Pour in the coconut cream, stir just until small bubbles form around the edges of the pot, and turn off the heat immediately."
+      ]
     },
     {
       "title": "มันสำปะหลังเชื่อมราดกะทิสด",
@@ -9265,7 +14477,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Candied Cassava with Salted Coconut Cream",
+      "desc_en": "Boiling the cassava in water until nearly tender before candying keeps the flesh soft and fluffy rather than hard at the core.",
+      "ingredients_en": [
+        "Peeled cassava (cut into chunks): 500 g",
+        "Granulated sugar: 300 g",
+        "Water: 600 ml",
+        "Pandan leaves: 3 leaves",
+        "Coconut cream: 200 ml",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rinse the cassava to remove sap, boil in water until about 70% cooked and tender, then drain.",
+        "Boil 600 ml water with granulated sugar and pandan leaves until it forms a clear syrup.",
+        "Add the cassava and simmer over low heat until the syrup thickens and the cassava becomes translucent and chewy.",
+        "Simmer the coconut cream with salt and a pinch of rice flour until slightly thickened, then spoon over the candied cassava to serve."
+      ]
     },
     {
       "title": "เผือกเชื่อมน้ำตาลทรายราดกะทิ",
@@ -9294,7 +14522,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Candied Taro in Syrup with Coconut Cream",
+      "desc_en": "Soaking the taro in limewater before candying firms the surface so the pieces hold their shape while simmering.",
+      "ingredients_en": [
+        "Fragrant taro (cut into bite-sized pieces): 450 g",
+        "Limewater (for soaking): 500 ml",
+        "Granulated sugar: 250 g",
+        "Water: 450 ml",
+        "Pandan leaves: 3 leaves",
+        "Coconut cream and fine salt: 200 ml and 1/2 tsp"
+      ],
+      "steps_en": [
+        "Soak the taro pieces in limewater for 30 minutes, then rinse thoroughly with clean water.",
+        "Bring the water, granulated sugar, and pandan leaves to a boil until the sugar dissolves.",
+        "Arrange the taro in the pot and simmer over low heat without stirring often until the syrup reduces and the taro is glossy and translucent.",
+        "Simmer the coconut cream with salt until slightly thickened, and drizzle over the candied taro before serving."
+      ]
     },
     {
       "title": "ฟักทองเชื่อมน้ำตาลมะพร้าว",
@@ -9323,7 +14567,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Candied Pumpkin in Coconut Sugar Syrup",
+      "desc_en": "Place the pumpkin pieces skin-side down in the pan while candying to keep the flesh from breaking apart.",
+      "ingredients_en": [
+        "Pumpkin (cut into thick pieces): 500 g",
+        "Limewater (for soaking): 500 ml",
+        "Coconut sugar: 150 g",
+        "Granulated sugar: 100 g",
+        "Water: 400 ml",
+        "Pandan leaves: 3 leaves"
+      ],
+      "steps_en": [
+        "Soak the pumpkin in limewater for 30 minutes, rinse with clean water, and drain well.",
+        "Dissolve the coconut sugar, granulated sugar, water, and pandan leaves in a brass pan and bring to a boil.",
+        "Add the pumpkin and simmer gently over low heat until tender and coated in the reduced syrup.",
+        "Plate the candied pumpkin and serve with salted coconut cream as desired."
+      ]
     },
     {
       "title": "สาเกเชื่อมราดน้ำกะทิเค็ม",
@@ -9352,7 +14612,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Candied Breadfruit with Salted Coconut Cream",
+      "desc_en": "Choose mature glutinous-style breadfruit that is firm and not yet soft for the best chewy texture.",
+      "ingredients_en": [
+        "Mature breadfruit flesh (cut into pieces): 500 g",
+        "Limewater (for soaking): 500 ml",
+        "Granulated sugar: 280 g",
+        "Water: 500 ml",
+        "Pandan leaves: 3 leaves",
+        "Coconut cream and fine salt: 200 ml and 1/2 tsp"
+      ],
+      "steps_en": [
+        "Peel the breadfruit, core it, cut into pieces, soak in limewater for 30 minutes, then rinse clean.",
+        "Boil the water, granulated sugar, and pandan leaves together into a syrup.",
+        "Add the breadfruit and simmer over low heat until the syrup permeates the flesh and turns glossy.",
+        "Warm the coconut cream with salt just until bubbling around the edges, then spoon over the candied breadfruit to serve."
+      ]
     },
     {
       "title": "มันเทศต้มขิงน้ำตาลทรายแดง",
@@ -9381,7 +14657,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Potato in Spiced Ginger Brown Sugar Syrup",
+      "desc_en": "Boiling the mature ginger before adding sugar draws out a bold, warming aroma and balanced spiciness.",
+      "ingredients_en": [
+        "Orange or yellow sweet potato (cut into large cubes): 400 g",
+        "Mature ginger (lightly bruised and sliced): 60 g",
+        "Dark brown sugar: 120 g",
+        "White granulated sugar: 30 g",
+        "Water: 800 ml",
+        "Fine salt: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Boil the water with the bruised ginger over medium heat for 10 minutes to infuse a spicy, fragrant broth.",
+        "Add the sweet potato cubes and cook until tender.",
+        "Stir in the brown sugar, white sugar, and salt until completely dissolved.",
+        "Reduce to low heat, simmer for another 5 minutes so the sweetness absorbs into the sweet potatoes, and serve hot."
+      ]
     },
     {
       "title": "ข้าวฟ่างเปียกน้ำกะทิสด",
@@ -9410,7 +14702,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Millet Pudding with Fresh Coconut Cream",
+      "desc_en": "Rinsing the millet several times until the water runs clear before soaking helps remove any grassy odor.",
+      "ingredients_en": [
+        "Yellow millet (soaked for 1 hour): 150 g",
+        "Granulated sugar: 120 g",
+        "Water: 800 ml",
+        "Coconut cream: 200 ml",
+        "Pandan leaves: 2 leaves",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rinse the millet well and cook in water with the pandan leaves over medium-low heat.",
+        "Stir occasionally to prevent sticking, cooking until the grains bloom, soften, and the mixture thickens.",
+        "Stir in the granulated sugar until dissolved, then turn off the heat.",
+        "Warm the coconut cream with salt until heated through, and spoon over the millet pudding before serving."
+      ]
     },
     {
       "title": "ลอดช่องไทยใบเตยน้ำกะทิน้ำตาลโตนด",
@@ -9440,7 +14748,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Pandan Lod Chong in Palm Sugar Coconut Milk",
+      "desc_en": "Press the batter into ice-cold water while still piping hot so the noodles set chewy and firm without breaking.",
+      "ingredients_en": [
+        "Rice flour: 100 g",
+        "Tapioca flour: 30 g",
+        "Pandan juice mixed with limewater: 600 ml",
+        "Palmyra palm sugar: 200 g",
+        "Coconut cream: 300 ml",
+        "Pandan leaves: 2 leaves",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk both flours with the pandan limewater mixture and cook over medium heat, stirring constantly until translucent and pulling away from the pan.",
+        "Press the hot batter through a lod chong mold directly into a bowl of ice-cold water.",
+        "Simmer the coconut cream, palm sugar, salt, and pandan leaves until dissolved and fragrant, then let cool.",
+        "Scoop the pandan noodles into bowls, pour over the sweetened coconut milk, and top with crushed ice."
+      ]
     },
     {
       "title": "ซาหริ่มกะทิสดอบควันเทียน",
@@ -9469,7 +14794,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sarim Mung Bean Noodles in Candle-Smoked Coconut Milk",
+      "desc_en": "Scenting the sweetened coconut milk with a Thai dessert candle for at least 1 hour gives it a classic, traditional aroma.",
+      "ingredients_en": [
+        "Mung bean starch: 100 g",
+        "Jasmine-infused water or pandan water: 600 ml",
+        "Granulated sugar: 250 g",
+        "Coconut cream: 350 ml",
+        "Water chestnut rubies or shredded jackfruit: 50 g",
+        "Thai scented dessert candle: 1 piece"
+      ],
+      "steps_en": [
+        "Simmer the sugar with 250 ml jasmine water into a syrup, stir in the coconut cream, and scent with the dessert candle.",
+        "Mix the mung bean starch with the remaining herbal water and stir over medium heat until thick, glossy, and translucent.",
+        "Press the hot paste through a fine sarim mold into ice-cold water to form delicate strands.",
+        "Serve the chilled strands in bowls with shredded jackfruit, candle-smoked coconut milk, and shaved ice."
+      ]
     },
     {
       "title": "สละลอยแก้วน้ำเชื่อมใบเตย",
@@ -9498,7 +14839,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chilled Salacca in Pandan Syrup",
+      "desc_en": "Submerge the peeled salacca only after the syrup has cooled completely so the fruit stays crisp and bright.",
+      "ingredients_en": [
+        "Peeled and pitted salacca fruit: 400 g",
+        "Granulated sugar: 200 g",
+        "Water: 500 ml",
+        "Pandan leaves: 2 leaves",
+        "Fine salt: 1/2 tsp",
+        "Crushed ice: 1 cup"
+      ],
+      "steps_en": [
+        "Peel the salacca and carefully remove the seeds without bruising the flesh.",
+        "Boil the water, granulated sugar, salt, and pandan leaves until dissolved into a clear syrup.",
+        "Let the syrup cool completely, then add the salacca and refrigerate for at least 2 hours.",
+        "Ladle the chilled fruit and syrup into bowls and top with crushed ice to serve."
+      ]
     },
     {
       "title": "ลูกตาลลอยแก้วน้ำเชื่อมเย็น",
@@ -9527,7 +14884,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chilled Toddy Palm Fruit in Pandan Syrup",
+      "desc_en": "Selecting translucent, tender young toddy palm seeds ensures a melt-in-the-mouth texture with the chilled syrup.",
+      "ingredients_en": [
+        "Peeled young toddy palm fruit (sliced): 400 g",
+        "Granulated sugar: 180 g",
+        "Water: 500 ml",
+        "Pandan leaves: 2 leaves",
+        "Fine salt: 1/4 tsp",
+        "Crushed ice: 1 cup"
+      ],
+      "steps_en": [
+        "Rinse the young toddy palm fruit clean and slice into bite-sized pieces.",
+        "Boil the water, sugar, salt, and pandan leaves until the sugar is completely dissolved.",
+        "Add the toddy palm slices, simmer gently for 1 minute, then remove from heat and cool.",
+        "Chill thoroughly or ladle into bowls with crushed ice to serve."
+      ]
     },
     {
       "title": "กระท้อนทรงเครื่องลอยแก้ว",
@@ -9556,7 +14929,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spiced Santol in Iced Syrup (Krathon Song Khrueang)",
+      "desc_en": "Scoring the santol flesh closely helps the syrup soak in evenly while drawing out astringency.",
+      "ingredients_en": [
+        "Fluffy santol fruit: 2 pieces",
+        "Saltwater (for soaking): 500 ml",
+        "Granulated sugar: 150 g",
+        "Water: 400 ml",
+        "Chili-salt dip and sweet shrimp paste sauce: 1 tbsp each",
+        "Ground dried shrimp and roasted peanuts: 2 tbsp each"
+      ],
+      "steps_en": [
+        "Peel the santol, score the flesh into ridges, and soak in saltwater for 15 minutes to reduce astringency and browning.",
+        "Boil the water and sugar until dissolved, then cool completely.",
+        "Soak the santol in the chilled syrup in the refrigerator for about 2 hours.",
+        "Serve the chilled santol over crushed ice, drizzled with sweet shrimp paste sauce and topped with ground dried shrimp, chili salt, and roasted peanuts."
+      ]
     },
     {
       "title": "ส้มฉุนลอยแก้วลิ้นจี่หอมเจียว",
@@ -9585,7 +14974,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chilled Lychee in Aromatic Citrus Syrup (Som Chun)",
+      "desc_en": "Scatter the crispy shallots and shredded green mango right before serving to preserve their crunch and tangy contrast.",
+      "ingredients_en": [
+        "Peeled and pitted lychee flesh: 250 g",
+        "Shredded green mango: 60 g",
+        "Granulated sugar: 180 g",
+        "Jasmine-infused water: 400 ml",
+        "Finely julienned bitter orange zest: 1 tsp",
+        "Julienne young ginger and crispy fried shallots: 2 tbsp each"
+      ],
+      "steps_en": [
+        "Boil the jasmine water and sugar until dissolved into a clear syrup, then cool completely.",
+        "Stir the bitter orange zest into the cooled syrup for a bright, refreshing aroma.",
+        "Arrange the lychees in bowls, pour in the chilled syrup, and add crushed ice.",
+        "Top with shredded green mango, young ginger, and crispy shallots just before serving."
+      ]
     },
     {
       "title": "ไอศกรีมกะทิสดทรงเครื่องถั่วลิสงคั่ว",
@@ -9615,7 +15020,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Traditional Thai Coconut Ice Cream with Toppings",
+      "desc_en": "Blending the ice cream again after the first 2 hours of freezing yields a smooth, creamy texture free of ice crystals.",
+      "ingredients_en": [
+        "Coconut cream: 400 ml",
+        "Young coconut water: 150 ml",
+        "Granulated sugar: 120 g",
+        "Cornstarch: 15 g",
+        "Crushed roasted peanuts: 40 g",
+        "Boiled sweet corn and palm seeds: 50 g each",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the coconut cream, young coconut water, sugar, salt, and cornstarch together until smooth.",
+        "Cook over low heat, stirring constantly until slightly thickened, then remove from heat and cool completely.",
+        "Pour into a container, freeze for 2 hours, then blend or scrape until fluffy before freezing for another 4 hours.",
+        "Scoop into bowls and serve with sweet corn, palm seeds, and a sprinkle of crunchy roasted peanuts."
+      ]
     },
     {
       "title": "ชอร์ตเค้กสตรอว์เบอร์รีครีมสด",
@@ -9645,7 +15067,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fresh Cream Strawberry Shortcake",
+      "desc_en": "Chill the mixing bowl and beaters beforehand so the whipping cream aerates quickly and holds firm peaks.",
+      "ingredients_en": [
+        "Cake flour: 90 g",
+        "Eggs: 3 pieces",
+        "Granulated sugar: 80 g",
+        "Melted butter: 30 g",
+        "Chilled whipping cream: 250 ml",
+        "Icing sugar: 25 g",
+        "Fresh strawberries: 200 g"
+      ],
+      "steps_en": [
+        "Beat the eggs and granulated sugar until pale and thick enough to form ribbons, then gently fold in sifted cake flour and melted butter.",
+        "Pour into a pan and bake at 170°C for 25 minutes; cool completely and slice horizontally into 2 layers.",
+        "Whip the chilled whipping cream with icing sugar until stiff peaks form.",
+        "Layer whipped cream and sliced strawberries between the cake layers, then frost the outside and garnish the top."
+      ]
     },
     {
       "title": "ทาร์ตช็อกโกแลตกานาช",
@@ -9674,7 +15113,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Dark Chocolate Ganache Tart",
+      "desc_en": "Adding a pinch of salt to the ganache deepens the rich cocoa flavor and balances the sweetness.",
+      "ingredients_en": [
+        "Finely crushed Oreo cookies: 180 g",
+        "Melted butter: 70 g",
+        "Chopped dark chocolate: 200 g",
+        "Whipping cream: 200 ml",
+        "Unsalted butter: 20 g",
+        "Fine salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Mix the crushed cookies with melted butter, press firmly into the base and sides of a tart pan, and chill until set.",
+        "Heat the whipping cream until simmering at the edges, pour over the chopped chocolate, and let sit for 2 minutes.",
+        "Stir gently until smooth and melted, then mix in the unsalted butter and salt until glossy.",
+        "Pour the ganache into the prepared crust and refrigerate for at least 2 hours until firm."
+      ]
     },
     {
       "title": "เลมอนเมอแรงก์ทาร์ต",
@@ -9704,7 +15159,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Torched Lemon Meringue Tartlets",
+      "desc_en": "Ensure the meringue mixing bowl is spotless and completely grease-free so the egg whites whip to glossy stiff peaks.",
+      "ingredients_en": [
+        "Pre-baked mini tart shells: 6 pieces",
+        "Fresh lemon juice: 80 ml",
+        "Egg yolks: 3 pieces",
+        "Egg whites: 2 pieces",
+        "Granulated sugar: 140 g",
+        "Unsalted butter: 50 g",
+        "Cornstarch: 15 g"
+      ],
+      "steps_en": [
+        "Cook the lemon juice, egg yolks, 70 g sugar, and cornstarch over low heat until thick and creamy, then stir in the butter until smooth.",
+        "Spoon the lemon curd into the baked tart shells and chill until set.",
+        "Whip the egg whites with the remaining 70 g sugar until stiff, glossy meringue peaks form.",
+        "Pipe the meringue onto the tartlets and torch until lightly golden brown."
+      ]
     },
     {
       "title": "ช็อกโกแลตมูสเนื้อเนียนนุ่ม",
@@ -9733,7 +15205,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Silky Dark Chocolate Mousse",
+      "desc_en": "Never fold hot melted chocolate into whipped cream, as the heat will deflate and melt the cream.",
+      "ingredients_en": [
+        "Chopped dark chocolate: 150 g",
+        "Whipping cream: 250 ml",
+        "Icing sugar: 20 g",
+        "Vanilla extract: 1/2 tsp",
+        "Unsalted butter: 15 g",
+        "Cocoa powder (for dusting): 1 tsp"
+      ],
+      "steps_en": [
+        "Melt the dark chocolate with 50 ml whipping cream and butter over a double boiler until smooth, then cool until just warm.",
+        "Whip the remaining 200 ml chilled cream with icing sugar and vanilla to soft peaks.",
+        "Gently fold the whipped cream into the warm chocolate in batches until light and airy.",
+        "Spoon into serving glasses, chill for at least 2 hours, and dust with cocoa powder before serving."
+      ]
     },
     {
       "title": "ฮันนี่โทสต์ไอศกรีมวานิลลา",
@@ -9762,7 +15250,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Honey Toast with Vanilla Ice Cream",
+      "desc_en": "Brushing the bread with salted butter balances the sweetness of the honey and ice cream for a richer flavor.",
+      "ingredients_en": [
+        "Thick loaf of white bread: 1 loaf",
+        "Melted salted butter: 45 g",
+        "Honey: 3 tbsp",
+        "Vanilla ice cream: 2 scoops",
+        "Whipped cream: to taste",
+        "Fresh strawberries or banana slices: to taste"
+      ],
+      "steps_en": [
+        "Score the top of the bread loaf in a deep grid pattern about three-quarters of the way down without cutting through the bottom.",
+        "Brush melted salted butter generously over the outside and into all the scored crevices.",
+        "Bake at 180°C for 12–15 minutes until the crust is golden and crisp.",
+        "Transfer to a plate, drizzle generously with honey, and serve with vanilla ice cream, whipped cream, and fresh fruit."
+      ]
     },
     {
       "title": "มิลล์เครปวานิลลาครีมสด",
@@ -9792,7 +15296,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Vanilla Cream Mille Crepe Cake",
+      "desc_en": "Let the crepes cool completely before layering with whipped cream so the cream stays firm and the layers do not slide.",
+      "ingredients_en": [
+        "Cake flour: 150 g",
+        "Eggs: 3 pieces",
+        "Fresh milk: 400 ml",
+        "Melted butter: 40 g",
+        "Granulated sugar: 40 g",
+        "Whipping cream (for layering): 350 ml",
+        "Icing sugar: 35 g"
+      ],
+      "steps_en": [
+        "Whisk the eggs, granulated sugar, milk, cake flour, and melted butter together, strain, and rest the batter for 30 minutes.",
+        "Cook thin crepes in a nonstick skillet over low heat to make about 12–15 sheets, then let cool completely.",
+        "Whip the whipping cream and icing sugar until stiff peaks form.",
+        "Stack the crepes with a thin layer of whipped cream between each sheet, then chill for 2 hours before slicing."
+      ]
     },
     {
       "title": "ไอศกรีมวานิลลาโฮมเมด",
@@ -9821,7 +15342,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "No-Churn Homemade Vanilla Ice Cream",
+      "desc_en": "Sweetened condensed milk and whipped cream give this no-churn ice cream a smooth, scoopable texture without ice crystals.",
+      "ingredients_en": [
+        "Chilled whipping cream: 300 ml",
+        "Sweetened condensed milk: 150 g",
+        "Fresh milk: 50 ml",
+        "Vanilla extract: 2 tsp",
+        "Fine salt: 1 pinch",
+        "Toasted sliced almonds (for garnish): 20 g"
+      ],
+      "steps_en": [
+        "Beat the ice-cold whipping cream until medium peaks form.",
+        "Stir the sweetened condensed milk, fresh milk, vanilla extract, and salt together until smooth.",
+        "Pour the milk mixture into the whipped cream and fold gently until completely combined.",
+        "Transfer to a lidded container, freeze for at least 6 hours, and serve topped with toasted almonds."
+      ]
     },
     {
       "title": "ไอศกรีมช็อกโกแลตชิพไม่ง้อเครื่องปั่น",
@@ -9850,7 +15387,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "No-Churn Chocolate Chip Ice Cream",
+      "desc_en": "Press parchment paper or plastic wrap directly onto the surface before sealing to prevent ice crystals from forming.",
+      "ingredients_en": [
+        "Chilled whipping cream: 300 ml",
+        "Sweetened condensed milk: 150 g",
+        "Cocoa powder: 30 g",
+        "Dark chocolate chips: 70 g",
+        "Vanilla extract: 1 tsp",
+        "Fine salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Sift the cocoa powder into the sweetened condensed milk with vanilla extract and salt, stirring until smooth.",
+        "Whip the ice-cold whipping cream until medium peaks form.",
+        "Fold the cocoa mixture into the whipped cream until uniform, then stir in the chocolate chips.",
+        "Pour into an airtight container and freeze for at least 6 hours before scooping."
+      ]
     },
     {
       "title": "ซอร์เบต์มะม่วงเสาวรส",
@@ -9879,7 +15432,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Mango Passion Fruit Sorbet",
+      "desc_en": "Strain out the passion fruit seeds beforehand if you prefer a completely smooth, seedless sorbet.",
+      "ingredients_en": [
+        "Frozen ripe mango flesh: 300 g",
+        "Fresh passion fruit pulp: 80 g",
+        "Honey or simple syrup: 2 tbsp",
+        "Lime juice: 1 tsp",
+        "Cold water: 2 tbsp",
+        "Fine salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Place the frozen mango, passion fruit pulp, honey, lime juice, and salt into a blender.",
+        "Add a splash of cold water and blend until completely smooth and velvety.",
+        "Taste and adjust the sweet-tart balance, then transfer to a lidded container.",
+        "Freeze for another 2–3 hours until firm enough to scoop."
+      ]
     },
     {
       "title": "ไดฟูกุสตรอว์เบอร์รีถั่วแดง",
@@ -9908,7 +15477,23 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "desserts_drinks",
-      "region": "central"
+      "region": "central",
+      "name_en": "Strawberry Red Bean Daifuku Mochi",
+      "desc_en": "Pat the strawberries completely dry before wrapping in red bean paste so the filling stays neat and the mochi skin does not tear.",
+      "ingredients_en": [
+        "Glutinous rice flour: 100 g",
+        "Granulated sugar: 30 g",
+        "Water: 140 ml",
+        "Toasted tapioca starch (for dusting): 40 g",
+        "Sweet red bean paste: 150 g",
+        "Fresh strawberries: 6 pieces"
+      ],
+      "steps_en": [
+        "Wrap each strawberry completely in red bean paste and chill in the refrigerator.",
+        "Whisk the glutinous rice flour, sugar, and water until smooth, microwave for 2 minutes, stir, and microwave 1 minute more until translucent.",
+        "Dust a work surface with toasted starch, gently knead the warm mochi dough, and divide into 6 equal portions.",
+        "Flatten each dough piece thinly, wrap around the strawberry-red bean filling, seal, and brush off excess starch to serve."
+      ]
     },
     {
       "title": "กะเพราไก่สับ",
@@ -9942,7 +15527,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Minced Chicken with Holy Basil (Pad Kra Pao)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice and fried egg; adjust the chilies to taste.",
+      "ingredients_en": [
+        "Skinless minced chicken: 150 g",
+        "Holy basil leaves: 15 g",
+        "Minced garlic: 10 g",
+        "Crushed bird's eye chilies: 5 g",
+        "Rice bran oil: 2 tsp",
+        "Oyster sauce: 2 tsp",
+        "Fish sauce: 1 tsp",
+        "Sweet dark soy sauce: 1/4 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Mix the oyster sauce, fish sauce, sweet dark soy sauce, sugar, and water in a small bowl.",
+        "Heat the oil in a wok over medium heat and stir-fry the garlic and chilies for about 30 seconds until fragrant.",
+        "Add the minced chicken, breaking up any clumps with a spatula, and stir-fry for 4–5 minutes.",
+        "Pour in the sauce mixture and cook until the chicken is thoroughly done with no pink meat (74°C internal temperature if using a thermometer).",
+        "Toss in the holy basil leaves just until wilted, then turn off the heat immediately."
+      ]
     },
     {
       "title": "ต้มยำกุ้งน้ำใส",
@@ -9976,7 +15582,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Tom Yum Goong (Spicy Prawn Soup)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; stir in the lime juice off the heat and adjust to taste.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 120 g",
+        "Straw mushrooms (halved): 80 g",
+        "Bruised lemongrass (cut into lengths): 20 g",
+        "Sliced galangal: 10 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Crushed bird's eye chilies: 5 g",
+        "Water: 400 ml",
+        "Fish sauce: 2 tsp",
+        "Lime juice: 1 tbsp",
+        "Sliced culantro: 5 g"
+      ],
+      "steps_en": [
+        "Bring the water to a boil, add the lemongrass, galangal, and kaffir lime leaves, reduce to medium heat, and simmer for 5 minutes.",
+        "Add the straw mushrooms and simmer for 3–4 minutes until tender.",
+        "Add the prawns and cook for 2–3 minutes until opaque and cooked through.",
+        "Season with fish sauce and chilies, turn off the heat, and stir in the lime juice.",
+        "Garnish with culantro and serve, avoiding eating the tough galangal, lemongrass, and lime leaves."
+      ]
     },
     {
       "title": "ต้มข่าไก่เห็ดนางฟ้า",
@@ -10013,7 +15640,31 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tom Kha Gai with Oyster Mushrooms",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; total energy varies significantly depending on coconut milk richness.",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 120 g",
+        "Torn oyster mushrooms: 80 g",
+        "Coconut milk: 100 ml",
+        "Water: 250 ml",
+        "Sliced galangal: 15 g",
+        "Bruised lemongrass (cut into lengths): 20 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Bruised shallots: 20 g",
+        "Fish sauce: 2 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Lime juice: 2 tsp",
+        "Crushed bird's eye chilies: 3 g",
+        "Cilantro: 3 g"
+      ],
+      "steps_en": [
+        "Simmer the water with galangal, lemongrass, kaffir lime leaves, and shallots for about 5 minutes.",
+        "Add the chicken and mushrooms and cook over medium heat for 5–7 minutes until the chicken is cooked through.",
+        "Stir in the coconut milk, fish sauce, and palm sugar gently, simmering softly for about 2 minutes.",
+        "Remove from heat and stir in the lime juice and chilies.",
+        "Top with cilantro and serve, setting aside the woody herbs before eating."
+      ]
     },
     {
       "title": "แกงเขียวหวานไก่มะเขือเปราะ",
@@ -10049,7 +15700,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Green Curry Chicken with Thai Eggplant",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; check store-bought curry paste labels for shrimp or fish allergens.",
+      "ingredients_en": [
+        "Skinless chicken thigh (cut into bite-sized pieces): 130 g",
+        "Quartered Thai round eggplants: 100 g",
+        "Pea eggplants: 20 g",
+        "Coconut milk: 120 ml",
+        "Water: 150 ml",
+        "Prepared green curry paste: 20 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Thai sweet basil leaves: 10 g",
+        "Diagonally sliced red spur chili: 10 g"
+      ],
+      "steps_en": [
+        "Heat half of the coconut milk in a pot over medium heat, add the curry paste, and stir for 2–3 minutes until fragrant.",
+        "Add the chicken and stir-fry with the paste until the exterior changes color.",
+        "Pour in the remaining coconut milk and water, and simmer over medium heat for about 8 minutes.",
+        "Add the Thai eggplants, pea eggplants, and kaffir lime leaves; simmer for 5–7 minutes until the eggplants are tender and the chicken is cooked through.",
+        "Season with fish sauce and palm sugar, tasting before adding more since curry pastes vary in saltiness.",
+        "Stir in the sweet basil and red chili, then turn off the heat."
+      ]
     },
     {
       "title": "แกงป่าหมูถั่วฝักยาว",
@@ -10085,7 +15759,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Jungle Pork Curry with Yardlong Beans",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; taste the broth before adding fish sauce as prepared paste may already be salty.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 130 g",
+        "Yardlong beans (cut into lengths): 60 g",
+        "Quartered Thai round eggplants: 80 g",
+        "Baby corn (cut into pieces): 50 g",
+        "Prepared jungle curry paste: 20 g",
+        "Rice bran oil: 1 tsp",
+        "Water: 350 ml",
+        "Fish sauce: 1 tsp",
+        "Julienned fingerroot (krachai): 15 g",
+        "Fresh green peppercorns: 10 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Holy basil leaves: 10 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a pot over medium heat and fry the curry paste for 1 minute, adding a splash of the measured water if dry.",
+        "Add the pork, stir until the outside changes color, then pour in the remaining water.",
+        "Once boiling, add the Thai eggplants and baby corn and cook for about 5 minutes.",
+        "Add the yardlong beans, fingerroot, green peppercorns, and kaffir lime leaves; simmer for 3–5 minutes until the vegetables and pork are cooked.",
+        "Season with fish sauce, toss in the holy basil, and turn off the heat."
+      ]
     },
     {
       "title": "ปลากะพงนึ่งมะนาว",
@@ -10118,7 +15815,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Steamed Sea Bass with Chili and Lime Sauce",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; check carefully for and remove any fish bones before eating.",
+      "ingredients_en": [
+        "Sea bass fillet (about 2 cm thick): 180 g",
+        "Minced garlic: 15 g",
+        "Sliced bird's eye chilies: 5 g",
+        "Lime juice: 1 tbsp",
+        "Fish sauce: 2 tsp",
+        "Granulated sugar: 1 tsp",
+        "Water (for sauce): 2 tbsp",
+        "Chinese celery (cut into lengths): 10 g",
+        "Water (for steaming): 1 L"
+      ],
+      "steps_en": [
+        "Bring the steaming water to a boil in a pot and place the fish on a heatproof plate.",
+        "Cover and steam for 10–15 minutes depending on thickness until opaque and flaky (63°C internal temperature if using a thermometer).",
+        "While steaming, stir the sauce water, sugar, and fish sauce together until the sugar dissolves.",
+        "Add the lime juice, minced garlic, and sliced chilies to the sauce.",
+        "Drain excess steaming liquid from the plate, spoon the sauce over the fish, garnish with Chinese celery, and serve."
+      ]
     },
     {
       "title": "ปลานิลทอดขมิ้น",
@@ -10149,7 +15866,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Crispy Turmeric Fried Tilapia",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice, assuming about 10 g absorbed oil depending on frying method.",
+      "ingredients_en": [
+        "Tilapia fillet (cut into 1 cm thick pieces): 180 g",
+        "Peeled fresh turmeric: 5 g",
+        "Garlic: 15 g",
+        "White peppercorns: 1/4 tsp",
+        "Salt: 1/4 tsp",
+        "Rice flour: 10 g",
+        "Rice bran oil (for shallow frying): 3 tbsp"
+      ],
+      "steps_en": [
+        "Pat the fish dry; pound the turmeric, garlic, white peppercorns, and salt into a paste.",
+        "Rub the paste over the fish and marinate in the refrigerator for 10 minutes.",
+        "Brush off excess marinade slightly and dust lightly with rice flour.",
+        "Heat the oil in a small pan over medium heat and pan-fry the fish for 3–4 minutes per side.",
+        "Check that the fish is cooked through and flakes easily, then drain on a wire rack."
+      ]
     },
     {
       "title": "ไข่เจียวหมูสับต้นหอม",
@@ -10179,7 +15914,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Minced Pork Omelet with Scallions",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; keep the heat moderate so the pork cooks through before the outside browns.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Lean minced pork: 40 g",
+        "Sliced scallions: 10 g",
+        "Fish sauce: 1 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 2 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with fish sauce and white pepper, then stir in the minced pork so it breaks up evenly without clumping.",
+        "Stir in the sliced scallions.",
+        "Heat the oil in a small nonstick skillet over medium heat, pour in the egg mixture, and spread evenly to no more than 1 cm thick.",
+        "Lower to medium-low heat and cook the first side for 3–4 minutes before flipping.",
+        "Cook for another 2–3 minutes until the egg is set and the pork is cooked through, lowering heat and covering briefly if browning too quickly."
+      ]
     },
     {
       "title": "ไข่ลูกเขยหอมเจียว",
@@ -10212,7 +15964,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Son-in-Law Eggs with Tamarind Glaze",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice, assuming about 8 g absorbed oil; pat boiled eggs dry before frying to reduce splatter.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Sliced shallots: 25 g",
+        "Tamarind paste: 1 tbsp",
+        "Palm sugar: 2 tsp",
+        "Fish sauce: 1 tsp",
+        "Water (for sauce): 2 tbsp",
+        "Rice bran oil: 1 tbsp",
+        "Cilantro: 3 g",
+        "Water (for boiling eggs): 700 ml"
+      ],
+      "steps_en": [
+        "Place the eggs in water, bring to a gentle boil, cook for 10 minutes, then cool in cold water and peel.",
+        "Pat the eggs and shallots dry; fry the shallots in oil over medium-low heat until lightly golden, then transfer to a plate.",
+        "In the same pan, roll the eggs in the oil for 3–4 minutes until golden on the outside, then remove.",
+        "Pour off excess oil, add tamarind paste, palm sugar, fish sauce, and sauce water, and simmer for 2–3 minutes until slightly thickened.",
+        "Halve the eggs, spoon the tamarind sauce over them, and garnish with fried shallots and cilantro."
+      ]
     },
     {
       "title": "ผัดผักบุ้งไฟแดง",
@@ -10245,7 +16017,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Morning Glory with Fermented Soybeans",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; no open flame is needed, and the oyster sauce makes this dish non-vegetarian.",
+      "ingredients_en": [
+        "Chinese morning glory (cut into lengths): 200 g",
+        "Crushed garlic: 15 g",
+        "Crushed bird's eye chilies: 5 g",
+        "Yellow bean paste (tao jiao): 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Light soy sauce: 1/2 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wash and drain the morning glory well, separating the thicker stems from the leaves.",
+        "Combine the yellow bean paste, oyster sauce, light soy sauce, sugar, and water.",
+        "Heat the oil in a pan over medium-high heat and stir-fry the garlic and chilies for 20 seconds.",
+        "Add the stems and stir-fry for 30 seconds, then add the leaves and sauce.",
+        "Stir-fry for 1–2 minutes until cooked yet crisp, and serve immediately."
+      ]
     },
     {
       "title": "กะหล่ำปลีผัดน้ำปลา",
@@ -10275,7 +16067,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Cabbage with Fish Sauce",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; use a wide pan for even cooking, noting fish sauce makes it non-vegetarian.",
+      "ingredients_en": [
+        "Torn cabbage pieces: 250 g",
+        "Crushed garlic: 10 g",
+        "Fish sauce: 2 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Wash the cabbage and drain as thoroughly as possible to prevent excess water in the pan.",
+        "Heat the oil in a wide pan over medium-high heat and sauté the garlic until fragrant.",
+        "Add the cabbage, spread it in an even layer, let sear for 20 seconds, then toss.",
+        "Add the fish sauce, sugar, and water, stir-frying for 2–3 minutes until tender with lightly seared edges.",
+        "Turn off the heat and serve hot."
+      ]
     },
     {
       "title": "ยำวุ้นเส้นหมูสับ",
@@ -10310,7 +16119,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Glass Noodle Salad with Minced Pork (Yum Woon Sen)",
+      "desc_en": "Single-serving recipe with approximate calories; toss while the noodles are still warm so they absorb the dressing evenly.",
+      "ingredients_en": [
+        "Dried glass noodles: 40 g",
+        "Lean minced pork: 100 g",
+        "Sliced onion: 40 g",
+        "Tomato wedges: 60 g",
+        "Chinese celery (cut into lengths): 10 g",
+        "Finely chopped bird's eye chilies: 5 g",
+        "Lime juice: 1 tbsp",
+        "Fish sauce: 2 tsp",
+        "Granulated sugar: 1 tsp",
+        "Water (for simmering pork): 3 tbsp",
+        "Water (for blanching noodles): 700 ml"
+      ],
+      "steps_en": [
+        "Soak the glass noodles according to package directions (typically 7–10 minutes), then snip into shorter strands.",
+        "Simmer the minced pork with 3 tbsp water over medium heat, breaking it apart, for 4–5 minutes until cooked through.",
+        "Boil the blanching water and cook the noodles for 1–2 minutes until translucent, then drain well.",
+        "Whisk the lime juice, fish sauce, sugar, and chilies in a bowl until the sugar dissolves.",
+        "Toss the noodles, cooked pork with its juices, onion, tomatoes, and Chinese celery together and serve."
+      ]
     },
     {
       "title": "ลาบไก่คั่วข้าวหอม",
@@ -10344,7 +16175,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Minced Chicken Salad with Toasted Rice (Larb Gai)",
+      "desc_en": "Single-serving recipe with approximate calories excluding sticky rice and fresh vegetables; add toasted rice just before serving for peak aroma.",
+      "ingredients_en": [
+        "Skinless minced chicken: 150 g",
+        "Sliced shallots: 25 g",
+        "Sliced scallions: 10 g",
+        "Sliced culantro: 10 g",
+        "Mint leaves: 5 g",
+        "Toasted ground rice: 10 g",
+        "Chili powder: 1/2 tsp",
+        "Fish sauce: 2 tsp",
+        "Lime juice: 1 tbsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Place the minced chicken and water in a pot over medium heat, stirring to break up the meat.",
+        "Cook for 5–7 minutes until the chicken is thoroughly cooked (74°C internal temperature if using a thermometer).",
+        "Turn off the heat and toss with fish sauce, lime juice, chili powder, and toasted ground rice.",
+        "Gently fold in the shallots, scallions, and culantro.",
+        "Top with mint leaves and serve."
+      ]
     },
     {
       "title": "น้ำตกหมูย่าง",
@@ -10380,7 +16232,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Spicy Grilled Pork Salad (Nam Tok Moo)",
+      "desc_en": "Single-serving recipe with approximate calories excluding sticky rice and vegetables; grilling time depends on pork thickness and pan heat.",
+      "ingredients_en": [
+        "Pork loin (about 1.5 cm thick): 150 g",
+        "Light soy sauce: 1 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Sliced shallots: 25 g",
+        "Sliced scallions: 10 g",
+        "Sliced culantro: 10 g",
+        "Mint leaves: 5 g",
+        "Toasted ground rice: 10 g",
+        "Chili powder: 1/2 tsp",
+        "Fish sauce: 1 tsp",
+        "Lime juice: 1 tbsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Toss the pork with light soy sauce and white pepper, and marinate in the refrigerator for 15 minutes.",
+        "Grill in a nonstick pan over medium heat for 4–6 minutes per side until the center reaches 63°C, then rest for at least 3 minutes.",
+        "Slice the pork thinly, place in a pot with water, warm over medium heat for 1 minute, and turn off the heat.",
+        "Toss with fish sauce, lime juice, chili powder, and toasted ground rice.",
+        "Fold in the shallots, scallions, culantro, and mint leaves, then serve."
+      ]
     },
     {
       "title": "ส้มตำไทยถั่วลิสง",
@@ -10415,7 +16290,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Classic Thai Green Papaya Salad (Som Tum Thai)",
+      "desc_en": "Single-serving recipe with approximate calories excluding sticky rice; categorized as vegetable-based though it contains dried shrimp and fish sauce.",
+      "ingredients_en": [
+        "Shredded green papaya: 150 g",
+        "Shredded carrot: 30 g",
+        "Yardlong beans (cut into lengths): 30 g",
+        "Tomato wedges: 50 g",
+        "Garlic: 5 g",
+        "Bird's eye chilies: 3 g",
+        "Dried shrimp: 8 g",
+        "Roasted peanuts: 15 g",
+        "Fish sauce: 2 tsp",
+        "Lime juice: 1 tbsp",
+        "Palm sugar: 2 tsp"
+      ],
+      "steps_en": [
+        "Wash and drain all vegetables well, keeping the shredded papaya and carrot ready.",
+        "Lightly pound the garlic and chilies in a mortar, then add the yardlong beans and gently bruise them.",
+        "Add palm sugar, fish sauce, and lime juice, pressing with the pestle and stirring with a spoon until the sugar dissolves.",
+        "Add the tomatoes and dried shrimp and toss together.",
+        "Add the green papaya, carrot, and peanuts, lightly bruising and tossing with a spoon until evenly coated."
+      ]
     },
     {
       "title": "แกงเลียงผักรวมกุ้งสด",
@@ -10451,7 +16348,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Spicy Mixed Vegetable and Shrimp Soup (Kaeng Liang)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; vegetable-heavy by weight though not vegetarian due to shrimp and shrimp paste.",
+      "ingredients_en": [
+        "Peeled pumpkin (cut into pieces): 80 g",
+        "Peeled angled loofah (cut into pieces): 80 g",
+        "Baby corn (cut into pieces): 50 g",
+        "Torn oyster mushrooms: 60 g",
+        "Lemon basil leaves: 10 g",
+        "Fresh prawns (peeled and deveined): 70 g",
+        "Shallots: 25 g",
+        "Dried shrimp: 8 g",
+        "Shrimp paste (kapi): 1/2 tsp",
+        "White peppercorns: 1/2 tsp",
+        "Fish sauce: 1 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Pound the white peppercorns, dried shrimp, shallots, and shrimp paste into a coarse curry paste.",
+        "Bring the water to a boil, stir in the paste until dispersed, and simmer for 3 minutes.",
+        "Add the pumpkin and baby corn and cook for 6–8 minutes until the pumpkin begins to soften.",
+        "Add the loofah and oyster mushrooms and cook for another 3 minutes.",
+        "Add the prawns, cook for 2–3 minutes until done, season with fish sauce, add lemon basil, and turn off the heat."
+      ]
     },
     {
       "title": "ฟักทองผัดไข่ใบโหระพา",
@@ -10484,7 +16404,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Pumpkin with Egg and Sweet Basil",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; taste before adding sugar as pumpkin varieties differ in sweetness.",
+      "ingredients_en": [
+        "Peeled pumpkin (thinly sliced): 200 g",
+        "Egg: 1 piece",
+        "Minced garlic: 10 g",
+        "Thai sweet basil leaves: 10 g",
+        "Light soy sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 80 ml"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the pumpkin, stir-fry for 1 minute, add water, cover, and steam-cook for 5–7 minutes until tender.",
+        "Uncover, add light soy sauce, oyster sauce, and sugar, and stir gently without mashing the pumpkin.",
+        "Push the pumpkin to one side, crack in the egg, scramble lightly until starting to set, then fold into the pumpkin.",
+        "Cook until the egg is fully done, toss in the sweet basil, and turn off the heat."
+      ]
     },
     {
       "title": "มะเขือยาวผัดเต้าเจี้ยวหมูสับ",
@@ -10518,7 +16458,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Eggplant with Minced Pork and Soy Bean Paste",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; vegetable-forward though it includes pork and oyster sauce.",
+      "ingredients_en": [
+        "Long purple eggplant (cut into chunks): 200 g",
+        "Lean minced pork: 70 g",
+        "Minced garlic: 10 g",
+        "Diagonally sliced red spur chili: 10 g",
+        "Thai sweet basil leaves: 10 g",
+        "Yellow bean paste (tao jiao): 2 tsp",
+        "Oyster sauce: 1 tsp",
+        "Granulated sugar: 1/2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 100 ml"
+      ],
+      "steps_en": [
+        "Cut the eggplant shortly before cooking to minimize browning.",
+        "Heat the oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the minced pork, breaking it apart, and stir-fry for 3–4 minutes.",
+        "Add the eggplant, yellow bean paste, oyster sauce, sugar, and water; cover and cook for 5–7 minutes.",
+        "Uncover to ensure the eggplant is tender and pork is cooked through, reduce the sauce slightly, toss in the chili and basil, and turn off the heat."
+      ]
     },
     {
       "title": "กุ้งผัดพริกเกลือ",
@@ -10551,7 +16512,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Seared Chili Salt Garlic Prawns",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; this healthier version pan-sears the prawns instead of deep-frying.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 150 g",
+        "Minced garlic: 20 g",
+        "Finely chopped bird's eye chilies: 5 g",
+        "Sliced scallions: 10 g",
+        "Cornstarch: 10 g",
+        "Salt: 1/4 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 2 tsp"
+      ],
+      "steps_en": [
+        "Pat the prawns dry and lightly coat them in cornstarch.",
+        "Heat half of the oil in a nonstick skillet over medium heat and sear the prawns for 1–2 minutes per side until cooked through, then set aside.",
+        "Add the remaining oil and sauté the garlic over medium-low heat until lightly golden.",
+        "Stir in the chilies, salt, sugar, and white pepper.",
+        "Return the prawns to the pan, sprinkle with scallions, toss for 30 seconds, and serve."
+      ]
     },
     {
       "title": "หมูผัดกะปิสะตอ",
@@ -10585,7 +16566,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Stir-Fried Pork with Stink Beans and Shrimp Paste",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; no extra fish sauce is added since shrimp paste varies in saltiness.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 130 g",
+        "Shelled stink beans (sataw, halved): 70 g",
+        "Shallots: 20 g",
+        "Garlic: 10 g",
+        "Bird's eye chilies: 5 g",
+        "Shrimp paste (kapi): 1 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Lime juice: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Rinse and inspect the stink beans; pound the shallots, garlic, chilies, and shrimp paste into a coarse paste.",
+        "Heat the oil in a pan over medium heat and fry the pounded paste for 1–2 minutes until aromatic.",
+        "Add the pork, stir-fry for 4–5 minutes, then pour in the water.",
+        "Add the stink beans and palm sugar, stir-frying for 2–3 minutes until the pork is done and the beans are crisp-tender.",
+        "Turn off the heat, toss with lime juice, and serve."
+      ]
     },
     {
       "title": "ฉู่ฉี่ปลาแซลมอน",
@@ -10617,7 +16619,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Salmon in Rich Red Choo Chee Curry",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; avoid flipping the salmon repeatedly so the fillet stays intact.",
+      "ingredients_en": [
+        "Salmon fillet: 150 g",
+        "Coconut milk: 100 ml",
+        "Prepared red curry paste: 15 g",
+        "Fish sauce: 1/2 tsp",
+        "Palm sugar: 1 tsp",
+        "Water: 3 tbsp",
+        "Finely julienned kaffir lime leaves: 2 leaves",
+        "Sliced red spur chili: 10 g"
+      ],
+      "steps_en": [
+        "Pat the salmon dry and check for and remove any pin bones.",
+        "Heat half of the coconut milk in a pan over medium heat, add the red curry paste, and fry for 2–3 minutes until fragrant.",
+        "Stir in the remaining coconut milk, water, fish sauce, and palm sugar until smooth.",
+        "Place the salmon in the sauce, lower to medium-low heat, cover, and simmer for 7–10 minutes depending on thickness while basting occasionally.",
+        "Ensure the center reaches 63°C or flakes easily, garnish with kaffir lime leaves and red chili, and turn off the heat."
+      ]
     },
     {
       "title": "ไข่พะโล้เต้าหู้",
@@ -10655,7 +16676,32 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Five-Spice Braised Eggs and Tofu (Khai Palo)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice using non-fried firm tofu; refrigerate leftovers within 2 hours if storing.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Firm tofu (cut into cubes): 100 g",
+        "Cilantro roots: 5 g",
+        "Garlic: 10 g",
+        "White peppercorns: 1/4 tsp",
+        "Cinnamon stick: 1 piece (3 cm)",
+        "Star anise: 1 piece",
+        "Palm sugar: 2 tsp",
+        "Light soy sauce: 2 tsp",
+        "Sweet dark soy sauce: 1/2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water (for braising broth): 450 ml",
+        "Water (for boiling eggs): 700 ml"
+      ],
+      "steps_en": [
+        "Place the eggs in boiling water, simmer gently for 10 minutes, then cool in cold water and peel.",
+        "Pound the cilantro roots, garlic, and white peppercorns into a fine paste.",
+        "Heat the oil in a pot over medium-low heat, sauté the paste until fragrant, then add palm sugar and stir until melted without burning.",
+        "Add the braising water, light soy sauce, sweet dark soy sauce, cinnamon, and star anise, and bring to a boil.",
+        "Add the peeled eggs and tofu, reduce heat, and simmer partially covered for 25–30 minutes, turning the eggs occasionally.",
+        "Remove the cinnamon stick and star anise before serving."
+      ]
     },
     {
       "title": "ไก่ผัดขิงเห็ดหูหนู",
@@ -10690,7 +16736,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Young Ginger and Black Fungus",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; use young ginger for a milder, softer warmth.",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 150 g",
+        "Julienned young ginger: 30 g",
+        "Fresh black fungus mushrooms (cut into pieces): 60 g",
+        "Onion wedges: 50 g",
+        "Scallions (cut into lengths): 10 g",
+        "Minced garlic: 10 g",
+        "Oyster sauce: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Rinse the black fungus mushrooms, trim any tough bases, drain well, and keep vegetables separate from the chicken.",
+        "Heat the oil in a pan over medium heat and sauté the garlic for 30 seconds until fragrant.",
+        "Add the chicken, stir-fry for 4–5 minutes, then add the ginger, onion, and black fungus.",
+        "Add the oyster sauce, light soy sauce, sugar, and water; cook for 3–4 minutes until vegetables are tender and chicken reaches 74°C.",
+        "Toss in the scallions until wilted and turn off the heat."
+      ]
     },
     {
       "title": "ไก่ผัดพริกแกงถั่วฝักยาว",
@@ -10722,7 +16790,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Red Curry Paste and Yardlong Beans",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; check curry paste labels for shrimp allergens before cooking.",
+      "ingredients_en": [
+        "Sliced chicken breast: 150 g",
+        "Yardlong beans (cut into lengths): 100 g",
+        "Prepared red curry paste: 15 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Fish sauce: 1/2 tsp",
+        "Palm sugar: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 4 tbsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and fry the red curry paste for 1 minute, adding a splash of water if dry.",
+        "Add the chicken and stir-fry for about 4 minutes until coated in the paste.",
+        "Add the yardlong beans and remaining water, cooking for 4–5 minutes.",
+        "Verify the chicken is cooked through and the beans are crisp-tender, then taste before seasoning with fish sauce and palm sugar.",
+        "Add the kaffir lime leaves, toss for 30 seconds, and turn off the heat."
+      ]
     },
     {
       "title": "ไก่ต้มขมิ้น",
@@ -10756,7 +16843,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Thai Turmeric Chicken Soup",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; wash cutting boards and utensils right away since turmeric stains easily.",
+      "ingredients_en": [
+        "Boneless, skinless chicken thigh (cut into pieces): 150 g",
+        "Peeled and bruised fresh turmeric: 10 g",
+        "Bruised lemongrass (cut into lengths): 25 g",
+        "Bruised shallots: 25 g",
+        "Bruised garlic: 10 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 2 tsp",
+        "Salt: 1/8 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Bring the water to a boil, add the turmeric, lemongrass, shallots, garlic, and kaffir lime leaves, and simmer for 5 minutes.",
+        "Add the chicken, return to a gentle simmer, and skim off any foam.",
+        "Reduce to medium-low heat and simmer for about 20 minutes until the chicken is tender and cooked through.",
+        "Stir in the tamarind paste, fish sauce, and salt, simmer for 2 minutes, and taste to adjust.",
+        "Ladle into a bowl, removing the turmeric, lemongrass, and kaffir lime leaves before eating."
+      ]
     },
     {
       "title": "ไก่อบตะไคร้",
@@ -10789,7 +16897,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Lemongrass Oven-Roasted Chicken Thigh",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; baking time depends on thickness and oven, so verify doneness beyond surface color.",
+      "ingredients_en": [
+        "Boneless, skinless chicken thigh: 160 g",
+        "Thinly sliced tender lemongrass: 20 g",
+        "Garlic: 10 g",
+        "Cilantro roots: 5 g",
+        "White peppercorns: 1/4 tsp",
+        "Oyster sauce: 2 tsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Pound the lemongrass, garlic, cilantro roots, and white peppercorns into a fine paste.",
+        "Mix the paste with oyster sauce, fish sauce, palm sugar, and oil, coat the chicken, and marinate in the refrigerator for 20 minutes.",
+        "While marinating, preheat the oven to 190°C and line a baking tray with parchment paper.",
+        "Place the chicken on the tray and roast for 25–30 minutes, flipping halfway through.",
+        "Check that the thickest part reaches 74°C, continuing to roast if needed, then rest for 3 minutes before slicing."
+      ]
     },
     {
       "title": "แกงเผ็ดไก่หน่อไม้",
@@ -10823,7 +16951,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Red Curry Chicken with Bamboo Shoots",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; use only pre-boiled, ready-to-cook bamboo shoots.",
+      "ingredients_en": [
+        "Skinless chicken thigh (cut into bite-sized pieces): 130 g",
+        "Pre-boiled shredded bamboo shoots: 120 g",
+        "Coconut milk: 100 ml",
+        "Prepared red curry paste: 20 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Thai sweet basil leaves: 10 g",
+        "Diagonally sliced red spur chili: 10 g",
+        "Water: 180 ml"
+      ],
+      "steps_en": [
+        "Rinse and drain the pre-boiled bamboo shoots well; do not substitute raw bamboo shoots directly.",
+        "Heat half of the coconut milk in a pot over medium heat with the red curry paste, stirring for 2–3 minutes until fragrant.",
+        "Add the chicken, stir until the exterior changes color, then add the remaining coconut milk and water.",
+        "Add the bamboo shoots and kaffir lime leaves, simmering over medium-low heat for 12–15 minutes until the chicken is cooked through.",
+        "Season with fish sauce and palm sugar to taste, toss in the sweet basil and chili, and turn off the heat."
+      ]
     },
     {
       "title": "หมูผัดพริกไทยดำ",
@@ -10857,7 +17006,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Black Pepper Pork Stir-Fry",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; halve the black pepper if you prefer a milder heat.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 150 g",
+        "Onion (cut into chunks): 60 g",
+        "Green bell pepper (cut into chunks): 60 g",
+        "Minced garlic: 10 g",
+        "Coarsely cracked black pepper: 1 tsp",
+        "Oyster sauce: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Granulated sugar: 1/2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Mix the oyster sauce, light soy sauce, sugar, cracked black pepper, and water in a small bowl.",
+        "Heat the oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the pork in a single layer and stir-fry for 4–5 minutes.",
+        "Add the onion, bell pepper, and sauce mixture, stir-frying for 3–4 minutes until the pork and vegetables are cooked through.",
+        "Cook until the sauce thickens slightly, then plate and serve."
+      ]
     },
     {
       "title": "หมูผัดเปรี้ยวหวานสับปะรด",
@@ -10893,7 +17063,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet and Sour Pork with Pineapple",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; taste before adding extra sugar since pineapple sweetness varies.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 130 g",
+        "Pineapple chunks: 80 g",
+        "Cucumber chunks: 60 g",
+        "Onion chunks: 40 g",
+        "Tomato wedges: 60 g",
+        "Minced garlic: 10 g",
+        "Ketchup: 1 tbsp",
+        "Rice vinegar: 1 tsp",
+        "Light soy sauce: 2 tsp",
+        "Granulated sugar: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Stir the ketchup, rice vinegar, light soy sauce, sugar, and water together until smooth.",
+        "Heat the oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the pork and stir-fry for 4–5 minutes, then toss in the onion and cucumber.",
+        "Pour in the sauce and pineapple chunks, stir-frying for about 3 minutes until the pork is cooked through.",
+        "Add the tomato wedges, toss gently for 1 minute, and turn off the heat."
+      ]
     },
     {
       "title": "หมูสับผัดหนำเลี้ยบ",
@@ -10926,7 +17119,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Minced Pork with Pickled Chinese Olives",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; no soy sauce or fish sauce is added because pickled olives are very salty.",
+      "ingredients_en": [
+        "Lean minced pork: 150 g",
+        "Pitted, finely chopped pickled Chinese olives (nam liap): 20 g",
+        "Minced garlic: 15 g",
+        "Sliced scallions: 10 g",
+        "Oyster sauce: 1 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Check carefully to make sure the pickled olives have no pits or pit fragments, then chop finely.",
+        "Heat the oil in a pan over medium heat and sauté the garlic until lightly golden.",
+        "Add the minced pork, breaking it into small crumbles, and stir-fry for 4–5 minutes.",
+        "Add the pickled olives, oyster sauce, sugar, white pepper, and water; cook until the pork is done.",
+        "Cook down the liquid to your preference, toss in the scallions, and turn off the heat."
+      ]
     },
     {
       "title": "ต้มจืดตำลึงหมูสับ",
@@ -10961,7 +17174,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Clear Ivy Gourd Soup with Minced Pork Meatballs",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories excluding rice; use only store-bought or positively identified ivy gourd leaves.",
+      "ingredients_en": [
+        "Lean minced pork: 120 g",
+        "Tender ivy gourd leaves and shoots: 80 g",
+        "Thinly sliced carrot: 40 g",
+        "Bruised garlic: 5 g",
+        "Bruised cilantro root: 3 g",
+        "Light soy sauce: 2 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Season the minced pork with 1 tsp light soy sauce and half of the white pepper, then shape into small 2 cm meatballs.",
+        "Bring the water, garlic, and cilantro root to a boil, add the carrot slices, and simmer for 3 minutes.",
+        "Add the meatballs, lower to medium heat, and simmer for 7–10 minutes until cooked through.",
+        "Add the ivy gourd and remaining soy sauce, simmering for 1–2 minutes until tender.",
+        "Sprinkle with the remaining white pepper and serve, removing the cilantro root."
+      ]
     },
     {
       "title": "กุ้งอบวุ้นเส้น",
@@ -10999,7 +17231,32 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Claypot-Style Baked Prawns with Glass Noodles (Goong Ob Woon Sen)",
+      "desc_en": "Single-serving recipe with approximate calories; use a heavy pot with a tight-fitting lid and watch the bottom to prevent scorching.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 130 g",
+        "Dried glass noodles: 50 g",
+        "Sliced ginger: 15 g",
+        "Bruised garlic: 10 g",
+        "Bruised cilantro roots: 5 g",
+        "Crushed black peppercorns: 1/2 tsp",
+        "Chinese celery (cut into lengths): 15 g",
+        "Oyster sauce: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Sweet dark soy sauce: 1/4 tsp",
+        "Granulated sugar: 1/2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 160 ml"
+      ],
+      "steps_en": [
+        "Soak the glass noodles according to package directions for 7–10 minutes, drain, and mix the oyster sauce, light soy sauce, dark soy sauce, sugar, and water.",
+        "Coat the bottom of a small heavy-bottomed pot with oil and layer the ginger, garlic, cilantro roots, and black peppercorns on the base.",
+        "Place the noodles in the pot, pour the sauce evenly over them, cover, and cook over medium-low heat for about 5 minutes.",
+        "Uncover, gently loosen the noodles, arrange the prawns on top, cover again, and cook for 5–7 minutes.",
+        "Check that the prawns are cooked through and the noodles are tender, adding hot water 1 tbsp at a time if it dries out early.",
+        "Add the Chinese celery, cover for 30 seconds, turn off the heat, and remove the ginger and cilantro roots before eating."
+      ]
     },
     {
       "title": "กุ้งผัดซอสมะขาม",
@@ -11032,7 +17289,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Prawns in Sweet Tamarind Sauce",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; taste the sauce before serving as tamarind pastes vary in concentration.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 150 g",
+        "Sliced shallots: 25 g",
+        "Minced garlic: 10 g",
+        "Tamarind paste: 1 tbsp",
+        "Palm sugar: 2 tsp",
+        "Fish sauce: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp",
+        "Cilantro: 3 g"
+      ],
+      "steps_en": [
+        "Stir the tamarind paste, palm sugar, fish sauce, and water together until dissolved.",
+        "Heat the oil in a pan over medium-low heat, sauté the shallots until lightly golden, and set half aside.",
+        "Add the garlic to the pan until fragrant, then add the prawns and cook for about 1 minute.",
+        "Pour in the tamarind sauce and simmer, tossing the prawns for 2–3 minutes until cooked through and the glaze thickens slightly.",
+        "Plate and garnish with the reserved crispy shallots and cilantro."
+      ]
     },
     {
       "title": "กุ้งผัดผงกะหรี่",
@@ -11071,7 +17348,33 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Curry Powder Stir-Fried Prawns",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; keep the heat low when adding the egg mixture for a silky sauce that still cooks through.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 120 g",
+        "Egg: 1 piece",
+        "Evaporated milk: 50 ml",
+        "Onion wedges: 60 g",
+        "Chinese celery (cut into lengths): 15 g",
+        "Scallions (cut into lengths): 10 g",
+        "Diagonally sliced red spur chili: 10 g",
+        "Minced garlic: 10 g",
+        "Curry powder: 1 tsp",
+        "Thai chili paste (nam prik pao): 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Light soy sauce: 1 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the egg, evaporated milk, Thai chili paste, oyster sauce, light soy sauce, and sugar together until smooth.",
+        "Heat the oil in a pan over medium heat and sauté the garlic and curry powder for 20–30 seconds without burning the spice.",
+        "Add the prawns and onion wedges, stir-fry for 2 minutes, then add the water.",
+        "Lower to medium-low heat, pour in the egg mixture, and stir gently for 2–3 minutes until the sauce thickens into soft curds and the prawns are cooked.",
+        "Toss in the Chinese celery, scallions, and red chili until wilted, then turn off the heat."
+      ]
     },
     {
       "title": "แกงส้มกุ้งมะละกอ",
@@ -11102,7 +17405,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sour Tamarind Curry with Prawns and Green Papaya (Kaeng Som)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; slice the green papaya evenly so all pieces soften at the same rate.",
+      "ingredients_en": [
+        "Fresh prawns (peeled and deveined): 130 g",
+        "Peeled green papaya (thinly sliced): 180 g",
+        "Prepared kaeng som curry paste: 20 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Bring the water to a boil, stir in the kaeng som paste until dissolved, and simmer for 3 minutes.",
+        "Add the green papaya, reduce to medium heat, and simmer for 12–18 minutes until tender.",
+        "Season with tamarind paste, fish sauce, and palm sugar, balancing the tangy, savory, and lightly sweet notes.",
+        "Add the prawns and simmer for 2–3 minutes until cooked through.",
+        "Turn off the heat and serve hot."
+      ]
     },
     {
       "title": "ปลากะพงผัดขึ้นฉ่าย",
@@ -11137,7 +17458,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Sea Bass with Chinese Celery",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; use a wide spatula when turning the fish to keep the pieces intact.",
+      "ingredients_en": [
+        "Sea bass fillet (cut into 1.5 cm thick pieces): 160 g",
+        "Chinese celery (cut into lengths): 40 g",
+        "Julienned ginger: 15 g",
+        "Minced garlic: 10 g",
+        "Yellow bean paste (tao jiao): 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Light soy sauce: 1/2 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Cornstarch: 8 g",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Check for and remove any bones, pat the fish dry, and coat lightly with cornstarch.",
+        "Heat half of the oil in a nonstick skillet over medium heat and sear the fish for 2–3 minutes per side until lightly set, then set aside.",
+        "Add the remaining oil and sauté the garlic and ginger until fragrant.",
+        "Stir in the yellow bean paste, oyster sauce, light soy sauce, sugar, and water until combined.",
+        "Return the fish to the pan, simmer for 1–2 minutes until cooked through, then add the Chinese celery and fold gently until wilted."
+      ]
     },
     {
       "title": "ปลาทูต้มมะดัน",
@@ -11169,7 +17512,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tangy Mackerel and Madan Sour Soup",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; use fresh raw mackerel rather than steamed mackerel, adjusting madan to taste.",
+      "ingredients_en": [
+        "Fresh short-bodied mackerel (gutted and cleaned): 1 piece (about 140 g edible flesh)",
+        "Bruised fresh madan fruit: 40 g",
+        "Bruised lemongrass (cut into lengths): 20 g",
+        "Bruised shallots: 25 g",
+        "Sliced ginger: 10 g",
+        "Fish sauce: 2 tsp",
+        "Granulated sugar: 1/2 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Simmer the water with lemongrass, shallots, and ginger for about 5 minutes.",
+        "Add the madan fruit and simmer for 5 minutes to release its tartness.",
+        "Add the mackerel, lower to medium-low heat, and simmer gently for 8–12 minutes depending on size until cooked through.",
+        "Season with fish sauce and sugar, tasting before crushing the madan further if already tart enough.",
+        "Ladle into a bowl and serve, setting aside the madan seeds, tough herbs, and fish bones while eating."
+      ]
     },
     {
       "title": "ไข่ตุ๋นทรงเครื่อง",
@@ -11206,7 +17568,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Savory Steamed Egg Custard with Minced Pork",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories excluding rice; steaming over low heat yields a silky custard, adjusting time by bowl shape.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Lean minced pork: 40 g",
+        "Finely diced carrot: 20 g",
+        "Sliced scallions: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Water (for egg mixture): 150 ml",
+        "Water (for cooking pork): 2 tbsp",
+        "Water (for steaming): 1 L"
+      ],
+      "steps_en": [
+        "Simmer the minced pork with 2 tbsp water in a small pot over medium heat, breaking it up until cooked through, then cool slightly.",
+        "Whisk the eggs gently with light soy sauce, white pepper, and 150 ml water, then strain through a fine sieve.",
+        "Place the cooked pork and diced carrot in a heatproof bowl and pour in the egg mixture to a depth of no more than 4 cm.",
+        "Bring the steaming water to a boil, reduce to low heat, and place the bowl in the steamer loosely covered with a heatproof plate.",
+        "Steam for 15–20 minutes until fully set in the center with no liquid remaining, continuing if needed.",
+        "Sprinkle with scallions and serve."
+      ]
     },
     {
       "title": "ไข่ยัดไส้หมูสับ",
@@ -11243,7 +17626,31 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Stuffed Omelet with Minced Pork (Khai Yat Sai)",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; cook the filling fairly dry before wrapping so the egg sheet does not tear.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Lean minced pork: 60 g",
+        "Diced onion: 30 g",
+        "Finely diced carrot: 30 g",
+        "Diced tomato: 40 g",
+        "Minced garlic: 5 g",
+        "Ketchup: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat 1 tsp oil in a pan over medium heat and sauté the garlic and minced pork for about 3 minutes.",
+        "Add the onion, carrot, and water, cooking for 3–4 minutes until the vegetables are tender.",
+        "Stir in the tomato, ketchup, light soy sauce, sugar, and white pepper, cooking until the pork is done and the filling is fairly dry, then set aside.",
+        "Beat the eggs well, heat the remaining oil in a nonstick skillet over medium-low heat, and swirl the eggs into a thin crepe-like sheet.",
+        "Once the egg sets, spoon the filling into the center and fold all four edges inward to form a parcel.",
+        "Carefully invert onto a serving plate seam-side down."
+      ]
     },
     {
       "title": "ไข่คั่วพริกเกลือต้นหอม",
@@ -11275,7 +17682,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chili Garlic Stir-Fried Eggs with Scallions",
+      "desc_en": "Single-serving recipe with approximate calories excluding rice; adjust the amount of chili without changing the main method.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Minced garlic: 15 g",
+        "Finely chopped bird's eye chilies: 5 g",
+        "Sliced scallions: 10 g",
+        "Salt: 1/8 tsp",
+        "Granulated sugar: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 2 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with salt, sugar, and white pepper until smooth.",
+        "Heat the oil in a pan over medium-low heat, sauté the garlic until lightly golden, then add the chilies.",
+        "Pour in the eggs, wait until the edges begin to set, then gently push and break into curds with a spatula.",
+        "Cook for 2–3 minutes until the eggs are completely set with no runny portions.",
+        "Toss in the scallions until combined and turn off the heat."
+      ]
     },
     {
       "title": "คะน้าผัดเห็ดหอม",
@@ -11307,7 +17733,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chinese Kale with Shiitake Mushrooms",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; check that the mushroom sauce and soy sauce are plant-based if making it vegetarian.",
+      "ingredients_en": [
+        "Chinese kale, cut into bite-sized pieces: 180 g",
+        "Fresh shiitake mushrooms, sliced: 80 g",
+        "Minced garlic: 10 g",
+        "Seasoned mushroom sauce: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Wash the Chinese kale, peel the tough outer stem skin, slice diagonally separating stems from leaves, and trim the tough mushroom stems.",
+        "Heat a pan over medium heat, add the oil and garlic, and stir-fry until fragrant.",
+        "Add the shiitake mushrooms and kale stems, stir-fry for about 2 minutes, then add the water.",
+        "Add the mushroom sauce, light soy sauce, and sugar, and stir-fry for about 2 minutes until the stems begin to soften.",
+        "Add the kale leaves and stir-fry for another 1–2 minutes until the vegetables and mushrooms are cooked through."
+      ]
     },
     {
       "title": "ยำมะเขือยาวย่าง",
@@ -11341,7 +17786,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Grilled Eggplant Salad",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; grilling time depends on eggplant size, and check soy sauce labels if making it vegetarian.",
+      "ingredients_en": [
+        "Long purple eggplant: 250 g",
+        "Sliced shallots: 25 g",
+        "Tomato, cut into pieces: 50 g",
+        "Mint leaves: 5 g",
+        "Finely chopped bird's eye chili: 5 g",
+        "Lime juice: 1 tbsp",
+        "Light soy sauce: 2 tsp",
+        "Sugar: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Wash the eggplant, halve it lengthwise, and lightly brush the cut flesh with oil.",
+        "Heat a grill pan over medium heat and grill the eggplant flesh-side down for about 5–7 minutes.",
+        "Flip, reduce the heat, cover, and grill for another 8–12 minutes until tender; let cool slightly to handle, peel off the skin, and cut into pieces.",
+        "Mix the lime juice, light soy sauce, sugar, chili, and water, stirring until the sugar dissolves.",
+        "Gently toss the eggplant with the shallots, tomato, and dressing, top with mint leaves, and serve."
+      ]
     },
     {
       "title": "ผัดบวบใส่ไข่",
@@ -11373,7 +17839,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Angled Luffa with Egg",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; a vegetable-forward dish that also includes egg and oyster sauce.",
+      "ingredients_en": [
+        "Angled luffa, ridges peeled and sliced: 250 g",
+        "Chicken egg: 1 whole",
+        "Minced garlic: 10 g",
+        "Light soy sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Wash the angled luffa, peel off the tough ridges, and slice into 1 cm thick pieces.",
+        "Heat a pan over medium heat, add the oil and garlic, and stir-fry until fragrant.",
+        "Add the luffa and water, cover, and cook for about 3–4 minutes until the luffa begins to soften.",
+        "Uncover, add the light soy sauce and oyster sauce, push the luffa to one side, and crack the egg into the empty space.",
+        "Scramble the egg until it begins to set, toss with the luffa until cooked through, sprinkle with white pepper, and turn off the heat."
+      ]
     },
     {
       "title": "ไก่ทอดสมุนไพร",
@@ -11406,7 +17891,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Herb Fried Chicken Wings",
+      "desc_en": "Makes 1 serving with approximate calories accounting for absorbed frying oil excluding rice; ensure the chicken is cooked through to the bone before serving.",
+      "ingredients_en": [
+        "Chicken mid-joint wings: 200 g",
+        "Thinly sliced lemongrass: 15 g",
+        "Sliced kaffir lime leaves: 2 leaves",
+        "Minced garlic: 10 g",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Rice flour: 15 g",
+        "Rice bran oil for deep-frying: 300 ml"
+      ],
+      "steps_en": [
+        "Pat the chicken wings dry, toss with lemongrass, garlic, fish sauce, oyster sauce, and white pepper, and marinate in the refrigerator for 20 minutes.",
+        "Lightly coat the chicken wings evenly with rice flour.",
+        "Heat oil in a pot over medium heat and fry the wings in batches so the oil temperature does not drop too quickly.",
+        "Fry for about 10–12 minutes, turning occasionally until cooked through and golden brown.",
+        "Briefly fry the kaffir lime leaves until crisp and remove; drain the wings on a wire rack and garnish with the crispy leaves."
+      ]
     },
     {
       "title": "ไก่ผัดพริกหยวก",
@@ -11439,7 +17944,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Banana Peppers",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; adjust the stir-fry time slightly depending on how tender you prefer the vegetables.",
+      "ingredients_en": [
+        "Chicken breast, thinly sliced: 150 g",
+        "Banana peppers, julienned: 100 g",
+        "Onion, cut into wedges: 40 g",
+        "Minced garlic: 10 g",
+        "Light soy sauce: 2 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Combine the light soy sauce, oyster sauce, sugar, and water in a small bowl.",
+        "Heat a pan over medium heat, add the oil and garlic, and stir-fry until fragrant.",
+        "Add the chicken and stir-fry for about 4–5 minutes until the outside changes color.",
+        "Add the banana peppers, onion, and mixed sauce, and stir-fry until the chicken is cooked through and the vegetables are crisp-tender.",
+        "Taste to adjust seasoning and serve."
+      ]
     },
     {
       "title": "ไก่ต้มฟักมะนาวดอง",
@@ -11472,7 +17997,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chicken and Winter Melon Soup with Pickled Lime",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; pickled lime varies in saltiness, so taste the broth before adding extra seasoning.",
+      "ingredients_en": [
+        "Skinless chicken thigh, cut into pieces: 150 g",
+        "Winter melon, peeled and cubed: 180 g",
+        "Pickled lime: 1/4 piece",
+        "Pickled lime brine: 1 tsp",
+        "Crushed cilantro root: 5 g",
+        "Crushed garlic: 5 g",
+        "White peppercorns: 1/4 tsp",
+        "Light soy sauce: 1 tsp",
+        "Water: 500 ml"
+      ],
+      "steps_en": [
+        "Bring the water, cilantro root, garlic, and white peppercorns to a boil.",
+        "Add the chicken, reduce to medium-low heat, and simmer for about 15 minutes while skimming off any foam.",
+        "Add the winter melon and simmer for another 15–20 minutes until the melon is tender and the chicken is cooked through.",
+        "Add the pickled lime and light soy sauce, simmer for 3 minutes, and taste before adding the pickled lime brine.",
+        "Serve hot, removing the pickled lime seeds and cilantro root."
+      ]
     },
     {
       "title": "ไก่ผัดฉ่ากระชาย",
@@ -11508,7 +18053,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Stir-Fried Chicken with Fingerroot and Herbs",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; adjust the amount of chili to match your preferred spice level.",
+      "ingredients_en": [
+        "Chicken breast, sliced: 150 g",
+        "Julienned fingerroot: 20 g",
+        "Fresh young green peppercorns: 15 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Crushed bird's eye chili: 5 g",
+        "Minced garlic: 10 g",
+        "Holy basil leaves: 10 g",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Combine the fish sauce, oyster sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil, garlic, and chili, and stir-fry until fragrant.",
+        "Add the chicken and stir-fry for about 4 minutes until the surface turns opaque.",
+        "Add the fingerroot, young peppercorns, kaffir lime leaves, and sauce mixture, stirring until the chicken is cooked through.",
+        "Toss in the holy basil leaves until wilted, then turn off the heat."
+      ]
     },
     {
       "title": "แกงมัสมั่นไก่มันฝรั่ง",
@@ -11545,7 +18113,31 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chicken Massaman Curry with Potatoes",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; store-bought curry pastes vary in saltiness and heat, so adjust to taste.",
+      "ingredients_en": [
+        "Skinless chicken thigh, cut into pieces: 150 g",
+        "Potato, peeled and cut into large cubes: 100 g",
+        "Onion, cut into wedges: 50 g",
+        "Coconut milk: 120 ml",
+        "Store-bought Massaman curry paste: 20 g",
+        "Roasted peanuts: 10 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 2 tsp",
+        "Tamarind paste: 1 tsp",
+        "Water: 180 ml",
+        "Cinnamon stick: 1 piece (3 cm)",
+        "Star anise: 1 whole"
+      ],
+      "steps_en": [
+        "Heat a pot over medium heat, add half of the coconut milk and the curry paste, and fry for 2–3 minutes until fragrant.",
+        "Add the chicken, coat evenly in the paste, and pour in the remaining coconut milk and water.",
+        "Add the cinnamon stick and star anise, and simmer over medium-low heat for about 15 minutes.",
+        "Add the potatoes and onion, and simmer for 15–20 minutes until the potatoes are tender and the chicken is cooked through.",
+        "Season with fish sauce, palm sugar, and tamarind paste, taste to adjust, and stir in the roasted peanuts.",
+        "Remove the cinnamon stick and star anise before serving."
+      ]
     },
     {
       "title": "หมูทอดน้ำปลากระเทียม",
@@ -11576,7 +18168,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Garlic and Fish Sauce Fried Pork",
+      "desc_en": "Makes 1 serving with approximate calories accounting for absorbed oil excluding rice; ensure the pork is thoroughly cooked through.",
+      "ingredients_en": [
+        "Pork loin, sliced 1 cm thick: 160 g",
+        "Fish sauce: 2 tsp",
+        "Sugar: 1/2 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Rice flour: 12 g",
+        "Minced garlic: 15 g",
+        "Rice bran oil for shallow frying: 3 tbsp"
+      ],
+      "steps_en": [
+        "Toss the pork with fish sauce, sugar, and white pepper, and marinate in the refrigerator for 15 minutes.",
+        "Pat the pork surface slightly dry and dust thinly with rice flour.",
+        "Heat oil to coat the bottom of a pan over medium heat and fry the pork for about 3–4 minutes per side until cooked through.",
+        "Transfer the pork to a wire rack, lower the heat, and fry the garlic in the pan until light golden.",
+        "Scatter the fried garlic over the pork and let drain excess oil before serving."
+      ]
     },
     {
       "title": "หมูคั่วพริกเกลือ",
@@ -11608,7 +18218,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Pork Stir-Fried with Chili and Salt",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; avoid excessive heat at the end so the garlic does not burn before the pork finishes cooking.",
+      "ingredients_en": [
+        "Pork neck, cut into small pieces: 150 g",
+        "Minced garlic: 15 g",
+        "Finely chopped bird's eye chili: 5 g",
+        "Sliced scallions: 10 g",
+        "Salt: 1/8 tsp",
+        "Sugar: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and pork, and stir-fry until the pork begins to brown and render some fat.",
+        "Continue stir-frying for about 5–7 minutes until cooked through, adding 1 tbsp of water if the pan becomes too dry.",
+        "Add the garlic and chili, reduce to medium-low heat, and stir-fry until the garlic is fragrant and pale golden.",
+        "Season with salt, sugar, and white pepper, tossing evenly.",
+        "Add the scallions, give a quick toss, and turn off the heat."
+      ]
     },
     {
       "title": "หมูผัดใบชะพลู",
@@ -11641,7 +18270,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Pork with Wild Betel Leaves",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; choose fresh wild betel leaves and wash them thoroughly before cooking.",
+      "ingredients_en": [
+        "Pork loin, thinly sliced: 140 g",
+        "Wild betel leaves, roughly chopped: 40 g",
+        "Minced garlic: 10 g",
+        "Sliced bird's eye chili: 5 g",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wash the wild betel leaves, drain well, and roughly chop them.",
+        "Combine the fish sauce, oyster sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil, garlic, and chili, and stir-fry until fragrant.",
+        "Add the pork, stir-fry for about 4–5 minutes until nearly cooked, then pour in the mixed sauce.",
+        "Stir-fry until the pork is cooked through, add the wild betel leaves, toss until wilted, and turn off the heat."
+      ]
     },
     {
       "title": "แกงจืดมะระยัดไส้หมู",
@@ -11679,7 +18328,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stuffed Bitter Melon Soup with Minced Pork",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; soak hollowed bitter melon in lightly salted water for 10 minutes and rinse to reduce bitterness, making it great for seniors.",
+      "ingredients_en": [
+        "Chinese bitter melon, cut into 4 cm rings: 180 g",
+        "Lean minced pork: 100 g",
+        "Dried glass noodles, soaked and chopped short: 10 g",
+        "Minced garlic: 5 g",
+        "Light soy sauce for pork: 1 tsp",
+        "Ground white pepper: 1/4 tsp",
+        "Crushed cilantro root: 5 g",
+        "Crushed garlic for broth: 5 g",
+        "Light soy sauce for broth: 1 tsp",
+        "Water: 500 ml"
+      ],
+      "steps_en": [
+        "Scoop out the seeds and white pith from the bitter melon rings, then wash and drain.",
+        "Mix the minced pork, glass noodles, minced garlic, light soy sauce for pork, and white pepper.",
+        "Stuff the pork mixture into each bitter melon ring without packing it too tightly.",
+        "Bring the water, cilantro root, and crushed garlic to a boil, then gently lower in the stuffed bitter melon.",
+        "Reduce to low heat, skim off any foam, and simmer for 30–35 minutes until the bitter melon is tender and the pork filling is cooked through.",
+        "Season with light soy sauce for the broth and serve, discarding the cilantro root."
+      ]
     },
     {
       "title": "กุ้งผัดน้ำพริกเผา",
@@ -11713,7 +18384,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Shrimp with Thai Chili Paste",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; taste before adding extra seasoning since Thai chili pastes vary in sweetness and saltiness.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 150 g",
+        "Onion, cut into wedges: 50 g",
+        "Red bell pepper, cut into pieces: 50 g",
+        "Thai roasted chili paste (Nam Prik Pao): 2 tsp",
+        "Oyster sauce: 1 tsp",
+        "Fish sauce: 1/2 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp",
+        "Thai sweet basil leaves: 8 g"
+      ],
+      "steps_en": [
+        "Mix the Thai roasted chili paste, oyster sauce, fish sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil and onion, and stir-fry for about 1 minute.",
+        "Add the shrimp and red bell pepper, and stir-fry for about 2 minutes.",
+        "Pour in the sauce mixture and stir-fry until the shrimp are cooked through and nicely glazed.",
+        "Toss in the Thai sweet basil leaves until wilted, then turn off the heat."
+      ]
     },
     {
       "title": "กุ้งต้มกะทิสายบัว",
@@ -11748,7 +18440,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shrimp and Lotus Stem in Coconut Soup",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; peel off the tough outer fibers of the lotus stems before cooking.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Lotus stems, cut into pieces: 150 g",
+        "Coconut milk: 120 ml",
+        "Water: 180 ml",
+        "Crushed shallots: 20 g",
+        "Crushed lemongrass, cut into pieces: 15 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Torn kaffir lime leaves: 2 leaves"
+      ],
+      "steps_en": [
+        "Peel the fibrous strings from the lotus stems, wash clean, and cut into bite-sized lengths.",
+        "Boil the water with the shallots, lemongrass, and kaffir lime leaves for about 5 minutes.",
+        "Add the lotus stems and simmer for 5–7 minutes until they begin to soften.",
+        "Stir in the coconut milk, tamarind paste, fish sauce, and palm sugar, bringing to a gentle simmer.",
+        "Add the shrimp, cook for 2–3 minutes until cooked through, and turn off the heat.",
+        "Serve hot, removing the lemongrass and kaffir lime leaves."
+      ]
     },
     {
       "title": "กุ้งย่างเกลือมะนาว",
@@ -11781,7 +18495,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Salt-Grilled Shrimp with Spicy Lime Dip",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice and leftover dipping sauce; avoid overgrilling so the shrimp stay tender.",
+      "ingredients_en": [
+        "Medium whole fresh shrimp, shell-on: 180 g",
+        "Salt: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 1 tsp",
+        "Lime juice: 1 tsp",
+        "Minced garlic for dipping sauce: 5 g",
+        "Finely chopped bird's eye chili for dipping sauce: 3 g",
+        "Fish sauce: 1 tsp",
+        "Water for dipping sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Wash the shrimp, pat dry, trim the whiskers with kitchen shears, and check freshness.",
+        "Toss the shrimp with salt, white pepper, and oil, and let rest for 5 minutes.",
+        "Mix the lime juice, minced garlic, chili, fish sauce, and water to make the dipping sauce.",
+        "Grill the shrimp on a grill pan over medium heat for 2–3 minutes per side until the shells turn bright orange and the meat is cooked through.",
+        "Serve immediately with the dipping sauce, peeling and deveining as desired."
+      ]
     },
     {
       "title": "กุ้งผัดสะตอกะปิ",
@@ -11815,7 +18549,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "south"
+      "region": "south",
+      "name_en": "Stir-Fried Shrimp with Stink Beans and Shrimp Paste",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; no extra fish sauce is added because fermented shrimp paste is naturally salty.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 130 g",
+        "Shelled stink beans (Sator), halved: 70 g",
+        "Fermented shrimp paste (Kapi): 1 tsp",
+        "Shallots: 20 g",
+        "Garlic: 10 g",
+        "Bird's eye chili: 5 g",
+        "Palm sugar: 1/2 tsp",
+        "Lime juice: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Pound the shallots, garlic, chili, and fermented shrimp paste into a coarse stir-fry paste.",
+        "Heat a pan over medium heat, add the oil and pounded paste, and stir-fry for about 1 minute until fragrant.",
+        "Add the shrimp, stir-fry until they begin to turn pink, then add the water.",
+        "Add the stink beans and palm sugar, stir-frying for 2–3 minutes until the shrimp are cooked through and the beans are crisp-tender.",
+        "Turn off the heat, stir in the lime juice to combine, and serve."
+      ]
     },
     {
       "title": "ปลานึ่งสมุนไพร",
@@ -11849,7 +18604,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Steamed Herb-Stuffed Sea Bass",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; steaming time varies by fish size and equipment, and watch carefully for bones.",
+      "ingredients_en": [
+        "Whole sea bass, gutted and scored: 250 g",
+        "Crushed lemongrass, cut into pieces: 25 g",
+        "Sliced galangal: 10 g",
+        "Torn kaffir lime leaves: 3 leaves",
+        "Crushed shallots: 20 g",
+        "Crushed garlic: 10 g",
+        "Fish sauce: 1 tsp",
+        "Lime juice: 1 tbsp",
+        "Sliced bird's eye chili: 5 g",
+        "Water for steaming: 1000 ml"
+      ],
+      "steps_en": [
+        "Rinse the fish thoroughly, inspect the cavity, and remove any unwanted parts or stray bones.",
+        "Stuff the lemongrass, galangal, shallots, and garlic inside the cavity, place the fish on a heatproof dish, and scatter kaffir lime leaves on top.",
+        "Bring water to a boil in a steamer, place the dish inside, cover, and steam for 18–25 minutes depending on thickness.",
+        "Check the thickest part near the bone to ensure the flesh is opaque, flakes easily, or reaches 63°C.",
+        "Mix the fish sauce, lime juice, and chili, and spoon over the steamed fish just before serving."
+      ]
     },
     {
       "title": "ปลาอินทรีทอดราดน้ำปลา",
@@ -11881,7 +18657,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Fried King Mackerel with Sweet Fish Sauce",
+      "desc_en": "Makes 1 serving with approximate calories accounting for absorbed oil excluding rice; check carefully for fish bones.",
+      "ingredients_en": [
+        "King mackerel steak, 1.5 cm thick: 180 g",
+        "Salt: 1/8 tsp",
+        "Rice flour: 8 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Water for sauce: 2 tbsp",
+        "Sliced shallots: 15 g",
+        "Rice bran oil for shallow frying: 3 tbsp"
+      ],
+      "steps_en": [
+        "Pat the fish dry, sprinkle lightly with salt, and dust thinly with rice flour.",
+        "Heat oil in a pan over medium heat, fry the fish for 3–4 minutes per side until cooked through and golden, then drain on a wire rack.",
+        "Pour off excess oil leaving about 1 tsp in the pan, add the shallots, and sauté until fragrant.",
+        "Add the fish sauce, palm sugar, and water, simmering over low heat until slightly thickened.",
+        "Spoon the sauce over the fried fish and serve immediately."
+      ]
     },
     {
       "title": "ปลาผัดฉ่ากระชายพริกไทยอ่อน",
@@ -11917,7 +18712,30 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Stir-Fried Sea Bass with Fingerroot and Young Peppercorns",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; stir gently so the delicate fish pieces stay intact.",
+      "ingredients_en": [
+        "Sea bass fillet, cut into chunks: 160 g",
+        "Julienned fingerroot: 20 g",
+        "Fresh young green peppercorns: 15 g",
+        "Torn kaffir lime leaves: 2 leaves",
+        "Crushed bird's eye chili: 5 g",
+        "Minced garlic: 10 g",
+        "Holy basil leaves: 10 g",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Check the sea bass chunks for pin bones and pat them dry.",
+        "Combine the fish sauce, oyster sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil, garlic, and chili, and stir-fry until fragrant.",
+        "Gently add the fish and fingerroot, stir-frying carefully until the fish surface begins to turn opaque, then add the sauce and young peppercorns.",
+        "Simmer until the fish is cooked through and the sauce reduces slightly, fold in the kaffir lime leaves and holy basil, and turn off the heat."
+      ]
     },
     {
       "title": "น้ำพริกปลาทูย่าง",
@@ -11949,7 +18767,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "snacks_sides",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Mackerel Chili Relish",
+      "desc_en": "Makes 1 serving with approximate calories including the fresh vegetables; inspect and remove every bone from the mackerel before pounding.",
+      "ingredients_en": [
+        "Fresh short-bodied mackerel (Pla Tu): 1 whole (~120 g edible flesh)",
+        "Bird's eye chili: 5 g",
+        "Shallots: 25 g",
+        "Garlic: 10 g",
+        "Fish sauce: 1 tsp",
+        "Lime juice: 1 tbsp",
+        "Water: 2 tbsp",
+        "Fresh vegetables for serving: 100 g"
+      ],
+      "steps_en": [
+        "Grill the mackerel on a grill pan over medium heat until cooked through on both sides, let cool slightly, flake the flesh, and remove all bones.",
+        "Dry-roast the chilies, shallots, and garlic in a pan over medium heat until lightly charred and fragrant.",
+        "Pound the roasted chilies, shallots, and garlic in a mortar until smooth.",
+        "Add the flaked mackerel, pound briefly to combine, and stir in the fish sauce, lime juice, and water.",
+        "Taste to adjust seasoning and serve alongside washed fresh vegetables."
+      ]
     },
     {
       "title": "ไข่ดาวทรงเครื่องหมูสับ",
@@ -11983,7 +18820,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Fried Eggs Topped with Savory Minced Pork",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; if keeping the yolks runny, use pasteurized or safely handled eggs.",
+      "ingredients_en": [
+        "Chicken eggs: 2 whole",
+        "Lean minced pork: 50 g",
+        "Diced onion: 30 g",
+        "Diced tomato: 40 g",
+        "Sliced scallions: 5 g",
+        "Ketchup: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat half of the oil in a pan over medium heat, add the minced pork and water, break up the meat, and cook through.",
+        "Add the onion, tomato, ketchup, light soy sauce, and sugar, stir-frying until thickened, then transfer to a bowl.",
+        "Wipe the pan clean, add the remaining oil over medium-low heat, and crack in the eggs one at a time.",
+        "Fry until the whites are set and the yolks reach your preferred doneness, covering briefly if you want the yolks cooked through.",
+        "Plate the fried eggs, spoon the savory minced pork topping over them, and garnish with scallions."
+      ]
     },
     {
       "title": "ไข่ผัดมะเขือเทศ",
@@ -12015,7 +18873,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Eggs with Tomatoes",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; choose ripe tomatoes for extra juiciness and natural sweetness.",
+      "ingredients_en": [
+        "Chicken eggs: 2 whole",
+        "Tomatoes, cut into wedges: 150 g",
+        "Minced garlic: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 1 tbsp",
+        "Sliced scallions: 5 g"
+      ],
+      "steps_en": [
+        "Beat the eggs with half of the light soy sauce until combined.",
+        "Heat half of the oil in a pan over medium heat, pour in the eggs, softly scramble into large curds, and set aside.",
+        "Add the remaining oil and garlic, stir-fry until fragrant, then add the tomatoes and water.",
+        "Stir-fry for 2–3 minutes until the tomatoes soften, then season with the remaining light soy sauce and sugar.",
+        "Return the eggs to the pan, toss gently until heated and cooked through, garnish with scallions, and turn off the heat."
+      ]
     },
     {
       "title": "ไข่กระทะหมูสับ",
@@ -12047,7 +18924,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Pan-Fried Eggs with Minced Pork",
+      "desc_en": "Makes 1 serving with approximate calories excluding bread; cover longer to cook the eggs completely if preferred.",
+      "ingredients_en": [
+        "Chicken eggs: 2 whole",
+        "Lean minced pork: 50 g",
+        "Minced garlic: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Sliced scallions: 5 g",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a small skillet over medium heat, add half the oil and garlic, and sauté until fragrant.",
+        "Add the minced pork and water, break up the meat, season with half the light soy sauce, cook through, and set aside.",
+        "Wipe the skillet, add the remaining oil over low heat, and crack in the eggs.",
+        "Spoon the cooked minced pork around the eggs, cover, and cook for 2–4 minutes until the whites are set to your liking.",
+        "Sprinkle with white pepper and scallions, and serve immediately."
+      ]
     },
     {
       "title": "ยำถั่วพูไข่ต้ม",
@@ -12082,7 +18978,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Winged Bean Salad with Boiled Egg",
+      "desc_en": "Makes 1 serving with approximate calories; a vegetable-forward salad that also contains egg, peanuts, and coconut milk.",
+      "ingredients_en": [
+        "Winged beans, sliced diagonally: 150 g",
+        "Chicken egg: 1 whole",
+        "Sliced shallots: 20 g",
+        "Toasted shredded coconut: 8 g",
+        "Crushed roasted peanuts: 8 g",
+        "Thai roasted chili paste (Nam Prik Pao): 1 tsp",
+        "Fish sauce: 1 tsp",
+        "Lime juice: 2 tsp",
+        "Palm sugar: 1 tsp",
+        "Coconut milk: 1 tbsp",
+        "Water for blanching: 700 ml"
+      ],
+      "steps_en": [
+        "Boil the egg in gently simmering water for 10 minutes, chill in cold water, and peel.",
+        "Bring the blanching water to a boil, blanch the winged beans for about 1 minute, immediately plunge into cold water, and drain well.",
+        "Whisk together the roasted chili paste, fish sauce, lime juice, palm sugar, and coconut milk until smooth.",
+        "Toss the blanched winged beans with the shallots and dressing.",
+        "Halve the boiled egg, place it on top of the salad, and garnish with toasted coconut and crushed peanuts before serving."
+      ]
     },
     {
       "title": "ผักกาดขาวตุ๋นเห็ดหอม",
@@ -12118,7 +19036,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Braised Napa Cabbage with Shiitake Mushrooms",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; suitable for seniors, and check soy sauce labels if preparing a vegetarian version.",
+      "ingredients_en": [
+        "Napa cabbage, cut into chunks: 250 g",
+        "Fresh shiitake mushrooms, halved: 70 g",
+        "Sliced carrot: 40 g",
+        "Crushed garlic: 5 g",
+        "Crushed cilantro root: 3 g",
+        "Light soy sauce: 2 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 350 ml"
+      ],
+      "steps_en": [
+        "Heat a pot over medium heat, add the oil, garlic, and cilantro root, and sauté until fragrant.",
+        "Add the shiitake mushrooms and carrot, and stir-fry for about 1 minute.",
+        "Pour in the water and light soy sauce, and bring to a boil.",
+        "Add the napa cabbage, reduce to low heat, cover, and braise for 15–20 minutes until tender.",
+        "Sprinkle with white pepper, taste to adjust, and serve."
+      ]
     },
     {
       "title": "ยำหัวปลีย่าง",
@@ -12153,7 +19091,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Banana Blossom Salad",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; a vegetable-forward dish where the banana blossom should be thoroughly washed before grilling.",
+      "ingredients_en": [
+        "Banana blossom, outer bracts removed and cut into wedges: 180 g",
+        "Sliced shallots: 20 g",
+        "Mint leaves: 5 g",
+        "Crushed roasted peanuts: 10 g",
+        "Lime juice: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Finely chopped bird's eye chili: 3 g",
+        "Rice bran oil: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Remove the tough outer bracts of the banana blossom, slice the tender core into wedges, and soak briefly in acidulated water with a splash of lime juice to prevent browning.",
+        "Drain the banana blossom wedges well and lightly brush with oil.",
+        "Grill on a pan over medium heat for 3–4 minutes per side until tender and lightly charred.",
+        "Combine the lime juice, fish sauce, palm sugar, chili, and water, stirring until the sugar dissolves.",
+        "Cut the grilled banana blossom into bite-sized pieces and toss with the shallots and dressing.",
+        "Garnish with mint leaves and crushed roasted peanuts before serving."
+      ]
     },
     {
       "title": "ข้าวผัดปลาทูสมุนไพร",
@@ -12187,7 +19147,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Mackerel and Herb Fried Rice",
+      "desc_en": "Makes 1 serving with approximate calories; double-check the flaked mackerel to ensure all bones are removed before stir-frying.",
+      "ingredients_en": [
+        "Cooked jasmine rice, chilled: 180 g",
+        "Cooked mackerel flesh, deboned: 80 g",
+        "Chicken egg: 1 whole",
+        "Sliced shallots: 15 g",
+        "Finely sliced lemongrass: 8 g",
+        "Finely shredded kaffir lime leaf: 1 leaf",
+        "Fish sauce: 1 tsp",
+        "Lime juice: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Sliced bird's eye chili: 3 g"
+      ],
+      "steps_en": [
+        "Inspect the mackerel flesh to remove any remaining bones and flake into bite-sized pieces.",
+        "Heat a pan over medium heat, add the oil and shallots, and sauté until fragrant.",
+        "Crack in the egg, scramble until it begins to set, add the rice, and stir-fry until the grains separate.",
+        "Add the mackerel, lemongrass, kaffir lime leaf, and fish sauce, tossing until heated through.",
+        "Turn off the heat, add the lime juice and chili, toss gently, and serve."
+      ]
     },
     {
       "title": "ข้าวคลุกกะปิหมูหวาน",
@@ -12224,7 +19205,31 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shrimp Paste Fried Rice with Sweet Pork",
+      "desc_en": "Makes 1 serving with approximate calories; adjust the sugar to your sweetness preference and check shrimp paste labels if you have shellfish allergies.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Fermented shrimp paste (Kapi): 1 tsp",
+        "Pork loin, diced: 80 g",
+        "Minced shallots: 10 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 2 tsp",
+        "Water: 3 tbsp",
+        "Chicken egg: 1 whole",
+        "Rice bran oil: 2 tsp",
+        "Shredded green mango: 30 g",
+        "Thinly sliced yardlong beans: 20 g",
+        "Sliced shallots for garnish: 10 g"
+      ],
+      "steps_en": [
+        "Heat half of the oil in a pan over low heat, add the shrimp paste, and stir-fry for about 30 seconds until fragrant.",
+        "Add the cooked rice, toss until evenly coated with shrimp paste, and set aside.",
+        "Add the remaining oil to the pan with the pork and minced shallots, and stir-fry until the pork begins to cook.",
+        "Add the fish sauce, palm sugar, and water, simmer over low heat until the pork is cooked through and the glaze thickens, then set aside.",
+        "Beat the egg, cook into a thin omelet sheet in a nonstick pan, and slice into thin strips.",
+        "Arrange the rice on a plate alongside the sweet pork, egg strips, green mango, yardlong beans, and sliced shallots."
+      ]
     },
     {
       "title": "หมูผัดพริกแกงหน่อไม้",
@@ -12256,7 +19261,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Pork with Red Curry Paste and Bamboo Shoots",
+      "desc_en": "Makes 1 serving with approximate calories; use pre-boiled, ready-to-cook bamboo shoots.",
+      "ingredients_en": [
+        "Pork loin, thinly sliced: 140 g",
+        "Pre-boiled ready-to-cook bamboo shoots, julienned: 120 g",
+        "Store-bought red curry paste: 15 g",
+        "Sliced kaffir lime leaves: 2 leaves",
+        "Fish sauce: 1/2 tsp",
+        "Sugar: 1/2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 4 tbsp"
+      ],
+      "steps_en": [
+        "Rinse the pre-boiled bamboo shoots and drain well.",
+        "Heat a pan over medium heat, add the oil and curry paste, and fry for 1 minute, adding a splash of water if it looks dry.",
+        "Add the pork and stir-fry until the surface changes color.",
+        "Add the bamboo shoots and water, and stir-fry for 5–7 minutes until the pork is cooked through.",
+        "Season with fish sauce and sugar (tasting first), sprinkle with kaffir lime leaves, and turn off the heat."
+      ]
     },
     {
       "title": "หมูอบน้ำผึ้งซีอิ๊ว",
@@ -12287,7 +19311,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Honey Soy Baked Pork Loin",
+      "desc_en": "Makes 1 serving with approximate calories; baking time depends on the thickness of the pork cut and your oven.",
+      "ingredients_en": [
+        "Thick-cut pork loin: 160 g",
+        "Light soy sauce: 2 tsp",
+        "Honey: 2 tsp",
+        "Minced garlic: 8 g",
+        "Ground black pepper: 1/4 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Mix the light soy sauce, honey, garlic, black pepper, and oil, coat the pork evenly, and marinate in the refrigerator for 20 minutes.",
+        "Preheat the oven to 190°C, place the pork in a baking dish, and pour the marinade over it.",
+        "Bake for about 20 minutes, flip the pork, and bake for another 15–20 minutes.",
+        "Check that the center reaches 63°C (continue baking if needed), then let rest for at least 3 minutes.",
+        "Slice against the grain and spoon a little pan juice over the top before serving."
+      ]
     },
     {
       "title": "หมูสามชั้นคั่วพริกเกลือ",
@@ -12318,7 +19360,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Pork Belly with Chili, Garlic, and Salt",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; no extra oil is needed because the pork belly renders its own fat.",
+      "ingredients_en": [
+        "Pork belly, cut into bite-sized pieces: 130 g",
+        "Minced garlic: 15 g",
+        "Finely chopped bird's eye chili: 5 g",
+        "Sliced scallions: 10 g",
+        "Salt: 1/8 tsp",
+        "Sugar: 1/4 tsp",
+        "Ground white pepper: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Place the pork belly in a dry pan over medium-low heat and slowly render the fat until the pieces begin to brown.",
+        "Continue cooking for 10–15 minutes, turning occasionally until cooked through and golden crisp.",
+        "Spoon out excess rendered fat, leaving about 1 tsp in the pan.",
+        "Add the garlic and chili, and sauté over low heat until the garlic is fragrant and pale golden.",
+        "Season with salt, sugar, and white pepper, add the scallions, toss to combine, and turn off the heat."
+      ]
     },
     {
       "title": "แกงอ่อมไก่ผักชีลาว",
@@ -12352,7 +19412,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "isan"
+      "region": "isan",
+      "name_en": "Northeastern Thai Chicken and Dill Curry",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; adjust the amount of chili to taste.",
+      "ingredients_en": [
+        "Chicken meat, cut into pieces: 140 g",
+        "Pumpkin, cut into chunks: 80 g",
+        "Angled luffa, cut into chunks: 70 g",
+        "Cabbage, cut into chunks: 50 g",
+        "Fresh dill: 15 g",
+        "Toasted rice powder: 1 tsp",
+        "Bird's eye chili: 5 g",
+        "Shallots: 20 g",
+        "Fish sauce: 1 tsp",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Pound the chilies and shallots together into a coarse paste.",
+        "Bring the water to a boil, stir in the pounded paste and chicken, and reduce to medium heat.",
+        "Simmer for about 10 minutes, skimming any foam, then add the pumpkin and cabbage.",
+        "Once the vegetables begin to soften, add the luffa and simmer until the chicken is cooked through and the vegetables are tender.",
+        "Season with fish sauce, stir in the toasted rice powder and fresh dill gently, and turn off the heat."
+      ]
     },
     {
       "title": "ไก่ย่างตะไคร้",
@@ -12385,7 +19466,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Lemongrass Grilled Chicken",
+      "desc_en": "Makes 1 serving with approximate calories; grilling time depends on meat thickness and grill temperature.",
+      "ingredients_en": [
+        "Boneless, skinless chicken thigh: 170 g",
+        "Tender lemongrass stalk, sliced: 20 g",
+        "Garlic: 10 g",
+        "Cilantro root: 5 g",
+        "White peppercorns: 1/4 tsp",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Pound the lemongrass, garlic, cilantro root, and white peppercorns into a fine paste.",
+        "Mix the paste with fish sauce, oyster sauce, palm sugar, and oil, and coat the chicken evenly.",
+        "Marinate in the refrigerator for at least 20 minutes.",
+        "Grill on a grill pan over medium heat for 6–8 minutes per side, turning occasionally.",
+        "Check that the thickest center reaches 74°C (grill longer if needed), then rest for 3 minutes before serving."
+      ]
     },
     {
       "title": "ข้าวมันไก่ต้ม",
@@ -12422,7 +19523,31 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Poached Chicken Rice (Khao Man Gai)",
+      "desc_en": "Makes 1 serving with approximate calories; you may have extra broth and dipping sauce, and rice portions can be adjusted as desired.",
+      "ingredients_en": [
+        "Skinless chicken breast: 150 g",
+        "Uncooked jasmine rice: 80 g",
+        "Minced garlic for rice: 8 g",
+        "Sliced ginger: 10 g",
+        "Rice bran oil: 2 tsp",
+        "Water for poaching chicken: 600 ml",
+        "Light soy sauce: 1 tsp",
+        "Fermented soybean paste for dipping sauce: 2 tsp",
+        "Minced ginger for dipping sauce: 5 g",
+        "Lime juice: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Cucumber slices: 40 g"
+      ],
+      "steps_en": [
+        "Bring the water and sliced ginger to a boil, add the chicken, reduce to low heat, and poach until the center reaches 74°C; remove and set aside.",
+        "Measure 100 ml of the chicken broth for cooking the rice and reserve the rest as soup.",
+        "Rinse and drain the rice, sauté the garlic in oil in a pot until fragrant, then add the rice and stir briefly.",
+        "Pour in the measured chicken broth and cook until the rice is done.",
+        "Mix the fermented soybean paste, minced ginger, light soy sauce, lime juice, sugar, and a splash of chicken broth for the dipping sauce.",
+        "Slice the poached chicken and serve with the rice, cucumber, dipping sauce, and soup."
+      ]
     },
     {
       "title": "ไก่ผัดเม็ดพริกไทยอ่อน",
@@ -12456,7 +19581,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chicken with Fresh Young Peppercorns",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; keep the peppercorns on the stem or strip the berries off as preferred.",
+      "ingredients_en": [
+        "Chicken breast, sliced: 150 g",
+        "Fresh young green peppercorns: 20 g",
+        "Onion, cut into wedges: 50 g",
+        "Red bell pepper, cut into pieces: 50 g",
+        "Minced garlic: 10 g",
+        "Oyster sauce: 2 tsp",
+        "Light soy sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Combine the oyster sauce, light soy sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil and garlic, and stir-fry until fragrant.",
+        "Add the chicken and stir-fry for about 4 minutes until the outside turns opaque.",
+        "Add the onion, red bell pepper, and young peppercorns, then pour in the sauce mixture.",
+        "Stir-fry until the chicken is cooked through and the vegetables are tender-crisp, then serve."
+      ]
     },
     {
       "title": "แกงเหลืองปลาอินทรีหน่อไม้ดอง",
@@ -12488,7 +19634,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Thai Yellow Curry with King Mackerel and Pickled Bamboo Shoots",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; pickled bamboo shoots and curry pastes vary in saltiness, so taste before seasoning.",
+      "ingredients_en": [
+        "King mackerel, cut into pieces: 160 g",
+        "Pickled bamboo shoots, well rinsed: 100 g",
+        "Store-bought Southern yellow curry paste: 18 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Rinse the pickled bamboo shoots several times and drain well; blanch briefly in boiling water if overly sour or salty, then drain.",
+        "Bring the water to a boil, whisk in the yellow curry paste until dissolved, and simmer for 3 minutes.",
+        "Add the pickled bamboo shoots and boil over medium heat for about 10 minutes.",
+        "Stir in the tamarind paste, fish sauce, and palm sugar, tasting to balance before adding the fish.",
+        "Add the mackerel without stirring aggressively and simmer over medium-low heat for 6–8 minutes until cooked through.",
+        "Serve hot, taking care to watch for fish bones."
+      ]
     },
     {
       "title": "ปลาราดพริกสามรส",
@@ -12521,7 +19686,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Crispy Tilapia with Three-Flavor Chili Tamarind Sauce",
+      "desc_en": "Makes 1 serving with approximate calories accounting for absorbed oil excluding rice; adjust the sauce balance according to the sourness of your tamarind paste.",
+      "ingredients_en": [
+        "Thick-cut tilapia fillet: 180 g",
+        "Rice flour: 10 g",
+        "Minced garlic: 10 g",
+        "Finely chopped bird's eye chili: 5 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 2 tsp",
+        "Water: 2 tbsp",
+        "Rice bran oil for shallow frying: 3 tbsp"
+      ],
+      "steps_en": [
+        "Check the tilapia fillet for bones, pat dry, and coat thinly with rice flour.",
+        "Heat oil in a pan over medium heat, fry the fish for 3–4 minutes per side until golden and cooked through, then drain on a wire rack.",
+        "Pour off excess oil leaving about 1 tsp, add the garlic and chili, and sauté over low heat until fragrant.",
+        "Add the tamarind paste, fish sauce, palm sugar, and water, simmering until slightly thickened.",
+        "Pour the three-flavor sauce over the cooked fish and serve immediately."
+      ]
     },
     {
       "title": "ปลาทูต้มส้มขิง",
@@ -12552,7 +19737,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sour Tamarind Mackerel Soup with Ginger",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; adjust the tamarind paste to match your desired level of tanginess.",
+      "ingredients_en": [
+        "Fresh short-bodied mackerel (Pla Tu), gutted and cleaned: 1 whole (~140 g edible flesh)",
+        "Julienned ginger: 20 g",
+        "Crushed shallots: 20 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 2 tsp",
+        "Palm sugar: 1 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Boil the water with the ginger and shallots for about 5 minutes.",
+        "Stir in the tamarind paste, fish sauce, and palm sugar until dissolved.",
+        "When the broth is gently simmering, carefully add the mackerel without stirring.",
+        "Simmer for 10–15 minutes depending on size until the fish is cooked through.",
+        "Taste the broth, ladle into a bowl, and watch for bones while eating."
+      ]
     },
     {
       "title": "ปลาช่อนลุยสวน",
@@ -12587,7 +19790,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Seared Snakehead Fish with Thai Herb Salad",
+      "desc_en": "Makes 1 serving with approximate calories accounting for absorbed oil excluding rice; check carefully for fish bones before serving.",
+      "ingredients_en": [
+        "Thick-cut snakehead fish fillet: 180 g",
+        "Rice flour: 8 g",
+        "Finely sliced lemongrass: 10 g",
+        "Sliced shallots: 15 g",
+        "Mint leaves: 5 g",
+        "Sliced sawtooth coriander: 5 g",
+        "Lime juice: 1 tbsp",
+        "Fish sauce: 2 tsp",
+        "Sugar: 1 tsp",
+        "Sliced bird's eye chili: 4 g",
+        "Rice bran oil for shallow frying: 2 tbsp"
+      ],
+      "steps_en": [
+        "Check the fish fillet for bones, pat dry, and coat thinly with rice flour.",
+        "Heat oil in a pan over medium heat, pan-sear the fish for 3–4 minutes per side until cooked through, and drain excess oil.",
+        "Combine the lime juice, fish sauce, sugar, and chili, stirring until the sugar dissolves.",
+        "Stir the lemongrass and shallots into the dressing.",
+        "Plate the fish, spoon the herb dressing on top, and garnish with sawtooth coriander and mint leaves."
+      ]
     },
     {
       "title": "ปลากะพงลวกจิ้มเต้าเจี้ยว",
@@ -12620,7 +19845,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Poached Sea Bass with Fermented Soybean Dip",
+      "desc_en": "Makes 1 serving with approximate calories; for a lower-sodium version, reduce the fermented soybean paste and skip extra soy sauce.",
+      "ingredients_en": [
+        "Sea bass fillet, thinly sliced: 180 g",
+        "Julienned ginger: 10 g",
+        "Chinese celery, cut into pieces: 10 g",
+        "Fermented soybean paste: 2 tsp",
+        "Lime juice: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Finely chopped bird's eye chili: 3 g",
+        "Water for dipping sauce: 2 tbsp",
+        "Water for poaching: 700 ml"
+      ],
+      "steps_en": [
+        "Check the sea bass for bones and slice into even pieces of similar thickness.",
+        "Bring the poaching water to a gentle simmer, poach the fish pieces one batch at a time for 3–5 minutes until cooked through, then lift out and drain.",
+        "Mix the fermented soybean paste, lime juice, sugar, dipping-sauce water, and chili until well combined.",
+        "Arrange the poached fish on a plate and top with ginger and Chinese celery.",
+        "Serve alongside the fermented soybean dipping sauce."
+      ]
     },
     {
       "title": "กุ้งผัดพริกขี้หนูสวน",
@@ -12653,7 +19898,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Shrimp with Bird's Eye Chilies and Holy Basil",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; adjust the amount of bird's eye chilies to suit your heat tolerance.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 150 g",
+        "Crushed bird's eye chili: 5 g",
+        "Minced garlic: 12 g",
+        "Holy basil leaves: 10 g",
+        "Fish sauce: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Combine the fish sauce, oyster sauce, sugar, and water.",
+        "Heat a pan over medium heat, add the oil, garlic, and chili, and stir-fry until fragrant.",
+        "Add the shrimp and stir-fry for 1–2 minutes until they start turning pink.",
+        "Pour in the sauce mixture and stir-fry until the shrimp are cooked through and well glazed.",
+        "Toss in the holy basil leaves until wilted, then turn off the heat."
+      ]
     },
     {
       "title": "ข้าวต้มกุ้งขิง",
@@ -12689,7 +19954,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Rice Porridge with Shrimp and Ginger",
+      "desc_en": "Makes 1 serving with approximate calories; uses unsalted broth to help control sodium intake, making it suitable for seniors.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 150 g",
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Julienned ginger: 10 g",
+        "Crispy fried garlic: 1 tsp",
+        "Sliced scallions: 5 g",
+        "Chopped Chinese celery: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Ground white pepper: 1/8 tsp",
+        "Water or unsalted stock: 400 ml"
+      ],
+      "steps_en": [
+        "Bring the water or unsalted stock to a boil, add the cooked rice, and stir gently.",
+        "Reduce to medium heat and simmer for 8–10 minutes until the rice grains soften and open up.",
+        "Add the ginger and shrimp, and simmer for 2–3 minutes until the shrimp are cooked through.",
+        "Season with light soy sauce and white pepper, tasting to adjust.",
+        "Ladle into a bowl and garnish with scallions, Chinese celery, and crispy fried garlic."
+      ]
     },
     {
       "title": "แกงคั่วกุ้งใบชะพลู",
@@ -12720,7 +20005,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "south"
+      "region": "south",
+      "name_en": "Red Coconut Curry with Shrimp and Wild Betel Leaves",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; check store-bought curry paste labels as they often contain shrimp paste or seafood.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 130 g",
+        "Wild betel leaves, roughly chopped: 30 g",
+        "Coconut milk: 120 ml",
+        "Store-bought red curry paste: 15 g",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Water: 100 ml"
+      ],
+      "steps_en": [
+        "Wash the wild betel leaves thoroughly and drain well.",
+        "Heat a pot over medium heat, add half of the coconut milk and the curry paste, and fry for about 2 minutes until fragrant.",
+        "Pour in the remaining coconut milk and water, stir to combine, and bring to a gentle simmer.",
+        "Add the shrimp and cook for 2–3 minutes until cooked through.",
+        "Season with fish sauce and palm sugar, stir in the wild betel leaves until wilted, and turn off the heat."
+      ]
     },
     {
       "title": "ยำเห็ดรวมสมุนไพร",
@@ -12754,7 +20057,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Mixed Mushroom Herb Salad",
+      "desc_en": "Makes 1 serving with approximate calories; substitute a plant-based seasoning for fish sauce and check labels if making it vegetarian.",
+      "ingredients_en": [
+        "Oyster mushrooms, torn into strips: 70 g",
+        "King oyster mushrooms, sliced: 70 g",
+        "Enoki mushrooms, bases trimmed: 50 g",
+        "Sliced shallots: 20 g",
+        "Chinese celery, cut into pieces: 10 g",
+        "Finely chopped bird's eye chili: 3 g",
+        "Lime juice: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Water for blanching: 700 ml"
+      ],
+      "steps_en": [
+        "Clean and rinse all three mushroom varieties thoroughly and drain well.",
+        "Bring water to a boil, blanch each mushroom variety until cooked through, and lift out to drain.",
+        "Combine the lime juice, fish sauce, sugar, and chili, stirring until the sugar dissolves.",
+        "Place the warm mushrooms, shallots, and Chinese celery into a mixing bowl.",
+        "Pour the dressing over, toss gently to combine, and serve."
+      ]
     },
     {
       "title": "แกงเห็ดรวมใบแมงลัก",
@@ -12787,7 +20111,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Mixed Mushroom Soup with Lemon Basil",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; replace fish sauce with a plant-based seasoning to make it vegetarian.",
+      "ingredients_en": [
+        "Oyster mushrooms, torn into strips: 80 g",
+        "Straw mushrooms, halved: 70 g",
+        "King oyster mushrooms, sliced: 60 g",
+        "Pumpkin, cut into chunks: 70 g",
+        "Lemon basil leaves: 10 g",
+        "Shallots: 20 g",
+        "Bird's eye chili: 3 g",
+        "Fish sauce: 1 tsp",
+        "Water: 400 ml"
+      ],
+      "steps_en": [
+        "Pound the shallots and chili together into a coarse paste.",
+        "Bring the water to a boil and stir in the pounded paste to disperse evenly.",
+        "Add the pumpkin and simmer for about 8 minutes until it begins to soften.",
+        "Add all the mushrooms and cook for another 5–7 minutes until tender and cooked through.",
+        "Season with fish sauce, stir in the lemon basil leaves, and turn off the heat."
+      ]
     },
     {
       "title": "ผัดยอดฟักแม้วกระเทียม",
@@ -12818,7 +20162,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "stirfry_grill",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Chayote Shoots with Garlic",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; note that this dish contains oyster sauce so it is not vegetarian.",
+      "ingredients_en": [
+        "Chayote shoots, trimmed into pieces: 200 g",
+        "Crushed garlic: 12 g",
+        "Fermented soybean paste: 1 tsp",
+        "Oyster sauce: 1 tsp",
+        "Sugar: 1/4 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wash the chayote shoots, snap off any tough woody stems, and drain well.",
+        "Combine the fermented soybean paste, oyster sauce, sugar, and water.",
+        "Heat a wok or pan over medium-high heat, add the oil and garlic, and stir-fry until fragrant.",
+        "Add the chayote shoots and sauce mixture, stir-frying for 2–3 minutes until crisp-tender.",
+        "Plate and serve immediately."
+      ]
     },
     {
       "title": "แกงส้มผักรวมมะขาม",
@@ -12851,7 +20213,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "soups_curries",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai Sour Tamarind Mixed Vegetable Curry",
+      "desc_en": "Makes 1 serving with approximate calories excluding rice; check the curry paste and fish sauce labels if accommodating dietary restrictions.",
+      "ingredients_en": [
+        "Cauliflower florets: 70 g",
+        "Yardlong beans, cut into pieces: 50 g",
+        "Sliced carrot: 50 g",
+        "Daikon radish, cubed: 60 g",
+        "Store-bought sour curry paste (Kaeng Som): 15 g",
+        "Tamarind paste: 1 tbsp",
+        "Fish sauce: 1 tsp",
+        "Palm sugar: 1/2 tsp",
+        "Water: 450 ml"
+      ],
+      "steps_en": [
+        "Bring the water to a boil and whisk in the sour curry paste until dissolved.",
+        "Add the daikon radish and carrot, simmering for about 8 minutes until they begin to soften.",
+        "Add the cauliflower and yardlong beans, and simmer for another 5 minutes.",
+        "Season with tamarind paste, fish sauce, and palm sugar, taste to balance, and cook until the vegetables reach desired tenderness.",
+        "Turn off the heat and serve."
+      ]
     },
     {
       "title": "เมี่ยงคำสมุนไพร",
@@ -12886,7 +20268,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Miang Kham (Thai Herbal Leaf Wraps)",
+      "desc_en": "Makes 1 serving with approximate calories; contains peanuts and dried shrimp, so check for food allergies before serving.",
+      "ingredients_en": [
+        "Wild betel leaves, bite-sized: 8 leaves",
+        "Toasted shredded coconut: 10 g",
+        "Roasted peanuts: 10 g",
+        "Finely diced ginger: 10 g",
+        "Finely diced shallots: 10 g",
+        "Diced lime with peel: 15 g",
+        "Dried shrimp: 8 g",
+        "Palm sugar for sauce: 2 tsp",
+        "Fish sauce: 1 tsp",
+        "Finely minced galangal: 2 g",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wash the wild betel leaves, pat completely dry, and arrange the bite-sized fillings separately.",
+        "Pound the minced galangal until fine, then combine with palm sugar, fish sauce, and water in a small saucepan.",
+        "Simmer over low heat until slightly syrupy, then let cool until warm.",
+        "Place small portions of toasted coconut, peanuts, ginger, shallots, diced lime, and dried shrimp onto each leaf.",
+        "Drizzle with a little sweet sauce, fold into a neat bite, and enjoy immediately."
+      ]
     },
     {
       "title": "ข้าวยำสมุนไพรปักษ์ใต้",
@@ -12921,7 +20325,29 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "south"
+      "region": "south",
+      "name_en": "Southern Thai Herb Rice Salad (Khao Yam)",
+      "desc_en": "Makes 1 serving with approximate calories; budu sauce and dried shrimp contain fish and shellfish, so check labels and allergies before serving.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 160 g",
+        "Thinly sliced yardlong beans: 20 g",
+        "Finely sliced lemongrass: 10 g",
+        "Finely shredded kaffir lime leaf: 1 leaf",
+        "Bean sprouts: 30 g",
+        "Toasted shredded coconut: 10 g",
+        "Ground dried shrimp: 8 g",
+        "Cooked Southern Thai budu dressing: 1 tbsp",
+        "Lime juice: 1 tsp",
+        "Palm sugar: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Combine the budu dressing, lime juice, palm sugar, and water in a small saucepan, bring to a gentle simmer over low heat, then let cool.",
+        "Wash the yardlong beans and bean sprouts thoroughly and drain well.",
+        "Place the rice on a plate and arrange the yardlong beans, lemongrass, kaffir lime leaf, bean sprouts, toasted coconut, and ground dried shrimp neatly around it.",
+        "Drizzle the cooled budu dressing gradually over the dish.",
+        "Toss everything together thoroughly before eating, adding more dressing to taste."
+      ]
     },
     {
       "title": "ข้าวผัดไก่กระทะร้อน",
@@ -12953,7 +20379,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sizzling Skillet Chicken Fried Rice",
+      "desc_en": "Makes 1 serving with approximate calories; use properly refrigerated leftover or chilled rice for the best texture.",
+      "ingredients_en": [
+        "Cooked jasmine rice, chilled: 180 g",
+        "Diced chicken breast: 100 g",
+        "Chicken egg: 1 whole",
+        "Diced carrot: 25 g",
+        "Sliced scallions: 8 g",
+        "Light soy sauce: 2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a skillet over medium heat, add the oil and chicken, stir-fry until cooked through to 74°C, and set aside.",
+        "Crack the egg into the skillet and scramble until it starts to set.",
+        "Add the rice and diced carrot, stir-frying until heated through and the grains separate.",
+        "Return the chicken to the pan and season with light soy sauce and white pepper.",
+        "Scatter with scallions, toss to combine, and serve."
+      ]
     },
     {
       "title": "ข้าวกะเพราไก่ไข่ข้น",
@@ -12987,7 +20432,28 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spicy Holy Basil Minced Chicken with Creamy Omelet over Rice",
+      "desc_en": "Makes 1 serving with approximate calories; cook the creamy omelet to a safe doneness suited to the diner.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Skinless minced chicken: 120 g",
+        "Chicken egg: 1 whole",
+        "Holy basil leaves: 10 g",
+        "Minced garlic: 8 g",
+        "Finely chopped bird's eye chili: 3 g",
+        "Oyster sauce: 1 tsp",
+        "Fish sauce: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Fresh milk: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil, garlic, and chili, and stir-fry until fragrant.",
+        "Add the minced chicken, break it apart, stir-fry until cooked through to 74°C, and season with oyster sauce and fish sauce.",
+        "Toss in the holy basil leaves until wilted, then set aside.",
+        "Beat the egg with milk, pour into a nonstick pan over low heat, and stir slowly until softly set to your liking.",
+        "Plate the rice and top with the holy basil chicken and creamy omelet."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสโยเกิร์ต",
@@ -13020,7 +20486,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Chicken Brown Rice Bowl with Yogurt Sauce",
+      "desc_en": "Makes 1 serving with approximate calories; use plain, unsweetened natural yogurt for the sauce.",
+      "ingredients_en": [
+        "Cooked brown rice: 170 g",
+        "Skinless chicken breast: 140 g",
+        "Plain natural yogurt: 30 g",
+        "Lime juice: 1 tsp",
+        "Diced cucumber: 40 g",
+        "Salad greens: 20 g",
+        "Ground paprika: 1/4 tsp",
+        "Olive oil: 1 tsp",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Rub the chicken breast with olive oil, paprika, and salt.",
+        "Grill on a pan over medium heat for 5–6 minutes per side until the center reaches 74°C.",
+        "Whisk the plain yogurt and lime juice together to make the sauce.",
+        "Spoon the brown rice into a bowl and arrange the sliced grilled chicken on top.",
+        "Add the cucumber, salad greens, and yogurt sauce, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสขิง",
@@ -13053,7 +20539,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Ginger Soy Pork Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; taste the sauce before adding any extra seasoning.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Pork loin, thinly sliced: 130 g",
+        "Grated ginger: 5 g",
+        "Onion, cut into wedges: 30 g",
+        "Japanese soy sauce: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Water: 2 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Whisk together the Japanese soy sauce, honey, grated ginger, and water.",
+        "Heat a pan over medium heat, add the oil and onion, and sauté until beginning to soften.",
+        "Add the pork slices, spreading them out and stir-frying until cooked through.",
+        "Pour in the ginger soy sauce and simmer briefly until it coats the pork.",
+        "Spoon the pork over the rice, sprinkle with toasted sesame seeds, and serve."
+      ]
     },
     {
       "title": "บะหมี่ผัดหมูไข่",
@@ -13085,7 +20591,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Egg Noodles with Pork and Egg",
+      "desc_en": "Makes 1 serving with approximate calories; if the noodles come with seasoning packets or salted brine, check saltiness before adding soy sauce.",
+      "ingredients_en": [
+        "Fresh egg noodles: 150 g",
+        "Pork loin, julienned: 100 g",
+        "Chicken egg: 1 whole",
+        "Shredded cabbage: 50 g",
+        "Shredded carrot: 20 g",
+        "Light soy sauce: 2 tsp",
+        "Rice bran oil: 2 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Boil the egg noodles according to package directions, drain well, and toss with a drop of oil to prevent sticking.",
+        "Heat a pan over medium heat, add the oil and pork, and stir-fry until cooked through.",
+        "Push the pork to one side, crack in the egg, and scramble until it begins to set.",
+        "Add the cabbage, carrot, noodles, light soy sauce, and water, tossing until everything is piping hot.",
+        "Taste to adjust seasoning and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดบาร์บีคิว",
@@ -13117,7 +20642,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "BBQ Stir-Fried Pork Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; BBQ sauces vary in sweetness, so no extra sugar is needed.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Pork loin, thinly sliced: 130 g",
+        "BBQ sauce: 20 g",
+        "Sliced onion: 30 g",
+        "Green bell pepper, julienned: 30 g",
+        "Rice bran oil: 1 tsp",
+        "Ground black pepper: 1 pinch",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and onion, and sauté until beginning to soften.",
+        "Add the pork and green bell pepper, and stir-fry until the pork is cooked through.",
+        "Add the BBQ sauce and black pepper, tossing to coat evenly.",
+        "Simmer briefly until the sauce is hot and glossy rather than watery.",
+        "Spoon over the rice, sprinkle with sesame seeds, and serve."
+      ]
     },
     {
       "title": "มันฝรั่งอบไส้หมูบาร์บีคิว",
@@ -13148,7 +20692,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "BBQ Pork Stuffed Baked Potato",
+      "desc_en": "Makes 1 serving with approximate calories; be careful of escaping hot steam when slicing open the baked potato.",
+      "ingredients_en": [
+        "Medium baking potato: 220 g",
+        "Lean ground pork: 100 g",
+        "BBQ sauce: 15 g",
+        "Plain natural yogurt: 20 g",
+        "Shredded cheddar cheese: 15 g",
+        "Finely chopped onion: 15 g",
+        "Olive oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 200°C, scrub the potato, prick the skin several times with a fork, and bake for 40–45 minutes until tender.",
+        "While baking, heat the olive oil in a pan over medium heat and sauté the onion until translucent.",
+        "Add the ground pork, breaking it up and cooking thoroughly until it reaches 71°C.",
+        "Stir in the BBQ sauce to coat evenly and turn off the heat.",
+        "Split open the baked potato, gently fluff the flesh, top with the BBQ pork, yogurt, and cheddar cheese, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดเม็ดมะม่วงด่วน",
@@ -13181,7 +20743,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Quick Cashew Chicken Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; contains cashew nuts, so check for nut allergies before serving.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Diced chicken breast: 120 g",
+        "Roasted cashew nuts: 15 g",
+        "Diced red bell pepper: 35 g",
+        "Diced onion: 25 g",
+        "Oyster sauce: 1 tsp",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and chicken, and stir-fry until cooked through to 74°C.",
+        "Add the onion and red bell pepper, and stir-fry for about 2 minutes.",
+        "Combine the oyster sauce, light soy sauce, and water, and pour into the pan.",
+        "Stir-fry until the sauce glazes the chicken and the vegetables are tender-crisp, then fold in the cashews.",
+        "Spoon over the rice and serve."
+      ]
     },
     {
       "title": "ข้าวผัดกุ้งสับปะรด",
@@ -13214,7 +20796,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pineapple Shrimp Fried Rice",
+      "desc_en": "Makes 1 serving with approximate calories; use fresh pineapple or well-drained canned pineapple chunks.",
+      "ingredients_en": [
+        "Cooked jasmine rice, chilled: 180 g",
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Diced pineapple: 50 g",
+        "Chicken egg: 1 whole",
+        "Diced carrot: 20 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Sliced scallions: 5 g",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and shrimp, stir-fry until cooked through, and set aside.",
+        "Crack the egg into the pan and scramble until it begins to set.",
+        "Add the rice and diced carrot, stir-frying until heated through.",
+        "Add the pineapple, cooked shrimp, light soy sauce, and white pepper, tossing evenly.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดเนยกระเทียม",
@@ -13246,7 +20848,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Garlic Butter Shrimp Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; avoid overcooking the shrimp so they stay tender and juicy.",
+      "ingredients_en": [
+        "Cooked jasmine rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 130 g",
+        "Unsalted butter: 8 g",
+        "Minced garlic: 8 g",
+        "Lime juice: 1 tsp",
+        "Chopped parsley: 3 g",
+        "Ground black pepper: 1 pinch",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, melt the butter, and sauté the garlic until fragrant without browning.",
+        "Add the shrimp, season with salt and black pepper, and cook until opaque and cooked through.",
+        "Turn off the heat, add the lime juice and chopped parsley, and toss to combine.",
+        "Spoon the rice into a bowl and top with the shrimp and garlic butter sauce.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวผัดไข่และผักสามสี",
@@ -13278,7 +20899,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Egg and Mixed Vegetable Fried Rice",
+      "desc_en": "Makes 1 serving with approximate calories; make sure the eggs are cooked thoroughly before serving.",
+      "ingredients_en": [
+        "Cooked jasmine rice, chilled: 180 g",
+        "Chicken eggs: 2 whole",
+        "Diced carrot: 20 g",
+        "Green peas: 25 g",
+        "Cooked sweet corn kernels: 25 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 2 tsp",
+        "Sliced scallions: 5 g"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and eggs, and scramble into small pieces until cooked.",
+        "Add the carrot, green peas, and corn, and stir-fry for about 2 minutes.",
+        "Add the rice and light soy sauce, stir-frying until hot and the rice grains separate.",
+        "Scatter with scallions, toss once more, and turn off the heat.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ออมเล็ตแรปเห็ดและชีส",
@@ -13310,7 +20950,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Mushroom and Cheese Omelet Wrap",
+      "desc_en": "Makes 1 serving with approximate calories; let the omelet cool slightly for easier rolling.",
+      "ingredients_en": [
+        "Chicken eggs: 2 whole",
+        "Medium flour tortilla: 1 piece",
+        "Sliced button mushrooms: 40 g",
+        "Shredded mozzarella cheese: 18 g",
+        "Salad greens: 15 g",
+        "Fresh milk: 1 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and sliced mushrooms, and sauté until tender and moisture evaporates.",
+        "Beat the eggs with milk and black pepper, pour into the pan, and cook into an omelet.",
+        "When the eggs are nearly set, sprinkle with mozzarella cheese and turn off the heat.",
+        "Warm the tortilla in a dry skillet, then lay the salad greens and omelet down the center.",
+        "Fold in the sides, roll up tightly, and slice in half before serving."
+      ]
     },
     {
       "title": "สลัดไข่ต้มอะโวคาโดบนขนมปัง",
@@ -13341,7 +21000,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Boiled Egg and Avocado Toast",
+      "desc_en": "Makes 1 serving with approximate calories; store the egg salad refrigerated if preparing ahead of time.",
+      "ingredients_en": [
+        "Chicken eggs: 2 whole",
+        "Whole wheat bread: 2 slices",
+        "Mashed avocado: 40 g",
+        "Plain natural yogurt: 15 g",
+        "Lime juice: 1/2 tsp",
+        "Sliced scallions: 5 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the eggs in gently simmering water for 10 minutes, chill in cold water, and peel.",
+        "Coarsely mash the boiled eggs together with the avocado and plain yogurt.",
+        "Stir in the lime juice, scallions, and black pepper until well combined.",
+        "Toast the whole wheat bread slices to your liking.",
+        "Spoon the egg avocado salad onto the toast and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักซอสถั่วเหลือง",
@@ -13374,7 +21051,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Soy-Glazed Tofu and Vegetable Brown Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; a vegetable-forward dish powered by firm tofu as the main protein source.",
+      "ingredients_en": [
+        "Cooked brown rice: 170 g",
+        "Firm tofu, cubed: 100 g",
+        "Small broccoli florets: 50 g",
+        "Diced red bell pepper: 40 g",
+        "Julienned carrot: 25 g",
+        "Japanese soy sauce: 2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry, heat the oil in a pan over medium heat, and pan-sear the tofu cubes until golden on all sides.",
+        "Add the broccoli, carrot, and red bell pepper with the water, cover, and steam for 2 minutes.",
+        "Uncover, add the Japanese soy sauce, and stir-fry until the vegetables are tender and glazed.",
+        "Spoon the brown rice into a bowl and arrange the tofu and vegetables on top.",
+        "Sprinkle with toasted sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผัดผักไข่",
@@ -13406,7 +21103,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Vegetables and Egg Brown Rice Bowl",
+      "desc_en": "Makes 1 serving with approximate calories; verify the soy sauce type and ingredients if preparing a strict vegetarian meal.",
+      "ingredients_en": [
+        "Cooked brown rice: 170 g",
+        "Chicken egg: 1 whole",
+        "Broccoli, cut into small florets: 40 g",
+        "Sliced button mushrooms: 35 g",
+        "Julienned carrot: 25 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat with the oil, crack in the egg, scramble until fully cooked, and set aside.",
+        "Add the broccoli, carrot, and water, cover, and cook for 2 minutes until the vegetables begin to soften.",
+        "Add the sliced mushrooms and light soy sauce, and stir-fry until cooked to your liking.",
+        "Return the scrambled egg to the pan and toss to combine.",
+        "Spoon over the brown rice and serve."
+      ]
     },
     {
       "title": "มันฝรั่งผัดเห็ดและไข่",
@@ -13438,7 +21154,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Pan-Fried Potatoes with Mushrooms and Egg",
+      "desc_en": "Serves 1 with approximate calories; cut the potatoes into small, even dice so they cook quickly.",
+      "ingredients_en": [
+        "Small-diced potato: 130 g",
+        "Egg: 1 large",
+        "Sliced champignon mushrooms: 50 g",
+        "Chopped onion: 20 g",
+        "Rice bran oil: 2 tsp",
+        "Ground paprika: 1/8 tsp",
+        "Cracked black pepper: 1 pinch",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and potatoes, and sauté for about 3 minutes.",
+        "Add the water, cover, and cook for 6–8 minutes until the potatoes are tender, stirring occasionally.",
+        "Uncover, add the onion and mushrooms, and sauté until the mushroom moisture evaporates.",
+        "Crack the egg into the pan, break it up to distribute evenly, and cook until set throughout.",
+        "Season with paprika and black pepper, toss well, and serve."
+      ]
     },
     {
       "title": "สลัดถั่วลูกไก่อะโวคาโด",
@@ -13470,7 +21205,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Chickpea and Avocado Salad",
+      "desc_en": "Serves 1 with approximate calories; enjoy right after slicing the avocado to keep it from browning.",
+      "ingredients_en": [
+        "Cooked, drained chickpeas: 100 g",
+        "Diced avocado: 50 g",
+        "Diced cucumber: 35 g",
+        "Diced tomato: 40 g",
+        "Salad greens: 30 g",
+        "Olive oil: 1 tsp",
+        "Lime juice: 1 tsp",
+        "Chopped parsley: 3 g"
+      ],
+      "steps_en": [
+        "Rinse and drain the chickpeas; if using canned chickpeas, rinse thoroughly before use.",
+        "Whisk together the olive oil and lime juice to make the dressing.",
+        "Place the chickpeas, cucumber, tomato, and avocado in a bowl and gently toss.",
+        "Arrange the salad greens on a plate and spoon the chickpea mixture on top.",
+        "Drizzle with the dressing, sprinkle with parsley, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดผักรวม",
@@ -13503,7 +21257,27 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Stir-Fried Shrimp and Mixed Vegetables Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp until opaque and cooked through.",
+      "ingredients_en": [
+        "Cooked brown rice: 170 g",
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Small broccoli florets: 40 g",
+        "Julienne carrots: 25 g",
+        "Sliced champignon mushrooms: 30 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and shrimp, and stir-fry until they begin to turn pink.",
+        "Add the broccoli, carrots, and water, then cover and steam for about 2 minutes.",
+        "Uncover, add the mushrooms and light soy sauce, and stir-fry until the vegetables are tender and the shrimp are cooked through.",
+        "Spoon the brown rice into a bowl and top with the shrimp and vegetables.",
+        "Sprinkle with toasted sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวผัดปลาทูน่าข้าวโพด",
@@ -13535,7 +21309,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tuna and Corn Fried Rice",
+      "desc_en": "Serves 1 with approximate calories; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Chilled cooked rice: 180 g",
+        "Canned tuna in spring water, drained: 80 g",
+        "Cooked corn kernels: 35 g",
+        "Egg: 1 large",
+        "Sliced scallions: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat with the oil, crack in the egg, and scramble until cooked.",
+        "Add the rice and corn, then stir-fry until heated through.",
+        "Add the drained tuna and season with light soy sauce and white pepper.",
+        "Gently toss to distribute the tuna without breaking it into mush.",
+        "Sprinkle with scallions and serve."
+      ]
     },
     {
       "title": "ควินัวโบวล์เต้าหู้ผักย่าง",
@@ -13567,7 +21360,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tofu and Roasted Vegetable Quinoa Bowl",
+      "desc_en": "Serves 1 with approximate calories; tofu provides the main protein alongside vibrant pan-seared vegetables.",
+      "ingredients_en": [
+        "Cooked quinoa: 150 g",
+        "Diced firm tofu: 80 g",
+        "Diced zucchini: 35 g",
+        "Diced red bell pepper: 35 g",
+        "Olive oil: 1 tsp",
+        "Lime juice: 1 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry, heat a pan over medium heat with the oil, and sear the tofu until golden on all sides.",
+        "Add the zucchini and red bell pepper, then stir-fry until tender-crisp.",
+        "Pour in the Japanese soy sauce and lime juice and toss to coat evenly.",
+        "Spoon the cooked quinoa into a bowl and arrange the tofu and vegetables on top.",
+        "Sprinkle with toasted sesame seeds and serve."
+      ]
     },
     {
       "title": "ขนมปังหน้าเห็ดชีส",
@@ -13598,7 +21410,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Cheesy Garlic Mushroom Toast",
+      "desc_en": "Serves 1 with approximate calories; if melting in a covered skillet, use low heat so the bread does not burn.",
+      "ingredients_en": [
+        "Thick-sliced whole wheat bread: 1 slice",
+        "Sliced champignon mushrooms: 70 g",
+        "Shredded mozzarella cheese: 25 g",
+        "Minced garlic: 3 g",
+        "Olive oil: 1 tsp",
+        "Dried oregano: 1 pinch",
+        "Cracked black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and garlic, and sauté until fragrant.",
+        "Add the mushrooms, cook until tender and moisture evaporates, and season with black pepper.",
+        "Toast one side of the bread until lightly crisp.",
+        "Spoon the mushrooms onto the toasted side and top with mozzarella and oregano.",
+        "Broil in the oven or heat in a covered skillet until the cheese melts, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ซอสเห็ด",
@@ -13630,7 +21460,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Mushroom Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; stir the sauce continuously as you pour in the milk mixture to prevent lumps.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Thinly sliced chicken breast: 120 g",
+        "Sliced champignon mushrooms: 50 g",
+        "Chopped onion: 20 g",
+        "Fresh milk: 40 ml",
+        "All-purpose flour: 4 g",
+        "Rice bran oil: 1 tsp",
+        "Cracked black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and onion, and sauté until translucent.",
+        "Add the chicken and mushrooms and cook until the chicken reaches 74°C throughout.",
+        "Whisk the flour into the milk until smooth, then pour into the pan while stirring.",
+        "Simmer over low heat until the sauce thickens and is piping hot.",
+        "Spoon over the rice and finish with black pepper before serving."
+      ]
     },
     {
       "title": "ข้าวเหนียวไก่ย่างกล่องด่วน",
@@ -13662,7 +21511,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Chicken and Sticky Rice Bento",
+      "desc_en": "Serves 1 with approximate calories; keep the heat moderate because honey can scorch quickly.",
+      "ingredients_en": [
+        "Steamed sticky rice: 150 g",
+        "Skinless chicken thigh, cut into pieces: 140 g",
+        "Light soy sauce: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Minced garlic: 4 g",
+        "Ground white pepper: 1 pinch",
+        "Rice bran oil: 1 tsp",
+        "Sliced cucumber: 30 g"
+      ],
+      "steps_en": [
+        "Toss the chicken with light soy sauce, honey, garlic, and white pepper, and marinate for 5 minutes.",
+        "Heat a grill pan over medium heat, brush lightly with oil, and lay in the chicken.",
+        "Turn occasionally and cook until the internal temperature reaches 74°C.",
+        "Warm the sticky rice until heated through.",
+        "Pack the sticky rice, grilled chicken, and cucumber slices into a bento box."
+      ]
     },
     {
       "title": "แฟลตเบรดไก่ย่างมะเขือเทศ",
@@ -13694,7 +21562,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Grilled Chicken and Tomato Flatbread",
+      "desc_en": "Serves 1 with approximate calories; feel free to swap in your favorite flatbread.",
+      "ingredients_en": [
+        "Flatbread: 1 piece",
+        "Thinly sliced chicken breast: 100 g",
+        "Diced tomato: 40 g",
+        "Salad greens: 20 g",
+        "Plain yogurt: 20 g",
+        "Olive oil: 1 tsp",
+        "Dried oregano: 1/8 tsp",
+        "Lime juice: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the chicken with olive oil and oregano.",
+        "Cook in a pan over medium heat until the chicken reaches 74°C throughout.",
+        "Stir the yogurt and lime juice together to make a tangy sauce.",
+        "Warm the flatbread in a dry skillet for about 30 seconds per side.",
+        "Top the flatbread with salad greens, tomato, and chicken, drizzle with sauce, fold, and serve."
+      ]
     },
     {
       "title": "ข้าวหมูผัดซอสพริกหวาน",
@@ -13726,7 +21613,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Sweet Bell Pepper Sauce Pork over Rice",
+      "desc_en": "Serves 1 with approximate calories; adjust the amount of ketchup to suit your taste.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Pork loin strips: 120 g",
+        "Red bell pepper strips: 40 g",
+        "Onion wedges: 25 g",
+        "Ketchup: 1 tbsp",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and pork, and stir-fry until cooked through.",
+        "Add the bell pepper and onion and stir-fry for about 2 minutes.",
+        "Mix the ketchup, light soy sauce, and water, then pour into the pan.",
+        "Cook until the sauce coats the pork and the vegetables reach your preferred tenderness.",
+        "Spoon over the rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ข้นหมูสับ",
@@ -13758,7 +21664,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Scrambled Egg and Minced Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the eggs thoroughly to suit the diner's preference.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Lean minced pork: 80 g",
+        "Eggs: 2 large",
+        "Fresh milk: 1 tbsp",
+        "Light soy sauce: 1 tsp",
+        "Sliced scallions: 5 g",
+        "Rice bran oil: 1 tsp",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat with the oil, add the minced pork, break it up, and cook to 71°C throughout.",
+        "Season the pork with light soy sauce and white pepper, then set aside.",
+        "Beat the eggs with the milk and pour into a nonstick pan over low heat.",
+        "Stir gently with a spatula until the eggs are softly set to your liking.",
+        "Plate the rice, top with the pork and creamy eggs, and garnish with scallions."
+      ]
     },
     {
       "title": "แรปหมูย่างกะหล่ำกรอบ",
@@ -13790,7 +21715,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spiced Pork and Crunchy Cabbage Wrap",
+      "desc_en": "Serves 1 with approximate calories; rest the pork before slicing or assembling to lock in juiciness.",
+      "ingredients_en": [
+        "Pork loin strips: 120 g",
+        "Whole wheat tortilla: 1 sheet",
+        "Shredded cabbage: 40 g",
+        "Plain yogurt: 20 g",
+        "Mustard: 1/2 tsp",
+        "Olive oil: 1 tsp",
+        "Ground paprika: 1/4 tsp",
+        "Lime juice: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the pork with paprika.",
+        "Heat a pan over medium heat with the oil, cook the pork to 63°C, and let it rest for at least 3 minutes.",
+        "Combine the yogurt, mustard, and lime juice into a dressing.",
+        "Toss the shredded cabbage with a little of the dressing.",
+        "Layer the pork and dressed cabbage onto the tortilla, fold in the sides, and roll up tightly."
+      ]
     },
     {
       "title": "มักกะโรนีผัดหมูซอสมะเขือเทศ",
@@ -13822,7 +21766,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Thai-Style Tomato Pork Macaroni",
+      "desc_en": "Serves 1 with approximate calories; add a splash of water if the sauce becomes too thick.",
+      "ingredients_en": [
+        "Dry macaroni: 65 g",
+        "Lean ground pork: 90 g",
+        "Ketchup: 1 tbsp",
+        "Chopped onion: 20 g",
+        "Diced tomato: 40 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Boil the macaroni according to package directions, then drain.",
+        "Heat a pan over medium heat, add the oil and onion, and sauté until translucent.",
+        "Add the ground pork, breaking it up, and cook to 71°C throughout.",
+        "Stir in the tomato, ketchup, light soy sauce, and water, and simmer gently.",
+        "Add the cooked macaroni, toss to combine, and heat through."
+      ]
     },
     {
       "title": "ข้าวหมูขิงไข่สุก",
@@ -13854,7 +21817,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Ginger Pork Rice Bowl with Fried Egg",
+      "desc_en": "Serves 1 with approximate calories; cook the egg completely through before serving.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Thinly sliced pork loin: 100 g",
+        "Egg: 1 large",
+        "Julienne ginger: 8 g",
+        "Japanese soy sauce: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and ginger, and sauté until fragrant.",
+        "Add the pork and cook through, then stir in the soy sauce, honey, and water until the glaze coats the meat.",
+        "In a separate pan, fry the egg until both the white and yolk are fully set.",
+        "Spoon the rice into a bowl and top with the ginger pork and fried egg.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งไข่ข้น",
@@ -13886,7 +21868,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Creamy Scrambled Egg and Shrimp over Rice",
+      "desc_en": "Serves 1 with approximate calories; make sure both the shrimp and eggs are cooked through.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Eggs: 2 large",
+        "Fresh milk: 1 tbsp",
+        "Sliced scallions: 5 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Heat a pan over medium heat, add the oil and shrimp, stir-fry until cooked through, and set aside.",
+        "Beat the eggs with the milk and light soy sauce.",
+        "Pour the egg mixture into a nonstick pan over low heat and stir slowly until it begins to set.",
+        "Return the shrimp to the pan, gently fold together until warm, and cook the eggs to your desired doneness.",
+        "Spoon over the rice and garnish with scallions and white pepper."
+      ]
     },
     {
       "title": "แรปกุ้งอะโวคาโด",
@@ -13918,7 +21919,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Spiced Shrimp and Avocado Wrap",
+      "desc_en": "Serves 1 with approximate calories; eat shortly after slicing the avocado to minimize browning.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Whole wheat tortilla: 1 sheet",
+        "Sliced avocado: 40 g",
+        "Salad greens: 25 g",
+        "Cucumber sticks: 25 g",
+        "Plain yogurt: 20 g",
+        "Lime juice: 1 tsp",
+        "Ground paprika: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Dust the shrimp with paprika and sauté in a pan over medium heat until cooked through.",
+        "Mix the yogurt and lime juice to make the dressing.",
+        "Warm the tortilla in a dry skillet.",
+        "Arrange the salad greens, cucumber, avocado, and shrimp on the tortilla.",
+        "Drizzle with dressing, fold in the sides, and roll tightly."
+      ]
     },
     {
       "title": "ข้าวต้มกุ้งเห็ดหอม",
@@ -13953,7 +21973,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
         "ผู้สูงอายุ"
       ],
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Shrimp and Shiitake Rice Porridge",
+      "desc_en": "Serves 1 with approximate calories; uses unsalted broth for gentle seasoning suitable for older adults.",
+      "ingredients_en": [
+        "Cooked rice: 150 g",
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Sliced fresh shiitake mushrooms: 30 g",
+        "Julienne ginger: 5 g",
+        "Unsalted broth: 400 ml",
+        "Light soy sauce: 1 tsp",
+        "Sliced scallions: 5 g",
+        "Ground white pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Bring the broth to a boil and add the cooked rice and shiitake mushrooms.",
+        "Reduce to medium heat and simmer for about 8 minutes until the rice softens and expands.",
+        "Add the ginger and shrimp and simmer for 2–3 minutes more until the shrimp are cooked through.",
+        "Season with light soy sauce and white pepper.",
+        "Ladle into a bowl, top with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่เจียวผักรวม",
@@ -13984,7 +22023,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Mixed Vegetable Omelette over Rice",
+      "desc_en": "Serves 1 with approximate calories; use a nonstick pan to prevent sticking.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Eggs: 2 large",
+        "Grated carrot: 20 g",
+        "Sliced scallions: 8 g",
+        "Cooked corn kernels: 20 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 2 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with the light soy sauce until well combined.",
+        "Stir in the grated carrot, scallions, and corn to distribute evenly.",
+        "Heat a pan over medium heat with the oil and pour in the egg mixture.",
+        "Cook until set on the bottom, flip, and cook until done throughout.",
+        "Place the omelette over the rice and serve."
+      ]
     },
     {
       "title": "ข้าวไข่ข้นมะเขือเทศ",
@@ -14016,7 +22073,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Tomato Creamy Scrambled Eggs over Rice",
+      "desc_en": "Serves 1 with approximate calories; cook the eggs thoroughly to match the diner's preference.",
+      "ingredients_en": [
+        "Cooked rice: 180 g",
+        "Eggs: 2 large",
+        "Diced tomato: 60 g",
+        "Fresh milk: 1 tbsp",
+        "Unsalted butter: 5 g",
+        "Salt: 1 pinch",
+        "Cracked black pepper: 1 pinch",
+        "Sliced scallions: 5 g"
+      ],
+      "steps_en": [
+        "Beat the eggs with the milk, salt, and black pepper.",
+        "Melt the butter in a pan over medium heat and sauté the tomato for about 1 minute.",
+        "Reduce to low heat and pour in the egg mixture.",
+        "Using a spatula, gently push the eggs from the edges toward the center until softly cooked to your liking.",
+        "Spoon over the rice, sprinkle with scallions, and serve."
+      ]
     },
     {
       "title": "ไข่อบผักโขมในถ้วยขนมปัง",
@@ -14046,7 +22122,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "quick_easy",
-      "region": "central"
+      "region": "central",
+      "name_en": "Baked Spinach and Egg Bread Cup",
+      "desc_en": "Serves 1 with approximate calories; use an oven-safe ramekin and leave headroom for the egg to puff.",
+      "ingredients_en": [
+        "Thick-sliced bread: 1 slice",
+        "Egg: 1 large",
+        "Chopped spinach: 20 g",
+        "Shredded cheddar cheese: 12 g",
+        "Fresh milk: 1 tsp",
+        "Cracked black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Preheat the oven to 180°C and press the bread slice into a small ramekin to form a cup.",
+        "Layer the chopped spinach and cheddar cheese into the bread cup.",
+        "Whisk the egg with milk and black pepper, then pour into the cup without overfilling.",
+        "Set on a baking sheet and bake for 12–16 minutes until the egg is set.",
+        "Let cool for 2 minutes, then carefully lift out of the ramekin."
+      ]
     },
     {
       "title": "สลัดมันฝรั่งไข่และถั่วแขก",
@@ -14077,7 +22170,25 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "healthy_salad",
-      "region": "central"
+      "region": "central",
+      "name_en": "Potato, Egg, and Green Bean Salad",
+      "desc_en": "Serves 1 with approximate calories; keep the salad refrigerated if making ahead.",
+      "ingredients_en": [
+        "Diced potato: 120 g",
+        "Egg: 1 large",
+        "Trimmed green beans, cut into pieces: 40 g",
+        "Plain yogurt: 25 g",
+        "Mustard: 1/2 tsp",
+        "Lime juice: 1/2 tsp",
+        "Chopped parsley: 3 g"
+      ],
+      "steps_en": [
+        "Boil the potatoes in salted water for 10–12 minutes until fork-tender.",
+        "Simmer the egg gently for about 10 minutes, transfer to cold water, and peel.",
+        "Blanch the green beans for 2–3 minutes and drain well.",
+        "Whisk together the yogurt, mustard, and lime juice for the dressing.",
+        "Toss the potatoes and green beans with the dressing, top with halved boiled egg and parsley."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักซอสขิง",
@@ -14109,7 +22220,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Ginger Soy Tofu and Vegetable Brown Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; firm tofu anchors the dish as the main protein alongside crisp-tender vegetables.",
+      "ingredients_en": [
+        "Cooked brown rice: 170 g",
+        "Diced firm tofu: 100 g",
+        "Small broccoli florets: 40 g",
+        "Julienne carrots: 25 g",
+        "Grated ginger: 4 g",
+        "Japanese soy sauce: 2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry, heat a pan over medium heat with the oil, and sear until golden.",
+        "Add the broccoli, carrots, and water, then cover and steam for 2 minutes.",
+        "Stir the grated ginger into the Japanese soy sauce and pour into the pan.",
+        "Toss until the vegetables are tender and the sauce glazes the tofu.",
+        "Spoon over the brown rice and serve."
+      ]
     },
     {
       "title": "ผัดหมี่ผักไข่",
@@ -14141,7 +22271,26 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "rice_noodles",
-      "region": "central"
+      "region": "central",
+      "name_en": "Vegetable and Egg Stir-Fried Rice Vermicelli",
+      "desc_en": "Serves 1 with approximate calories; soak the vermicelli strictly per package instructions so it stays springy.",
+      "ingredients_en": [
+        "Dried rice vermicelli: 60 g",
+        "Egg: 1 large",
+        "Shredded cabbage: 40 g",
+        "Julienne carrots: 25 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Light soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Soak the rice vermicelli according to package instructions and drain well.",
+        "Heat a pan over medium heat with the oil, crack in the egg, and scramble until cooked.",
+        "Add the mushrooms, cabbage, and carrots, and stir-fry for about 2 minutes.",
+        "Add the vermicelli, light soy sauce, and water, tossing until the noodles are tender and heated through.",
+        "Taste, adjust if needed, and serve."
+      ]
     },
     {
       "title": "ขนมปังปิ้งอะโวคาโดไข่ต้ม",
@@ -14171,7 +22320,24 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       "country": "TH",
       "packId": "th_full",
       "universalCategory": "breakfast_bakery",
-      "region": "central"
+      "region": "central",
+      "name_en": "Avocado and Boiled Egg Whole Wheat Toast",
+      "desc_en": "Serves 1 with approximate calories; enjoy immediately after preparing the avocado to prevent browning.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Egg: 1 large",
+        "Mashed avocado: 45 g",
+        "Lime juice: 1/2 tsp",
+        "Cracked black pepper: 1 pinch",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Simmer the egg gently for about 10 minutes, cool in cold water, peel, and slice.",
+        "Coarsely mash the avocado with the lime juice.",
+        "Toast the bread until crisp to your liking.",
+        "Spread the avocado over the toast and layer the sliced boiled egg on top.",
+        "Sprinkle with black pepper and toasted sesame seeds, then serve."
+      ]
     },
     {
       "id": "th_north_01",
@@ -14205,7 +22371,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Khao Soi Kai (Northern Thai Curry Noodles with Chicken)",
+      "desc_en": "Northern Thailand's signature coconut curry noodle dish, balancing rich aromatic spices with tangy pickled mustard greens and fresh lime.",
+      "ingredients_en": [
+        "Chicken drumsticks with thighs: 450 g",
+        "Flat egg noodles (divided for boiling and deep-frying): 300 g",
+        "Khao soi curry paste and curry powder: 3 tbsp + 1 tsp",
+        "Coconut cream and coconut milk: 400 ml",
+        "Pickled mustard greens, sliced shallots, lime wedges, and chili oil: 1 set"
+      ],
+      "steps_en": [
+        "Fry the khao soi curry paste and curry powder with coconut cream over low heat until fragrant and the oil separates, then add the chicken and sear lightly.",
+        "Pour in the coconut milk, season with light soy sauce, a touch of dark soy sauce, and palm sugar, and simmer gently for 25 minutes until the chicken is tender.",
+        "Blanch the egg noodles into bowls, ladle the hot curry broth and chicken over top, garnish with crispy fried noodles, and serve with pickled mustard greens, shallots, and lime."
+      ]
     },
     {
       "id": "th_north_02",
@@ -14239,7 +22419,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sai Ua (Northern Thai Herb Sausage)",
+      "desc_en": "Charcoal-grilled Lanna herb sausage bursting with lemongrass, turmeric, and kaffir lime leaves, delicious alongside hot sticky rice.",
+      "ingredients_en": [
+        "Ground pork with a little fat: 500 g",
+        "Northern curry paste (dried chilies, lemongrass, galangal, shallots, garlic, turmeric, shrimp paste): 3 tbsp",
+        "Finely sliced kaffir lime leaves, scallions, and cilantro: 1 cup",
+        "Cleaned pork casings: 1 length",
+        "Fish sauce and a pinch of seasoning powder: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Knead the ground pork with the Northern curry paste, fish sauce, kaffir lime leaves, scallions, and cilantro until tacky and well combined.",
+        "Stuff the mixture firmly into the pork casings, prick occasionally with a toothpick to release air, and coil into spirals.",
+        "Grill over low charcoal heat or bake at 180°C for 25–30 minutes until charred, fragrant, and cooked through; slice diagonally and serve with fresh ginger and bird's eye chilies."
+      ]
     },
     {
       "id": "th_north_03",
@@ -14273,7 +22467,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Jo Phak Kat (Northern Thai Sweet & Sour Mustard Greens Soup)",
+      "desc_en": "A comforting Northern sweet-and-sour mustard greens soup that tastes even deeper and more tender when reheated the next day.",
+      "ingredients_en": [
+        "Flowering choy sum, cut into lengths: 400 g",
+        "Pork soft ribs, chopped into bite-sized pieces: 300 g",
+        "Crushed shallots, shrimp paste, and roasted fermented soybean disc, pounded together: 1 set",
+        "Tamarind paste and fish sauce: 3 tbsp + 2 tbsp",
+        "Crispy fried garlic and fried dried chilies for garnish: 1 set"
+      ],
+      "steps_en": [
+        "Simmer the pork ribs in water over low heat for 20 minutes until tender, then dissolve the pounded shallots, shrimp paste, and fermented soybean into the broth.",
+        "Add the flowering choy sum and simmer until soft, balancing the bright sweet-sour flavor with tamarind paste, fish sauce, and a pinch of sugar.",
+        "Ladle into bowls, top with fragrant fried garlic and crispy dried chilies, and serve piping hot."
+      ]
     },
     {
       "id": "th_north_04",
@@ -14307,7 +22515,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Larb Moo Kua (Northern Thai Spiced Minced Pork Salad)",
+      "desc_en": "Authentic Northern larb skips lime juice and toasted rice, highlighting the citrusy tingle of makhwaen pepper and toasted spice paste.",
+      "ingredients_en": [
+        "Finely minced pork with boiled pork liver and sliced pork skin: 350 g",
+        "Northern larb spice paste (dried chilies, makhwaen pepper, long pepper, coriander seeds, cumin): 2.5 tbsp",
+        "Crispy fried shallots and fried garlic: 4 tbsp",
+        "Chopped Vietnamese coriander, scallions, cilantro, and mint leaves: 1 cup",
+        "Fish sauce and a pinch of salt: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Mix the minced pork, pork skin, and liver thoroughly with the Northern larb spice paste and a splash of broth.",
+        "Heat a little garlic oil in a skillet, add the pork mixture, and stir-fry over medium heat until cooked, fragrant, and lightly dry, seasoning with fish sauce.",
+        "Remove from heat, toss in the Vietnamese coriander, scallions, cilantro, and mint, top with crispy shallots and garlic, and serve with fresh local herbs."
+      ]
     },
     {
       "id": "th_north_05",
@@ -14341,7 +22563,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tam Khanun (Northern Thai Pounded Young Jackfruit Salad)",
+      "desc_en": "An auspicious Lanna dish prized for its savory depth of shrimp paste and kaffir lime leaves, traditionally enjoyed with crispy pork rinds.",
+      "ingredients_en": [
+        "Boiled young jackfruit, coarsely pounded: 350 g",
+        "Minced pork: 150 g",
+        "Northern curry paste (dried chilies, garlic, shallots, shrimp paste, chopped fermented fish): 2 tbsp",
+        "Halved cherry tomatoes and torn kaffir lime leaves: 1 cup",
+        "Crispy fried garlic and fried dried chilies: 3 tbsp"
+      ],
+      "steps_en": [
+        "Boil the young jackfruit until tender, then pound coarsely in a mortar until shredded.",
+        "Fry the Northern curry paste in oil until fragrant, add the minced pork and cook through, then toss in the pounded jackfruit and cherry tomatoes over medium heat.",
+        "Season with fish sauce, fold in torn kaffir lime leaves and sawtooth coriander, garnish with fried garlic and dried chilies, and serve with pork rinds."
+      ]
     },
     {
       "id": "th_north_06",
@@ -14375,7 +22611,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Aeb Moo (Northern Thai Grilled Pork Curry in Banana Leaf)",
+      "desc_en": "A classic Lanna preparation where spiced pork is wrapped in banana leaves and grilled slowly until smoky and infused with turmeric.",
+      "ingredients_en": [
+        "Ground pork with a little fat: 300 g",
+        "Egg: 1 large",
+        "Northern curry paste (dried chilies, lemongrass, galangal, turmeric, shallots, garlic, shrimp paste): 2 tbsp",
+        "Sliced kaffir lime leaves, scallions, and cilantro: 1/2 cup",
+        "Banana leaves and bamboo skewers for wrapping: 1 set"
+      ],
+      "steps_en": [
+        "Mix the ground pork, Northern curry paste, egg, fish sauce, kaffir lime leaves, scallions, and cilantro until smooth and cohesive.",
+        "Spoon the mixture onto banana leaves, fold into neat flat packets, and secure tightly with bamboo skewers.",
+        "Grill over low charcoal heat for 10–12 minutes per side until the leaves are charred and the pork inside is tender and cooked through; unwrap and serve hot."
+      ]
     },
     {
       "id": "th_north_07",
@@ -14409,7 +22659,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Hua Plee (Northern Thai Banana Blossom & Pork Rib Soup)",
+      "desc_en": "A nourishing, easy-to-digest Northern soup pairing tender banana blossoms with aromatic climbing wattle and wild betel leaves.",
+      "ingredients_en": [
+        "Sliced banana blossom soaked in lime water to prevent browning: 1 head",
+        "Pork soft ribs, chopped into pieces: 300 g",
+        "Northern curry paste and boiled fermented fish sauce: 2 tbsp + 1 tbsp",
+        "Climbing wattle tips and wild betel leaves: 1 cup",
+        "Halved cherry tomatoes: 6 pieces"
+      ],
+      "steps_en": [
+        "Dissolve the Northern curry paste in a pot of boiling water, add the pork ribs, and simmer over low heat for 18 minutes until tender.",
+        "Add the sliced banana blossom and cherry tomatoes, cooking until the banana blossom is soft and infused with broth; season with fermented fish sauce and fish sauce.",
+        "Stir in the climbing wattle and wild betel leaves, immediately turn off the heat to keep the greens vibrant, and serve hot."
+      ]
     },
     {
       "id": "th_north_08",
@@ -14443,7 +22707,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Moo Thod Makhwaen (Northern Thai Crispy Pork with Makhwaen Pepper)",
+      "desc_en": "Toasted makhwaen peppercorns lend a bright, citrusy tingle that cuts cleanly through the richness of crispy fried pork belly.",
+      "ingredients_en": [
+        "Pork belly, cut into strips: 400 g",
+        "Toasted and finely pounded makhwaen peppercorns: 1.5 tbsp",
+        "Pounded Thai garlic and cilantro roots: 1.5 tbsp",
+        "Fish sauce, light soy sauce, and a light coating of tempura batter flour: 1 set",
+        "Crispy fried kaffir lime leaves for garnish: 1 handful"
+      ],
+      "steps_en": [
+        "Marinate the pork belly with toasted makhwaen pepper, garlic, cilantro roots, fish sauce, and light soy sauce for at least 20 minutes, then dust lightly with frying flour.",
+        "Deep-fry in hot oil over medium heat until golden brown, crisp outside, and juicy inside, then drain well.",
+        "Slice into bite-sized pieces, scatter with crispy fried kaffir lime leaves, and serve with hot sticky rice and green chili dip."
+      ]
     },
     {
       "id": "th_north_09",
@@ -14477,7 +22755,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Phak Pang (Northern Thai Malabar Spinach Soup with Fermented Pork)",
+      "desc_en": "A beloved Northern homestyle soup where silky Malabar spinach balances the savory tang of fermented pork sausage.",
+      "ingredients_en": [
+        "Cleaned Malabar spinach shoots and blossoms: 300 g",
+        "Northern fermented pork sausage, cut into bite-sized pieces: 150 g",
+        "Coarsely pounded shallots, garlic, dried chilies, and shrimp paste: 2 tbsp",
+        "Halved cherry tomatoes: 6 pieces",
+        "Fish sauce and a pinch of salt: 1 tbsp"
+      ],
+      "steps_en": [
+        "Bring water to a boil and stir in the pounded curry paste and shrimp paste until aromatic.",
+        "Add the tomatoes and Malabar spinach, simmering until the greens turn silky soft, then add the fermented pork and cook for 3 minutes to release its tangy flavor.",
+        "Taste and season with fish sauce, then serve hot alongside sticky rice."
+      ]
     },
     {
       "id": "th_north_10",
@@ -14510,7 +22802,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Khai Pam (Northern Thai Grilled Egg in Banana Leaf)",
+      "desc_en": "A popular oil-free Chiang Mai morning market favorite, offering custard-like eggs infused with smoky grilled banana leaf aroma.",
+      "ingredients_en": [
+        "Fresh eggs: 4 large",
+        "Sliced scallions, chopped bird's eye chilies, and optional crab stick or cooked minced pork: 1 set",
+        "Light soy sauce and ground pepper: 1 tbsp",
+        "Two-cornered pinned banana leaf boats: 1 set"
+      ],
+      "steps_en": [
+        "Crack the eggs into a bowl and whisk with light soy sauce, ground pepper, scallions, and your choice of mix-ins.",
+        "Pour the egg mixture into the banana leaf boats and set over a grill rack above low heat.",
+        "Grill slowly for 8–10 minutes until the eggs puff and set with a fragrant banana-leaf aroma; top with sliced chilies and serve hot."
+      ]
     },
     {
       "id": "th_north_11",
@@ -14544,7 +22849,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tam Makhuea Yao (Northern Thai Smoky Roasted Eggplant Dip with Boiled Egg)",
+      "desc_en": "A wholesome, oil-free Lanna staple highlighting the natural sweetness of flame-roasted eggplant and charred green chilies.",
+      "ingredients_en": [
+        "Long eggplants, flame-roasted until soft and peeled: 3 whole",
+        "Charred Northern green chilies, shallots, and garlic: 1 set",
+        "Soft-boiled eggs, halved: 2 large",
+        "Sliced scallions, chopped cilantro, and fish sauce: 1 set",
+        "Blanched local vegetables for dipping: 1 set"
+      ],
+      "steps_en": [
+        "Pound the charred green chilies, shallots, and garlic to a paste, then season with fish sauce and a pinch of salt.",
+        "Add the peeled roasted eggplants and gently mash into the chili paste, folding in scallions and cilantro.",
+        "Transfer to a serving bowl and accompany with halved soft-boiled eggs, blanched vegetables, and sticky rice."
+      ]
     },
     {
       "id": "th_north_12",
@@ -14578,7 +22897,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeb Moo with Nam Prik Ta Daeng (Northern Crispy Pork Rinds & Red Chili Dip)",
+      "desc_en": "A classic Northern appetizer pairing crunchy pork rinds with a bold, smoky, and tangy roasted red chili dip.",
+      "ingredients_en": [
+        "Freshly fried crispy pork rinds: 120 g",
+        "Toasted large dried chilies, shallots, and garlic: 1 set",
+        "Grilled shrimp paste and boiled fermented fish sauce: 1 tbsp + 1 tbsp",
+        "Tamarind paste and a little palm sugar: 1.5 tbsp",
+        "Fresh vegetables and boiled eggs on the side: 1 set"
+      ],
+      "steps_en": [
+        "Pound the toasted dried chilies, garlic, and shallots into a fine, vibrant red paste.",
+        "Work in the grilled shrimp paste, then season with fermented fish sauce, tamarind paste, and palm sugar for a balanced spicy, tangy, and savory flavor.",
+        "Serve in a dipping bowl surrounded by crispy pork rinds, boiled eggs, and fresh or blanched vegetables."
+      ]
     },
     {
       "id": "th_isan_01",
@@ -14612,7 +22945,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Som Tum Pu Pla Ra (Isan Papaya Salad with Salted Crab & Fermented Fish)",
+      "desc_en": "The king of Isan cuisine, bursting with fiery heat, bright lime tang, and the unmistakable umami aroma of simmered fermented fish sauce.",
+      "ingredients_en": [
+        "Shredded green papaya: 200 g",
+        "Boiled, cleaned salted crabs, shells removed: 2 whole",
+        "Seasoned boiled fermented fish sauce: 2.5 tbsp",
+        "Dried bird's eye chilies, fresh chilies, garlic, cherry tomatoes, and Thai hog plum: 1 set",
+        "Lime juice, fish sauce, and a touch of palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Coarsely pound the dried chilies, fresh chilies, and garlic in a mortar, then lightly bruise the cherry tomatoes, hog plum, and salted crab.",
+        "Season with boiled fermented fish sauce, lime juice, fish sauce, and a little palm sugar, stirring until blended.",
+        "Add the shredded green papaya and lightly pound and toss to coat evenly; plate with crisp Chinese cabbage and fresh yardlong beans."
+      ]
     },
     {
       "id": "th_isan_02",
@@ -14645,7 +22992,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Som Tum Thai Khai Khem (Thai Papaya Salad with Salted Egg)",
+      "desc_en": "Sweet-tart papaya salad balanced by the rich, savory creaminess of salted duck egg yolk for an approachable crowd-pleaser.",
+      "ingredients_en": [
+        "Shredded green papaya and grated carrot: 200 g",
+        "Boiled salted egg, quartered: 1 large",
+        "Dried shrimp, roasted peanuts, yardlong beans, and cherry tomatoes: 1 set",
+        "Bird's eye chilies, garlic, lime juice, fish sauce, and palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Pound the bird's eye chilies, garlic, and yardlong beans until bruised, then add the dried shrimp and cherry tomatoes.",
+        "Season with palm sugar, lime juice, and fish sauce, then add the shredded papaya and lightly toss in the mortar.",
+        "Gently fold in the quartered salted egg without crushing the yolks too much, scatter with roasted peanuts, and serve immediately."
+      ]
     },
     {
       "id": "th_isan_03",
@@ -14679,7 +23039,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tum Sua (Isan Papaya & Rice Vermicelli Salad)",
+      "desc_en": "A satisfying one-plate Isan favorite where soft rice noodles soak up fiery fermented fish dressing alongside crunchy pork rinds.",
+      "ingredients_en": [
+        "Fresh fermented rice vermicelli: 150 g",
+        "Shredded green papaya and fresh bean sprouts: 120 g",
+        "Boiled fermented fish sauce, bird's eye chilies, garlic, and cherry tomatoes: 1 set",
+        "Sliced Vietnamese pork sausage, crispy pork rinds, and chopped sawtooth coriander: 1 set",
+        "Lime juice, fish sauce, and a touch of palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Pound the bird's eye chilies and garlic, add the cherry tomatoes, and season with boiled fermented fish sauce, lime juice, fish sauce, and palm sugar.",
+        "Toss in the shredded papaya, rice vermicelli, and sliced pork sausage until the noodles absorb the zesty dressing.",
+        "Fold in the sawtooth coriander, plate up, and serve topped with crispy pork rinds and fresh bean sprouts."
+      ]
     },
     {
       "id": "th_isan_04",
@@ -14713,7 +23087,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tum Taeng Khai Tom (Isan Spicy Cucumber Salad with Boiled Egg)",
+      "desc_en": "Cool, juicy cucumber ribbons meet fiery Isan dressing and jammy boiled eggs for a refreshing contrast.",
+      "ingredients_en": [
+        "Crisp cucumber, coarsely shredded: 250 g",
+        "Boiled eggs, halved: 2 large",
+        "Boiled fermented fish sauce, bird's eye chilies, garlic, and cherry tomatoes: 1 set",
+        "Lime juice, fish sauce, and a touch of palm sugar: 1 set",
+        "Lead tree seeds and chopped sawtooth coriander: 1 set"
+      ],
+      "steps_en": [
+        "Pound the bird's eye chilies, garlic, and cherry tomatoes, then season with boiled fermented fish sauce, lime juice, fish sauce, and palm sugar.",
+        "Add the shredded cucumber and toss gently without over-pounding so it stays crisp and doesn't release too much water.",
+        "Transfer to a plate, garnish with halved boiled eggs and lead tree seeds, and serve right away."
+      ]
     },
     {
       "id": "th_isan_05",
@@ -14747,7 +23135,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sup Nor Mai (Isan Spiced Bamboo Shoot Salad with Roasted Sesame)",
+      "desc_en": "A light, herbaceous Isan vegetable salad fragrant with ya-nang leaf juice, toasted rice powder, and nutty roasted sesame.",
+      "ingredients_en": [
+        "Shredded fresh bamboo shoots, boiled until mild: 300 g",
+        "Fresh ya-nang leaf extract: 1/2 cup",
+        "Toasted rice powder, chili flakes, and crushed toasted white sesame seeds: 2 tbsp + 1 tbsp",
+        "Boiled fermented fish sauce, fish sauce, and lime juice: 1 set",
+        "Sliced shallots, scallions, sawtooth coriander, and mint leaves: 1 cup"
+      ],
+      "steps_en": [
+        "Simmer the shredded bamboo shoots with ya-nang leaf extract and fermented fish sauce in a pot until fragrant and the liquid reduces, then let cool slightly.",
+        "Season with chili flakes, toasted rice powder, fish sauce, and lime juice, tossing thoroughly.",
+        "Fold in shallots, scallions, sawtooth coriander, mint leaves, and crushed toasted sesame seeds, and serve with sticky rice."
+      ]
     },
     {
       "id": "th_isan_06",
@@ -14780,7 +23182,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kai Yang Wichian Buri (Isan Spiced Grilled Chicken)",
+      "desc_en": "Famed Wichian Buri grilled chicken features dry, crackly golden skin over juicy meat fragrant with lemongrass, garlic, and pepper.",
+      "ingredients_en": [
+        "Whole butterflied chicken or bone-in chicken leg quarters: 700 g",
+        "Finely pounded garlic, peppercorns, cilantro roots, and lemongrass: 3 tbsp",
+        "Oyster sauce, light soy sauce, salt, and palm sugar: 1 set",
+        "Tamarind and toasted rice jaew dipping sauce: 1 cup"
+      ],
+      "steps_en": [
+        "Marinate the chicken with the garlic-pepper-cilantro paste, lemongrass, oyster sauce, light soy sauce, salt, and palm sugar for at least 1 hour.",
+        "Grill over low charcoal heat or roast at 190°C for 35–40 minutes, turning as needed until the skin is dry, crisp, and golden brown and the meat is cooked through.",
+        "Chop into serving pieces and serve hot with sticky rice and tamarind jaew dipping sauce."
+      ]
     },
     {
       "id": "th_isan_07",
@@ -14814,7 +23229,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Mok Nor Mai (Isan Steamed Bamboo Shoot & Pork Curry in Banana Leaf)",
+      "desc_en": "Ground soaked sticky rice thickens the savory broth inside these steamed parcels, wrapping every bite in ya-nang and lemon basil aroma.",
+      "ingredients_en": [
+        "Shredded fresh bamboo shoots, boiled until mild: 300 g",
+        "Thinly sliced pork belly: 180 g",
+        "Soaked sticky rice paste and ya-nang leaf extract: 3 tbsp + 1 cup",
+        "Pounded fresh chilies, lemongrass, shallots, fermented fish sauce, and lemon basil: 1 set",
+        "Banana leaves and bamboo pins for wrapping: 1 set"
+      ],
+      "steps_en": [
+        "Combine the shredded bamboo shoots, pork belly, ya-nang extract, sticky rice paste, pounded aromatics, fermented fish sauce, and lemon basil.",
+        "Spoon into banana leaf packets and secure firmly with bamboo pins.",
+        "Steam over boiling water on medium heat for 25–30 minutes until the pork is tender and the rice paste thickens; unwrap and serve hot."
+      ]
     },
     {
       "id": "th_isan_08",
@@ -14847,7 +23276,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Larb Ped Udon (Udon Thani Spicy Duck Salad with Crispy Skin)",
+      "desc_en": "The secret to Udon Thani duck larb is crunchy rendered duck skin, crisp fried kaffir lime leaves, and fragrant galangal.",
+      "ingredients_en": [
+        "Minced duck meat and sliced duck offal: 350 g",
+        "Crispy rendered duck skin and fried kaffir lime leaves: 1/2 cup",
+        "Toasted rice powder, chili flakes, fish sauce, and lime juice: 1 set",
+        "Sliced shallots, scallions, sawtooth coriander, mint leaves, and fried dried chilies: 1 cup"
+      ],
+      "steps_en": [
+        "Render the duck skin until crisp and golden, set aside, then cook the minced duck and offal in a little broth with chopped galangal until done.",
+        "Remove from heat and toss with fish sauce, lime juice, chili flakes, and toasted rice powder for a bold, zesty balance.",
+        "Fold in the shallots, scallions, sawtooth coriander, and mint, then top with crispy duck skin, fried kaffir lime leaves, and fried dried chilies."
+      ]
     },
     {
       "id": "th_isan_09",
@@ -14880,7 +23322,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Pla Nin Phao Kluea (Isan Salt-Crusted Grilled Tilapia with Herbs)",
+      "desc_en": "Grilling tilapia whole with its scales under a salt crust seals in moisture for sweet, flaky, oil-free fish.",
+      "ingredients_en": [
+        "Whole fresh tilapia, gutted with scales intact: 1 fish (700 g)",
+        "Bruised lemongrass and pandan leaves for stuffing: 1 set",
+        "Coarse salt mixed with a little flour for crusting: 1/2 cup",
+        "Seafood chili sauce, peanut jaew dip, fresh herbs, and rice vermicelli: 1 set"
+      ],
+      "steps_en": [
+        "Clean the tilapia well and stuff the cavity with bruised lemongrass and pandan leaves for fragrance.",
+        "Coat the scales evenly with the salt-flour mixture and grill over medium charcoal for 15 minutes per side until the crust puffs and the fish is juicy inside.",
+        "Peel away the salted skin and serve the tender meat with fresh greens, rice vermicelli, seafood sauce, and jaew dip."
+      ]
     },
     {
       "id": "th_isan_10",
@@ -14913,7 +23368,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Moo Dad Deaw (Isan Sun-Dried Crispy Fried Pork)",
+      "desc_en": "Fragrant with toasted coriander seeds and white sesame, these chewy-tender fried pork strips are made for sticky rice and papaya salad.",
+      "ingredients_en": [
+        "Pork neck or shoulder, cut into thick strips: 400 g",
+        "Toasted and pounded coriander seeds, garlic, and pepper: 1.5 tbsp",
+        "Oyster sauce, light soy sauce, fish sauce, and a touch of palm sugar: 1 set",
+        "Toasted white sesame seeds and jaew dipping sauce: 1 set"
+      ],
+      "steps_en": [
+        "Marinate the pork with the toasted coriander seed paste, garlic, pepper, oyster sauce, soy sauce, fish sauce, palm sugar, and sesame seeds for 30 minutes, then sun-dry or air-dry until tacky.",
+        "Fry in medium-low oil until nicely browned, tender, and pleasantly chewy without drying out.",
+        "Drain well and serve hot with sticky rice and jaew dipping sauce."
+      ]
     },
     {
       "id": "th_isan_11",
@@ -14946,7 +23414,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sai Krok Isan (Fermented Isan Pork & Rice Sausages)",
+      "desc_en": "A quintessential Isan street food whose tangy-savory bite pairs naturally with pickled ginger and crisp fresh chilies.",
+      "ingredients_en": [
+        "Fermented Isan pork sausages (with glass noodles or rice): 12 pieces",
+        "Crisp fresh cabbage wedges: 100 g",
+        "Thinly sliced pickled ginger and fresh bird's eye chilies: 1 set",
+        "Roasted peanuts: 3 tbsp"
+      ],
+      "steps_en": [
+        "Prick each sausage 2–3 times with a toothpick so the casings do not burst while cooking.",
+        "Grill over low charcoal heat or air-fry at 175°C for 15–18 minutes until the skins are taut, crisp, and golden.",
+        "Plate and serve hot alongside fresh cabbage, pickled ginger, bird's eye chilies, and roasted peanuts."
+      ]
     },
     {
       "id": "th_isan_12",
@@ -14980,7 +23461,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Phak Wan Khai Mot Daeng (Isan Melientha Greens Soup with Ant Eggs)",
+      "desc_en": "A prized Isan seasonal delicacy combining naturally sweet melientha greens with rich, delicately tangy ant eggs.",
+      "ingredients_en": [
+        "Tender melientha leaf tips: 250 g",
+        "Fresh ant eggs, rinsed clean: 120 g",
+        "Halved straw mushrooms and optional soaked glass noodles: 120 g",
+        "Pounded fresh chilies, shallots, lemongrass, and boiled fermented fish sauce: 1 set",
+        "Flaked grilled fish and lemon basil leaves: 1 set"
+      ],
+      "steps_en": [
+        "Boil water with the pounded chilies, shallots, lemongrass, and flaked grilled fish until aromatic, then season with fermented fish sauce and fish sauce.",
+        "Add the straw mushrooms until tender, then submerge the melientha greens into the hot broth.",
+        "Gently add the ant eggs and lemon basil, let simmer softly for 1 minute, and turn off the heat immediately so the eggs stay plump and intact."
+      ]
     },
     {
       "id": "th_south_01",
@@ -15014,7 +23509,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Tai Pla (Southern Thai Fermented Fish Entrails Curry)",
+      "desc_en": "A fiercely aromatic Southern specialty made without oil or coconut milk, packed with herbs, grilled fish, and crisp local vegetables.",
+      "ingredients_en": [
+        "Quality fermented fish entrails, boiled and strained: 1/2 cup",
+        "Southern tai pla curry paste (dried bird's eye chilies, black pepper, turmeric, lemongrass, galangal, kaffir lime zest, shrimp paste): 3 tbsp",
+        "Grilled mackerel or saba, flaked into large chunks: 250 g",
+        "Pumpkin, boiled bamboo shoots, Thai eggplant, and yardlong beans, cut into pieces: 300 g",
+        "Torn kaffir lime leaves and a touch of tamarind paste: 1 set"
+      ],
+      "steps_en": [
+        "Bring water to a boil with the strained fermented fish entrails and Southern curry paste until intensely fragrant.",
+        "Add the pumpkin and bamboo shoots and cook until nearly tender, followed by the Thai eggplant, yardlong beans, and flaked grilled fish.",
+        "Balance with a splash of tamarind paste, scatter in torn kaffir lime leaves, and serve hot with rice noodles or steamed rice and fresh Southern veggies."
+      ]
     },
     {
       "id": "th_south_02",
@@ -15048,7 +23557,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Khanom Jeen Nam Ya Pu (Southern Thai Crab Curry with Rice Noodles)",
+      "desc_en": "Authentic Southern crab curry glows golden with turmeric, pairing rich coconut broth with sweet, intact lumps of crab meat.",
+      "ingredients_en": [
+        "Steamed jumbo lump crab meat: 250 g",
+        "Turmeric-rich Southern coconut curry paste: 3 tbsp",
+        "Fresh coconut cream and coconut milk: 500 ml",
+        "Fresh rice vermicelli and torn kaffir lime leaves: 400 g",
+        "Southern fresh vegetable platter (yardlong beans, lemon basil, pickled greens, cucumber) and boiled eggs: 1 set"
+      ],
+      "steps_en": [
+        "Fry the Southern curry paste in coconut cream over low heat until fragrant, golden, and the oil separates.",
+        "Pour in the coconut milk, bring to a simmer, season with fish sauce and a touch of palm sugar, and add torn kaffir lime leaves.",
+        "Gently drop in the lump crab meat and simmer briefly without stirring hard so the chunks stay whole; ladle over rice noodles with Southern vegetables and boiled eggs."
+      ]
     },
     {
       "id": "th_south_03",
@@ -15081,7 +23604,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kai Golae (Southern Thai Grilled Chicken with Spiced Coconut Glaze)",
+      "desc_en": "Famous in Thailand's southernmost provinces, this grilled chicken is lacquered in a sweet, savory, and spiced coconut glaze.",
+      "ingredients_en": [
+        "Chicken thighs or wings on skewers: 600 g",
+        "Golae curry paste (dried chilies, shallots, garlic, galangal, lemongrass, turmeric, coriander seeds, cumin): 3 tbsp",
+        "Rich coconut cream: 250 ml",
+        "Tamarind paste, palm sugar, and salt: 1 set"
+      ],
+      "steps_en": [
+        "Simmer the coconut cream with the golae curry paste, palm sugar, tamarind paste, and salt until it thickens into a glossy reddish-orange glaze.",
+        "Marinate the chicken in half of the glaze for 30 minutes, then set over low grill heat.",
+        "Brush repeatedly with the remaining glaze while turning until the chicken is cooked through and richly lacquered; serve hot with sticky rice."
+      ]
     },
     {
       "id": "th_south_04",
@@ -15115,7 +23651,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Khua Pork Ribs with Tree Basil (Southern Thai Dry-Style Curry)",
+      "desc_en": "A fiery Southern favorite where tender pork ribs soak up spicy curry paste and the peppery fragrance of tree basil.",
+      "ingredients_en": [
+        "Pork soft ribs, chopped into bite-sized pieces: 500 g",
+        "Southern dry-curry paste and quality shrimp paste: 3 tbsp + 1 tsp",
+        "Coarsely chopped tree basil and torn kaffir lime leaves: 1 cup",
+        "Fresh green peppercorns and diagonally sliced red spur chilies: 1 set",
+        "Fish sauce and a touch of palm sugar: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the Southern curry paste and shrimp paste in a splash of oil until fragrant, then add the pork ribs and stir-fry to coat.",
+        "Add enough water to cover the ribs and simmer over medium-low heat for 25 minutes until tender and the sauce reduces to a thick glaze.",
+        "Season with fish sauce and a pinch of palm sugar, toss quickly with tree basil, kaffir lime leaves, green peppercorns, and red chilies, and serve."
+      ]
     },
     {
       "id": "th_south_05",
@@ -15148,7 +23698,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Pla Muek Tom Nam Dam (Southern Thai Squid Simmered in Sweet Ink Broth)",
+      "desc_en": "A mild, savory-sweet Southern coastal soup that offers a soothing counterbalance to fiery Southern curries.",
+      "ingredients_en": [
+        "Small whole fresh squid with ink sacs intact: 450 g",
+        "Bruised lemongrass, shallots, and garlic: 1 set",
+        "Toddy palm sugar or palm sugar and tamarind paste: 1.5 tbsp + 1 tbsp",
+        "Sea salt and fish sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Gently rinse the squid and remove the transparent quill and eyes while keeping the ink sacs intact.",
+        "Bring a modest amount of water to a boil with the bruised lemongrass, shallots, and garlic, then season with palm sugar, tamarind paste, and sea salt.",
+        "Add the whole squid and simmer over medium heat for 4–5 minutes until bouncy and cooked through as the ink colors the sweet-savory broth; serve hot."
+      ]
     },
     {
       "id": "th_south_06",
@@ -15181,7 +23744,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Yum Mamuang Bao (Southern Thai Crispy Baby Mango Salad)",
+      "desc_en": "Tart, crunchy Southern baby mangoes tossed with sweet shrimp paste dressing, crispy anchovies, and roasted cashews make an eye-opening salad.",
+      "ingredients_en": [
+        "Southern baby mangoes, thinly sliced and chilled in ice water: 250 g",
+        "Crispy fried baby anchovies and large dried shrimp: 1/2 cup",
+        "Sliced shallots and bird's eye chilies: 1/2 cup",
+        "Simmered palm sugar syrup, fish sauce, a touch of sweet shrimp paste, and roasted cashews: 1 set"
+      ],
+      "steps_en": [
+        "Stir together the palm sugar syrup, fish sauce, and sweet shrimp paste until dissolved into a rich, savory-sweet dressing.",
+        "Add the chilled baby mango slices, shallots, and bird's eye chilies and toss gently.",
+        "Plate and top with crispy anchovies, dried shrimp, and roasted cashews right before serving."
+      ]
     },
     {
       "id": "th_south_07",
@@ -15214,7 +23790,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tao Khua Songkhla (Southern Thai Rice Noodle & Crispy Prawn Salad)",
+      "desc_en": "A celebrated Songkhla specialty akin to a warm rice noodle salad, layering crisp fritters, boiled pork, and sweet-tangy palm sugar dressing.",
+      "ingredients_en": [
+        "Blanched fine rice vermicelli: 200 g",
+        "Crispy battered prawns, fried white tofu, and thinly sliced boiled pork belly: 250 g",
+        "Soft-boiled duck eggs, blanched morning glory, bean sprouts, and sliced cucumber: 1 set",
+        "Simmered toddy palm sugar syrup and chili-vinegar sauce: 1 cup"
+      ],
+      "steps_en": [
+        "Arrange the blanched rice vermicelli, morning glory, bean sprouts, and cucumber in a serving bowl.",
+        "Top with crispy fried prawns, fried tofu, sliced boiled pork, and halved boiled eggs.",
+        "Spoon over the sweet-savory palm sugar dressing and add tangy chili-vinegar to taste before serving immediately."
+      ]
     },
     {
       "id": "th_south_08",
@@ -15248,7 +23837,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Southern Thai Stir-Fried Prawns with Spicy Curry Paste",
+      "desc_en": "A fiery Southern rice-shop classic rich with turmeric and sliced kaffir lime leaves, best paired with a fluffy Thai omelette.",
+      "ingredients_en": [
+        "Fresh prawns, peeled and deveined: 350 g",
+        "Southern red curry paste and a touch of shrimp paste: 2.5 tbsp",
+        "Yardlong bean pieces and diagonally sliced red spur chilies: 120 g",
+        "Finely shredded kaffir lime leaves: 2 tbsp",
+        "Fish sauce and a touch of palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Stir-fry the Southern curry paste and shrimp paste in oil over medium heat until pungent and vibrant.",
+        "Turn up the heat, add the prawns and yardlong beans, and stir-fry briskly with a splash of broth for a light sauce.",
+        "Season with fish sauce and palm sugar, toss in shredded kaffir lime leaves and red chilies, and serve hot."
+      ]
     },
     {
       "id": "th_south_09",
@@ -15281,7 +23884,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kaeng Som Tai Pla Chon (Southern Thai Sour Yellow Curry with Snakehead Fish)",
+      "desc_en": "Boldly sour and spicy Southern yellow curry featuring tender snakehead fish and juicy, broth-soaked elephant ear stems.",
+      "ingredients_en": [
+        "Fresh snakehead fish steaks: 400 g",
+        "Peeled elephant ear stems, cut into chunks: 200 g",
+        "Southern sour curry paste (fresh chilies, turmeric, garlic, shallots, shrimp paste): 3 tbsp",
+        "Tamarind paste, lime juice, fish sauce, and a touch of palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Dissolve the Southern sour curry paste in a pot of boiling water until fragrant with turmeric and shrimp paste.",
+        "Season to a sharp sour-spicy-savory balance with tamarind paste, fish sauce, and a pinch of palm sugar.",
+        "Lay in the fish steaks without stirring until cooked, add the elephant ear stems for 2 minutes, and finish with fresh lime juice for brightness."
+      ]
     },
     {
       "id": "th_south_10",
@@ -15315,7 +23931,21 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Phuket Hokkien Mee (Southern Thai Stir-Fried Yellow Noodles with Seafood)",
+      "desc_en": "Phuket's signature wok-charred noodle dish coats thick, bouncy yellow noodles in a rich, glossy seafood broth.",
+      "ingredients_en": [
+        "Thick round Hokkien yellow noodles: 250 g",
+        "Fresh prawns, sliced squid, and Phuket fish balls: 220 g",
+        "Choy sum and chopped cabbage: 120 g",
+        "Pork bone broth, dark soy sauce, light soy sauce, oyster sauce, and white pepper: 1 set",
+        "Soft-poached egg and crispy pork cracklings: 1 set"
+      ],
+      "steps_en": [
+        "Fry garlic until fragrant, then stir-fry the prawns, squid, fish balls, and choy sum over high heat.",
+        "Add the Hokkien noodles, broth, light soy sauce, dark soy sauce, and oyster sauce, tossing until a glossy, light gravy coats the noodles.",
+        "Plate with a soft-poached egg in the center, sprinkle with crispy cracklings and pepper, and serve with shallots and pork rinds."
+      ]
     },
     {
       "id": "th_south_11",
@@ -15348,7 +23978,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Moo Pad Khoei Khem (Southern Thai Pork Belly Stir-Fried with Shrimp Paste)",
+      "desc_en": "An irresistible Southern homestyle stir-fry of crisp-edged pork belly, salty liquid shrimp paste, and sliced herbs that disappears fast over steamed rice.",
+      "ingredients_en": [
+        "Thinly sliced pork belly: 350 g",
+        "Quality Southern salted liquid shrimp paste: 2 tbsp",
+        "Sliced shallots, finely sliced lemongrass, and crushed bird's eye chilies: 1 cup",
+        "Torn kaffir lime leaves and a touch of palm sugar: 1 set"
+      ],
+      "steps_en": [
+        "Cook the pork belly in a skillet over medium heat until its fat renders and the edges turn golden.",
+        "Add the shallots, lemongrass, and salted shrimp paste, stir-frying until fragrant, then add a splash of water and a touch of palm sugar.",
+        "Toss in the crushed bird's eye chilies and kaffir lime leaves, stir to combine, and serve with hot steamed rice and chilled cucumber."
+      ]
     },
     {
       "id": "th_south_12",
@@ -15381,7 +24024,20 @@ window.KITCHSYNC_PACK_DATA.th_full = {
       ],
       "country": "TH",
       "packId": "th_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Oh Aew Phuket (Southern Thai Banana-Seed Jelly Dessert with Shaved Ice)",
+      "desc_en": "Phuket's iconic cooling shaved-ice treat pairs bouncy banana-seed jelly with sweet red sala syrup to beat the tropical heat.",
+      "ingredients_en": [
+        "Diced clear oh-aew banana-seed jelly: 200 g",
+        "Simmered tender red kidney beans and diced grass jelly: 100 g",
+        "Finely shaved ice: 2 cups",
+        "Red sala-flavored syrup and clear simple syrup: 4 tbsp"
+      ],
+      "steps_en": [
+        "Spoon the oh-aew jelly, cooked red beans, and grass jelly into the bottom of a dessert bowl.",
+        "Pile finely shaved ice generously on top.",
+        "Drizzle generously with fragrant red sala syrup and serve immediately."
+      ]
     }
   ]
 };

@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Chinese (62 recipes)
-// Place this file at assets/data/packs/cn_popular.js
+// KitchSync Master Pack: cn_popular (62 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.cn_popular = {
   "pack_id": "chinese_popular_48",
@@ -78,6 +77,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Chinese Tomato and Egg Stir-Fry",
+      "desc_en": "Classic Chinese Tomato and Egg Stir-Fry — Beat eggs with a pinch of salt, scramble softly in hot oil until just set, and remove.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Tomato: 250 g",
+        "Scallions: 20 g"
       ]
     },
     {
@@ -149,7 +155,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Pour the glossy garlic oyster sauce over the bok choy and serve immediately."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Stir-Fried Bok Choy in Oyster Sauce",
+      "desc_en": "Classic Stir-Fried Bok Choy in Oyster Sauce — Blanch bok choy in boiling water with a drop of oil for 1 minute, drain, and plate.",
+      "ingredients_en": [
+        "Bok Choy: 300 g",
+        "Oyster Sauce: 30 ml",
+        "Garlic: 15 g",
+        "Sesame Oil: 5 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_003",
@@ -229,7 +243,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Return green beans to the wok, season with soy sauce and a pinch of sugar, and toss well."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sichuan Dry-Fried Green Beans",
+      "desc_en": "Classic Sichuan Dry-Fried Green Beans — Blister green beans in a hot wok until wrinkled and tender-crisp, then set aside.",
+      "ingredients_en": [
+        "Green Beans: 250 g",
+        "Ground Pork: 100 g",
+        "Dried Chili: 10 g",
+        "Sichuan Peppercorns: 5 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_004",
@@ -309,7 +332,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with oyster sauce and white pepper, toss briskly, and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Shredded Pork with Green Peppers",
+      "desc_en": "Classic Shredded Pork with Green Peppers — Slice pork into thin strips and marinate with soy sauce, Shaoxing wine, and cornstarch for 10 minutes.",
+      "ingredients_en": [
+        "Pork: 250 g",
+        "Green Bell Pepper: 150 g",
+        "Soy Sauce: 20 ml",
+        "Shaoxing Cooking Wine: 15 ml",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_005",
@@ -389,7 +421,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Fold in roasted cashew nuts at the very end to keep them crunchy and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Shrimp with Cashew Nuts",
+      "desc_en": "Classic Shrimp with Cashew Nuts — Stir-fry peeled shrimp over high heat until pink and opaque.",
+      "ingredients_en": [
+        "Shrimp: 250 g",
+        "Cashew Nuts: 60 g",
+        "Bell Pepper: 80 g",
+        "Oyster Sauce: 20 ml",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_006",
@@ -462,7 +503,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with soy sauce, a pinch of sugar, and sesame oil; stir-fry until tender-crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Stir-Fried Chinese Broccoli with Garlic",
+      "desc_en": "Classic Stir-Fried Chinese Broccoli with Garlic — Trim tough stems of Chinese broccoli and slice diagonally.",
+      "ingredients_en": [
+        "Chinese Broccoli: 300 g",
+        "Garlic: 20 g",
+        "Soy Sauce: 15 ml",
+        "Sesame Oil: 5 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_007",
@@ -550,7 +599,17 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with soy sauce, salt, and chopped scallions before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Yangzhou Fried Rice",
+      "desc_en": "Classic Yangzhou Fried Rice — Scramble eggs in a hot wok, then add shrimp and diced BBQ pork.",
+      "ingredients_en": [
+        "Rice: 300 g",
+        "Shrimp: 100 g",
+        "Char Siu Pork: 80 g",
+        "Egg: 2 pcs",
+        "Scallions: 20 g",
+        "Soy Sauce: 15 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_008",
@@ -630,7 +689,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with soy sauce, white pepper, sesame oil, and green scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Chinese Egg Fried Rice",
+      "desc_en": "Classic Classic Chinese Egg Fried Rice — Sauté white scallion parts in hot oil, then pour in beaten eggs and stir gently.",
+      "ingredients_en": [
+        "Rice: 300 g",
+        "Egg: 3 pcs",
+        "Scallions: 30 g",
+        "Soy Sauce: 15 ml",
+        "Sesame Oil: 5 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_009",
@@ -709,7 +777,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss in noodles with soy sauce and oyster sauce over high heat until smoky."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pork and Vegetable Chow Mein",
+      "desc_en": "Classic Pork and Vegetable Chow Mein — Boil egg noodles until just tender, drain, and toss with a drop of sesame oil.",
+      "ingredients_en": [
+        "Egg Noodles: 200 g",
+        "Pork: 150 g",
+        "Bok Choy: 100 g",
+        "Soy Sauce: 25 ml",
+        "Oyster Sauce: 20 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_010",
@@ -789,7 +866,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with light and dark soy sauce and scallion batons, tossing briskly."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cantonese Beef Chow Fun",
+      "desc_en": "Classic Cantonese Beef Chow Fun — Marinate thinly sliced beef in soy sauce and Shaoxing wine, then sear quickly in a hot wok.",
+      "ingredients_en": [
+        "Wide Rice Noodles: 250 g",
+        "Beef: 200 g",
+        "Scallions: 30 g",
+        "Soy Sauce: 30 ml",
+        "Shaoxing Cooking Wine: 15 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_011",
@@ -869,7 +955,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Top with boiled noodles, blanched bok choy, spiced pork, and crushed peanuts."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sichuan Dan Dan Noodles",
+      "desc_en": "Classic Sichuan Dan Dan Noodles — Stir-fry ground pork with hoisin sauce, Shaoxing wine, and soy sauce until savory.",
+      "ingredients_en": [
+        "Egg Noodles: 200 g",
+        "Ground Pork: 150 g",
+        "Sichuan Chili Crisp Oil: 30 ml",
+        "Hoisin Sauce: 20 g",
+        "Bok Choy: 80 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_012",
@@ -949,7 +1044,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Spoon the rich savory meat sauce over noodles and top with crisp cucumber strips."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Beijing Zhajiangmian (Soybean Paste Noodles)",
+      "desc_en": "Classic Beijing Zhajiangmian (Soybean Paste Noodles) — Stir-fry ground pork with ginger and scallions, add fermented bean paste and water, and simmer 15 minutes.",
+      "ingredients_en": [
+        "Egg Noodles: 200 g",
+        "Ground Pork: 180 g",
+        "Fermented Black Bean Sauce: 50 g",
+        "Cucumber: 80 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_013",
@@ -1037,7 +1141,17 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Add a tangy glaze of soy sauce, black vinegar, and sugar, tossing in roasted cashews."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Kung Pao Chicken",
+      "desc_en": "Classic Kung Pao Chicken — Dice chicken breast and marinate briefly in soy sauce and cornstarch.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Dried Chili: 15 g",
+        "Sichuan Peppercorns: 5 g",
+        "Cashew Nuts: 50 g",
+        "Chinese Black Vinegar: 15 ml",
+        "Soy Sauce: 20 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_014",
@@ -1116,7 +1230,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss bell peppers, onion, and crispy pork in the sweet and sour glaze and serve hot."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sweet and Sour Pork",
+      "desc_en": "Classic Sweet and Sour Pork — Coat cubed pork in batter/starch and deep-fry until golden and crispy.",
+      "ingredients_en": [
+        "Pork: 300 g",
+        "Bell Pepper: 100 g",
+        "Tomato Sauce: 60 ml",
+        "Chinese Black Vinegar: 20 ml",
+        "All-Purpose Flour: 80 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_015",
@@ -1196,7 +1319,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Thicken with a cornstarch slurry and finish with ground Sichuan pepper and scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sichuan Mapo Tofu",
+      "desc_en": "Classic Sichuan Mapo Tofu — Stir-fry ground pork with Doubanjiang chili bean paste and garlic until aromatic.",
+      "ingredients_en": [
+        "Silken Tofu: 350 g",
+        "Ground Pork: 120 g",
+        "Doubanjiang Chili Bean Paste: 30 g",
+        "Sichuan Peppercorns: 5 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_016",
@@ -1276,7 +1408,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss the crispy chicken in the glossy orange glaze and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Chinese Orange Chicken",
+      "desc_en": "Classic Crispy Chinese Orange Chicken — Coat bite-sized chicken pieces in flour/starch and fry until golden crisp.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Orange: 1 pc",
+        "Soy Sauce: 25 ml",
+        "Dried Chili: 5 g",
+        "All-Purpose Flour: 80 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_017",
@@ -1356,7 +1497,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss in broccoli and oyster sauce, stir-frying briskly until coated."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Beef and Broccoli Stir-Fry",
+      "desc_en": "Classic Beef and Broccoli Stir-Fry — Marinate sliced beef in soy sauce and cornstarch; blanch broccoli florets until bright green.",
+      "ingredients_en": [
+        "Beef: 250 g",
+        "Broccoli: 200 g",
+        "Oyster Sauce: 30 ml",
+        "Soy Sauce: 15 ml",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_018",
@@ -1438,7 +1588,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss the crispy chicken with the spices, finishing with toasted sesame seeds and scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sichuan Spicy Mala Chicken (Laziji)",
+      "desc_en": "Classic Sichuan Spicy Mala Chicken (Laziji) — Cut chicken into small bite-sized cubes and deep-fry until golden and crispy.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Dried Chili: 30 g",
+        "Sichuan Peppercorns: 10 g",
+        "Ginger: 15 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_019",
@@ -1517,7 +1676,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Slowly drizzle beaten egg into the simmering soup while stirring gently to form ribbons."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Hot and Sour Soup",
+      "desc_en": "Classic Hot and Sour Soup — Simmer julienned firm tofu, shiitake mushrooms, and bamboo shoots in broth.",
+      "ingredients_en": [
+        "Firm Tofu: 150 g",
+        "Shiitake Mushroom: 60 g",
+        "Sliced Bamboo Shoots: 60 g",
+        "Egg: 1 pc",
+        "Chinese Black Vinegar: 30 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_020",
@@ -1584,7 +1752,14 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Chinese Egg Drop Soup",
+      "desc_en": "Classic Chinese Egg Drop Soup — Bring seasoned broth to a simmer and thicken lightly with a cornstarch slurry.",
+      "ingredients_en": [
+        "Egg: 2 pcs",
+        "Scallions: 20 g",
+        "Sesame Oil: 5 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_021",
@@ -1666,7 +1841,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Cantonese Wonton Soup",
+      "desc_en": "Classic Cantonese Wonton Soup — Chop shrimp coarsely, season with soy sauce, sesame oil, and white pepper, and wrap in wonton skins.",
+      "ingredients_en": [
+        "Shrimp: 200 g",
+        "Square Wonton Wrappers: 120 g",
+        "Bok Choy: 100 g",
+        "Sesame Oil: 10 ml",
+        "Scallions: 15 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_022",
@@ -1746,7 +1930,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Add ginger, Shaoxing wine, soy sauces, five-spice, and water; braise 50 minutes until melt-in-your-mouth."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Shanghai Braised Pork Belly (Hong Shao Rou)",
+      "desc_en": "Classic Shanghai Braised Pork Belly (Hong Shao Rou) — Cut pork belly into chunky cubes, blanch for 3 minutes, and rinse.",
+      "ingredients_en": [
+        "Pork Belly: 500 g",
+        "Soy Sauce: 45 ml",
+        "Shaoxing Cooking Wine: 30 ml",
+        "Ginger: 20 g",
+        "Chinese Five-Spice Powder: 5 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_023",
@@ -1814,6 +2007,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Pork Rib and Lotus Root Soup",
+      "desc_en": "Classic Pork Rib and Lotus Root Soup — Blanch pork ribs in boiling water to clean impurities, then drain.",
+      "ingredients_en": [
+        "Pork Ribs: 350 g",
+        "Fresh Sliced Lotus Root: 200 g",
+        "Ginger: 15 g"
       ]
     },
     {
@@ -1894,7 +2094,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Add broth, cover, and braise gently for 75 minutes until fork-tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chinese Five-Spice Braised Beef Stew",
+      "desc_en": "Classic Chinese Five-Spice Braised Beef Stew — Cut beef into large chunks, blanch briefly, and drain.",
+      "ingredients_en": [
+        "Beef: 500 g",
+        "Chinese Five-Spice Powder: 8 g",
+        "Soy Sauce: 45 ml",
+        "Shaoxing Cooking Wine: 30 ml",
+        "Ginger: 20 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_025",
@@ -1974,7 +2183,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss cucumbers in the dressing and serve chilled."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chinese Smashed Cucumber Salad",
+      "desc_en": "Classic Chinese Smashed Cucumber Salad — Lightly smash cucumbers with the flat of a knife, cut into bite-sized chunks, salt for 5 minutes, and drain.",
+      "ingredients_en": [
+        "Cucumber: 300 g",
+        "Garlic: 15 g",
+        "Chinese Black Vinegar: 20 ml",
+        "Sesame Oil: 10 ml",
+        "Soy Sauce: 15 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_026",
@@ -2059,6 +2277,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cantonese Steamed Sea Bass with Ginger & Scallions",
+      "desc_en": "Classic Cantonese Steamed Sea Bass with Ginger & Scallions — Place sea bass on a steaming plate topped with ginger strips and steam over high heat for 10-12 minutes.",
+      "ingredients_en": [
+        "Sea Bass: 400 g",
+        "Ginger: 25 g",
+        "Scallions: 30 g",
+        "Soy Sauce: 30 ml",
+        "Sesame Oil: 10 ml"
       ]
     },
     {
@@ -2139,7 +2366,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Drizzle with a spicy sauce of chili crisp oil, sesame paste, and soy sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sichuan Bang Bang Chicken Salad",
+      "desc_en": "Classic Sichuan Bang Bang Chicken Salad — Poach chicken breast with ginger and scallions until cooked, cool, and shred.",
+      "ingredients_en": [
+        "Chicken Breast: 250 g",
+        "Cucumber: 100 g",
+        "Sichuan Chili Crisp Oil: 20 ml",
+        "Soy Sauce: 15 ml",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_028",
@@ -2219,7 +2455,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss mushrooms in the dressing and garnish with toasted sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Wood Ear Mushroom Cold Salad",
+      "desc_en": "Classic Wood Ear Mushroom Cold Salad — Blanch wood ear mushrooms in boiling water for 2 minutes, then plunge into ice water.",
+      "ingredients_en": [
+        "Wood Ear Mushroom: 200 g",
+        "Garlic: 15 g",
+        "Chinese Black Vinegar: 25 ml",
+        "Sesame Oil: 10 ml",
+        "Dried Chili: 5 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_029",
@@ -2300,7 +2545,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Spoon the savory shiitake sauce over the steamed tofu and garnish with scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Steamed Silken Tofu with Shiitake Soy Sauce",
+      "desc_en": "Classic Steamed Silken Tofu with Shiitake Soy Sauce — Place sliced silken tofu on a heatproof plate and steam for 6-8 minutes.",
+      "ingredients_en": [
+        "Silken Tofu: 300 g",
+        "Shiitake Mushroom: 80 g",
+        "Soy Sauce: 20 ml",
+        "Sesame Oil: 10 ml",
+        "Scallions: 15 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_030",
@@ -2380,7 +2634,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Season with vegetarian mushroom sauce, soy sauce, and sesame oil."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Stir-Fried Trio Mushrooms in Vegetarian Oyster Sauce",
+      "desc_en": "Classic Stir-Fried Trio Mushrooms in Vegetarian Oyster Sauce — Clean and slice shiitake, button, and wood ear mushrooms.",
+      "ingredients_en": [
+        "Shiitake Mushroom: 100 g",
+        "Mushroom: 100 g",
+        "Wood Ear Mushroom: 80 g",
+        "Soy Sauce: 20 ml",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_031",
@@ -2466,6 +2729,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cantonese Pork and Century Egg Congee",
+      "desc_en": "Classic Cantonese Pork and Century Egg Congee — Simmer rice in chicken broth with ginger slices, stirring occasionally until creamy and thick.",
+      "ingredients_en": [
+        "Rice: 150 g",
+        "Ground Pork: 150 g",
+        "Century Egg: 1 pc",
+        "Ginger: 15 g",
+        "Scallions: 15 g"
       ]
     },
     {
@@ -2530,7 +2802,14 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Flatten coiled dough and pan-fry over medium heat until crispy and golden on both sides."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Chinese Scallion Pancakes",
+      "desc_en": "Classic Crispy Chinese Scallion Pancakes — Knead all-purpose flour with warm water and salt until smooth; rest for 20 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 250 g",
+        "Scallions: 60 g",
+        "Sesame Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_033",
@@ -2610,7 +2889,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Wrap filling in rolled dough rounds, pleat to seal, and steam for 15 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Steamed Chinese Pork Buns (Baozi)",
+      "desc_en": "Classic Steamed Chinese Pork Buns (Baozi) — Knead yeast bun dough until smooth and let rise for 40 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 300 g",
+        "Ground Pork: 200 g",
+        "Scallions: 30 g",
+        "Soy Sauce: 20 ml",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_034",
@@ -2684,6 +2972,14 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cantonese BBQ Pork Buns (Char Siu Bao)",
+      "desc_en": "Classic Cantonese BBQ Pork Buns (Char Siu Bao) — Simmer diced BBQ pork with char siu sauce, hoisin sauce, and cornstarch slurry; cool.",
+      "ingredients_en": [
+        "All-Purpose Flour: 300 g",
+        "Pork: 200 g",
+        "Char Siu Sauce: 45 g",
+        "Hoisin Sauce: 15 g"
       ]
     },
     {
@@ -2759,7 +3055,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Drizzle with soy sauce and sesame oil, then garnish with scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Silky Chinese Steamed Eggs",
+      "desc_en": "Classic Silky Chinese Steamed Eggs — Whisk eggs with warm water (1:1.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Soy Sauce: 10 ml",
+        "Sesame Oil: 5 ml",
+        "Scallions: 10 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_036",
@@ -2807,7 +3111,12 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Stretch gently and deep-fry in hot oil until puffed and golden crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Chinese Fried Dough Sticks (Youtiao)",
+      "desc_en": "Classic Crispy Chinese Fried Dough Sticks (Youtiao) — Knead flour, baking powder, baking soda, salt, oil, and water; rest dough 30 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 250 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_037",
@@ -2887,7 +3196,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Pan-fry bottoms until golden, add water, cover to steam 5 minutes, and serve with black vinegar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pan-Fried Chinese Pork Potstickers (Jiaozi)",
+      "desc_en": "Classic Pan-Fried Chinese Pork Potstickers (Jiaozi) — Mix ground pork, squeezed chopped cabbage, scallions, ginger, soy sauce, and sesame oil.",
+      "ingredients_en": [
+        "Round Dumpling Wrappers: 180 g",
+        "Ground Pork: 200 g",
+        "Cabbage: 80 g",
+        "Scallions: 20 g",
+        "Chinese Black Vinegar: 20 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_038",
@@ -2966,7 +3284,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Deep-fry in hot oil until golden brown and crispy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Chinese Spring Rolls",
+      "desc_en": "Classic Crispy Chinese Spring Rolls — Stir-fry ground pork, shredded cabbage, carrot, and shiitake with soy and oyster sauce; cool.",
+      "ingredients_en": [
+        "Spring Roll Pastry Wrappers: 150 g",
+        "Ground Pork: 120 g",
+        "Cabbage: 100 g",
+        "Carrot: 60 g",
+        "Shiitake Mushroom: 40 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_039",
@@ -3046,7 +3373,16 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Steam over boiling water for 10-12 minutes until cooked through."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cantonese Pork and Shrimp Shumai",
+      "desc_en": "Classic Cantonese Pork and Shrimp Shumai — Mix ground pork, chopped shrimp, shiitake, soy sauce, sesame oil, and starch until springy.",
+      "ingredients_en": [
+        "Ground Pork: 180 g",
+        "Shrimp: 100 g",
+        "Square Wonton Wrappers: 120 g",
+        "Shiitake Mushroom: 40 g",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_040",
@@ -3118,7 +3454,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Arrange on a plate and steam over high heat for 20-25 minutes until tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Steamed Pork Ribs with Black Bean Sauce",
+      "desc_en": "Classic Steamed Pork Ribs with Black Bean Sauce — Cut pork ribs into bite-sized pieces, rinse well, and pat dry.",
+      "ingredients_en": [
+        "Pork Ribs: 350 g",
+        "Fermented Black Bean Sauce: 30 g",
+        "Garlic: 20 g",
+        "Shaoxing Cooking Wine: 15 ml"
+      ]
     },
     {
       "recipe_id": "cn_pop_041",
@@ -3190,7 +3534,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Toss crispy corn kernels in the golden salted egg sauce and garnish with scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Salted Egg Yolk Sweet Corn",
+      "desc_en": "Classic Crispy Salted Egg Yolk Sweet Corn — Toss cooked sweet corn kernels in cornstarch and fry until crispy; drain.",
+      "ingredients_en": [
+        "Sweet Corn: 250 g",
+        "Salted Egg Yolk: 2 pcs",
+        "Butter: 20 g",
+        "Scallions: 15 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_042",
@@ -3264,7 +3616,15 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Add crispy wings and toss well to coat in the aromatic seasoning."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Salt and Pepper Crispy Chicken Wings",
+      "desc_en": "Classic Salt and Pepper Crispy Chicken Wings — Marinate chicken wings with Shaoxing wine and salt, dust with starch, and fry until crispy.",
+      "ingredients_en": [
+        "Chicken Wings: 400 g",
+        "Garlic: 25 g",
+        "Scallions: 20 g",
+        "Sichuan Peppercorns: 5 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_043",
@@ -3321,7 +3681,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Boil tangyuan until they float, then serve in warm sweet ginger broth."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Black Sesame Tangyuan in Ginger Soup",
+      "desc_en": "Classic Black Sesame Tangyuan in Ginger Soup — Mix black sesame paste with sugar and oil, roll into small balls, and freeze 15 minutes.",
+      "ingredients_en": [
+        "Black Sesame Paste: 80 g",
+        "Ginger: 40 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_044",
@@ -3387,6 +3753,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Hong Kong Style Egg Tarts",
+      "desc_en": "Classic Hong Kong Style Egg Tarts — Press pastry dough into small tart molds and chill.",
+      "ingredients_en": [
+        "Pie Crust Pastry: 200 g",
+        "Egg: 3 pcs",
+        "Milk: 150 ml"
       ]
     },
     {
@@ -3462,6 +3835,14 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Chilled Mango Pomelo Sago Dessert",
+      "desc_en": "Classic Chilled Mango Pomelo Sago Dessert — Boil sago pearls for 15 minutes until translucent, rinse under cold water, and drain.",
+      "ingredients_en": [
+        "Mango: 250 g",
+        "Pomelo: 100 g",
+        "Small White Sago Pearls: 60 g",
+        "Milk: 150 ml"
       ]
     },
     {
@@ -3519,7 +3900,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "Roll balls in white sesame seeds and fry over medium heat until puffed and golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Sesame Balls with Red Bean Paste",
+      "desc_en": "Classic Crispy Sesame Balls with Red Bean Paste — Roll sweet red bean paste into small balls.",
+      "ingredients_en": [
+        "Sweet Red Bean Paste: 120 g",
+        "Sesame Seeds: 50 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_047",
@@ -3571,7 +3958,12 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Warm Homemade Chinese Soy Milk",
+      "desc_en": "Classic Warm Homemade Chinese Soy Milk — Soak dry yellow soybeans overnight until plump.",
+      "ingredients_en": [
+        "Dry Yellow Soybeans: 150 g"
+      ]
     },
     {
       "recipe_id": "cn_pop_048",
@@ -3630,7 +4022,13 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Silky Tofu Pudding with Ginger Syrup (Douhua)",
+      "desc_en": "Classic Silky Tofu Pudding with Ginger Syrup (Douhua) — Pour hot freshly brewed soy milk over dissolved coagulant and let stand undisturbed for 15 minutes to set.",
+      "ingredients_en": [
+        "Dry Yellow Soybeans: 150 g",
+        "Ginger: 40 g"
+      ]
     },
     {
       "title": "บะหมี่เกี๊ยวหมูแดงกวางตุ้งน้ำใส",
@@ -3663,6 +4061,23 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/cn/cn_mig_01.webp"
+      ],
+      "name_en": "Cantonese Roast Pork Wonton Noodle Soup",
+      "desc_en": "Rinsing the blanched egg noodles briefly in cold water before a quick second blanch gives them that signature springy Cantonese bounce.",
+      "ingredients_en": [
+        "Thin flat egg noodles: 2 portions",
+        "Fresh pork wontons: 4 pieces",
+        "Honey-glazed char siu roast pork, sliced: 60 g",
+        "Blanched choy sum (Chinese flowering cabbage): 2 stalks",
+        "Clear pork bone broth: 2 cups",
+        "Fried garlic with pork cracklings: 1 tbsp",
+        "Chopped scallions, cilantro, and ground white pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Boil the egg noodles, shake dry, plunge into cold water for 3 seconds, blanch once more briefly, and toss with garlic oil.",
+        "Boil the pork wontons in broth until cooked through and floating to the surface.",
+        "Arrange the noodles in a bowl and top with the pork wontons, sliced char siu, and blanched choy sum.",
+        "Ladle the piping hot broth over the bowl and finish with fried garlic cracklings, scallions, cilantro, and white pepper."
       ]
     },
     {
@@ -3697,6 +4112,24 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/cn/cn_mig_02.webp"
+      ],
+      "name_en": "Salted Fish & Crispy Chinese Broccoli Fried Rice",
+      "desc_en": "Taste before seasoning, as salted mackerel already brings deep savoriness—just a pinch of sugar balances the dish beautifully.",
+      "ingredients_en": [
+        "Chilled cooked jasmine rice: 200 g (1 cup)",
+        "Fried salted king mackerel, flaked: 50 g",
+        "Diced Chinese broccoli stems: 80 g",
+        "Egg: 1 piece",
+        "Minced garlic: 1 tbsp",
+        "Granulated sugar: 1/2 tsp",
+        "Ground white pepper: 1/2 tsp",
+        "Lime wedges and sliced chilies for serving: to taste"
+      ],
+      "steps_en": [
+        "Heat oil in a wok and fry the minced garlic and flaked salted fish until crisp and aromatic.",
+        "Crack in the egg and scramble lightly, then add the chilled rice and stir-fry over high heat.",
+        "Toss in the diced Chinese broccoli stems and season with sugar and white pepper without adding extra fish sauce.",
+        "Stir-fry until the rice grains dance and separate, then plate and serve with lime wedges and sliced chilies."
       ]
     },
     {
@@ -3746,7 +4179,23 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "เติมเหล้าจีน ซีอิ๊วขาว ซีอิ๊วดำ น้ำตาลกรวด และน้ำซุป ปิดฝาตุ๋นไฟอ่อน 75-90 นาทีจนเนื้อและมันนุ่มละลายในปาก",
         "พลิกด้านหนังขึ้น เคี่ยวน้ำซอสให้เงาข้น ราดบนหมูเสิร์ฟเคียงกวางตุ้งลวก"
       ],
-      "note": "เมนูตำนานแห่งเมืองหางโจว เนื้อหมูเปื่อยนุ่มแทบไม่ต้องเคี้ยว หอมซีอิ๊วและเหล้าจีน ไม่เผ็ด"
+      "note": "เมนูตำนานแห่งเมืองหางโจว เนื้อหมูเปื่อยนุ่มแทบไม่ต้องเคี้ยว หอมซีอิ๊วและเหล้าจีน ไม่เผ็ด",
+      "name_en": "Dongpo Pork",
+      "desc_en": "Hangzhou's legendary braised pork belly, so meltingly tender it barely needs chewing and rich with Shaoxing wine and soy aroma.",
+      "ingredients_en": [
+        "Well-marbled pork belly, cut into large squares: 450 g",
+        "Shaoxing rice wine: 100 ml",
+        "Light soy sauce and sweet dark soy sauce: 3 tbsp / 1 tbsp",
+        "Rock sugar: 35 g",
+        "Sliced ginger, scallions, and star anise: a small amount each",
+        "Blanched baby bok choy for plating: 100 g"
+      ],
+      "steps_en": [
+        "Simmer the pork belly with ginger and scallions for 10 minutes, then tie with kitchen twine to hold its neat square shape.",
+        "Line the bottom of a clay pot with scallions and ginger, and place the pork belly skin-side down.",
+        "Pour in the Shaoxing wine, light soy sauce, dark soy sauce, rock sugar, and broth; cover and braise over low heat for 75–90 minutes until both meat and fat melt in the mouth.",
+        "Flip the pork skin-side up, reduce the braising liquid until glossy and thick, spoon over the pork, and serve alongside blanched bok choy."
+      ]
     },
     {
       "recipe_id": "cn_pop_050",
@@ -3795,7 +4244,23 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "เติมน้ำซุป ซีอิ๊วขาว ซอสหอยนางรม และน้ำตาลกรวด เคี่ยวไฟอ่อน 55 นาทีจนเนื้อเริ่มนุ่ม",
         "ใส่หัวไชเท้าตุ๋นต่ออีก 20-25 นาทีจนหัวไชเท้าใสหวานและเนื้อเปื่อยนุ่ม เสิร์ฟร้อนๆ ในหม้อดิน"
       ],
-      "note": "เนื้อตุ๋นสไตล์กวางตุ้ง เปื่อยนุ่มซึมน้ำซุปหวานจากหัวไชเท้า ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+      "note": "เนื้อตุ๋นสไตล์กวางตุ้ง เปื่อยนุ่มซึมน้ำซุปหวานจากหัวไชเท้า ไม่เผ็ด เหมาะกับผู้สูงอายุ",
+      "name_en": "Braised Beef Brisket with Radish",
+      "desc_en": "Cantonese-style braised beef brisket soaked in naturally sweet daikon radish broth—tender, mild, and great for seniors.",
+      "ingredients_en": [
+        "Beef brisket or shank, cut into large cubes: 400 g",
+        "Peeled daikon radish, cut into large chunks: 250 g",
+        "Chu Hou paste (or Chinese fermented bean paste): 2 tbsp",
+        "Light soy sauce, oyster sauce, and rock sugar: 1 tbsp each",
+        "Sliced ginger, star anise, and cinnamon: a small amount each",
+        "Broth or water: 600 ml"
+      ],
+      "steps_en": [
+        "Blanch the beef cubes in boiling water for 5 minutes to remove impurities, then drain.",
+        "Sauté the ginger, star anise, and Chu Hou paste in a pot until fragrant, then add the beef and toss to coat.",
+        "Pour in the broth, light soy sauce, oyster sauce, and rock sugar, and simmer gently for 55 minutes until the beef begins to soften.",
+        "Add the daikon radish chunks and braise for another 20–25 minutes until the radish turns translucent and sweet and the beef is fork-tender; serve piping hot in a clay pot."
+      ]
     },
     {
       "recipe_id": "cn_pop_051",
@@ -3843,7 +4308,22 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "อบที่ 190°C นาน 45-50 นาทีแล้วเปิดห่ออบต่ออีก 10 นาทีให้หนังเหลืองหอม",
         "สับชิ้นจัดจาน ราดน้ำซอสสมุนไพรหอมๆ ที่ได้จากการอบ"
       ],
-      "note": "ไก่อบหอมเครื่องเทศจีนอ่อนๆ เนื้อนุ่มฉ่ำไม่แห้ง ไม่เผ็ด ทานง่ายทั้งครอบครัว"
+      "note": "ไก่อบหอมเครื่องเทศจีนอ่อนๆ เนื้อนุ่มฉ่ำไม่แห้ง ไม่เผ็ด ทานง่ายทั้งครอบครัว",
+      "name_en": "Beggar's Chicken",
+      "desc_en": "Fragrant Chinese herb-roasted chicken that stays remarkably juicy and mild, making it easy for the whole family to enjoy.",
+      "ingredients_en": [
+        "Half chicken or bone-in chicken leg quarters: 500 g",
+        "Soaked dried shiitake mushrooms and crushed garlic: 60 g",
+        "Light soy sauce, oyster sauce, Shaoxing wine, and five-spice powder: 4 tbsp",
+        "Sliced ginger and scallions: 30 g",
+        "Parchment paper or lotus leaf for wrapping: as needed"
+      ],
+      "steps_en": [
+        "Marinate the chicken in light soy sauce, oyster sauce, Shaoxing wine, and five-spice powder for about 30 minutes.",
+        "Layer ginger, scallions, garlic, and shiitake mushrooms on parchment paper, place the chicken on top, and seal tightly into a parcel.",
+        "Roast at 190°C for 45–50 minutes, then open the parcel and roast for 10 more minutes until the skin turns golden.",
+        "Chop into serving pieces and drizzle with the aromatic herbal pan juices."
+      ]
     },
     {
       "recipe_id": "cn_pop_052",
@@ -3893,7 +4373,23 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "ลวกผักกาดขาวและถั่วงอกรองก้นชาม จากนั้นนำเนื้อปลาลงลวกในน้ำซุปเดือด 1-2 นาทีจนสุกแล้วตักวางบนผัก",
         "โรยพริกแห้ง ฮวาเจียว และกระเทียมสับด้านบน แล้วราดน้ำมันร้อนจัดลงไปให้กลิ่นหอมฟุ้ง แต่งหน้าด้วยผักชี"
       ],
-      "note": "สุยจู๋อวี๋ เมนูดังประจำแคว้นเสฉวน เนื้อปลานุ่มลื่นในน้ำซุปหม่าล่าเผ็ดชาหอมพริกคั่ว"
+      "note": "สุยจู๋อวี๋ เมนูดังประจำแคว้นเสฉวน เนื้อปลานุ่มลื่นในน้ำซุปหม่าล่าเผ็ดชาหอมพริกคั่ว",
+      "name_en": "Sichuan Boiled Fish (Shui Zhu Yu)",
+      "desc_en": "Sichuan's iconic Shui Zhu Yu featuring silky-smooth poached fish slices in a fiery, numbing broth topped with sizzling roasted chili oil.",
+      "ingredients_en": [
+        "Thinly sliced white sea bass fillets: 300 g",
+        "Blanched bean sprouts and napa cabbage: 150 g",
+        "Sichuan fermented chili bean paste (doubanjiang): 2 tbsp",
+        "Dried Sichuan chilies and Sichuan peppercorns: 2 tbsp",
+        "Minced garlic, minced ginger, and broth: 450 ml",
+        "Egg white (1 piece) and cornstarch (1 tbsp) for velveting fish: 1 portion"
+      ],
+      "steps_en": [
+        "Marinate the sliced fish with egg white, salt, and cornstarch for 10 minutes to velvet the flesh.",
+        "Fry the doubanjiang, ginger, and garlic until the oil turns red and fragrant, then add the broth and bring to a boil.",
+        "Place the blanched napa cabbage and bean sprouts in a serving bowl, then poach the fish slices in the boiling broth for 1–2 minutes until just cooked and transfer over the vegetables.",
+        "Scatter dried chilies, Sichuan peppercorns, and minced garlic over the top, pour sizzling hot oil over them to release their aroma, and garnish with cilantro."
+      ]
     },
     {
       "recipe_id": "cn_pop_053",
@@ -3941,7 +4437,21 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "ตั้งกระทะไฟกลางใส่น้ำมันเล็กน้อย ผัดกระเทียมสับ พริกแดง-เขียว และต้นหอมจนหอม",
         "ใส่ปลาหมึกทอดลงคั่วเร็วๆ โรยเกลือ พริกไทยขาว และผงพะโล้เล็กน้อยให้เข้ากันแล้วเสิร์ฟทันที"
       ],
-      "note": "กับแกล้มและจานทานเล่นยอดนิยมในภัตตาคารจีน กรอบนอกนุ่มในหอมกระเทียมพริกเกลือ"
+      "note": "กับแกล้มและจานทานเล่นยอดนิยมในภัตตาคารจีน กรอบนอกนุ่มในหอมกระเทียมพริกเกลือ",
+      "name_en": "Salt & Pepper Squid",
+      "desc_en": "A Chinese restaurant appetizer favorite—crispy outside, tender inside, and fragrant with toasted garlic and spiced salt.",
+      "ingredients_en": [
+        "Scored squid pieces: 280 g",
+        "Cornstarch for coating: 60 g",
+        "Minced garlic, sliced red and green chilies, and chopped scallions: 50 g",
+        "Sea salt, white pepper, and a pinch of five-spice powder: 1 tsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Pat the squid dry, dust lightly with cornstarch, and fry in hot oil over high heat for 1–2 minutes until crisp and golden, then drain.",
+        "Heat a little oil in a wok over medium heat and sauté the minced garlic, chilies, and scallions until fragrant.",
+        "Toss the crispy squid back in briefly with sea salt, white pepper, and a pinch of five-spice powder, then serve immediately."
+      ]
     },
     {
       "recipe_id": "cn_pop_054",
@@ -3990,7 +4500,21 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "ปัดเกลือออกแล้วอบต่อด้วยไฟบนแรง 230°C อีก 15-20 นาทีจนหนังพองฟูกรอบสีทอง",
         "พัก 10 นาทีแล้วหั่นเป็นชิ้นพอดีคำ เสิร์ฟคู่มัสตาร์ดจีนหรือซีอิ๊วดำหวาน"
       ],
-      "note": "ซิ่วหยกสไตล์ฮ่องกง หนังพองกรอบสนั่นแต่เนื้อด้านในยังชุ่มฉ่ำหอมผงพะโล้"
+      "note": "ซิ่วหยกสไตล์ฮ่องกง หนังพองกรอบสนั่นแต่เนื้อด้านในยังชุ่มฉ่ำหอมผงพะโล้",
+      "name_en": "Crispy Roast Pork Belly (Siu Yuk)",
+      "desc_en": "Hong Kong-style Siu Yuk with crackly, blistered golden skin protecting juicy, five-spice-scented meat underneath.",
+      "ingredients_en": [
+        "Thick slab of skin-on pork belly: 500 g",
+        "Five-spice powder, salt, white pepper, and Shaoxing wine: 1 tsp each",
+        "White vinegar for brushing the skin: 1 tbsp",
+        "Coarse sea salt for crusting the skin: 3 tbsp"
+      ],
+      "steps_en": [
+        "Rub the marinade onto the meat side only (keeping it off the skin); pat the skin completely dry, prick all over with a skewer, and brush thinly with white vinegar.",
+        "Wrap the meat sides in foil leaving the skin exposed, pack coarse salt evenly over the skin, and roast at 180°C for 40 minutes.",
+        "Brush off the salt crust and broil or roast with high top heat at 230°C for 15–20 minutes until the skin puffs into crisp golden crackling.",
+        "Rest for 10 minutes before slicing into bite-sized pieces; serve with Chinese mustard or sweet dark soy sauce."
+      ]
     },
     {
       "recipe_id": "cn_pop_055",
@@ -4038,7 +4562,21 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "ผัดขิง กระเทียม และซอสโต้วป้านเจี้ยงจนหอม เติมซีอิ๊วขาว จิ๊กโฉ่ว น้ำตาล และน้ำซุปเล็กน้อย",
         "ใส่มะเขือม่วงลงคลุกให้ซึมซอส ใส่แป้งข้าวโพดละลายน้ำให้ซอสเคลือบเงา โรยต้นหอมซอยเสิร์ฟร้อนๆ"
       ],
-      "note": "มะเขือม่วงผัดซอสอวี๋เซียง รสเปรี้ยวหวานเค็มเผ็ดอ่อนๆ ทานคู่ข้าวสวยอร่อยมาก"
+      "note": "มะเขือม่วงผัดซอสอวี๋เซียง รสเปรี้ยวหวานเค็มเผ็ดอ่อนๆ ทานคู่ข้าวสวยอร่อยมาก",
+      "name_en": "Yu Xiang Eggplant",
+      "desc_en": "Velvety eggplant glazed in classic Sichuan Yu Xiang sauce with a savory, tangy, sweet, and mildly spicy balance made for steamed rice.",
+      "ingredients_en": [
+        "Long Asian eggplants, cut into quartered batons: 300 g",
+        "Minced garlic, minced ginger, and chopped scallions: 40 g",
+        "Sichuan fermented chili bean paste (doubanjiang): 1 tbsp",
+        "Light soy sauce, Chinese black vinegar, and sugar: 1 tbsp each",
+        "Cornstarch slurry and vegetable oil: as needed"
+      ],
+      "steps_en": [
+        "Steam or pan-sear the eggplant in a little oil until tender while keeping its vibrant purple color, then set aside.",
+        "Sauté the ginger, garlic, and doubanjiang until fragrant, then stir in the soy sauce, black vinegar, sugar, and a splash of broth.",
+        "Toss the eggplant into the sauce to absorb the flavors, thicken with cornstarch slurry until glossy, scatter with scallions, and serve hot."
+      ]
     },
     {
       "recipe_id": "cn_pop_056",
@@ -4084,7 +4622,20 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "รองฟอยล์ในกระทะก้นลึก ใส่ใบชา ข้าวสาร และน้ำตาลทรายแดง วางตะแกรงและวางเป็ดด้านบน ปิดฝารมควันไฟกลาง 10 นาทีจนหนังสีทองหอมกลิ่นชา",
         "นำเป็ดไปทอดหรืออบไฟแรง 5 นาทีให้หนังกรอบ หั่นชิ้นจัดจานเคียงต้นหอมซอย"
       ],
-      "note": "จานเด็ดแห่งเสฉวน หอมกลิ่นควันใบชาอ่อนๆ หนังกรอบเนื้อนุ่มชุ่มฉ่ำ"
+      "note": "จานเด็ดแห่งเสฉวน หอมกลิ่นควันใบชาอ่อนๆ หนังกรอบเนื้อนุ่มชุ่มฉ่ำ",
+      "name_en": "Tea-Smoked Duck",
+      "desc_en": "A Sichuan delicacy infused with delicate black tea smoke, pairing crispy browned skin with succulent, tender meat.",
+      "ingredients_en": [
+        "Half duck or skin-on duck breasts: 450 g",
+        "Five-spice powder, salt, Sichuan peppercorns, and Shaoxing wine: 2 tbsp",
+        "Black or oolong tea leaves, raw rice, and brown sugar (for smoking): 2 tbsp each",
+        "Julienne scallions for serving: to taste"
+      ],
+      "steps_en": [
+        "Rub the duck with five-spice powder, salt, Sichuan peppercorns, and Shaoxing wine, then steam for 30 minutes until tender.",
+        "Line a deep wok with foil, add the tea leaves, raw rice, and brown sugar, set a rack above with the duck on top, cover tightly, and smoke over medium heat for 10 minutes until golden and fragrant.",
+        "Crisp the skin by frying or roasting over high heat for 5 minutes, slice, and serve with julienned scallions."
+      ]
     },
     {
       "recipe_id": "cn_pop_057",
@@ -4132,7 +4683,22 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "เติมซีอิ๊วขาว ซีอิ๊วดำ เหล้าจีน น้ำตาลกรวด และน้ำซุป ตุ๋นไฟอ่อน 60 นาทีจนเนื้อเปื่อยนุ่มและน้ำซุปหอมกลมกล่อม",
         "ลวกเส้นบะหมี่และผักกวางตุ้งใส่ชาม ตักเนื้อตุ๋นและน้ำซุปร้อนๆ ราด โรยต้นหอมซอยเสิร์ฟทันที"
       ],
-      "note": "บะหมี่เนื้อตุ๋นน้ำซุปเครื่องเทศหอมละมุน เนื้อนุ่มเปื่อย ไม่เผ็ด เหมาะกับทุกวัย"
+      "note": "บะหมี่เนื้อตุ๋นน้ำซุปเครื่องเทศหอมละมุน เนื้อนุ่มเปื่อย ไม่เผ็ด เหมาะกับทุกวัย",
+      "name_en": "Braised Beef Noodle Soup",
+      "desc_en": "Comforting braised beef noodle soup with gently spiced, savory broth and melt-in-the-mouth beef shank suitable for all ages.",
+      "ingredients_en": [
+        "Chinese wheat noodles or egg noodles: 160 g",
+        "Beef shank, cut into large chunks: 300 g",
+        "Blanched baby bok choy: 80 g",
+        "Light soy sauce, dark soy sauce, Shaoxing wine, and rock sugar: 4 tbsp",
+        "Sliced ginger, garlic, star anise, and cinnamon: a small amount each",
+        "Broth: 800 ml"
+      ],
+      "steps_en": [
+        "Blanch the beef shank, then sauté with ginger, garlic, and braising spices until fragrant.",
+        "Add the light soy sauce, dark soy sauce, Shaoxing wine, rock sugar, and broth; simmer over low heat for 60 minutes until the beef is tender and the soup is richly flavored.",
+        "Place cooked noodles and bok choy in bowls, ladle the tender beef and piping hot broth over top, garnish with chopped scallions, and serve immediately."
+      ]
     },
     {
       "recipe_id": "cn_pop_058",
@@ -4181,7 +4747,22 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "วางพริกป่นจีน กระเทียมสับ และต้นหอมซอยกองไว้ด้านบนเส้น",
         "ตั้งน้ำมันพืชให้ร้อนจัดแล้วราดลงบนพริกและกระเทียมทันทีจนส่งเสียงฉ่าและหอมฟุ้ง คลุกเคล้าแล้วเสิร์ฟ"
       ],
-      "note": "บะหมี่เส้นแบนยักษ์แห่งเมืองซีอาน เหนียวนุ่มหอมน้ำมันพริกกระเทียมราดสดและจิ๊กโฉ่ว"
+      "note": "บะหมี่เส้นแบนยักษ์แห่งเมืองซีอาน เหนียวนุ่มหอมน้ำมันพริกกระเทียมราดสดและจิ๊กโฉ่ว",
+      "name_en": "Biang Biang Noodles",
+      "desc_en": "Xi'an's famous wide, chewy hand-pulled noodles tossed with black vinegar and flash-sizzled chili garlic oil.",
+      "ingredients_en": [
+        "Wide flat noodles (Biang Biang or fresh wide rice noodles): 180 g",
+        "Blanched baby bok choy: 80 g",
+        "Chinese chili flakes and finely minced garlic: 1.5 tbsp each",
+        "Chopped scallions: 2 tbsp",
+        "Light soy sauce and Chinese black vinegar: 1.5 tbsp each",
+        "Smoking-hot vegetable oil for pouring: 3 tbsp"
+      ],
+      "steps_en": [
+        "Boil the wide noodles and bok choy until chewy and tender, transfer to a bowl, and toss with light soy sauce and black vinegar.",
+        "Pile the Chinese chili flakes, minced garlic, and chopped scallions directly on top of the noodles.",
+        "Heat vegetable oil until smoking hot and pour immediately over the garlic and chilies until they sizzle fragrantly, then toss well and serve."
+      ]
     },
     {
       "recipe_id": "cn_pop_059",
@@ -4229,7 +4810,22 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "เทใส่พิมพ์นึ่งไฟกลาง 35 นาทีจนสุก พักให้เย็นแล้วตัดเป็นแผ่นสี่เหลี่ยม",
         "นำไปเจี๋ยนบนกระทะไฟกลางจนผิวนอกเหลืองกรอบทั้งสองด้าน เสิร์ฟคู่ซอสพริกหรือซีอิ๊วดำ"
       ],
-      "note": "ติ่มซำยอดนิยมสไตล์ฮ่องกง ผิวนอกกรอบหอม ด้านในนุ่มละมุนรสหวานธรรมชาติจากหัวไชเท้า"
+      "note": "ติ่มซำยอดนิยมสไตล์ฮ่องกง ผิวนอกกรอบหอม ด้านในนุ่มละมุนรสหวานธรรมชาติจากหัวไชเท้า",
+      "name_en": "Pan-Fried Turnip Cake (Lo Bak Go)",
+      "desc_en": "A beloved Hong Kong dim sum classic featuring crisp golden edges and a soft, naturally sweet daikon interior studded with savory bites.",
+      "ingredients_en": [
+        "Shredded daikon radish: 350 g",
+        "Rice flour: 120 g",
+        "Finely diced Chinese sausage, soaked shiitake mushrooms, and dried shrimp: 80 g",
+        "Broth or radish cooking liquid: 250 ml",
+        "Salt, white pepper, and sesame oil: a pinch each"
+      ],
+      "steps_en": [
+        "Sauté the diced Chinese sausage, shiitake mushrooms, and dried shrimp until fragrant, then set aside.",
+        "Simmer the shredded daikon with a splash of water until soft, fold in the sautéed fillings, then stir in the rice flour slurry over low heat until thick and cohesive.",
+        "Pour into a greased pan, steam over medium heat for 35 minutes until cooked through, cool completely, and slice into squares.",
+        "Pan-fry the slices over medium heat until golden and crisp on both sides, then serve with chili sauce or sweet dark soy sauce."
+      ]
     },
     {
       "recipe_id": "cn_pop_060",
@@ -4279,7 +4875,22 @@ window.KITCHSYNC_PACK_DATA.cn_popular = {
         "เคี่ยวไฟอ่อนพร้อมคนตลอดเวลา 5-8 นาทีจนซุปงาดำข้นเงาและเดือดปุดๆ",
         "ตักใส่ถ้วย โรยงาขาวและเก๋ากี้ เสิร์ฟร้อนๆ หอมมันบำรุงสุขภาพ"
       ],
-      "note": "ของหวานบำรุงสุขภาพสไตล์ฮ่องกง แคลเซียมสูง เนื้อเนียนอุ่นท้อง เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "ของหวานบำรุงสุขภาพสไตล์ฮ่องกง แคลเซียมสูง เนื้อเนียนอุ่นท้อง เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Black Sesame Soup",
+      "desc_en": "A nourishing, calcium-rich Hong Kong dessert soup with a silky, warming texture that is ideal for seniors.",
+      "ingredients_en": [
+        "Fragrant toasted black sesame seeds: 80 g",
+        "Toasted glutinous rice flour or soaked raw rice: 25 g",
+        "Water: 450 ml",
+        "Rock sugar: 45 g",
+        "Goji berries and toasted white sesame seeds for garnish: a small amount"
+      ],
+      "steps_en": [
+        "Blend the toasted black sesame seeds with the glutinous rice flour and water until completely smooth.",
+        "Strain through a fine mesh sieve into a pot for extra silkiness, then add the rock sugar.",
+        "Simmer over low heat, stirring constantly for 5–8 minutes until glossy, thickened, and gently bubbling.",
+        "Ladle into bowls, garnish with white sesame seeds and goji berries, and serve warm."
+      ]
     }
   ]
 };

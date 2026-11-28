@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: British (96 recipes)
-// Place this file at assets/data/packs/uk_popular.js
+// KitchSync Master Pack: uk_popular (100 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.uk_popular = {
   "pack_id": "uk_popular",
@@ -44,7 +43,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Sunday Roast Beef with Yorkshire Pudding",
+      "desc_en": "A legendary British Sunday roast featuring crisp-outside, tender-inside Yorkshire puddings perfect for soaking up rich gravy.",
+      "ingredients_en": [
+        "Beef sirloin roast: 700 g",
+        "Roasting potatoes, cut into chunks: 350 g",
+        "Yorkshire pudding batter (flour, eggs, and milk): 1 set",
+        "Fresh rosemary and thyme: 2 sprigs",
+        "Beef stock and gravy: 250 ml",
+        "Vegetable oil, sea salt, and black pepper: 2 tbsp"
+      ],
+      "steps_en": [
+        "Season the beef roast with sea salt, black pepper, rosemary, and vegetable oil, then roast at 200°C for 45–50 minutes until medium-rare and rest for 15 minutes.",
+        "Whisk flour, eggs, and milk together and let rest; heat oil in a muffin tin until smoking hot, pour in the batter, and bake at 220°C for 18 minutes until puffed and crisp.",
+        "Slice the roast beef thinly and serve with Yorkshire puddings, roast potatoes, and hot beef gravy."
+      ]
     },
     {
       "id": "uk_stirfry_02",
@@ -79,7 +93,23 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Beef Wellington",
+      "desc_en": "Cook the mushroom duxelles completely dry and chill the seared beef before wrapping so the puff pastry stays crisp without turning soggy.",
+      "ingredients_en": [
+        "Center-cut beef tenderloin, trimmed: 550 g",
+        "Finely chopped button mushrooms (duxelles): 250 g",
+        "Thinly sliced Parma ham: 6 slices",
+        "Puff pastry sheet: 1 sheet",
+        "Dijon mustard: 1.5 tbsp",
+        "Egg yolk for brushing: 1 piece"
+      ],
+      "steps_en": [
+        "Sear the beef tenderloin over high heat on all sides until browned, brush with Dijon mustard, and let cool completely.",
+        "Sauté the finely chopped mushrooms with garlic and thyme until completely dry; lay out the Parma ham, spread the mushrooms over it, and wrap tightly around the beef.",
+        "Wrap in puff pastry, brush with egg yolk, score the top, and bake at 200°C for 28–32 minutes until golden and crisp.",
+        "Rest for 10 minutes before slicing thick to reveal the juicy pink tenderloin inside."
+      ]
     },
     {
       "id": "uk_stirfry_03",
@@ -112,7 +142,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roast Leg of Lamb with Mint Sauce",
+      "desc_en": "Tangy-sweet mint sauce is the classic British pairing for herb-roasted leg of lamb.",
+      "ingredients_en": [
+        "Leg of lamb: 700 g",
+        "Sliced garlic and fresh rosemary: 1 set",
+        "Olive oil, sea salt, and black pepper: 2 tbsp",
+        "Finely chopped fresh mint leaves: 3 tbsp",
+        "Malt or apple cider vinegar and granulated sugar: 3 tbsp"
+      ],
+      "steps_en": [
+        "Make small incisions over the leg of lamb, insert sliced garlic and rosemary, and rub all over with olive oil, salt, and pepper.",
+        "Roast at 190°C for about 60 minutes until browned outside and tender pink inside, then rest for 15 minutes before carving.",
+        "Combine chopped mint leaves, vinegar, and sugar dissolved in warm water to make mint sauce, and serve alongside the roast lamb and vegetables."
+      ]
     },
     {
       "id": "uk_stirfry_04",
@@ -145,7 +189,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy British Roast Pork Belly with Apple Sauce",
+      "desc_en": "Pat the pork skin completely dry before roasting to achieve irresistibly light, crackling-crisp skin.",
+      "ingredients_en": [
+        "Skin-on pork belly, finely scored: 650 g",
+        "Coarse sea salt and fennel seeds: 1.5 tbsp",
+        "Vegetable oil for rubbing the skin: 1 tbsp",
+        "Peeled and sliced green apples: 2 pieces",
+        "Unsalted butter and sugar for apple sauce: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pat the pork skin thoroughly dry, rub with oil, and work coarse sea salt into the scored skin.",
+        "Roast at 220°C for 30 minutes until the skin puffs into crisp crackling, then lower to 170°C and roast 50 minutes more until tender and juicy.",
+        "Simmer green apples with butter, a splash of water, and sugar until soft, mash into apple sauce, and serve with the crispy roast pork."
+      ]
     },
     {
       "id": "uk_stirfry_05",
@@ -178,7 +236,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional British Roast Chicken",
+      "desc_en": "Rubbing herb butter under the skin keeps the chicken breast juicy while giving the skin a crisp, golden finish.",
+      "ingredients_en": [
+        "Whole chicken or bone-in leg quarters: 800 g",
+        "Softened butter mixed with thyme and garlic: 40 g",
+        "Halved lemon: 1 piece",
+        "Carrots and potatoes, cut into chunks: 300 g",
+        "Chicken stock and all-purpose flour for gravy: 250 ml"
+      ],
+      "steps_en": [
+        "Spread herb butter both under and over the chicken skin, stuff the cavity with lemon and herbs, and season with salt and pepper.",
+        "Place the chicken over potatoes and carrots in a roasting tin and roast at 195°C for 55–60 minutes until golden, crisp, and cooked through.",
+        "Rest the chicken for 10 minutes, whisk flour into the pan drippings with chicken stock, and simmer into a rich gravy for serving."
+      ]
     },
     {
       "id": "uk_stirfry_06",
@@ -212,7 +284,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bangers and Mash with Onion Gravy",
+      "desc_en": "A beloved British pub comfort dish rich with sweet caramelized onion gravy.",
+      "ingredients_en": [
+        "British Cumberland pork sausages: 4 pieces",
+        "Potatoes for mashing: 350 g",
+        "Unsalted butter and milk: 35 g + 60 ml",
+        "Thinly sliced onions: 150 g",
+        "Beef stock and Worcestershire sauce: 250 ml",
+        "All-purpose flour and blanched green peas: 1 set"
+      ],
+      "steps_en": [
+        "Pan-grill the sausages over medium heat until golden brown and cooked through, then set aside.",
+        "Sauté sliced onions over medium-low heat for 12 minutes until caramelized, stir in flour, beef stock, and Worcestershire sauce, and simmer into a rich onion gravy.",
+        "Boil the potatoes until tender, mash with butter and milk until smooth, top with sausages, pour over onion gravy, and serve with peas."
+      ]
     },
     {
       "id": "uk_stirfry_07",
@@ -245,7 +332,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Gammon Steak with Egg and Pineapple",
+      "desc_en": "A British pub classic pairing savory grilled gammon ham with sweet caramelized pineapple.",
+      "ingredients_en": [
+        "Thick-cut gammon steaks: 2 pieces (320 g)",
+        "Pineapple rings: 2 slices",
+        "Eggs: 2 pieces",
+        "Boiled green peas: 80 g",
+        "Vegetable oil and black pepper: 1 tbsp"
+      ],
+      "steps_en": [
+        "Snip the fat edge of the gammon steaks to prevent curling, then grill on a hot griddle pan for 3–4 minutes per side until charred and marked.",
+        "Grill the pineapple rings in the same pan until lightly charred and sweet, and fry 2 sunny-side-up eggs with runny yolks.",
+        "Plate the gammon steaks topped with fried eggs and grilled pineapple, and serve with peas and chips."
+      ]
     },
     {
       "id": "uk_stirfry_08",
@@ -279,7 +380,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Toad in the Hole",
+      "desc_en": "Keep the oven door closed while baking so the Yorkshire batter rises tall, light, and golden.",
+      "ingredients_en": [
+        "British pork sausages: 6 pieces",
+        "All-purpose flour: 140 g",
+        "Eggs: 2 pieces",
+        "Milk: 175 ml",
+        "Fresh rosemary and vegetable oil: 2 tbsp",
+        "Onion gravy for serving: 200 ml"
+      ],
+      "steps_en": [
+        "Whisk flour, eggs, milk, and salt into a smooth, lump-free batter and rest for 15 minutes.",
+        "Place sausages and oil in a baking dish and roast at 220°C for 12 minutes until the sausages are browned and the oil is sizzling hot.",
+        "Quickly pour the batter around the sausages, scatter rosemary on top, and bake 25 minutes without opening the oven door until tall, puffed, and golden; serve with onion gravy."
+      ]
     },
     {
       "id": "uk_stirfry_09",
@@ -313,7 +429,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Liver, Bacon and Onions",
+      "desc_en": "Avoid overcooking the liver so it stays tender and rich rather than tough.",
+      "ingredients_en": [
+        "Thinly sliced beef or pork liver: 280 g",
+        "Bacon slices: 80 g",
+        "Sliced onions: 120 g",
+        "All-purpose flour seasoned with salt and pepper: 2 tbsp",
+        "Beef stock and Worcestershire sauce: 200 ml",
+        "Unsalted butter and fresh sage or parsley: 1 set"
+      ],
+      "steps_en": [
+        "Fry the bacon until crisp and set aside, then sauté the onions in the same pan until soft and golden.",
+        "Lightly dust the liver in seasoned flour and sear over high heat for 1–2 minutes per side until browned outside while still tender inside.",
+        "Pour in beef stock and Worcestershire sauce, simmer briefly into a glossy gravy, return the bacon to the pan, and serve hot with steamed vegetables."
+      ]
     },
     {
       "id": "uk_stirfry_10",
@@ -346,7 +477,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Pub Peppercorn Steak",
+      "desc_en": "Authentic British pub-style steak served with classic grilled mushrooms and tomatoes.",
+      "ingredients_en": [
+        "Ribeye or sirloin beef steak: 350 g",
+        "Button mushrooms and halved tomatoes for grilling: 150 g",
+        "Coarsely crushed black peppercorns: 1 tbsp",
+        "Beef stock and heavy cream: 160 ml",
+        "Unsalted butter and English mustard: 25 g"
+      ],
+      "steps_en": [
+        "Pat the steak dry, season with salt, sear in a hot cast-iron skillet for 3–4 minutes per side, and rest for 6 minutes.",
+        "Grill the mushrooms and tomatoes in the same skillet, then simmer crushed peppercorns, beef stock, mustard, and cream into a velvety peppercorn sauce.",
+        "Plate the steak alongside the grilled mushrooms and tomatoes and spoon over the hot peppercorn sauce."
+      ]
     },
     {
       "id": "uk_stirfry_11",
@@ -379,7 +524,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled British Mackerel with Lemon Herbs",
+      "desc_en": "Omega-3-rich British coastal mackerel grilled until the skin is crisp and aromatic.",
+      "ingredients_en": [
+        "Skin-on mackerel fillets: 300 g",
+        "Olive oil: 1.5 tbsp",
+        "Lemon slices and juice: 1 piece",
+        "Minced garlic and fresh parsley: 1.5 tbsp",
+        "Sea salt and ground black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Score the mackerel skin diagonally and rub evenly with olive oil, sea salt, and black pepper.",
+        "Cook skin-side down in a skillet over medium-high heat for 4 minutes until crisp and golden, then flip and cook the flesh side for 2 minutes.",
+        "Scatter with garlic and fresh parsley and squeeze fresh lemon juice over the fish before serving hot."
+      ]
     },
     {
       "id": "uk_stirfry_12",
@@ -412,7 +571,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Coronation Spiced Chicken",
+      "desc_en": "Inspired by Britain's royal Coronation chicken with mild curry warmth and subtle fruity sweetness.",
+      "ingredients_en": [
+        "Boneless chicken breast or thighs: 350 g",
+        "Plain yogurt: 3 tbsp",
+        "Mild English curry powder: 1.5 tsp",
+        "Apricot jam or mango chutney: 1.5 tbsp",
+        "Toasted sliced almonds and fresh cilantro: 2 tbsp"
+      ],
+      "steps_en": [
+        "Mix yogurt, curry powder, apricot jam, salt, and pepper, and marinate the chicken for 15 minutes.",
+        "Grill the chicken over medium heat for 5–6 minutes per side until juicy and nicely charred.",
+        "Plate, garnish with toasted sliced almonds and fresh cilantro, and serve with a crisp green salad."
+      ]
     },
     {
       "id": "uk_quick_01",
@@ -445,7 +618,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Fish and Chips",
+      "desc_en": "Mixing the batter with ice-cold sparkling water right before frying gives an airy, chip-shop crunch.",
+      "ingredients_en": [
+        "Large cod or sea bass fillets: 300 g",
+        "All-purpose flour and baking powder: 120 g + 1 tsp",
+        "Ice-cold sparkling water: 150 ml",
+        "Thick-cut fried potato chips: 250 g",
+        "Mushy peas, tartar sauce, and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Whisk flour, baking powder, salt, and ice-cold sparkling water into a light, smooth batter.",
+        "Pat the fish dry, dust lightly with flour, dip into the batter, and deep-fry at 185°C for 5–6 minutes until crisp, puffed, and golden.",
+        "Serve with thick-cut chips, mushy peas, tartar sauce, lemon wedges, and malt vinegar."
+      ]
     },
     {
       "id": "uk_quick_02",
@@ -478,7 +665,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Welsh Rarebit",
+      "desc_en": "A famous Welsh quick classic that elevates grilled cheese with sharp cheddar, mustard, and Worcestershire sauce.",
+      "ingredients_en": [
+        "Thick-sliced toasted bread: 2 slices",
+        "Grated mature cheddar cheese: 120 g",
+        "Unsalted butter and all-purpose flour: 1 tbsp each",
+        "Milk: 60 ml",
+        "English mustard and Worcestershire sauce: 1 tsp each"
+      ],
+      "steps_en": [
+        "Cook butter and flour together, whisk in milk, mustard, and Worcestershire sauce until thickened, then stir in grated cheddar until melted into a rich cheese sauce.",
+        "Spread the thick cheese sauce generously over both slices of toast.",
+        "Broil at 220°C for 3–4 minutes until bubbling and golden brown on top, then serve piping hot."
+      ]
     },
     {
       "id": "uk_quick_03",
@@ -511,7 +712,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Fish Finger Sandwich",
+      "desc_en": "A much-loved British home and café comfort sandwich ready in just 15 minutes.",
+      "ingredients_en": [
+        "Breaded fish fingers: 4 pieces",
+        "Soft buttered bread slices: 2 slices",
+        "Tartar sauce: 2 tbsp",
+        "Crisp lettuce leaves: 2 pieces",
+        "Lemon wedge: 1 piece"
+      ],
+      "steps_en": [
+        "Bake or pan-fry the fish fingers until golden, crisp outside, and piping hot inside.",
+        "Spread butter and tartar sauce over both slices of bread and layer crisp lettuce on the bottom slice.",
+        "Arrange the hot fish fingers on top, add a squeeze of lemon, close the sandwich, cut in half, and serve immediately."
+      ]
     },
     {
       "id": "uk_quick_04",
@@ -543,7 +758,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Bacon Butty",
+      "desc_en": "Britain's iconic quick sandwich, simple and deeply satisfying with rich butter and crisp back bacon.",
+      "ingredients_en": [
+        "Thick-cut British back bacon: 4 slices",
+        "Soft bread roll, halved, or thick bread slices: 1 piece",
+        "Salted butter: 15 g",
+        "British brown sauce (HP Sauce) or ketchup: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Fry the bacon over medium heat until the fat edges are crisp and the meat is juicy and cooked through.",
+        "Butter both halves of the soft bread generously.",
+        "Pile the hot bacon onto the bread, drizzle with brown sauce or ketchup, close, and serve immediately."
+      ]
     },
     {
       "id": "uk_quick_05",
@@ -576,7 +804,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Sausage Bap with Brown Sauce",
+      "desc_en": "Halving the sausages lengthwise keeps them neatly tucked inside the roll for effortless eating.",
+      "ingredients_en": [
+        "British pork sausages: 2 pieces",
+        "Soft bread bap or roll, halved: 1 piece",
+        "Soft-sautéed onions: 30 g",
+        "Unsalted butter: 10 g",
+        "British brown sauce: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Pan-grill the sausages over medium heat until browned and cooked through, then slice in half lengthwise so they sit flat in the roll.",
+        "Butter the warm bread roll and layer in the sautéed onions and hot sausages.",
+        "Drizzle with British brown sauce, top with the roll lid, and serve hot."
+      ]
     },
     {
       "id": "uk_quick_06",
@@ -609,7 +851,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Ploughman's Cheddar and Pickle Sandwich",
+      "desc_en": "One of Britain's top favorite sandwiches, balancing sharp mature cheddar with sweet-tangy Branston pickle.",
+      "ingredients_en": [
+        "Whole wheat or multigrain bread: 2 slices",
+        "Thickly sliced mature cheddar cheese: 60 g",
+        "Branston pickle chutney: 2 tbsp",
+        "Lettuce and sliced tomato: 40 g",
+        "Unsalted butter: 10 g"
+      ],
+      "steps_en": [
+        "Spread a thin layer of butter on both slices of bread.",
+        "Layer on thick slices of mature cheddar and spread sweet-tangy Branston pickle evenly over the cheese.",
+        "Top with lettuce and tomato slices, close the sandwich, cut in half, and serve."
+      ]
     },
     {
       "id": "uk_quick_07",
@@ -642,7 +898,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Coronation Chicken Sandwich",
+      "desc_en": "An authentic British café sandwich blending gentle curry spice with sweet apricot and plump raisins.",
+      "ingredients_en": [
+        "Cooked chicken breast, finely diced: 160 g",
+        "Mayonnaise and plain yogurt: 3 tbsp",
+        "Mild English curry powder: 1 tsp",
+        "Apricot jam and golden raisins: 2 tbsp",
+        "Soft bread slices and salad greens: 4 slices"
+      ],
+      "steps_en": [
+        "Whisk mayonnaise, yogurt, curry powder, and apricot jam until smooth.",
+        "Fold in the diced chicken and golden raisins until evenly coated.",
+        "Spoon the Coronation chicken salad and greens onto bread slices, top with the remaining slices, and cut diagonally to serve."
+      ]
     },
     {
       "id": "uk_quick_08",
@@ -676,7 +946,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Egg and Cress Sandwich",
+      "desc_en": "A timeless British afternoon tea and quick lunch staple.",
+      "ingredients_en": [
+        "Hard-boiled eggs: 3 pieces",
+        "Mayonnaise: 2.5 tbsp",
+        "English mustard: 0.25 tsp",
+        "Fresh cress or microgreens: 30 g",
+        "Soft buttered bread slices: 4 slices",
+        "Salt and black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Coarsely mash the boiled eggs and mix with mayonnaise, mustard, salt, and black pepper until creamy.",
+        "Lightly butter the bread, spread a generous layer of egg salad, and scatter fresh cress evenly on top.",
+        "Top with the remaining bread slices and trim into neat triangles or finger sandwiches."
+      ]
     },
     {
       "id": "uk_quick_09",
@@ -709,7 +994,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Jacket Potato with Tuna Mayo",
+      "desc_en": "Microwaving first delivers a fluffy baked potato in just 15 minutes with minimal effort.",
+      "ingredients_en": [
+        "Large baking potato, scrubbed clean: 1 piece (280 g)",
+        "Canned tuna, drained: 100 g",
+        "Mayonnaise: 2.5 tbsp",
+        "Cooked sweet corn: 2 tbsp",
+        "Unsalted butter and chopped scallions: 15 g"
+      ],
+      "steps_en": [
+        "Prick the potato all over with a fork and microwave on high for 8–10 minutes until tender (or finish in the oven for 4 minutes for a crisp skin).",
+        "Mix drained tuna, mayonnaise, sweet corn, and black pepper together.",
+        "Cut a cross in the hot potato, squeeze open, melt in the butter, pile high with tuna mayo, and garnish with scallions."
+      ]
     },
     {
       "id": "uk_quick_10",
@@ -742,7 +1041,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Beans on Toast",
+      "desc_en": "A comforting British crowd-pleaser packed with protein and fiber, ready in 10 minutes.",
+      "ingredients_en": [
+        "Baked beans in tomato sauce: 200 g",
+        "Thick-sliced toasted bread: 2 slices",
+        "Unsalted butter: 15 g",
+        "Grated cheddar cheese: 35 g",
+        "Worcestershire sauce and black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Warm the baked beans in a saucepan over medium heat, stirring in Worcestershire sauce and black pepper until thick and fragrant.",
+        "Toast the bread until crisp, butter generously, and halve onto a plate.",
+        "Spoon the hot baked beans over the toast, scatter grated cheddar on top to melt, and serve immediately."
+      ]
     },
     {
       "id": "uk_quick_11",
@@ -775,7 +1088,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Pub Scampi and Chips",
+      "desc_en": "A favorite British pub basket meal of crisp, bouncy breaded prawns with tangy tartar sauce.",
+      "ingredients_en": [
+        "Peeled fresh prawns: 250 g",
+        "All-purpose flour, beaten egg, and golden breadcrumbs: 1 set",
+        "Crispy French fries: 200 g",
+        "Buttered green peas: 80 g",
+        "Tartar sauce and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Pat the prawns dry, coat in flour, dip in beaten egg, and press evenly into golden breadcrumbs.",
+        "Deep-fry at 180°C for 2–3 minutes until crisp and golden brown, then drain well.",
+        "Serve in a dish or basket alongside fries, buttered peas, tartar sauce, and lemon wedges."
+      ]
     },
     {
       "id": "uk_quick_12",
@@ -808,7 +1135,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Smoked Salmon and Scrambled Eggs on Toast",
+      "desc_en": "An effortless yet elegant 12-minute dish suited for both brunch and a light supper.",
+      "ingredients_en": [
+        "Eggs: 4 pieces",
+        "Sliced smoked salmon: 100 g",
+        "Buttered sourdough toast: 2 slices",
+        "Unsalted butter and splash of heavy cream: 20 g",
+        "Chopped chives, lemon wedge, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Whisk eggs with cream, salt, and pepper, then cook gently over low heat with butter, stirring slowly into soft, creamy curds.",
+        "Spoon the warm scrambled eggs over buttered sourdough toast.",
+        "Drape smoked salmon slices on top, sprinkle with chives and black pepper, and serve with a lemon wedge."
+      ]
     },
     {
       "id": "uk_breakfast_01",
@@ -842,7 +1183,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Full English Breakfast",
+      "desc_en": "The legendary full British fry-up guaranteed to fuel your entire morning.",
+      "ingredients_en": [
+        "Thick-cut British back bacon: 2 slices",
+        "British pork sausages: 2 pieces",
+        "Eggs: 2 pieces",
+        "Button mushrooms and halved tomatoes: 120 g",
+        "Baked beans in tomato sauce: 120 g",
+        "Buttered toast and hash browns: 1 set"
+      ],
+      "steps_en": [
+        "Pan-grill the sausages and bacon over medium heat until browned and crisp, then sear the mushrooms and halved tomatoes in the same pan.",
+        "Heat the baked beans in a small saucepan and fry 2 sunny-side-up eggs with runny yolks.",
+        "Arrange everything on a large warmed plate and serve with buttered toast and hot English tea."
+      ]
     },
     {
       "id": "uk_breakfast_02",
@@ -876,7 +1232,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional English Scones with Clotted Cream and Jam",
+      "desc_en": "Pressing the cutter straight down without twisting helps scones rise tall and split cleanly.",
+      "ingredients_en": [
+        "All-purpose flour: 250 g",
+        "Baking powder and a pinch of salt: 2.5 tsp",
+        "Very cold unsalted butter, cubed: 60 g",
+        "Granulated sugar: 35 g",
+        "Cold milk: 140 ml",
+        "Clotted cream and strawberry jam for serving: 1 set"
+      ],
+      "steps_en": [
+        "Rub the cold butter into the flour and baking powder with your fingertips until it resembles fine breadcrumbs, then stir in sugar and cold milk just until a dough forms without overworking.",
+        "Pat to 2.5 cm thickness, stamp straight down with a round cutter without twisting, place on a tray, and brush the tops lightly with milk.",
+        "Bake at 210°C for 12–14 minutes until risen and golden; split while warm and serve with clotted cream and strawberry jam."
+      ]
     },
     {
       "id": "uk_breakfast_03",
@@ -908,7 +1279,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Toasted Crumpets with Butter and Honey",
+      "desc_en": "A crumpet's signature honeycomb holes are built to soak up melted butter and golden honey in every bite.",
+      "ingredients_en": [
+        "British crumpets: 4 pieces",
+        "Salted butter: 25 g",
+        "Pure honey or golden syrup: 2 tbsp",
+        "Flaky sea salt (optional): 1 pinch"
+      ],
+      "steps_en": [
+        "Toast the crumpets in a toaster or dry skillet until crisp at the edges and piping hot through the porous top.",
+        "Top immediately with salted butter so it melts deep into the warm holes.",
+        "Drizzle generously with honey and serve hot with British tea or coffee."
+      ]
     },
     {
       "id": "uk_breakfast_04",
@@ -942,7 +1326,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Spiced Hot Cross Buns",
+      "desc_en": "A fragrant British spiced fruit bun best enjoyed split, toasted, and slathered with butter.",
+      "ingredients_en": [
+        "Bread flour: 280 g",
+        "Warm milk and instant yeast: 150 ml + 4 g",
+        "Unsalted butter and granulated sugar: 35 g each",
+        "Ground cinnamon and mixed spice: 1.5 tsp",
+        "Raisins and chopped candied orange peel: 90 g",
+        "Flour paste for crosses and warm apricot jam for glazing: 1 set"
+      ],
+      "steps_en": [
+        "Knead bread flour, warm milk, yeast, butter, sugar, and spices until smooth, fold in raisins and candied orange peel, and let rise until doubled.",
+        "Divide into 6 round buns arranged close together, let rise again, and pipe flour paste crosses across the tops.",
+        "Bake at 190°C for 18–20 minutes until golden brown, brush with warm apricot jam for shine, and serve split and buttered."
+      ]
     },
     {
       "id": "uk_breakfast_05",
@@ -974,7 +1373,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Soft-Boiled Eggs with Toast Soldiers",
+      "desc_en": "A nostalgic British childhood breakfast ready in under 10 minutes.",
+      "ingredients_en": [
+        "Room-temperature fresh eggs: 2 pieces",
+        "Thick-sliced toasted bread: 2 slices",
+        "Salted butter: 15 g",
+        "Sea salt and ground black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Lower the eggs into gently simmering water and boil for exactly 5 minutes for set whites and creamy, runny yolks.",
+        "Meanwhile, toast the bread until crisp, spread generously with butter, and slice into long strips (soldiers).",
+        "Set the eggs in egg cups, tap off the tops, season with salt and pepper, and dip the buttered toast soldiers into the warm yolks."
+      ]
     },
     {
       "id": "uk_breakfast_06",
@@ -1010,6 +1422,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Creamy Scottish Oat Porridge with Berries",
+      "desc_en": "Authentic Scottish porridge uses a pinch of salt to bring out the nutty sweetness of the oats, making it soothing and easy to enjoy for older adults.",
+      "ingredients_en": [
+        "Coarse Scottish rolled oats: 90 g",
+        "Milk and water: 250 ml + 150 ml",
+        "Sea salt: 1 pinch",
+        "Fresh blueberries and raspberries: 100 g",
+        "Honey or golden syrup: 2 tbsp"
+      ],
+      "steps_en": [
+        "Combine oats, milk, water, and sea salt in a saucepan and simmer over medium-low heat, stirring continuously for 7–9 minutes until thick and creamy.",
+        "Ladle the warm porridge into bowls and pour a splash of cold milk around the rim in traditional Scottish style.",
+        "Top with fresh blueberries and raspberries, drizzle with honey, and serve hot."
       ]
     },
     {
@@ -1043,7 +1469,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Kippers with Buttered Brown Bread",
+      "desc_en": "A traditional British and Scottish breakfast rich in smoky aroma and omega-3 fatty acids.",
+      "ingredients_en": [
+        "Split smoked herring or mackerel fillets (kippers): 2 pieces",
+        "Unsalted butter: 25 g",
+        "Toasted whole wheat bread: 2 slices",
+        "Lemon wedges and chopped parsley: 1 set",
+        "Coarsely ground black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Arrange the kippers on a baking tray, dot with half the butter and black pepper, and broil at 200°C for 6–8 minutes until heated through and lightly browned at the edges.",
+        "Toast the whole wheat bread and spread with the remaining butter.",
+        "Transfer the grilled kippers to a warmed plate, sprinkle with parsley, and serve with buttered brown bread and lemon wedges."
+      ]
     },
     {
       "id": "uk_breakfast_08",
@@ -1077,7 +1517,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cheese and Chive British Scones",
+      "desc_en": "Savory scones packed with sharp cheddar and fragrant chives, best eaten warm with salted butter.",
+      "ingredients_en": [
+        "All-purpose flour and baking powder: 250 g + 2.5 tsp",
+        "Very cold unsalted butter, cubed: 55 g",
+        "Grated mature cheddar cheese: 110 g",
+        "Finely chopped fresh chives: 2 tbsp",
+        "Mustard powder and salt: 0.5 tsp each",
+        "Cold milk: 140 ml"
+      ],
+      "steps_en": [
+        "Rub cold butter into flour, baking powder, salt, and mustard powder until crumbly, then toss in three-quarters of the cheddar and all the chives.",
+        "Stir in cold milk just until a dough comes together, pat to 2.5 cm thick, stamp out rounds, and scatter the remaining cheese on top.",
+        "Bake at 210°C for 13–15 minutes until puffed and golden crisp, and serve warm with salted butter."
+      ]
     },
     {
       "id": "uk_breakfast_09",
@@ -1111,7 +1566,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional Welsh Cakes",
+      "desc_en": "A beloved Welsh griddle treat with a tender, crumbly texture somewhere between a scone and a cookie.",
+      "ingredients_en": [
+        "All-purpose flour and baking powder: 225 g + 1 tsp",
+        "Very cold unsalted butter, cubed: 100 g",
+        "Granulated sugar: 80 g",
+        "Dried currants: 60 g",
+        "Mixed spice: 0.5 tsp",
+        "Beaten egg and a splash of milk: 1 piece"
+      ],
+      "steps_en": [
+        "Rub cold butter into flour, baking powder, and mixed spice until crumbly, then stir in sugar, currants, and beaten egg to form a soft dough.",
+        "Roll to about 0.8 cm thick, cut into rounds, and cook on a dry griddle over low heat for 3 minutes per side until golden brown.",
+        "Dust lightly with sugar while still warm and serve with butter and hot tea."
+      ]
     },
     {
       "id": "uk_breakfast_10",
@@ -1144,7 +1614,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Bacon and Egg Breakfast Muffin",
+      "desc_en": "A portable British breakfast sandwich made with thick, tender back bacon and tangy brown sauce.",
+      "ingredients_en": [
+        "English muffin, split: 1 piece",
+        "British back bacon: 2 slices",
+        "Egg: 1 piece",
+        "Cheddar cheese slice: 1 slice",
+        "Unsalted butter and British brown sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Toast the English muffin until crisp and spread lightly with butter.",
+        "Fry the back bacon until cooked and fragrant, and fry the egg in a round ring, topping it with cheddar cheese to melt.",
+        "Stack the bacon, cheesy egg, and a drizzle of brown sauce inside the English muffin and serve hot."
+      ]
     },
     {
       "id": "uk_breakfast_11",
@@ -1178,7 +1662,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bara Brith Welsh Tea Loaf",
+      "desc_en": "A traditional Welsh tea-soaked fruit loaf made with no added fat yet deeply moist and fragrant with black tea.",
+      "ingredients_en": [
+        "Mixed dried fruit (raisins, currants, candied peel): 250 g",
+        "Hot strongly brewed black English tea: 250 ml",
+        "Brown sugar: 100 g",
+        "All-purpose flour and baking powder: 225 g + 2 tsp",
+        "Mixed spice: 1.5 tsp",
+        "Egg: 1 piece"
+      ],
+      "steps_en": [
+        "Soak the dried fruit and brown sugar in hot black tea for at least 2 hours (or overnight) until plump and fragrant.",
+        "Stir flour, baking powder, mixed spice, and egg into the tea-soaked fruit until combined, then pour into a parchment-lined loaf pan.",
+        "Bake at 170°C for 50–55 minutes until cooked through, slice thick, spread with butter, and serve with hot tea."
+      ]
     },
     {
       "id": "uk_breakfast_12",
@@ -1211,7 +1710,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Rhubarb and Custard Breakfast Pastry",
+      "desc_en": "The sweet-tart pairing of pink rhubarb and creamy vanilla custard is a quintessential British bakery flavor.",
+      "ingredients_en": [
+        "Puff pastry sheet, cut into 4 squares: 1 sheet",
+        "Chopped pink rhubarb stalks (or strawberries): 200 g",
+        "Granulated sugar and fresh orange juice: 3 tbsp",
+        "Thick vanilla custard: 120 g",
+        "Egg yolk for brushing and powdered sugar for dusting: 1 set"
+      ],
+      "steps_en": [
+        "Toss the chopped rhubarb with sugar and orange juice and let rest for 10 minutes.",
+        "Score a border around each puff pastry square, brush the edges with egg yolk, spoon vanilla custard into the center, and arrange rhubarb on top.",
+        "Bake at 200°C for 16–18 minutes until the pastry borders are puffed and golden and the rhubarb is tender; dust with powdered sugar and serve warm."
+      ]
     },
     {
       "id": "uk_dessert_01",
@@ -1243,7 +1756,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Sticky Toffee Pudding",
+      "desc_en": "Britain's number-one pub dessert featuring a moist date sponge drenched in rich, glossy toffee sauce.",
+      "ingredients_en": [
+        "Chopped pitted dates soaked in boiling water with baking soda: 175 g",
+        "All-purpose flour, baking powder, butter, brown sugar, and eggs: 1 set",
+        "Unsalted butter, brown sugar, and heavy cream for toffee sauce: 1 set",
+        "Vanilla ice cream or custard for serving: 1 set"
+      ],
+      "steps_en": [
+        "Soak the dates in boiling water with baking soda for 10 minutes and mash coarsely; beat butter, brown sugar, eggs, flour, and dates together into a batter.",
+        "Pour into a baking pan and bake at 180°C for 28–30 minutes until risen and springy.",
+        "Simmer butter, brown sugar, and heavy cream into a glossy caramel toffee sauce, pour generously over the warm pudding, and serve with vanilla ice cream."
+      ]
     },
     {
       "id": "uk_dessert_02",
@@ -1276,7 +1802,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Banoffee Pie",
+      "desc_en": "An iconic no-bake British pie layering buttery biscuit crust, rich caramel, ripe bananas, and whipped cream.",
+      "ingredients_en": [
+        "Finely crushed digestive biscuits and melted butter: 200 g + 90 g",
+        "Caramelized condensed milk (dulce de leche): 350 g",
+        "Ripe bananas, sliced: 3 pieces",
+        "Whipped heavy cream: 300 ml",
+        "Grated dark chocolate or cocoa powder for garnish: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix crushed digestive biscuits with melted butter, press firmly into a pie tin, and chill for 20 minutes until set.",
+        "Spread the caramel evenly over the biscuit base and top with a full layer of sliced bananas.",
+        "Spread or pipe whipped cream generously over the bananas, dust with grated chocolate, and chill before slicing."
+      ]
     },
     {
       "id": "uk_dessert_03",
@@ -1309,7 +1849,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Eton Mess",
+      "desc_en": "Famous from Eton College's summer matches, fold the meringue in right before serving so it stays delightfully crisp.",
+      "ingredients_en": [
+        "Fresh strawberries, chopped: 350 g",
+        "Crisp baked meringues, broken into bite-sized pieces: 100 g",
+        "Well-chilled whipping cream: 300 ml",
+        "Powdered sugar and vanilla extract: 2 tbsp",
+        "Fresh mint sprigs for garnish: 1 set"
+      ],
+      "steps_en": [
+        "Crush one-third of the strawberries with a little powdered sugar into a bright berry sauce, leaving the rest in chunks.",
+        "Whip the chilled cream with vanilla extract to soft peaks.",
+        "Gently fold in the meringue pieces and strawberry chunks, spoon into glasses layered with strawberry sauce, and serve immediately."
+      ]
     },
     {
       "id": "uk_dessert_04",
@@ -1342,7 +1896,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional English Berry Trifle",
+      "desc_en": "A crowd-pleasing layered British party dessert made completely alcohol-free for all ages to enjoy.",
+      "ingredients_en": [
+        "Cubed sponge cake or ladyfingers: 150 g",
+        "Prepared raspberry or strawberry jelly: 250 ml",
+        "Fresh strawberries and raspberries: 250 g",
+        "Chilled thick vanilla custard: 300 ml",
+        "Whipped cream and toasted sliced almonds: 250 ml"
+      ],
+      "steps_en": [
+        "Arrange sponge cake pieces and fresh berries in the bottom of a glass bowl, pour over the jelly, and chill until set.",
+        "Pour chilled vanilla custard over the jelly in an even second layer.",
+        "Top with a thick blanket of whipped cream, garnish with fresh berries and toasted almonds, and chill before serving."
+      ]
     },
     {
       "id": "uk_dessert_05",
@@ -1375,7 +1943,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Apple and Blackberry Crumble with Custard",
+      "desc_en": "Warm, bubbling fruit crumble poured with velvety custard is Britain's most cherished home dessert.",
+      "ingredients_en": [
+        "Peeled and sliced green apples: 350 g",
+        "Fresh or frozen blackberries: 150 g",
+        "All-purpose flour, cold butter, and brown sugar for topping: 150 g + 75 g + 70 g",
+        "Ground cinnamon: 0.5 tsp",
+        "Warm vanilla custard for serving: 200 ml"
+      ],
+      "steps_en": [
+        "Toss the apples and blackberries with a little sugar and cinnamon and arrange in a baking dish.",
+        "Rub cold butter into flour and brown sugar until coarse crumbs form, then scatter evenly over the fruit.",
+        "Bake at 185°C for 35 minutes until the topping is golden crisp and the purple fruit juices bubble; serve warm with vanilla custard."
+      ]
     },
     {
       "id": "uk_dessert_06",
@@ -1408,7 +1990,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Victoria Sponge Cake",
+      "desc_en": "Named after Queen Victoria, this light sponge layered with jam and cream is the centerpiece of British afternoon tea.",
+      "ingredients_en": [
+        "Softened butter, granulated sugar, and cake flour: 200 g each",
+        "Eggs: 4 pieces",
+        "Baking powder and vanilla extract: 2 tsp + 1 tsp",
+        "Strawberry or raspberry jam: 120 g",
+        "Whipped cream and powdered sugar for dusting: 200 ml"
+      ],
+      "steps_en": [
+        "Cream butter and sugar until pale and fluffy, beat in eggs one at a time, then fold in cake flour, baking powder, and vanilla until smooth.",
+        "Divide between two round cake pans, bake at 180°C for 20–22 minutes until risen and springy, and cool completely on a wire rack.",
+        "Spread jam and whipped cream onto one sponge layer, top with the second sponge, and dust lightly with powdered sugar before slicing."
+      ]
     },
     {
       "id": "uk_dessert_07",
@@ -1440,7 +2036,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cherry Bakewell Tart",
+      "desc_en": "A famous Derbyshire tart pairing nutty almond frangipane with tart raspberry jam and crisp pastry.",
+      "ingredients_en": [
+        "Sweet shortcrust tart shell: 1 piece",
+        "Raspberry jam: 4 tbsp",
+        "Almond flour, butter, sugar, and egg for frangipane: 1 set",
+        "White icing and glacé cherries: 1 set"
+      ],
+      "steps_en": [
+        "Line a tart tin with pastry, blind-bake for 10 minutes, and spread raspberry jam evenly over the base.",
+        "Beat butter, sugar, egg, and almond flour into frangipane cream, spread over the jam, and bake at 180°C for 25–28 minutes until golden.",
+        "Cool completely, spread white icing over the top, and crown with glacé cherries before slicing."
+      ]
     },
     {
       "id": "uk_dessert_08",
@@ -1473,7 +2082,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Golden Syrup Treacle Tart",
+      "desc_en": "A timeless British classic balancing rich golden syrup sweetness with bright lemon zest.",
+      "ingredients_en": [
+        "Sweet shortcrust tart shell: 1 piece",
+        "Golden syrup: 280 g",
+        "Fine fresh breadcrumbs: 110 g",
+        "Lemon juice and finely grated zest: 1 piece",
+        "Egg and heavy cream: 1 piece + 60 ml"
+      ],
+      "steps_en": [
+        "Warm the golden syrup gently and stir in fresh breadcrumbs, lemon juice, lemon zest, beaten egg, and heavy cream until combined.",
+        "Pour into the blind-baked tart shell and top with a pastry lattice if desired.",
+        "Bake at 180°C for 28–32 minutes until set to a glossy amber finish; let cool until warm and serve with clotted cream or ice cream."
+      ]
     },
     {
       "id": "uk_dessert_09",
@@ -1509,6 +2132,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Bread and Butter Pudding",
+      "desc_en": "Using brioche gives this comforting baked custard pudding an extra velvety texture suited for older adults.",
+      "ingredients_en": [
+        "Sliced bread or brioche, buttered and cut into triangles: 6 slices",
+        "Raisins: 60 g",
+        "Eggs: 3 pieces",
+        "Milk and heavy cream: 250 ml + 150 ml",
+        "Granulated sugar, vanilla extract, and ground nutmeg: 1 set"
+      ],
+      "steps_en": [
+        "Arrange the buttered bread triangles overlapping in a baking dish, scattering raisins between the layers.",
+        "Whisk eggs, milk, heavy cream, sugar, and vanilla together, pour over the bread, and let soak for 15 minutes.",
+        "Sprinkle with sugar and nutmeg, then bake at 175°C for 30–35 minutes until crisp and golden on top with a soft custard center."
       ]
     },
     {
@@ -1543,7 +2180,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Spotted Dick with Warm Custard",
+      "desc_en": "A traditional British steamed suet-style fruit pudding, soft, warming, and fragrant with lemon and currants.",
+      "ingredients_en": [
+        "All-purpose flour and baking powder: 250 g + 2 tsp",
+        "Grated cold unsalted butter: 110 g",
+        "Granulated sugar: 75 g",
+        "Dried currants and golden raisins: 140 g",
+        "Grated lemon zest and milk: 160 ml",
+        "Warm vanilla custard for serving: 250 ml"
+      ],
+      "steps_en": [
+        "Combine flour, baking powder, grated cold butter, sugar, dried fruit, and lemon zest, then stir in milk to form a thick batter.",
+        "Spoon into a buttered pudding basin, cover tightly with parchment and foil, and steam over simmering water for about 50 minutes until puffed and cooked through.",
+        "Turn the hot pudding out onto a plate, slice thick, and serve immediately drenched in warm vanilla custard."
+      ]
     },
     {
       "id": "uk_dessert_11",
@@ -1575,7 +2227,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Creamy Lemon Posset with Shortbread",
+      "desc_en": "Made with just 3 core ingredients and zero gelatin, natural lemon acidity sets the cream into a silky mousse.",
+      "ingredients_en": [
+        "Heavy double cream: 400 ml",
+        "Granulated sugar: 110 g",
+        "Fresh lemon juice and grated zest: 65 ml",
+        "Scottish butter shortbread biscuits for serving: 4 pieces"
+      ],
+      "steps_en": [
+        "Bring heavy cream and sugar to a gentle boil over medium heat, simmer for exactly 3 minutes, then remove from heat.",
+        "Stir in fresh lemon juice and grated zest, then strain into 4 serving glasses.",
+        "Cool to room temperature and chill for at least 3 hours until softly set; serve with crisp butter shortbread."
+      ]
     },
     {
       "id": "uk_dessert_12",
@@ -1608,7 +2273,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Iced Earl Grey Latte",
+      "desc_en": "Also known as an Iced London Fog, pairing floral bergamot Earl Grey tea with creamy vanilla milk.",
+      "ingredients_en": [
+        "Earl Grey tea bags: 2 bags",
+        "Boiling water: 100 ml",
+        "Chilled milk: 140 ml",
+        "Vanilla syrup or honey: 1.5 tbsp",
+        "Ice cubes and cold milk foam: 1 set"
+      ],
+      "steps_en": [
+        "Steep 2 Earl Grey tea bags in boiling water for 4 minutes for a bold bergamot brew, stir in vanilla syrup to dissolve, and cool.",
+        "Fill a tall glass with ice cubes and chilled milk.",
+        "Slowly pour the cooled Earl Grey tea over the milk for a layered look, top with milk foam, and serve chilled."
+      ]
     },
     {
       "id": "uk_soup_01",
@@ -1644,6 +2323,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cullen Skink (Smoked Haddock Soup)",
+      "desc_en": "A velvety Scottish coastal cream soup rich with smoky haddock and tender potatoes, comforting and gentle for older adults.",
+      "ingredients_en": [
+        "Smoked haddock or cod fillets: 300 g",
+        "Finely diced potatoes: 280 g",
+        "Finely chopped onion: 80 g",
+        "Milk and heavy cream: 450 ml + 100 ml",
+        "Unsalted butter, bay leaf, and chopped parsley: 1 set"
+      ],
+      "steps_en": [
+        "Poach the smoked fish gently in milk with a bay leaf for 6 minutes, then lift out the fish to flake into large chunks and strain the milk.",
+        "Sauté the onion in butter until translucent, add diced potatoes and the strained poaching milk, simmer 15 minutes until tender, and lightly mash part of the potatoes to thicken.",
+        "Fold in the flaked smoked fish and heavy cream, warm gently over low heat, season with black pepper, garnish with parsley, and serve hot with crusty bread."
       ]
     },
     {
@@ -1681,6 +2374,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cock-a-Leekie Soup",
+      "desc_en": "Scotland's national soup combining tender chicken, sweet leeks, and prunes into a nourishing bowl ideal for older adults.",
+      "ingredients_en": [
+        "Chicken thighs or breast, cut into pieces: 300 g",
+        "Sliced leeks: 250 g",
+        "Chicken stock: 900 ml",
+        "Rinsed pearl barley: 60 g",
+        "Chopped pitted prunes (traditional touch): 4 pieces",
+        "Thyme, bay leaf, and fresh parsley: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the sliced leeks with a knob of butter until soft and sweet.",
+        "Add chicken, chicken stock, pearl barley, thyme, and bay leaf; bring to a boil, then simmer for 30 minutes until the chicken and barley are tender.",
+        "Stir in chopped prunes and simmer 5 minutes more, season with salt and pepper, garnish with parsley, and serve hot."
       ]
     },
     {
@@ -1714,7 +2422,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Welsh Cawl Lamb Stew",
+      "desc_en": "Wales's national stew featuring a clear, deeply savory broth naturally sweetened by winter root vegetables.",
+      "ingredients_en": [
+        "Lamb shoulder, cut into large cubes: 450 g",
+        "Potatoes, carrots, and parsnips, diced: 380 g",
+        "Leeks, sliced into thick rounds: 150 g",
+        "Beef or lamb stock: 900 ml",
+        "Thyme, bay leaves, and chopped parsley: 1 set"
+      ],
+      "steps_en": [
+        "Sear the lamb in a pot until nicely browned, then add the stock, thyme, and bay leaves; simmer gently for 35 minutes until the meat starts to tenderize.",
+        "Add the carrots, parsnips, and potatoes and simmer for another 20 minutes until the root vegetables are tender and sweet.",
+        "Stir in the leeks and cook for 8 more minutes, season with salt and black pepper, and serve hot with crusty bread and cheddar cheese."
+      ]
     },
     {
       "id": "uk_soup_04",
@@ -1748,7 +2470,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Anglo-Indian Mulligatawny Soup",
+      "desc_en": "A classic British Anglo-Indian curry soup infused with warm spices and bright sweet-tart notes from green apple.",
+      "ingredients_en": [
+        "Chicken breast, finely diced: 220 g",
+        "Red lentils, rinsed: 100 g",
+        "Green apple, carrot, and onion, diced: 220 g",
+        "English curry powder, minced garlic, and ginger: 1.5 tbsp",
+        "Chicken stock and coconut milk: 750 ml + 150 ml",
+        "Lemon juice and fresh coriander: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion, carrot, apple, garlic, ginger, and curry powder in a pot until wonderfully fragrant.",
+        "Add the chicken, red lentils, and chicken stock; simmer over medium heat for 25 minutes until the lentils break down into a thick, golden soup.",
+        "Stir in the coconut milk and warm to a gentle simmer, then finish with a squeeze of lemon juice and fresh coriander before serving hot."
+      ]
     },
     {
       "id": "uk_soup_05",
@@ -1781,7 +2518,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Lancashire Hotpot Stew",
+      "desc_en": "Lancashire's famous slow-baked casserole topped with crisp golden potato slices over rich, juicy lamb stew.",
+      "ingredients_en": [
+        "Lamb, diced: 450 g",
+        "Potatoes, thinly sliced: 450 g",
+        "Onion and carrots, sliced: 180 g",
+        "Beef stock and Worcestershire sauce: 400 ml",
+        "All-purpose flour, melted butter, and thyme: 1 set"
+      ],
+      "steps_en": [
+        "Brown the lamb in a Dutch oven, then saute the onion, carrots, and flour before adding the beef stock, Worcestershire sauce, and thyme; simmer until slightly thickened.",
+        "Arrange the sliced potatoes in overlapping layers across the top of the stew, brush with melted butter, and season with salt and pepper.",
+        "Cover and bake at 175°C for 45 minutes, then uncover and bake for another 20 minutes until the potatoes are crisp and golden and the lamb is melt-in-your-mouth tender."
+      ]
     },
     {
       "id": "uk_soup_06",
@@ -1814,7 +2565,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Liverpool Scouse Beef Stew",
+      "desc_en": "Liverpool's iconic hearty beef stew that inspired the nickname Scouser, offering rich comfort in every bowl.",
+      "ingredients_en": [
+        "Beef chuck, diced: 450 g",
+        "Potatoes, cut into large cubes: 400 g",
+        "Carrots and onion, chopped: 200 g",
+        "Beef stock and Worcestershire sauce: 800 ml",
+        "Pickled red cabbage and crusty bread for serving: 1 set"
+      ],
+      "steps_en": [
+        "Sear the beef in a pot until browned, then add the onion, carrots, beef stock, and Worcestershire sauce; simmer over low heat for 45 minutes.",
+        "Add the potatoes and cook for another 25 minutes until some of the potatoes break down to naturally thicken the stew.",
+        "Season with salt and black pepper, and serve hot alongside pickled red cabbage and crusty bread in true Liverpool style."
+      ]
     },
     {
       "id": "uk_soup_07",
@@ -1850,6 +2615,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cream of British Watercress Soup",
+      "desc_en": "Cook the watercress only briefly to preserve its vibrant emerald color and signature gentle peppery kick (great for older adults).",
+      "ingredients_en": [
+        "Fresh watercress, washed: 200 g",
+        "Potatoes, finely diced: 200 g",
+        "Onion and garlic, chopped: 80 g",
+        "Vegetable stock: 750 ml",
+        "Butter and heavy cream: 20 g + 80 ml"
+      ],
+      "steps_en": [
+        "Saute the onion and garlic in butter until translucent, then add the potatoes and vegetable stock and simmer over medium heat for 15 minutes until tender.",
+        "Add the watercress and boil briefly for just 2 minutes to lock in its bright emerald hue, then blend immediately until velvety smooth.",
+        "Warm gently over low heat with the heavy cream, season with salt and white pepper, swirl extra cream on top, and serve hot."
       ]
     },
     {
@@ -1883,7 +2662,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roasted Parsnip and Apple Soup",
+      "desc_en": "A beloved British autumn soup blending the mellow sweetness of caramelized roasted parsnips and apples.",
+      "ingredients_en": [
+        "Parsnips, peeled and chopped: 450 g",
+        "Apples, chopped: 2 pieces",
+        "Onion and garlic: 90 g",
+        "Vegetable stock: 750 ml",
+        "Olive oil, thyme, and heavy cream: 1 set"
+      ],
+      "steps_en": [
+        "Toss the parsnips, apples, onion, and garlic with olive oil and thyme, then roast at 200°C for 25 minutes until sweet and caramelized.",
+        "Blend the roasted vegetables and fruit with the vegetable stock until completely smooth and creamy.",
+        "Warm over low heat with a splash of heavy cream, season with salt and pepper, and serve hot topped with crispy roasted parsnip chips."
+      ]
     },
     {
       "id": "uk_soup_09",
@@ -1916,7 +2709,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Stilton and Broccoli Soup",
+      "desc_en": "A timeless British soup pairing featuring authentic Stilton blue cheese for a rich, deeply aromatic finish.",
+      "ingredients_en": [
+        "Broccoli florets and tender stems, chopped: 400 g",
+        "British Stilton blue cheese: 120 g",
+        "Diced potato and chopped onion: 180 g",
+        "Vegetable stock: 750 ml",
+        "Butter and whole milk: 20 g + 100 ml"
+      ],
+      "steps_en": [
+        "Saute the onion in butter until soft, add the potato and vegetable stock to simmer for 10 minutes, then add the broccoli and cook for 6 minutes until bright green and tender.",
+        "Blend the soup until smooth, reduce to low heat, and stir in three-quarters of the Stilton cheese and the milk until melted.",
+        "Ladle into warm bowls and garnish with the remaining crumbled Stilton and coarsely ground black pepper."
+      ]
     },
     {
       "id": "uk_soup_10",
@@ -1949,7 +2756,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Split Pea and Ham Hock Soup",
+      "desc_en": "An old-fashioned London Particular soup that is thick, smoky from ham hock, and packed with protein.",
+      "ingredients_en": [
+        "Dried yellow or green split peas: 250 g",
+        "Smoked ham hock meat, shredded: 200 g",
+        "Carrots, celery, and onion, diced: 180 g",
+        "Chicken stock: 1000 ml",
+        "Thyme, bay leaves, and fresh parsley: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion, carrots, and celery in a pot until fragrant, then add the split peas, chicken stock, thyme, and bay leaves.",
+        "Simmer over low heat for 45 minutes, stirring occasionally, until the peas break down into a thick, velvety soup.",
+        "Stir in the shredded ham hock and warm through for 5 minutes; season with black pepper, garnish with parsley, and serve hot with bread."
+      ]
     },
     {
       "id": "uk_soup_11",
@@ -1982,7 +2803,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Oxtail Soup",
+      "desc_en": "A deep, mahogany-colored British classic bursting with rich flavor and natural collagen from slow-braised oxtail.",
+      "ingredients_en": [
+        "Oxtail, cut into pieces: 600 g",
+        "Carrots, celery, and onion, chopped: 220 g",
+        "Tomato paste and Worcestershire sauce: 3 tbsp",
+        "Beef stock: 1100 ml",
+        "Thyme, bay leaves, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Sear the oxtail in a heavy-bottomed pot until deeply browned, set aside, and saute the onion, carrots, celery, and tomato paste.",
+        "Return the oxtail to the pot with the beef stock, Worcestershire sauce, thyme, and bay leaves; braise over low heat for 1.5 to 2 hours until the meat falls off the bone.",
+        "Shred the tender oxtail meat into bite-sized pieces and return it to the broth, skim off excess fat, and serve piping hot."
+      ]
     },
     {
       "id": "uk_soup_12",
@@ -2016,7 +2851,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Chicken Tikka Masala Curry",
+      "desc_en": "Britain's beloved national curry dish, balancing aromatic spices with a velvety spiced tomato-cream sauce.",
+      "ingredients_en": [
+        "Chicken thighs or breast, cubed and marinated in yogurt and tikka spice: 450 g",
+        "Crushed tomatoes: 350 g",
+        "Onion, garlic, and ginger, finely minced: 120 g",
+        "Garam masala, paprika, and ground cumin: 2 tbsp",
+        "Heavy cream and butter: 120 ml + 20 g",
+        "Fresh coriander for garnish: 2 tbsp"
+      ],
+      "steps_en": [
+        "Grill or pan-sear the spiced yogurt-marinated chicken until charred on the outside, then set aside.",
+        "Saute the onion, garlic, ginger, and spices in butter until fragrant, then stir in the crushed tomatoes and simmer for 12 minutes until thickened.",
+        "Add the grilled chicken and heavy cream and simmer gently for 8 minutes until coated in a rich, creamy orange sauce; garnish with fresh coriander and serve hot with naan."
+      ]
     },
     {
       "id": "uk_healthy_01",
@@ -2049,7 +2899,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Watercress, Beetroot and Goat Cheese Salad",
+      "desc_en": "A classic British bistro salad pairing vibrant ruby beetroot with peppery watercress and creamy goat cheese.",
+      "ingredients_en": [
+        "Fresh watercress: 100 g",
+        "Roasted beetroot, cut into wedges: 180 g",
+        "Soft goat cheese, crumbled: 60 g",
+        "Toasted walnuts: 25 g",
+        "Olive oil and balsamic vinegar: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Arrange the fresh watercress on a salad plate and scatter the roasted beetroot wedges evenly over the leaves.",
+        "Top with crumbled goat cheese and crunchy toasted walnuts.",
+        "Whisk together the olive oil, balsamic vinegar, salt, and black pepper, drizzle over the salad, and serve fresh."
+      ]
     },
     {
       "id": "uk_healthy_02",
@@ -2085,6 +2949,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Poached Scottish Salmon with Cucumber and Dill",
+      "desc_en": "Oil-free gentle poaching keeps the Scottish salmon wonderfully tender while preserving its heart-healthy omega-3 fats (great for older adults).",
+      "ingredients_en": [
+        "Scottish salmon fillet: 280 g",
+        "Cucumber, thinly sliced: 1 piece",
+        "Fresh dill and lemon slices: 1 set",
+        "Greek yogurt and lemon juice for clean dressing: 3 tbsp",
+        "Black peppercorns and bay leaves for poaching: 1 set"
+      ],
+      "steps_en": [
+        "Bring water with lemon slices, bay leaves, and black peppercorns to a gentle simmer, lower the heat, and poach the salmon for 8 to 10 minutes until tender and juicy.",
+        "Toss the thinly sliced cucumber with fresh dill and a squeeze of lemon juice and arrange on a plate.",
+        "Place the poached salmon on top and serve with the lemon-dill Greek yogurt sauce."
       ]
     },
     {
@@ -2118,7 +2996,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roasted Heritage Carrot and Lentil Salad",
+      "desc_en": "A hearty warm salad packed with plant protein, fiber, and natural sweetness from caramelized roasted carrots.",
+      "ingredients_en": [
+        "Baby carrots or halved carrots: 260 g",
+        "Cooked Puy green lentils: 180 g",
+        "Rocket (arugula) and fresh parsley: 70 g",
+        "Toasted pumpkin seeds and feta cheese: 40 g",
+        "Olive oil, lemon juice, and ground cumin: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Toss the carrots with olive oil, cumin, and salt, and roast at 200°C for 22 minutes until sweet and caramelized at the edges.",
+        "Toss the cooked lentils with rocket, parsley, and a dressing of lemon juice and olive oil.",
+        "Top with the warm roasted carrots, crumbled feta, and toasted pumpkin seeds, and serve warm."
+      ]
     },
     {
       "id": "uk_healthy_04",
@@ -2151,7 +3043,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Smoked Mackerel and Chicory Salad",
+      "desc_en": "Crisp, lightly bitter chicory and tart green apple provide the ideal bright contrast to rich smoked mackerel.",
+      "ingredients_en": [
+        "Smoked mackerel, flaked into large chunks: 200 g",
+        "Chicory or crisp cos lettuce: 120 g",
+        "Green apple, cut into thin matchsticks: 1/2 piece",
+        "Red radishes, thinly sliced: 40 g",
+        "Horseradish yogurt and lemon dressing: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Arrange the crisp chicory leaves, green apple matchsticks, and sliced radishes on a serving plate.",
+        "Place the large flakes of smoked mackerel over the greens.",
+        "Drizzle with the horseradish-lemon yogurt dressing, finish with black pepper, and serve chilled."
+      ]
     },
     {
       "id": "uk_healthy_05",
@@ -2184,7 +3090,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Chicken, Avocado and Baby Gem Salad",
+      "desc_en": "A crisp, refreshing British-style high-protein, low-carb salad that is light yet satisfying.",
+      "ingredients_en": [
+        "Herb-grilled chicken breast, sliced: 240 g",
+        "Baby gem lettuce, separated into leaves: 140 g",
+        "Avocado, sliced: 1 piece",
+        "Cucumber and cherry tomatoes: 120 g",
+        "Dijon mustard and lemon vinaigrette: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Season the chicken breast with salt, pepper, and thyme, then grill in a skillet until juicy and cooked through; slice into bite-sized pieces.",
+        "Arrange the baby gem lettuce, cucumber, cherry tomatoes, and avocado in a salad bowl.",
+        "Top with the grilled chicken, drizzle with the Dijon-lemon vinaigrette, and serve immediately."
+      ]
     },
     {
       "id": "uk_healthy_06",
@@ -2217,7 +3137,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roasted Cauliflower, Chickpea and Spinach Salad",
+      "desc_en": "A light plant-based salad rich in dietary fiber and vibrant antioxidants.",
+      "ingredients_en": [
+        "Cauliflower, cut into bite-sized florets: 250 g",
+        "Cooked chickpeas, patted dry: 160 g",
+        "Baby spinach leaves: 100 g",
+        "Ground turmeric, paprika, and olive oil: 2 tbsp",
+        "Lemon yogurt dressing and pomegranate seeds: 1 set"
+      ],
+      "steps_en": [
+        "Toss the cauliflower and chickpeas with olive oil, turmeric, paprika, and salt, and roast at 200°C for 20 minutes until golden and fragrant.",
+        "Line a bowl with baby spinach and spoon the warm roasted cauliflower and chickpeas on top.",
+        "Drizzle with lemon yogurt dressing and scatter pomegranate seeds over for color and bright crunch."
+      ]
     },
     {
       "id": "uk_healthy_07",
@@ -2250,7 +3184,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Pea, Mint and Feta Quinoa Salad",
+      "desc_en": "Fresh British summer garden flavors starring sweet garden peas and aromatic mint leaves.",
+      "ingredients_en": [
+        "Cooked quinoa: 180 g",
+        "Sweet green peas, blanched until crisp-tender: 150 g",
+        "Feta cheese, crumbled: 60 g",
+        "Chopped fresh mint and sliced spring onions: 3 tbsp",
+        "Olive oil and freshly squeezed lemon juice: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Blanch the peas in boiling water for 2 minutes, then plunge into cold water to keep them bright green and crisp.",
+        "Toss the quinoa, peas, fresh mint, spring onions, olive oil, and lemon juice together until well combined.",
+        "Top with crumbled feta and grated lemon zest, and serve chilled or at room temperature."
+      ]
     },
     {
       "id": "uk_healthy_08",
@@ -2283,7 +3231,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Steamed Cod with Lemon, Samphire and Green Beans",
+      "desc_en": "An ultra-lean, high-protein coastal dish clocking in at under 300 kcal per serving.",
+      "ingredients_en": [
+        "Boneless cod fillets: 300 g",
+        "Green beans and samphire (or tender asparagus): 180 g",
+        "Lemon slices: 4 pieces",
+        "Extra virgin olive oil: 1 tbsp",
+        "Chopped parsley and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Place the cod fillets on parchment paper in a steamer basket, top with lemon slices, and steam for 8 to 10 minutes until opaque and flaky.",
+        "Blanch the green beans and samphire in boiling water for 3 minutes until crisp-tender.",
+        "Arrange the greens on a plate, top with the steamed cod, drizzle with extra virgin olive oil, and scatter fresh parsley before serving hot."
+      ]
     },
     {
       "id": "uk_healthy_09",
@@ -2316,7 +3278,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roast Turkey Breast with Steamed Greens",
+      "desc_en": "Skinless turkey breast delivers very low fat and high lean protein, ideal for clean eating and weight management.",
+      "ingredients_en": [
+        "Skinless turkey breast: 300 g",
+        "Tenderstem broccoli and sugar snap peas: 200 g",
+        "Olive oil, fresh rosemary, and thyme: 1.5 tbsp",
+        "Crushed garlic and lemon juice: 1 set",
+        "Sea salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rub the turkey breast with olive oil, rosemary, thyme, garlic, salt, and pepper; roast at 190°C for 25 minutes until juicy, rest 5 minutes, and slice.",
+        "Steam the tenderstem broccoli and sugar snap peas for about 4 minutes until vibrant green and crisp-tender.",
+        "Plate the sliced roast turkey alongside the steamed greens and finish with a squeeze of fresh lemon juice."
+      ]
     },
     {
       "id": "uk_healthy_10",
@@ -2349,7 +3325,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Asparagus, Soft-Boiled Egg and Watercress Salad",
+      "desc_en": "A favorite British spring salad where the jammy soft-boiled yolk acts as a rich, velvety dressing.",
+      "ingredients_en": [
+        "Fresh British asparagus, woody ends trimmed: 200 g",
+        "Eggs, soft-boiled for 6 minutes: 2 pieces",
+        "Fresh watercress: 80 g",
+        "Olive oil and lemon juice: 2 tbsp",
+        "Shaved Parmesan cheese and black pepper: 15 g"
+      ],
+      "steps_en": [
+        "Blanch or chargrill the asparagus for 3 minutes until bright green and crisp-tender.",
+        "Arrange the watercress and asparagus on a plate and top with the halved soft-boiled eggs.",
+        "Drizzle with olive oil and lemon juice, scatter shaved Parmesan and black pepper on top, and serve warm."
+      ]
     },
     {
       "id": "uk_healthy_11",
@@ -2382,7 +3372,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Halloumi, Courgette and Mint Garden Salad",
+      "desc_en": "A popular British cafe vegetarian salad matching salty, squeaky grilled halloumi with crisp garden vegetables.",
+      "ingredients_en": [
+        "Halloumi cheese, thickly sliced: 160 g",
+        "Courgette (zucchini), sliced into long ribbons: 1 piece",
+        "Mixed salad leaves and fresh mint: 100 g",
+        "Cherry tomatoes, halved: 100 g",
+        "Olive oil, lemon juice, and toasted pine nuts: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Grill the courgette ribbons and halloumi slices on a griddle pan over medium heat for 2 minutes per side until nicely charred and golden.",
+        "Arrange the mixed salad leaves, cherry tomatoes, and fresh mint on a platter.",
+        "Top with the warm grilled courgette and halloumi, drizzle with lemon-olive oil dressing, and serve immediately."
+      ]
     },
     {
       "id": "uk_healthy_12",
@@ -2415,7 +3419,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Herbed Mushroom and Pearl Barley Light Bowl",
+      "desc_en": "A wholesome, high-fiber British grain bowl packed with earthy herbs and savory mushrooms.",
+      "ingredients_en": [
+        "Cooked pearl barley: 180 g",
+        "Button and portobello mushrooms, sliced: 220 g",
+        "Baby spinach leaves: 80 g",
+        "Minced garlic, thyme, and fresh parsley: 2 tbsp",
+        "Olive oil and fresh lemon juice: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Saute the sliced mushrooms in olive oil with garlic and thyme over high heat until browned and aromatic.",
+        "Toss in the baby spinach and cooked pearl barley just until the spinach wilts.",
+        "Season with salt and black pepper, finish with a squeeze of lemon juice and fresh parsley, and serve warm."
+      ]
     },
     {
       "id": "uk_rice_01",
@@ -2449,7 +3467,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Kedgeree (Smoked Haddock and Curried Rice)",
+      "desc_en": "A Victorian-era Anglo-Indian British rice favorite perfumed with flaky smoked fish and gentle curry spices.",
+      "ingredients_en": [
+        "Cooked basmati rice: 300 g",
+        "Poached smoked haddock or cod, flaked: 250 g",
+        "Soft-boiled eggs, quartered: 3 pieces",
+        "Chopped onion and butter: 60 g + 25 g",
+        "Mild English curry powder: 1.5 tsp",
+        "Fresh coriander, parsley, and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion in butter until soft, then stir in the English curry powder and cook until aromatic.",
+        "Add the basmati rice and a splash of stock, tossing until every grain is lightly coated in golden spice.",
+        "Gently fold in the flaked smoked fish, plate with quartered boiled eggs and fresh herbs, and serve with lemon wedges."
+      ]
     },
     {
       "id": "uk_rice_02",
@@ -2482,7 +3515,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Creamy English Cheddar and Leek Macaroni Bake",
+      "desc_en": "Sweet buttered leeks and sharp English mustard balance the rich mature cheddar so every bite stays bright and savory.",
+      "ingredients_en": [
+        "Macaroni, boiled just shy of al dente: 240 g",
+        "Mature English cheddar cheese, grated: 160 g",
+        "Leeks, sliced and sauteed in butter: 150 g",
+        "Whole milk, flour, and butter for white sauce: 350 ml",
+        "English mustard and crispy breadcrumbs: 1 set"
+      ],
+      "steps_en": [
+        "Saute the leeks in butter until tender, stir in the flour, gradually whisk in the milk until thickened, then melt in the English mustard and three-quarters of the cheddar.",
+        "Fold the cooked macaroni into the creamy leek-cheese sauce and transfer to a baking dish.",
+        "Scatter the remaining cheddar and breadcrumbs on top and bake at 195°C for 18 minutes until golden, crisp, and bubbling."
+      ]
     },
     {
       "id": "uk_rice_03",
@@ -2516,7 +3563,22 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cornish Crab, Chilli and Lemon Linguine",
+      "desc_en": "A light, vibrant Cornish coastal pasta designed to let the natural sweetness of fresh crab shine.",
+      "ingredients_en": [
+        "Linguine pasta: 200 g",
+        "Cooked crab meat, picked: 180 g",
+        "Thinly sliced red chilli and minced garlic: 1 set",
+        "Extra virgin olive oil: 2.5 tbsp",
+        "Lemon juice and grated lemon zest: 1 piece",
+        "Chopped fresh parsley: 2 tbsp"
+      ],
+      "steps_en": [
+        "Boil the linguine in salted water until al dente, reserving a splash of pasta cooking water.",
+        "Warm olive oil in a skillet over low heat, gently saute the garlic and chilli until fragrant, and fold in the crab meat.",
+        "Toss in the linguine, reserved pasta water, lemon juice, lemon zest, and parsley, season with salt and pepper, and serve hot."
+      ]
     },
     {
       "id": "uk_rice_04",
@@ -2549,7 +3611,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Sausage and Tomato Penne Bake",
+      "desc_en": "A beloved British family weeknight pasta bake that is rich, comforting, and effortless in one dish.",
+      "ingredients_en": [
+        "Penne pasta, parboiled: 240 g",
+        "British pork sausages, cut into chunks: 280 g",
+        "Crushed tomatoes: 380 g",
+        "Onion, garlic, and dried oregano: 1 set",
+        "Grated cheddar and mozzarella cheese: 120 g"
+      ],
+      "steps_en": [
+        "Brown the sausage chunks in a skillet, then add the onion, garlic, oregano, and crushed tomatoes; simmer for 10 minutes.",
+        "Toss the penne into the rich sausage-tomato sauce and transfer to an ovenproof baking dish.",
+        "Scatter the grated cheese evenly on top and bake at 195°C for 18 minutes until melted, golden, and bubbling."
+      ]
     },
     {
       "id": "uk_rice_05",
@@ -2582,7 +3658,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Smoked Salmon and Pea Tagliatelle",
+      "desc_en": "A British bistro favorite ready in 20 minutes, pairing silky smoked salmon with bright dill and sweet peas.",
+      "ingredients_en": [
+        "Tagliatelle pasta: 200 g",
+        "Smoked salmon, torn into strips: 140 g",
+        "Sweet green peas: 100 g",
+        "Creme fraiche or heavy cream: 140 ml",
+        "Lemon zest, lemon juice, and fresh dill: 1 set"
+      ],
+      "steps_en": [
+        "Boil the tagliatelle in salted water, adding the peas for the final 2 minutes before draining.",
+        "Warm the creme fraiche with lemon zest and lemon juice in a skillet over low heat, seasoning with black pepper.",
+        "Gently toss the pasta, peas, smoked salmon, and fresh dill until glossy and coated, then serve immediately."
+      ]
     },
     {
       "id": "uk_rice_06",
@@ -2615,7 +3705,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Stilton, Walnut and Spinach Fusilli Pasta",
+      "desc_en": "Twisted fusilli spirals catch every drop of rich Stilton cheese sauce alongside crunchy toasted walnuts.",
+      "ingredients_en": [
+        "Fusilli pasta: 200 g",
+        "British Stilton blue cheese, crumbled: 100 g",
+        "Baby spinach leaves: 100 g",
+        "Toasted walnuts, roughly chopped: 35 g",
+        "Heavy cream: 120 ml"
+      ],
+      "steps_en": [
+        "Cook the fusilli in salted boiling water until al dente.",
+        "Warm the heavy cream over low heat and whisk in the crumbled Stilton until melted into a rich, savory sauce.",
+        "Toss the fusilli and baby spinach into the sauce just until the spinach wilts, plate with toasted walnuts and black pepper, and serve hot."
+      ]
     },
     {
       "id": "uk_rice_07",
@@ -2648,7 +3752,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Marmite and Butter Spaghetti",
+      "desc_en": "A cult-favorite British chef trick turning Marmite and pasta water into a glossy, umami-packed sauce in 15 minutes.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Salted butter: 40 g",
+        "Marmite yeast extract: 1.5 tsp",
+        "Grated Parmesan or cheddar cheese: 40 g",
+        "Coarse black pepper and parsley: 1 set"
+      ],
+      "steps_en": [
+        "Boil the spaghetti in salted water until al dente, reserving 4 tbsp of hot pasta water.",
+        "Melt the butter with Marmite and the reserved pasta water in a skillet over low heat until emulsified into a glossy amber sauce.",
+        "Toss the spaghetti vigorously in the umami sauce, top with grated cheese and black pepper, and serve immediately."
+      ]
     },
     {
       "id": "uk_rice_08",
@@ -2681,7 +3799,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Lamb and Mint Pilaf Rice",
+      "desc_en": "A fragrant one-pot British-style pilaf infused with tender lamb and refreshing garden mint.",
+      "ingredients_en": [
+        "Basmati rice, rinsed: 220 g",
+        "Lamb, finely diced: 300 g",
+        "Chopped onion, garlic, and cumin seeds: 1 set",
+        "Beef or lamb stock: 420 ml",
+        "Green peas, fresh mint, and toasted almonds: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion, garlic, cumin seeds, and diced lamb in a pot until browned and aromatic.",
+        "Stir in the basmati rice to coat in the flavorful oil, pour in the stock, bring to a boil, then cover and cook on low heat for 18 minutes until fluffy.",
+        "Fluff the rice with blanched peas and chopped fresh mint, scatter toasted almonds on top, and serve hot."
+      ]
     },
     {
       "id": "uk_rice_09",
@@ -2714,7 +3846,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roast Chicken and Herb Barley Rice Risotto",
+      "desc_en": "Transforms leftover Sunday roast chicken into a comforting, deeply savory herbed risotto.",
+      "ingredients_en": [
+        "Arborio rice and pearl barley blend: 220 g",
+        "Shredded roast chicken: 220 g",
+        "Hot chicken stock: 800 ml",
+        "Chopped onion, thyme, and rosemary: 1 set",
+        "Butter, Parmesan cheese, and green peas: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion, thyme, and rosemary in butter until fragrant, then toast the rice and pearl barley for 2 minutes.",
+        "Ladle in the hot chicken stock gradually, stirring often for about 25 minutes until the grains are tender, chewy, and creamy.",
+        "Fold in the shredded roast chicken, peas, butter, and Parmesan until silky smooth, then serve hot."
+      ]
     },
     {
       "id": "uk_rice_10",
@@ -2747,7 +3893,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chicken and Mushroom Creamy Pasta Bake",
+      "desc_en": "A comforting British pasta bake rich with earthy mushrooms, fragrant thyme, and sharp cheddar.",
+      "ingredients_en": [
+        "Rigatoni or penne pasta, parboiled: 240 g",
+        "Chicken breast, diced: 260 g",
+        "Sliced button mushrooms and fresh thyme: 180 g",
+        "Chicken stock, heavy cream, and English mustard: 320 ml",
+        "Grated English cheddar cheese: 120 g"
+      ],
+      "steps_en": [
+        "Saute the chicken and mushrooms with butter and thyme until golden, then add chicken stock, heavy cream, and mustard and simmer until slightly thickened.",
+        "Fold the parboiled pasta and half the cheddar into the creamy chicken-mushroom sauce and pour into a baking dish.",
+        "Sprinkle the remaining cheddar over the top and bake at 195°C for 18 minutes until golden and bubbling."
+      ]
     },
     {
       "id": "uk_rice_11",
@@ -2780,7 +3940,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Braised Beef and Ale over Egg Noodles",
+      "desc_en": "Deep, rich British pub-style braised beef gravy spooned generously over buttery egg noodles.",
+      "ingredients_en": [
+        "Beef chuck, diced: 450 g",
+        "Cooked egg noodles, tossed in butter: 260 g",
+        "Rich beef stock with non-alcoholic malt ale: 500 ml",
+        "Carrots, onion, and mushrooms, chopped: 200 g",
+        "Thyme, Worcestershire sauce, and chopped parsley: 1 set"
+      ],
+      "steps_en": [
+        "Sear the beef in a pot until browned, then add and saute the onion, carrots, and mushrooms.",
+        "Pour in the beef stock, malt ale, Worcestershire sauce, and thyme; braise gently over low heat for 55 minutes until the beef is tender and the gravy is dark and glossy.",
+        "Spoon the braised beef and rich ale gravy generously over hot buttered egg noodles, garnish with parsley, and serve."
+      ]
     },
     {
       "id": "uk_rice_12",
@@ -2813,7 +3987,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Coronation Chicken Rice Bowl",
+      "desc_en": "A modern British rice bowl that is easy to enjoy, lightly spiced and finished with sweet apricot and crunchy almonds.",
+      "ingredients_en": [
+        "Cooked basmati rice: 280 g",
+        "Cooked chicken breast, diced: 220 g",
+        "Plain yogurt and mayonnaise: 4 tbsp",
+        "Mild English curry powder and apricot jam: 1 tsp + 1.5 tbsp",
+        "Golden raisins, toasted sliced almonds, and cucumber: 1 set"
+      ],
+      "steps_en": [
+        "Whisk together the yogurt, mayonnaise, curry powder, and apricot jam until smooth, then toss in the cooked chicken and golden raisins.",
+        "Spoon warm basmati rice into bowls and arrange the coronation chicken and sliced cucumber alongside.",
+        "Garnish with toasted sliced almonds and fresh coriander before serving."
+      ]
     },
     {
       "id": "uk_snack_01",
@@ -2845,7 +4033,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Scotch Eggs",
+      "desc_en": "A legendary British picnic and pub snack with a crunchy golden crust, savory sausage layer, and runny yolk center.",
+      "ingredients_en": [
+        "Soft-boiled eggs (6-minute), peeled: 4 pieces",
+        "Seasoned British pork sausage meat with sage: 320 g",
+        "All-purpose flour, beaten egg, and panko breadcrumbs: 1 set",
+        "English mustard for dipping: 2 tbsp"
+      ],
+      "steps_en": [
+        "Divide the seasoned pork sausage meat into 4 portions, flatten each, and wrap evenly around the peeled soft-boiled eggs.",
+        "Dust each wrapped egg in flour, dip in beaten egg, and coat thoroughly with panko breadcrumbs.",
+        "Deep-fry at 170°C for 7 to 8 minutes until crisp and golden brown and the sausage is cooked through; halve to reveal the runny yolks and serve with mustard."
+      ]
     },
     {
       "id": "uk_snack_02",
@@ -2878,7 +4079,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional Cornish Pasty",
+      "desc_en": "Cornwall's iconic handheld meat-and-vegetable pasty sealed with a thick crimped crust.",
+      "ingredients_en": [
+        "Shortcrust pastry, rolled into rounds: 4 pieces",
+        "Beef, finely diced: 250 g",
+        "Potatoes, swede (rutabaga), and onion, finely diced: 250 g",
+        "Butter, salt, and coarsely ground black pepper: 1 set",
+        "Beaten egg for brushing: 1 piece"
+      ],
+      "steps_en": [
+        "Toss the diced beef, potatoes, swede, and onion together with salt and coarse black pepper.",
+        "Spoon the filling onto one half of each pastry round, dot with butter, fold over, crimp the edge tightly, and brush with beaten egg.",
+        "Bake at 190°C for 40 to 45 minutes until the pastry is golden and flaky and the filling is tender and juicy."
+      ]
     },
     {
       "id": "uk_snack_03",
@@ -2910,7 +4125,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic British Pork Sausage Rolls",
+      "desc_en": "Britain's top bakery favorite—easy to make and irresistible served warm out of the oven.",
+      "ingredients_en": [
+        "Ready-rolled puff pastry sheet: 1 piece",
+        "Seasoned British pork sausage meat: 350 g",
+        "Chopped sage and fine breadcrumbs: 2 tbsp",
+        "Beaten egg yolk for glazing and sesame seeds (optional): 1 piece"
+      ],
+      "steps_en": [
+        "Cut the puff pastry sheet in half lengthwise and shape the seasoned sausage meat into a neat log down the center of each strip.",
+        "Roll the pastry tightly around the meat, crimp the seam with a fork, cut into bite-sized rolls, score the tops diagonally, and brush with egg yolk.",
+        "Bake at 200°C for 22 to 25 minutes until puffed, flaky, and golden brown; serve warm with ketchup or mustard."
+      ]
     },
     {
       "id": "uk_snack_04",
@@ -2942,7 +4170,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Mini Yorkshire Puddings with Roast Beef and Horseradish",
+      "desc_en": "Classic British party canapes capturing all the flavors of a traditional Sunday Roast in a single bite.",
+      "ingredients_en": [
+        "Mini Yorkshire puddings: 8 pieces",
+        "Roast beef, thinly sliced: 160 g",
+        "Creamed horseradish sauce: 3 tbsp",
+        "Chopped chives and watercress leaves for garnish: 1 set"
+      ],
+      "steps_en": [
+        "Warm the mini Yorkshire puddings in a 190°C oven for about 4 minutes until crisp.",
+        "Fold a slice of tender roast beef neatly into the center of each pudding.",
+        "Top with a dollop of creamed horseradish, garnish with chives and watercress, and serve immediately as canapes."
+      ]
     },
     {
       "id": "uk_snack_05",
@@ -2974,7 +4215,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Whitebait with Lemon and Tartare Dip",
+      "desc_en": "A quintessential British seaside pub snack—whole tiny fish fried crisp and wonderfully moreish.",
+      "ingredients_en": [
+        "Whitebait: 250 g",
+        "All-purpose flour seasoned with salt, pepper, and paprika: 60 g",
+        "Vegetable oil for deep-frying: 300 ml",
+        "Tartare sauce, lemon wedges, and fresh parsley: 1 set"
+      ],
+      "steps_en": [
+        "Pat the whitebait dry, toss in the seasoned flour, and shake off any excess.",
+        "Deep-fry in hot oil at 190°C for 2 to 3 minutes until light, crisp, and golden all over.",
+        "Drain on paper towels, sprinkle with sea salt and parsley, and serve hot with lemon wedges and tartare sauce."
+      ]
     },
     {
       "id": "uk_snack_06",
@@ -3006,7 +4260,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Welsh Glamorgan Cheese and Leek Sausages",
+      "desc_en": "A traditional Welsh vegetarian delicacy that delivers crispy, cheesy satisfaction without any meat.",
+      "ingredients_en": [
+        "Grated cheddar or Caerphilly cheese: 150 g",
+        "Finely sliced leeks, sauteed in butter: 100 g",
+        "Fresh breadcrumbs and panko breadcrumbs for coating: 150 g",
+        "Egg, English mustard, and thyme: 1 set"
+      ],
+      "steps_en": [
+        "Mix the grated cheese, buttered leeks, fresh breadcrumbs, mustard, thyme, and egg yolk together, then shape into sausage logs.",
+        "Dip in egg white, coat evenly in panko breadcrumbs, and chill for 10 minutes to firm up.",
+        "Pan-fry over medium heat until golden and crisp outside with melted cheese within; serve hot with tomato chutney."
+      ]
     },
     {
       "id": "uk_snack_07",
@@ -3038,7 +4305,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional Melton Mowbray Pork Pie",
+      "desc_en": "An iconic British raised-crust pork pie traditionally enjoyed cold with Branston pickle and mustard.",
+      "ingredients_en": [
+        "Finely diced pork and chopped bacon: 350 g",
+        "Hot water crust pastry: 280 g",
+        "Sage, white pepper, and ground nutmeg: 1 set",
+        "Gelatin pork stock for topping and pickle chutney: 1 set"
+      ],
+      "steps_en": [
+        "Line small cylindrical tins with pastry, pack tightly with the herb-seasoned pork filling, top with a pastry lid, and cut a steam hole in the center.",
+        "Brush with beaten egg and bake at 190°C for 45 to 50 minutes until the crust is crisp and deep golden brown.",
+        "Cool slightly, pour warm gelatin stock into the steam hole, chill until set, and slice to serve cold with mustard and pickle."
+      ]
     },
     {
       "id": "uk_snack_08",
@@ -3070,7 +4350,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "British Cheddar Cheese Straws",
+      "desc_en": "Flaky, savory cheese twists ready in 25 minutes with sharp baked cheddar and a hint of mustard.",
+      "ingredients_en": [
+        "Ready-rolled puff pastry sheet: 1 piece",
+        "Finely grated English cheddar cheese: 100 g",
+        "Mustard powder and paprika: 1/2 tsp each",
+        "Beaten egg for glazing: 1 piece"
+      ],
+      "steps_en": [
+        "Brush the puff pastry lightly with beaten egg, scatter evenly with grated cheddar, mustard powder, and paprika, and press gently to adhere.",
+        "Slice into 1.5 cm wide strips, twist the ends in opposite directions into spirals, and arrange on a baking tray.",
+        "Bake at 200°C for 12 to 14 minutes until puffed and crisp golden brown, cool on a wire rack until crisp, and serve."
+      ]
     },
     {
       "id": "uk_snack_09",
@@ -3103,7 +4396,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Cauliflower Cheese Gratin",
+      "desc_en": "Britain's favorite Sunday Roast side dish—equally delicious enjoyed on its own straight from the baking dish.",
+      "ingredients_en": [
+        "Cauliflower florets, parboiled: 500 g",
+        "Grated English cheddar cheese: 150 g",
+        "Whole milk, butter, and flour for white sauce: 350 ml",
+        "English mustard and ground nutmeg: 1 tsp",
+        "Crispy breadcrumbs for topping: 2 tbsp"
+      ],
+      "steps_en": [
+        "Blanch the cauliflower florets for 4 minutes so they stay slightly crisp, drain well, and arrange in a baking dish.",
+        "Make a smooth white sauce from butter, flour, and milk, stir in the mustard and three-quarters of the cheddar until melted, and pour over the cauliflower.",
+        "Scatter the remaining cheddar and breadcrumbs on top and bake at 200°C for 18 to 20 minutes until golden and bubbling."
+      ]
     },
     {
       "id": "uk_snack_10",
@@ -3135,7 +4442,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Rosemary Roast Potatoes",
+      "desc_en": "Roughing up the parboiled potatoes by shaking them in the pan is the authentic British pub secret for ultra-crispy edges.",
+      "ingredients_en": [
+        "Floury potatoes, peeled and cut into large chunks: 600 g",
+        "Vegetable or olive oil: 3 tbsp",
+        "Unpeeled garlic cloves, lightly crushed: 4 cloves",
+        "Fresh rosemary sprigs and flaky sea salt: 1 set"
+      ],
+      "steps_en": [
+        "Boil the potatoes in salted water for 8 minutes, drain thoroughly, cover the pot, and shake firmly to fluff up the edges.",
+        "Heat oil in a roasting pan at 210°C until smoking hot, then toss in the potatoes along with the garlic cloves and rosemary.",
+        "Roast for 35 to 40 minutes, turning halfway, until deeply crisp and golden outside and fluffy inside; sprinkle with sea salt and serve hot."
+      ]
     },
     {
       "id": "uk_snack_11",
@@ -3167,7 +4487,20 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pickled Onion and Mature Cheddar Pub Skewers",
+      "desc_en": "A nostalgic, retro British pub and party nibble ready in just 10 minutes.",
+      "ingredients_en": [
+        "Mature English cheddar cheese, cubed: 180 g",
+        "Pickled silverskin onions: 12 pieces",
+        "Cornichons or fresh grapes: 12 pieces",
+        "Cocktail skewers: 12 pieces"
+      ],
+      "steps_en": [
+        "Cut the mature cheddar into bite-sized cubes and drain the pickled onions and cornichons.",
+        "Thread a pickled onion, cheddar cube, and cornichon onto each cocktail skewer.",
+        "Arrange on a wooden serving board and serve immediately as a classic pub nibble."
+      ]
     },
     {
       "id": "uk_snack_12",
@@ -3200,7 +4533,21 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       ],
       "country": "UK",
       "packId": "uk_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Traditional British Mushy Peas with Mint",
+      "desc_en": "A bright, buttery, mint-scented green accompaniment essential alongside fish and chips or savory pies.",
+      "ingredients_en": [
+        "Fresh or frozen sweet green peas: 350 g",
+        "Butter: 25 g",
+        "Finely chopped fresh mint: 2 tbsp",
+        "Splash of vegetable stock and lemon juice: 2 tbsp",
+        "Sea salt and ground black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the peas in salted water for about 4 minutes until tender, then drain.",
+        "Return to the pot with butter, chopped mint, lemon juice, and a splash of stock, and crush coarsely with a fork or masher so some texture remains.",
+        "Season with salt and black pepper and spoon warm into bowls to serve with fish and chips or meat pies."
+      ]
     },
     {
       "title": "ฟิชแอนด์ชิปส์ซอสทาร์ทาร์",
@@ -3233,6 +4580,23 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/uk/uk_mig_01.webp"
+      ],
+      "name_en": "Crispy Fish and Chips with Tartare Sauce",
+      "desc_en": "Using ice-cold water or sparkling soda in the batter creates an airy, shatteringly crisp crust that stays light and grease-free.",
+      "ingredients_en": [
+        "Dory or sea bass fillets: 250 g",
+        "Crispy frying batter flour: 1 cup",
+        "Ice-cold water or soda water: 0.75 cup",
+        "Frozen French fries for frying: 200 g",
+        "Mayonnaise mixed with chopped pickles (tartare sauce): 3 tbsp",
+        "Lemon wedges: 2 pieces",
+        "Salt and pepper: to taste"
+      ],
+      "steps_en": [
+        "Deep-fry the potato chips in hot oil until golden and crisp, drain on a wire rack, and season lightly with salt.",
+        "Whisk the batter flour with ice-cold water until smooth; season the fish fillets with salt and pepper and dip into the batter.",
+        "Deep-fry the battered fish over medium-high heat until puffed, crisp golden brown, and cooked through.",
+        "Plate the crispy fish alongside the hot chips and serve with tartare sauce and fresh lemon wedges."
       ]
     },
     {
@@ -3266,6 +4630,23 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/uk/uk_mig_02.webp"
+      ],
+      "name_en": "Classic Shepherd's Pie with Mashed Potato Crust",
+      "desc_en": "Scoring ridges across the mashed potato topping with a fork creates extra surface area for a beautifully browned, crispy crust.",
+      "ingredients_en": [
+        "Ground beef or lamb: 300 g",
+        "Potatoes, peeled and boiled until tender: 400 g",
+        "Diced carrots and green peas: 100 g",
+        "Tomato paste: 2 tbsp",
+        "Beef stock: 150 ml",
+        "Unsalted butter and whole milk: 30 g + 30 ml",
+        "Grated Parmesan cheese: 30 g"
+      ],
+      "steps_en": [
+        "Mash the hot boiled potatoes with unsalted butter, milk, and a pinch of salt until smooth and creamy.",
+        "Brown the ground meat with carrots, peas, tomato paste, and beef stock, simmering until thickened, then spoon into a baking dish.",
+        "Spread the mashed potatoes evenly over the meat layer and drag a fork across the surface to create decorative ridges.",
+        "Sprinkle with grated Parmesan and bake at 200°C for 20 minutes until the peaks are crisp and golden brown."
       ]
     },
     {
@@ -3299,6 +4680,23 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/uk/uk_mig_03.webp"
+      ],
+      "name_en": "Buttery British Scones with Strawberry Jam",
+      "desc_en": "Keeping both the butter and milk icy cold while mixing helps the scones rise into tender, flaky layers in the oven.",
+      "ingredients_en": [
+        "All-purpose flour: 220 g",
+        "Chilled unsalted butter, cubed: 60 g",
+        "Granulated sugar: 30 g",
+        "Baking powder: 2 tsp",
+        "Cold whole milk: 100 ml",
+        "Beaten egg for glazing: 1 piece",
+        "Strawberry jam: 4 tbsp"
+      ],
+      "steps_en": [
+        "Sift together the flour, baking powder, and sugar, then rub in the chilled butter with your fingertips until the mixture resembles coarse breadcrumbs.",
+        "Pour in the cold milk and gently bring the dough together without overworking it.",
+        "Pat the dough out to about 2 cm thick, cut out rounds with a cutter, arrange on a baking sheet, and brush the tops with beaten egg.",
+        "Bake at 200°C for 15 minutes until tall and golden brown, then serve warm with strawberry jam."
       ]
     },
     {
@@ -3334,6 +4732,25 @@ window.KITCHSYNC_PACK_DATA.uk_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/uk/uk_mig_04.webp"
+      ],
+      "name_en": "Oven-Baked Fish and Chips",
+      "desc_en": "A single-serving lightened-up recipe with approximate calories; adjust baking time based on fish thickness and chip size.",
+      "ingredients_en": [
+        "Thick cod or white fish fillet: 160 g",
+        "Potatoes, cut into chips: 180 g",
+        "Breadcrumbs: 25 g",
+        "Beaten egg: 1/2 piece",
+        "Olive oil: 2 tsp",
+        "Salt: 1/8 tsp",
+        "Ground black pepper: 1/8 tsp",
+        "Lemon wedge: 1 piece"
+      ],
+      "steps_en": [
+        "Preheat the oven to 220°C, toss the potato chips with half the olive oil and a pinch of salt, and spread on a baking tray.",
+        "Bake the chips for 15 minutes, then flip them over.",
+        "Pat the fish dry, season with black pepper, dip into beaten egg, and coat evenly with breadcrumbs.",
+        "Place the breaded fish beside the chips on the tray, drizzle with the remaining olive oil, and bake for another 12 to 16 minutes.",
+        "Check that the fish reaches 63°C or flakes easily and the chips are tender inside, then serve hot with a lemon wedge."
       ]
     }
   ]

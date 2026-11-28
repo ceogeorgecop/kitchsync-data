@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Spanish (58 recipes)
-// Place this file at assets/data/packs/es_popular.js
+// KitchSync Master Pack: es_popular (58 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.es_popular = {
   "pack_id": "spanish_popular_48",
@@ -92,7 +91,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Garnish with chopped fresh parsley and serve sizzling hot with crusty bread."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Gambas al Ajillo (Spanish Garlic Shrimp)",
+      "desc_en": "Classic Gambas al Ajillo (Spanish Garlic Shrimp) — Heat extra virgin olive oil over medium-low heat and gently sauté sliced garlic and dried chili until fragrant.",
+      "ingredients_en": [
+        "Shrimp: 250 g",
+        "Garlic: 25 g",
+        "Extra Virgin Olive Oil: 60 ml",
+        "Dried Chili: 5 g",
+        "Fresh Flat-Leaf Parsley: 10 g"
+      ]
     },
     {
       "recipe_id": "es_pop_002",
@@ -164,7 +172,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Spread grated tomato over the toast, drizzle generously with olive oil, and sprinkle with sea salt."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pan con Tomate (Spanish Tomato Bread)",
+      "desc_en": "Classic Pan con Tomate (Spanish Tomato Bread) — Toast sliced crusty bread until crisp, then rub the warm surface lightly with a cut garlic clove.",
+      "ingredients_en": [
+        "Crusty Bread / Baguette: 150 g",
+        "Ripe Tomato: 200 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_003",
@@ -238,7 +254,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Cook in a small skillet over low heat until set around the edges, flip using a plate, and cook until golden."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Potato Omelette (Tortilla Española)",
+      "desc_en": "Classic Spanish Potato Omelette (Tortilla Española) — Thinly slice potatoes and onions; gently confit in olive oil over medium-low heat for 15 minutes until tender.",
+      "ingredients_en": [
+        "Potato: 350 g",
+        "Egg: 5 pcs",
+        "Onion: 120 g",
+        "Extra Virgin Olive Oil: 80 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_004",
@@ -319,7 +343,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Deglaze with dry white wine, reduce, and toss with fresh chopped parsley and sea salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Champiñones al Ajillo (Garlic Mushrooms)",
+      "desc_en": "Classic Champiñones al Ajillo (Garlic Mushrooms) — Clean mushrooms and halve or quarter them.",
+      "ingredients_en": [
+        "Mushroom: 300 g",
+        "Garlic: 20 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Fresh Flat-Leaf Parsley: 15 g",
+        "Dry White Wine: 45 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_005",
@@ -392,7 +425,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Drape Jamón Serrano slices on top and break the yolks just before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Huevos Rotos (Broken Eggs with Fries & Ham)",
+      "desc_en": "Classic Huevos Rotos (Broken Eggs with Fries & Ham) — Fry sliced potatoes in olive oil until tender inside and crisp outside; transfer to a platter.",
+      "ingredients_en": [
+        "Potato: 300 g",
+        "Egg: 2 pcs",
+        "Jamón Serrano Slices: 60 g",
+        "Extra Virgin Olive Oil: 45 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_006",
@@ -450,7 +491,13 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Transfer to a plate and sprinkle generously with flaky sea salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Blistered Padrón Peppers with Sea Salt",
+      "desc_en": "Classic Blistered Padrón Peppers with Sea Salt — Wash whole Padrón peppers and pat completely dry.",
+      "ingredients_en": [
+        "Padrón Peppers: 200 g",
+        "Extra Virgin Olive Oil: 20 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_007",
@@ -539,7 +586,17 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Simmer 15 minutes, nestle shrimp and mussels on top, and cook 5-7 minutes until a crispy socarrat forms."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Spanish Seafood Paella",
+      "desc_en": "Classic Classic Spanish Seafood Paella — Sauté squid rings, garlic, grated tomato, and smoked paprika in a wide paella pan.",
+      "ingredients_en": [
+        "Spanish Bomba Paella Rice: 250 g",
+        "Shrimp: 150 g",
+        "Mussels: 150 g",
+        "Squid: 100 g",
+        "Spanish Saffron Threads: 1 g",
+        "Tomato Passata: 100 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_008",
@@ -620,7 +677,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Pour in saffron chicken stock and simmer undisturbed for 20 minutes until tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken and Chorizo Paella (Paella Mixta)",
+      "desc_en": "Classic Chicken and Chorizo Paella (Paella Mixta) — Brown chicken pieces and sliced Spanish chorizo in a paella pan.",
+      "ingredients_en": [
+        "Spanish Bomba Paella Rice: 250 g",
+        "Chicken Thigh / Breast: 200 g",
+        "Spanish Chorizo Sausage: 100 g",
+        "Spanish Saffron Threads: 1 g",
+        "Bell Pepper: 80 g"
+      ]
     },
     {
       "recipe_id": "es_pop_009",
@@ -701,7 +767,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Simmer for 18 minutes, topping with shrimp for the final 5 minutes; serve with garlic aioli."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Squid Ink Rice (Arroz Negro)",
+      "desc_en": "Classic Spanish Squid Ink Rice (Arroz Negro) — Sauté squid, onion, garlic, and grated tomato in olive oil until fragrant.",
+      "ingredients_en": [
+        "Spanish Bomba Paella Rice: 250 g",
+        "Black Squid Ink: 15 g",
+        "Squid: 150 g",
+        "Shrimp: 120 g",
+        "Garlic Aioli / Mayonnaise: 30 g"
+      ]
     },
     {
       "recipe_id": "es_pop_010",
@@ -781,7 +856,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Return noodles, pour in saffron seafood broth, top with shrimp, and simmer 10-12 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Seafood Fideuà",
+      "desc_en": "Classic Spanish Seafood Fideuà — Toast short fideuà noodles in olive oil until golden brown, then set aside.",
+      "ingredients_en": [
+        "Short Thin Fideuà Pasta: 250 g",
+        "Shrimp: 150 g",
+        "Squid: 120 g",
+        "Spanish Saffron Threads: 1 g",
+        "Tomato Sauce: 80 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_011",
@@ -862,7 +946,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Top with halved tomatoes and whole garlic head; bake at 200°C (400°F) for 25 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Baked Rice with Pork and Chickpeas",
+      "desc_en": "Classic Spanish Baked Rice with Pork and Chickpeas — Brown pork ribs and chorizo slices in an ovenproof casserole dish.",
+      "ingredients_en": [
+        "Spanish Bomba Paella Rice: 250 g",
+        "Pork Ribs: 250 g",
+        "Chickpeas: 120 g",
+        "Spanish Chorizo: 80 g",
+        "Tomato: 100 g"
+      ]
     },
     {
       "recipe_id": "es_pop_012",
@@ -945,7 +1038,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Spanish Soupy Shrimp Rice (Arroz Caldoso)",
+      "desc_en": "Classic Spanish Soupy Shrimp Rice (Arroz Caldoso) — Sauté bell pepper, onion, garlic, and tomato in olive oil until softened.",
+      "ingredients_en": [
+        "Spanish Bomba Paella Rice: 200 g",
+        "Shrimp: 200 g",
+        "Spanish Saffron Threads: 1 g",
+        "Bell Pepper: 60 g",
+        "Fresh Flat-Leaf Parsley: 10 g"
+      ]
     },
     {
       "recipe_id": "es_pop_013",
@@ -1027,7 +1129,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Return garlic to the pan with dry white wine, thyme, and bay leaf; simmer 15 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pollo al Ajillo (Spanish Garlic Chicken)",
+      "desc_en": "Classic Pollo al Ajillo (Spanish Garlic Chicken) — Fry smashed whole garlic cloves in olive oil until golden, then set aside.",
+      "ingredients_en": [
+        "Chicken Pieces: 400 g",
+        "Garlic: 35 g",
+        "Dry White Wine: 120 ml",
+        "Fresh Thyme: 5 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_014",
@@ -1099,7 +1210,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Reduce into a glossy pan sauce coating the pork; serve with fries."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pork Tenderloin in Garlic Whiskey Sauce",
+      "desc_en": "Classic Pork Tenderloin in Garlic Whiskey Sauce — Slice pork tenderloin into thick medallions and sear in olive oil for 3 minutes per side.",
+      "ingredients_en": [
+        "Pork Tenderloin Medallions: 350 g",
+        "Garlic: 25 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "es_pop_015",
@@ -1173,7 +1292,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Drizzle generously with olive oil and dust with Spanish smoked paprika and flaky sea salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Galician-Style Octopus with Paprika (Pulpo a la Gallega)",
+      "desc_en": "Classic Galician-Style Octopus with Paprika (Pulpo a la Gallega) — Boil sliced potatoes until tender and arrange on a wooden platter.",
+      "ingredients_en": [
+        "Cooked Octopus Tentacles: 300 g",
+        "Potato: 200 g",
+        "Spanish Smoked Paprika: 8 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_016",
@@ -1254,7 +1381,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Deglaze with white wine, add tomato passata, return chicken, and simmer 25 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Chilindrón (Braised Chicken with Peppers)",
+      "desc_en": "Classic Chicken Chilindrón (Braised Chicken with Peppers) — Sear seasoned chicken pieces in olive oil until golden brown, then set aside.",
+      "ingredients_en": [
+        "Chicken Pieces: 400 g",
+        "Red & Yellow Bell Peppers: 150 g",
+        "Jamón Serrano: 50 g",
+        "Tomato Passata: 200 ml",
+        "Dry White Wine: 80 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_017",
@@ -1335,7 +1471,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Nestle fish fillets and asparagus into the pan, cover, and poach gently for 8-10 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Hake / Sea Bass in Salsa Verde",
+      "desc_en": "Classic Spanish Hake / Sea Bass in Salsa Verde — Sauté minced garlic in olive oil, whisk in a pinch of flour, dry white wine, and fish stock.",
+      "ingredients_en": [
+        "Sea Bass / Hake Fillets: 350 g",
+        "Fresh Flat-Leaf Parsley: 30 g",
+        "Garlic: 15 g",
+        "Dry White Wine: 100 ml",
+        "Green Asparagus: 100 g"
+      ]
     },
     {
       "recipe_id": "es_pop_018",
@@ -1401,7 +1546,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Pour in Spanish red wine and simmer 5-7 minutes until reduced to a rich glaze."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chorizo al Vino (Chorizo Braised in Red Wine)",
+      "desc_en": "Classic Chorizo al Vino (Chorizo Braised in Red Wine) — Slice Spanish chorizo sausage into thick diagonal rounds.",
+      "ingredients_en": [
+        "Spanish Chorizo Sausage: 250 g",
+        "Spanish Red Wine: 150 ml",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "es_pop_019",
@@ -1482,7 +1634,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Castilian Garlic Soup (Sopa de Ajo)",
+      "desc_en": "Classic Castilian Garlic Soup (Sopa de Ajo) — Sauté sliced garlic and diced Jamón Serrano in olive oil, then add cubed day-old bread.",
+      "ingredients_en": [
+        "Garlic: 40 g",
+        "Day-Old Crusty Bread: 100 g",
+        "Spanish Smoked Paprika: 10 g",
+        "Egg: 2 pcs",
+        "Jamón Serrano: 40 g"
+      ]
     },
     {
       "recipe_id": "es_pop_020",
@@ -1565,7 +1726,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Spinach and Chickpea Stew (Espinacas con Garbanzos)",
+      "desc_en": "Classic Spinach and Chickpea Stew (Espinacas con Garbanzos) — Fry garlic and bread in olive oil, then blend with cumin, vinegar, and stock to thicken.",
+      "ingredients_en": [
+        "Cooked Chickpeas: 250 g",
+        "Fresh Spinach: 250 g",
+        "Spanish Smoked Paprika: 8 g",
+        "Garlic: 20 g",
+        "Crusty Bread: 40 g"
+      ]
     },
     {
       "recipe_id": "es_pop_021",
@@ -1646,7 +1816,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Slice the chorizo and bacon and ladle into bowls with the rich bean stew."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Asturian White Bean and Chorizo Stew (Fabada)",
+      "desc_en": "Classic Asturian White Bean and Chorizo Stew (Fabada) — Simmer large white beans with whole Spanish chorizo, smoked bacon, and garlic in water.",
+      "ingredients_en": [
+        "Large White Beans: 300 g",
+        "Spanish Chorizo: 150 g",
+        "Smoked Pork Belly / Bacon: 100 g",
+        "Spanish Saffron Threads: 1 g",
+        "Smoked Paprika: 5 g"
+      ]
     },
     {
       "recipe_id": "es_pop_022",
@@ -1727,7 +1906,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Simmer gently for 30-35 minutes until lentils and potatoes are tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Lentil and Chorizo Stew",
+      "desc_en": "Classic Spanish Lentil and Chorizo Stew — Sauté sliced Spanish chorizo, onion, carrot, and garlic in a soup pot.",
+      "ingredients_en": [
+        "Lentils: 250 g",
+        "Spanish Chorizo: 120 g",
+        "Carrot: 80 g",
+        "Potato: 100 g",
+        "Spanish Smoked Paprika: 8 g"
+      ]
     },
     {
       "recipe_id": "es_pop_023",
@@ -1810,7 +1998,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Basque Fish and Potato Stew (Marmitako)",
+      "desc_en": "Classic Basque Fish and Potato Stew (Marmitako) — Sauté onion, bell pepper, garlic, and tomato in olive oil.",
+      "ingredients_en": [
+        "Firm Fish Chunks: 300 g",
+        "Potato: 250 g",
+        "Bell Pepper: 100 g",
+        "Tomato: 100 g",
+        "Smoked Paprika: 5 g"
+      ]
     },
     {
       "recipe_id": "es_pop_024",
@@ -1891,7 +2088,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Add diced potatoes and simmer 20 more minutes until tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Beef and Potato Stew (Carne Guisada)",
+      "desc_en": "Classic Spanish Beef and Potato Stew (Carne Guisada) — Sear cubed beef in olive oil until deeply browned.",
+      "ingredients_en": [
+        "Beef Cubes: 450 g",
+        "Potato: 200 g",
+        "Spanish Red Wine: 150 ml",
+        "Carrot: 80 g",
+        "Smoked Paprika: 5 g"
+      ]
     },
     {
       "recipe_id": "es_pop_025",
@@ -1974,7 +2180,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic Andalusian Gazpacho",
+      "desc_en": "Classic Classic Andalusian Gazpacho — Combine ripe tomatoes, peeled cucumber, red bell pepper, onion, and garlic in a blender.",
+      "ingredients_en": [
+        "Ripe Tomatoes: 500 g",
+        "Cucumber: 150 g",
+        "Red Bell Pepper: 100 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 45 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_026",
@@ -2059,6 +2274,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Cordoban Salmorejo (Creamy Tomato Soup)",
+      "desc_en": "Classic Cordoban Salmorejo (Creamy Tomato Soup) — Blend ripe tomatoes until smooth and strain out skins and seeds.",
+      "ingredients_en": [
+        "Ripe Tomatoes: 500 g",
+        "Crustless White Bread: 100 g",
+        "Extra Virgin Olive Oil: 60 ml",
+        "Garlic: 5 g",
+        "Hard-Boiled Egg: 1 pc"
       ]
     },
     {
@@ -2148,7 +2372,17 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Mound onto a platter and garnish with sliced boiled egg and piquillo peppers."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Potato and Tuna Salad (Ensaladilla Rusa)",
+      "desc_en": "Classic Spanish Potato and Tuna Salad (Ensaladilla Rusa) — Boil potatoes, diced carrots, and eggs until tender, then cool completely.",
+      "ingredients_en": [
+        "Potato: 300 g",
+        "Canned Tuna: 150 g",
+        "Carrot: 80 g",
+        "Hard-Boiled Egg: 2 pcs",
+        "Mayonnaise: 60 g",
+        "Spanish Green Olives: 30 g"
+      ]
     },
     {
       "recipe_id": "es_pop_028",
@@ -2221,7 +2455,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Drizzle generously with extra virgin olive oil and a sprinkle of sea salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Andalusian Orange, Onion & Olive Salad (Remojón)",
+      "desc_en": "Classic Andalusian Orange, Onion & Olive Salad (Remojón) — Peel oranges completely, removing all white pith, and slice into rounds.",
+      "ingredients_en": [
+        "Sweet Navel Oranges: 300 g",
+        "Black Olives: 50 g",
+        "Red Onion: 40 g",
+        "Extra Virgin Olive Oil: 25 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_029",
@@ -2295,7 +2537,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Dress with extra virgin olive oil, minced garlic, and vinegar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Roasted Pepper and Tuna Salad",
+      "desc_en": "Classic Spanish Roasted Pepper and Tuna Salad — Roast whole red bell peppers until blistered, peel, and tear into strips.",
+      "ingredients_en": [
+        "Red Bell Peppers: 250 g",
+        "Canned Tuna: 150 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 25 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_030",
@@ -2376,7 +2626,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Toss well and serve chilled or at room temperature."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Chickpea and Tomato Salad",
+      "desc_en": "Classic Spanish Chickpea and Tomato Salad — Toss cooked chickpeas with diced tomatoes, cucumber, and finely chopped red onion.",
+      "ingredients_en": [
+        "Cooked Chickpeas: 250 g",
+        "Tomato: 150 g",
+        "Cucumber: 80 g",
+        "Fresh Flat-Leaf Parsley: 15 g",
+        "Extra Virgin Olive Oil: 25 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_031",
@@ -2452,7 +2711,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Spanish Scrambled Eggs with Asparagus & Ham",
+      "desc_en": "Classic Spanish Scrambled Eggs with Asparagus & Ham — Cut green asparagus into bite-sized pieces and sauté in olive oil with garlic until tender-crisp.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Green Asparagus: 150 g",
+        "Jamón Serrano: 50 g",
+        "Extra Virgin Olive Oil: 20 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_032",
@@ -2532,7 +2799,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Top with ribbons of Jamón Serrano and freshly cracked black pepper."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Serranito Breakfast Toast (Tostada)",
+      "desc_en": "Classic Spanish Serranito Breakfast Toast (Tostada) — Toast thick slices of crusty bread and drizzle with extra virgin olive oil.",
+      "ingredients_en": [
+        "Crusty Bread Slices: 120 g",
+        "Jamón Serrano Slices: 60 g",
+        "Avocado: 80 g",
+        "Tomato: 80 g",
+        "Extra Virgin Olive Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_033",
@@ -2613,7 +2889,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Bake at 190°C (375°F) for 10-12 minutes until egg whites are set."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Eggs Flamenca (Huevos a la Flamenca)",
+      "desc_en": "Classic Eggs Flamenca (Huevos a la Flamenca) — Sauté bell pepper, onion, garlic, and chorizo, then simmer with tomato sauce for 5 minutes.",
+      "ingredients_en": [
+        "Egg: 2 pcs",
+        "Tomato Sauce: 200 ml",
+        "Spanish Chorizo: 60 g",
+        "Bell Pepper: 60 g",
+        "Green Asparagus: 60 g"
+      ]
     },
     {
       "recipe_id": "es_pop_034",
@@ -2701,7 +2986,17 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Cut a steam vent, brush with egg wash, and bake at 190°C (375°F) for 25-30 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Galician Tuna Empanada Pie (Empanada Gallega)",
+      "desc_en": "Classic Galician Tuna Empanada Pie (Empanada Gallega) — Sauté onion, bell pepper, garlic, tomato, and smoked paprika; fold in drained tuna and cool.",
+      "ingredients_en": [
+        "Pie / Puff Pastry Dough: 2 sheets",
+        "Canned Tuna: 200 g",
+        "Bell Pepper: 100 g",
+        "Onion: 100 g",
+        "Spanish Smoked Paprika: 8 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "es_pop_035",
@@ -2772,7 +3067,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Top with thin triangles of Manchego cheese and chopped walnuts."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Manchego Cheese and Fig Jam Tostada",
+      "desc_en": "Classic Manchego Cheese and Fig Jam Tostada — Toast slices of artisan bread until crisp.",
+      "ingredients_en": [
+        "Artisan Bread Slices: 100 g",
+        "Spanish Manchego Cheese: 80 g",
+        "Sweet Fig Jam: 30 g",
+        "Walnut Halves: 20 g"
+      ]
     },
     {
       "recipe_id": "es_pop_036",
@@ -2843,7 +3146,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Drop spoonfuls into hot oil, fry until puffed and golden, and roll in fine sugar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Sweet Fried Dough Puffs (Buñuelos)",
+      "desc_en": "Classic Spanish Sweet Fried Dough Puffs (Buñuelos) — Boil water, butter, lemon zest, and salt, then stir in flour until a smooth ball forms.",
+      "ingredients_en": [
+        "All-Purpose Flour: 150 g",
+        "Butter: 40 g",
+        "Egg: 3 pcs",
+        "Lemon Zest: 1 pc"
+      ]
     },
     {
       "recipe_id": "es_pop_037",
@@ -2923,7 +3234,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Drizzle crispy potatoes with spicy red bravas sauce and garlic aioli."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Patatas Bravas (Crispy Potatoes in Spicy Sauce)",
+      "desc_en": "Classic Patatas Bravas (Crispy Potatoes in Spicy Sauce) — Cut potatoes into bite-sized cubes and fry in olive oil until golden and crispy.",
+      "ingredients_en": [
+        "Potato: 400 g",
+        "Spicy Bravas Tomato Sauce: 150 ml",
+        "Spanish Smoked Paprika: 8 g",
+        "Garlic Aioli / Mayonnaise: 40 g",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "es_pop_038",
@@ -3010,7 +3330,17 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Coat in beaten egg and breadcrumbs and deep-fry until golden crisp outside and creamy inside."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Ham Croquettes (Croquetas de Jamón)",
+      "desc_en": "Classic Spanish Ham Croquettes (Croquetas de Jamón) — Sauté finely diced Jamón Serrano in butter, stir in flour, and gradually whisk in warm milk until thick.",
+      "ingredients_en": [
+        "Jamón Serrano: 100 g",
+        "Milk: 300 ml",
+        "Butter: 45 g",
+        "All-Purpose Flour: 50 g",
+        "Breadcrumbs: 80 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "es_pop_039",
@@ -3090,7 +3420,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Pour almond sauce over meatballs with broth and simmer 15 minutes until thickened."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Meatballs in Almond Saffron Sauce",
+      "desc_en": "Classic Spanish Meatballs in Almond Saffron Sauce — Combine ground meat, garlic, parsley, breadcrumbs, and egg; form meatballs and brown.",
+      "ingredients_en": [
+        "Ground Meat: 300 g",
+        "Blanched Almonds: 40 g",
+        "Spanish Saffron Threads: 1 g",
+        "Dry White Wine: 100 ml",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "es_pop_040",
@@ -3162,7 +3501,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Deep-fry in hot oil for 1.5-2 minutes until crisp and golden; serve with lemon wedges."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Spanish Fried Calamari",
+      "desc_en": "Classic Crispy Spanish Fried Calamari — Slice cleaned squid into rings and pat completely dry.",
+      "ingredients_en": [
+        "Squid Rings: 300 g",
+        "All-Purpose Flour: 100 g",
+        "Egg: 1 pc",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "es_pop_041",
@@ -3234,7 +3581,15 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Stuff the creamy tuna filling generously into each piquillo pepper and plate."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tuna-Stuffed Piquillo Peppers",
+      "desc_en": "Classic Tuna-Stuffed Piquillo Peppers — Mix drained canned tuna with softened cream cheese, chopped green olives, and chives.",
+      "ingredients_en": [
+        "Roasted Red Piquillo Peppers: 6 pcs",
+        "Canned Tuna: 150 g",
+        "Cream Cheese / Mayonnaise: 60 g",
+        "Spanish Green Olives: 25 g"
+      ]
     },
     {
       "recipe_id": "es_pop_042",
@@ -3316,7 +3671,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Marinate for at least 30 minutes before serving as tapas."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Marinated Olives with Herbs & Citrus",
+      "desc_en": "Classic Spanish Marinated Olives with Herbs & Citrus — Toss Spanish green olives with smashed garlic cloves, fresh thyme, rosemary, and orange peel strips.",
+      "ingredients_en": [
+        "Spanish Green Olives: 250 g",
+        "Garlic: 15 g",
+        "Fresh Thyme & Rosemary: 10 g",
+        "Orange Peel: 1 pc",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_043",
@@ -3379,7 +3743,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Dust warm churros with sugar and serve with the hot chocolate cup."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Churros con Chocolate",
+      "desc_en": "Classic Spanish Churros con Chocolate — Boil water and salt, mix into flour into a smooth dough, pipe into hot oil, and fry until crisp.",
+      "ingredients_en": [
+        "All-Purpose Flour: 150 g",
+        "Dark Chocolate: 150 g",
+        "Whole Milk: 200 ml"
+      ]
     },
     {
       "recipe_id": "es_pop_044",
@@ -3443,7 +3814,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Bake at 210°C (410°F) for 30-35 minutes until deeply caramelized on top with a jiggly center."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Basque Burnt Cheesecake",
+      "desc_en": "Classic Basque Burnt Cheesecake — Beat softened cream cheese and sugar until smooth, then mix in eggs, heavy cream, and vanilla.",
+      "ingredients_en": [
+        "Cream Cheese: 450 g",
+        "Heavy Cream: 250 ml",
+        "Egg: 3 pcs"
+      ]
     },
     {
       "recipe_id": "es_pop_045",
@@ -3520,6 +3898,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Crema Catalana (Spanish Citrus Custard)",
+      "desc_en": "Classic Crema Catalana (Spanish Citrus Custard) — Infuse warm milk with lemon peel, orange peel, and cinnamon stick, then strain.",
+      "ingredients_en": [
+        "Whole Milk: 400 ml",
+        "Egg Yolks: 4 pcs",
+        "Lemon Peel: 1 pc",
+        "Cinnamon Stick: 5 g"
       ]
     },
     {
@@ -3594,6 +3980,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Spanish Cinnamon Milk Toast (Torrijas)",
+      "desc_en": "Classic Spanish Cinnamon Milk Toast (Torrijas) — Simmer milk with sugar, lemon peel, and cinnamon; soak thick bread slices until saturated.",
+      "ingredients_en": [
+        "Thick Sliced Bread: 200 g",
+        "Whole Milk: 300 ml",
+        "Egg: 2 pcs",
+        "Ground Cinnamon: 8 g"
       ]
     },
     {
@@ -3670,6 +4064,14 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Tarta de Santiago (Spanish Almond Cake)",
+      "desc_en": "Classic Tarta de Santiago (Spanish Almond Cake) — Grind blanched almonds into a fine meal.",
+      "ingredients_en": [
+        "Blanched Almonds: 200 g",
+        "Egg: 4 pcs",
+        "Lemon Zest: 1 pc",
+        "Ground Cinnamon: 5 g"
       ]
     },
     {
@@ -3751,7 +4153,16 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "Top with chilled sparkling water and ice cubes just before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spanish Non-Alcoholic Fruit Sangria",
+      "desc_en": "Classic Spanish Non-Alcoholic Fruit Sangria — Slice orange, lemon, and apple into bite-sized pieces and place in a glass pitcher.",
+      "ingredients_en": [
+        "Dark Red Grape Juice: 400 ml",
+        "Orange: 1 pc",
+        "Apple: 100 g",
+        "Lemon: 1 pc",
+        "Cinnamon Stick: 5 g"
+      ]
     },
     {
       "title": "มันฝรั่งทอดราดซอสพริกกระเทียมสไตล์สเปน",
@@ -3784,6 +4195,23 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/es/es_mig_01.webp"
+      ],
+      "name_en": "Patatas Bravas (Spanish Fried Potatoes with Spicy Garlic Sauce)",
+      "desc_en": "Parboiling the potatoes before frying keeps the centers fluffy while helping the exteriors stay crisp longer.",
+      "ingredients_en": [
+        "Potatoes, cut into large cubes: 350 g",
+        "Concentrated tomato sauce: 100 g",
+        "Smoked paprika: 1 tsp",
+        "Minced garlic: 2 cloves",
+        "Red wine vinegar: 1 tsp",
+        "Garlic mayonnaise (aioli): 3 tbsp",
+        "Oil for frying and salt: to taste"
+      ],
+      "steps_en": [
+        "Boil the potatoes in salted water for 5 minutes and drain thoroughly, then fry in hot oil until golden and crisp on all sides.",
+        "Sauté the garlic in a little oil, add the tomato sauce, smoked paprika, and vinegar, and simmer until thickened into a spicy brava sauce.",
+        "Toss the crispy fried potatoes lightly with salt and arrange on a plate.",
+        "Drizzle the smoky paprika tomato sauce and garlic mayonnaise alternately over the potatoes before serving."
       ]
     },
     {
@@ -3832,7 +4260,21 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ใส่แครอท มันฝรั่ง และไส้กรอกโชริโซ ตุ๋นต่ออีก 20 นาที",
         "ลวกกะหล่ำปลีแยกแล้วตักจัดจานรวมกับถั่วลูกไก่ ผัก และเนื้อตุ๋น (เสิร์ฟน้ำซุปใสซดคู่กันตามธรรมเนียมมาดริด)"
       ],
-      "note": "สตูว์ประจำกรุงมาดริด เปื่อยนุ่มหอมหวานจากผักและถั่วลูกไก่ ไม่เผ็ด ทานอุ่นสบายท้อง"
+      "note": "สตูว์ประจำกรุงมาดริด เปื่อยนุ่มหอมหวานจากผักและถั่วลูกไก่ ไม่เผ็ด ทานอุ่นสบายท้อง",
+      "name_en": "Cocido Madrileno",
+      "desc_en": "Madrid's signature chickpea and meat stew, slow-simmered until tender and mildly sweet from the vegetables for a warm, comforting meal.",
+      "ingredients_en": [
+        "Chickpeas (soaked overnight or pre-cooked): 250 g",
+        "Beef shank and chicken drumsticks: 300 g",
+        "Chorizo sausage and pork belly: 100 g",
+        "Potatoes, carrots, and cabbage, roughly chopped: 250 g",
+        "Broth or water and salt: 1000 ml"
+      ],
+      "steps_en": [
+        "Simmer the beef, chicken, and chickpeas in a pot, skimming off any foam, then cook over low heat for 50 minutes until the meats and chickpeas are tender.",
+        "Add the carrots, potatoes, and chorizo sausage and simmer for another 20 minutes.",
+        "Blanch the cabbage separately, then platter everything with the chickpeas, vegetables, and braised meats, serving the clear broth alongside in traditional Madrid style."
+      ]
     },
     {
       "recipe_id": "es_pop_050",
@@ -3884,7 +4326,22 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ยกกระทะวนเป็นวงกลมเบาๆ ให้คอลลาเจนจากหนังปลาผสมกับน้ำมันมะกอกจนขึ้นเป็นซอสครีมสีทองเนียน (Pil Pil)",
         "ตักปลาจัดจาน ราดซอสน้ำมันมะกอกและโรยกระเทียมเจียวหอมๆ"
       ],
-      "note": "เมนูระดับตำนานของแคว้นบาสก์ เนื้อปลาค็อดนุ่มละมุน ย่อยง่าย อุดมโอเมก้าและไขมันดีจากน้ำมันมะกอก"
+      "note": "เมนูระดับตำนานของแคว้นบาสก์ เนื้อปลาค็อดนุ่มละมุน ย่อยง่าย อุดมโอเมก้าและไขมันดีจากน้ำมันมะกอก",
+      "name_en": "Bacalao al Pil Pil",
+      "desc_en": "A Basque classic of silky, easy-to-digest cod confited in olive oil, rich in omega-3s and heart-healthy fats.",
+      "ingredients_en": [
+        "Thick skin-on cod fillets: 300 g",
+        "Extra virgin olive oil: 100 ml",
+        "Thinly sliced garlic: 5 cloves",
+        "Thinly sliced red chili (for garnish): 2 pieces",
+        "Sea salt: a pinch"
+      ],
+      "steps_en": [
+        "Fry the sliced garlic gently in olive oil over low heat until crisp and golden, then lift out and set aside.",
+        "Place the cod fillets in the warm olive oil over very low heat and confit for 4–5 minutes per side until the fish turns opaque and flakes tenderly.",
+        "Swirl the pan gently in a circular motion so the natural collagen from the fish skin emulsifies with the olive oil into a velvety golden pil-pil sauce.",
+        "Plate the cod, spoon the emulsified olive oil sauce over top, and scatter with the crispy garlic slices."
+      ]
     },
     {
       "recipe_id": "es_pop_051",
@@ -3932,7 +4389,21 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ใส่ซุกกินีและมะเขือม่วงลงผัด 5 นาที ตามด้วยมะเขือเทศสับ เคี่ยวไฟอ่อน 15 นาทีจนผักเปื่อยนุ่มหวานธรรมชาติ",
         "ตักใส่ชามดินเผา โปะไข่ดาวเยิ้มๆ ด้านบน เสิร์ฟคู่ขนมปังอุ่น"
       ],
-      "note": "ราตาตุยฉบับสเปนจากแคว้นลามันชา ผักเคี่ยวจนนุ่มหวานธรรมชาติ ไม่เผ็ด เหมาะกับผู้สูงอายุและสายสุขภาพ"
+      "note": "ราตาตุยฉบับสเปนจากแคว้นลามันชา ผักเคี่ยวจนนุ่มหวานธรรมชาติ ไม่เผ็ด เหมาะกับผู้สูงอายุและสายสุขภาพ",
+      "name_en": "Pisto Manchego",
+      "desc_en": "Spain's answer to ratatouille from La Mancha, gently stewed until the vegetables are naturally sweet and tender—mild and great for seniors.",
+      "ingredients_en": [
+        "Diced zucchini and eggplant: 200 g",
+        "Diced red and green bell peppers and onion: 150 g",
+        "Chopped ripe tomatoes: 200 g",
+        "Fried egg: 1 piece",
+        "Extra virgin olive oil, minced garlic, and salt: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the onion, garlic, and bell peppers in olive oil over low heat until soft and fragrant.",
+        "Add the zucchini and eggplant and cook for 5 minutes, followed by the chopped tomatoes; simmer over low heat for 15 minutes until tender and naturally sweet.",
+        "Spoon into a terracotta dish, top with a runny fried egg, and serve with warm crusty bread."
+      ]
     },
     {
       "recipe_id": "es_pop_052",
@@ -3980,7 +4451,23 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ใส่แก้มหมู น้ำซุป ใบกระวาน และไทม์ ปิดฝาตุ๋นไฟอ่อน 75-90 นาทีจนเนื้อแก้มหมูนุ่มแทบละลายในปาก",
         "กรองและเคี่ยวน้ำซอสให้เข้มข้นเงางาม ราดบนแก้มหมูเสิร์ฟคู่มันฝรั่งบดเนียน"
       ],
-      "note": "จานเด็ดประจำแคว้นอันดาลูเซีย แก้มหมูเปื่อยนุ่มละลายในปาก ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "จานเด็ดประจำแคว้นอันดาลูเซีย แก้มหมูเปื่อยนุ่มละลายในปาก ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Carrillada de Cerdo",
+      "desc_en": "An Andalusian specialty of red wine-braised pork cheeks so tender they melt in the mouth, completely mild and ideal for seniors.",
+      "ingredients_en": [
+        "Trimmed pork cheeks: 400 g",
+        "Dry red wine for cooking: 150 ml",
+        "Roughly chopped onion, carrots, and garlic: 150 g",
+        "Beef or vegetable broth: 300 ml",
+        "Bay leaf, thyme, and olive oil: 2 tbsp",
+        "Creamy mashed potatoes for serving: to taste"
+      ],
+      "steps_en": [
+        "Sear the pork cheeks in olive oil until browned on the outside, then set aside.",
+        "Sauté the onion, carrots, and garlic in the same pot until soft, pour in the red wine, and simmer until the alcohol cooks off.",
+        "Return the pork cheeks along with the broth, bay leaf, and thyme; cover and braise over low heat for 75–90 minutes until fork-tender.",
+        "Strain and reduce the braising liquid until glossy and rich, then spoon over the pork cheeks and serve with creamy mashed potatoes."
+      ]
     },
     {
       "recipe_id": "es_pop_053",
@@ -4030,7 +4517,22 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ค่อยๆ รินน้ำมันมะกอกและน้ำส้มสายชูเชอร์รีลงปั่นต่อจนซุปเนียนเงาแล้วแช่เย็นจัดอย่างน้อย 1 ชั่วโมง",
         "ตักใส่ชาม เหยาะน้ำมันมะกอกวนด้านบนและวางองุ่นเขียวสดเสิร์ฟเย็นชื่นใจ"
       ],
-      "note": "กาซปาโชสีขาวแห่งเมืองมาลากา เนื้อครีมเนียนเย็นสดชื่น ไม่เผ็ด อุดมวิตามินอีและไขมันดีจากอัลมอนด์"
+      "note": "กาซปาโชสีขาวแห่งเมืองมาลากา เนื้อครีมเนียนเย็นสดชื่น ไม่เผ็ด อุดมวิตามินอีและไขมันดีจากอัลมอนด์",
+      "name_en": "Ajoblanco",
+      "desc_en": "Malaga's refreshing chilled white gazpacho, creamy and non-spicy while packed with vitamin E and healthy fats from almonds.",
+      "ingredients_en": [
+        "Blanched raw almonds, soaked: 100 g",
+        "White bread crumb, soaked and squeezed dry: 50 g",
+        "Fresh garlic (germ removed): 1 clove",
+        "Extra virgin olive oil: 3 tbsp",
+        "Sherry vinegar and ice-cold water: 1 tbsp / 300 ml",
+        "Halved green grapes for garnish: to taste"
+      ],
+      "steps_en": [
+        "Blend the soaked almonds, bread, garlic, salt, and ice-cold water until completely smooth and creamy white.",
+        "With the blender running, slowly drizzle in the olive oil and sherry vinegar until silky and glossy, then chill thoroughly for at least 1 hour.",
+        "Ladle into chilled bowls, swirl with a drizzle of olive oil, and top with fresh green grapes."
+      ]
     },
     {
       "recipe_id": "es_pop_054",
@@ -4076,7 +4578,22 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ใส่ขนมปังและผงปาปริก้าลงคั่วในกระทะน้ำมันหอมไฟกลาง 10-12 นาทีจนขนมปังกรอบนอกนุ่มในสีทอง",
         "ใส่เครื่องโชริโซกลับลงคลุกเคล้า เสิร์ฟร้อนๆ ในกระทะเหล็ก"
       ],
-      "note": "เมนูถนอมอาหารพื้นบ้านของสเปน เปลี่ยนขนมปังค้างคืนให้หอมกรอบอร่อยเต็มรสกระเทียมและปาปริก้า"
+      "note": "เมนูถนอมอาหารพื้นบ้านของสเปน เปลี่ยนขนมปังค้างคืนให้หอมกรอบอร่อยเต็มรสกระเทียมและปาปริก้า",
+      "name_en": "Migas Extremenas",
+      "desc_en": "A rustic Spanish dish that transforms day-old bread into crispy, golden morsels infused with garlic, smoky paprika, and chorizo.",
+      "ingredients_en": [
+        "Day-old rustic bread, cut into small cubes: 200 g",
+        "Diced chorizo and bacon: 100 g",
+        "Unpeeled garlic cloves, lightly smashed: 4 cloves",
+        "Julienned red bell pepper and smoked paprika: 40 g / 1 tsp",
+        "Olive oil and water for dampening bread: as needed"
+      ],
+      "steps_en": [
+        "Sprinkle lightly salted water over the bread cubes until just moistened without becoming soggy.",
+        "Fry the garlic, chorizo, bacon, and bell pepper in olive oil until crisp and fragrant, then remove and set aside.",
+        "Add the dampened bread and smoked paprika to the flavored oil and toast over medium heat for 10–12 minutes until golden and crisp outside while tender inside.",
+        "Toss the crispy chorizo mixture back into the bread and serve sizzling hot in a skillet."
+      ]
     },
     {
       "recipe_id": "es_pop_055",
@@ -4123,7 +4640,23 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "นำชิ้นนมข้นชุบแป้งสาลีและไข่ไก่ ลงทอดในน้ำมันไฟกลางจนผิวนอกเหลืองกรอบ",
         "คลุกน้ำตาลทรายผสมผงอบเชยทันที เสิร์ฟอุ่นๆ กรอบนอกนุ่มเด้งละลายในปาก"
       ],
-      "note": "ขนมหวานดั้งเดิมทางตอนเหนือของสเปน ด้านในเป็นพุดดิ้งนมนุ่มละมุนหอมเลมอนและอบเชย"
+      "note": "ขนมหวานดั้งเดิมทางตอนเหนือของสเปน ด้านในเป็นพุดดิ้งนมนุ่มละมุนหอมเลมอนและอบเชย",
+      "name_en": "Leche Frita",
+      "desc_en": "A traditional northern Spanish sweet featuring crisp cinnamon-sugar bites filled with a delicate lemon-and-cinnamon milk pudding.",
+      "ingredients_en": [
+        "Whole milk: 400 ml",
+        "Cornstarch: 55 g",
+        "Granulated sugar: 65 g",
+        "Cinnamon stick and lemon peel: 1 piece each",
+        "All-purpose flour and beaten egg (for coating): as needed",
+        "Cinnamon sugar for tossing: to taste"
+      ],
+      "steps_en": [
+        "Simmer the milk with the cinnamon stick and lemon peel to infuse, strain, then whisk in the cornstarch and sugar over low heat until thick and pudding-like.",
+        "Pour into a square dish, chill until firmly set, and cut into bite-sized squares.",
+        "Dredge the milk pudding squares in flour and dip in beaten egg, then fry over medium heat until golden and crisp outside.",
+        "Toss immediately in cinnamon sugar and serve warm while crisp outside and melt-in-the-mouth creamy inside."
+      ]
     },
     {
       "recipe_id": "es_pop_056",
@@ -4170,7 +4703,22 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "อบรองน้ำ (Bain-Marie) ที่ 160°C นาน 35-40 นาทีจนคัสตาร์ดเซตตัวนุ่มเด้ง",
         "แช่เย็นอย่างน้อย 2 ชั่วโมงแล้วคว่ำลงจานให้ซอสคาราเมลไหลเยิ้มสวยงาม"
       ],
-      "note": "ของหวานประจำบ้านชาวสเปน เนื้อเนียนนุ่มละลายในปาก ย่อยง่าย เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "ของหวานประจำบ้านชาวสเปน เนื้อเนียนนุ่มละลายในปาก ย่อยง่าย เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Flan de Huevo",
+      "desc_en": "A classic Spanish home-style egg custard with a silky, melt-in-the-mouth texture that is easy to digest and ideal for seniors.",
+      "ingredients_en": [
+        "Fresh eggs: 3 pieces",
+        "Whole milk: 350 ml",
+        "Granulated sugar (for the custard): 60 g",
+        "Granulated sugar and water (for caramel): 60 g / 2 tbsp",
+        "Vanilla extract: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Cook the sugar and water until an amber caramel forms, then pour into the bottom of a baking mold to coat.",
+        "Whisk the eggs, sugar, warm milk, and vanilla gently without creating foam, strain through a fine sieve, and pour into the mold.",
+        "Bake in a water bath (bain-marie) at 160°C for 35–40 minutes until the custard is set with a gentle jiggle.",
+        "Chill for at least 2 hours, then invert onto a plate so the golden caramel sauce cascades over the flan."
+      ]
     },
     {
       "recipe_id": "es_pop_057",
@@ -4216,7 +4764,21 @@ window.KITCHSYNC_PACK_DATA.es_popular = {
         "ตักอบเชยและผิวเลมอนออก เติมน้ำตาลทรายและเนยจืดคนให้ละลายเนียน",
         "ตักใส่ถ้วยดินเผาพักให้เย็น โรยน้ำตาลทรายบางๆ ด้านบนแล้วใช้ไฟเบิร์นให้เป็นหน้าคาราเมลกรอบหอม"
       ],
-      "note": "ข้าวต้มนมสูตรแคว้นอัสตูเรียส เนื้อข้าวนุ่มครีมมี่หอมผิวเลมอนและคาราเมลเบิร์น เหมาะกับผู้สูงอายุ"
+      "note": "ข้าวต้มนมสูตรแคว้นอัสตูเรียส เนื้อข้าวนุ่มครีมมี่หอมผิวเลมอนและคาราเมลเบิร์น เหมาะกับผู้สูงอายุ",
+      "name_en": "Arroz con Leche Asturiano",
+      "desc_en": "Asturian-style creamy rice pudding infused with lemon zest and topped with a crisp caramelized sugar crust, gentle and ideal for seniors.",
+      "ingredients_en": [
+        "Short-grain rice (Japanese or Arborio): 100 g",
+        "Whole milk: 700 ml",
+        "Granulated sugar: 65 g",
+        "Cinnamon stick and lemon peel: 1 piece each",
+        "Unsalted butter and extra sugar for torching: to taste"
+      ],
+      "steps_en": [
+        "Simmer the milk with the cinnamon stick, lemon peel, and rice over low heat, stirring frequently for about 35 minutes until the rice is tender and creamy.",
+        "Discard the cinnamon stick and lemon peel, then stir in the sugar and a dab of unsalted butter until smooth and dissolved.",
+        "Spoon into terracotta ramekins, let cool, dust lightly with sugar, and caramelize the top with a kitchen torch until crisp and golden."
+      ]
     }
   ]
 };

@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Mexican (72 recipes)
-// Place this file at assets/data/packs/mx_popular.js
+// KitchSync Master Pack: mx_popular (72 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.mx_popular = {
   "pack_id": "mexican_popular_48",
@@ -98,7 +97,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Fill shells with seasoned beef and top with shredded lettuce, diced tomatoes, and cheddar cheese."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Ground Beef Tacos",
+      "desc_en": "Classic Classic Ground Beef Tacos — Brown ground beef in a skillet, stir in Mexican taco seasoning and a splash of water, and simmer.",
+      "ingredients_en": [
+        "Ground Beef: 250 g",
+        "Crunchy Corn Taco Shells: 3 pcs",
+        "Mexican Taco Seasoning: 15 g",
+        "Cheddar Cheese: 50 g",
+        "Shredded Lettuce: 60 g",
+        "Tomato: 80 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_002",
@@ -177,7 +186,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Toast over medium heat until golden crisp on both sides; slice into wedges and serve with sour cream."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken and Cheese Quesadilla",
+      "desc_en": "Classic Chicken and Cheese Quesadilla — Sauté sliced chicken breast and bell peppers with taco seasoning until cooked through.",
+      "ingredients_en": [
+        "Soft Flour Tortillas: 2 sheets",
+        "Chicken Breast: 180 g",
+        "Cheddar & Monterey Jack Cheese: 80 g",
+        "Bell Pepper: 50 g",
+        "Sour Cream: 30 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_003",
@@ -267,7 +285,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Season with sea salt, mix gently, and serve with tortilla chips."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Fresh Guacamole",
+      "desc_en": "Classic Classic Fresh Guacamole — Scoop ripe avocados into a bowl and mash coarsely with a fork.",
+      "ingredients_en": [
+        "Ripe Avocado: 300 g",
+        "Tomato: 80 g",
+        "Red Onion: 40 g",
+        "Fresh Cilantro: 15 g",
+        "Lime: 1 pc",
+        "Jalapeño Pepper: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_004",
@@ -348,7 +376,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Toss with fresh lime juice and salt, letting rest 10 minutes before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pico de Gallo (Fresh Tomato Salsa)",
+      "desc_en": "Classic Pico de Gallo (Fresh Tomato Salsa) — Seed and finely dice ripe tomatoes into even pieces.",
+      "ingredients_en": [
+        "Tomato: 300 g",
+        "Onion: 80 g",
+        "Fresh Cilantro: 20 g",
+        "Jalapeño Pepper: 15 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_005",
@@ -435,7 +472,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Warm corn tortillas, fill with shredded cabbage and grilled shrimp, and drizzle with lime crema."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Grilled Shrimp Tacos with Lime Crema",
+      "desc_en": "Classic Grilled Shrimp Tacos with Lime Crema — Toss peeled shrimp with taco seasoning and oil, then sear over high heat for 2 minutes per side.",
+      "ingredients_en": [
+        "Shrimp: 250 g",
+        "Yellow Corn Tortillas: 3 sheets",
+        "Shredded Cabbage: 80 g",
+        "Sour Cream: 40 g",
+        "Lime: 1 pc",
+        "Mexican Taco Seasoning: 10 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_006",
@@ -515,7 +562,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Top with sliced avocado, diced tomatoes, shredded lettuce, and crumbled cotija cheese."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Black Bean Tostadas",
+      "desc_en": "Classic Crispy Black Bean Tostadas — Warm black beans in a skillet with garlic and cumin, mashing coarsely.",
+      "ingredients_en": [
+        "Crispy Tostada Shells: 3 pcs",
+        "Black Beans: 200 g",
+        "Avocado: 100 g",
+        "Cotija Cheese: 30 g",
+        "Tomato: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_007",
@@ -602,7 +658,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Fold in the sides, roll tightly into a burrito, and sear seam-side down until golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Beef and Bean Burrito",
+      "desc_en": "Classic Classic Beef and Bean Burrito — Cook ground beef with taco seasoning and tomato sauce until savory.",
+      "ingredients_en": [
+        "Large Flour Tortillas: 2 sheets",
+        "Ground Beef: 250 g",
+        "Black Beans: 120 g",
+        "Rice: 150 g",
+        "Cheddar Cheese: 60 g",
+        "Sour Cream: 30 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_008",
@@ -683,7 +749,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Cover and simmer over low heat for 18-20 minutes until fluffy; garnish with cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Red Rice (Arroz Rojo)",
+      "desc_en": "Classic Mexican Red Rice (Arroz Rojo) — Toast raw rice in oil over medium heat until lightly golden.",
+      "ingredients_en": [
+        "Long-Grain Rice: 250 g",
+        "Tomato Sauce: 150 ml",
+        "Onion: 60 g",
+        "Garlic: 15 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_009",
@@ -764,7 +839,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Fold in generous amounts of freshly chopped cilantro and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cilantro Lime Mexican Rice",
+      "desc_en": "Classic Cilantro Lime Mexican Rice — Sauté minced garlic in olive oil until fragrant, then warm cooked rice in the pan.",
+      "ingredients_en": [
+        "Cooked Rice: 300 g",
+        "Fresh Cilantro: 30 g",
+        "Lime: 1 pc",
+        "Garlic: 10 g",
+        "Olive Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "mx_pop_010",
@@ -852,7 +936,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Plate and top with fried eggs, sour cream, crumbled cotija cheese, and avocado."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chilaquiles Rojos with Fried Egg",
+      "desc_en": "Classic Chilaquiles Rojos with Fried Egg — Simmer red tomato salsa in a wide skillet until bubbling.",
+      "ingredients_en": [
+        "Tortilla Chips: 150 g",
+        "Red Salsa / Tomato Sauce: 200 ml",
+        "Egg: 2 pcs",
+        "Cotija Cheese: 40 g",
+        "Sour Cream: 30 g",
+        "Avocado: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_011",
@@ -940,7 +1034,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Top with avocado, fresh tomato salsa, cheddar cheese, and sour cream."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Grilled Chicken Burrito Bowl",
+      "desc_en": "Classic Grilled Chicken Burrito Bowl — Marinate chicken breast in taco seasoning and lime juice, grill until cooked, and slice.",
+      "ingredients_en": [
+        "Chicken Breast: 200 g",
+        "Rice: 180 g",
+        "Black Beans: 100 g",
+        "Sweet Corn: 60 g",
+        "Avocado: 80 g",
+        "Cheddar Cheese: 40 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_012",
@@ -1022,7 +1126,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Mexican Fideo Noodle Soup (Sopa de Fideo)",
+      "desc_en": "Classic Mexican Fideo Noodle Soup (Sopa de Fideo) — Break thin spaghetti into short pieces and toast in oil until golden brown.",
+      "ingredients_en": [
+        "Broken Fideo / Spaghetti Noodles: 150 g",
+        "Tomato Sauce: 200 ml",
+        "Onion: 50 g",
+        "Garlic: 10 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_013",
@@ -1110,7 +1223,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Sauté peppers and onions until blistered, return chicken to skillet, and serve with warm tortillas."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sizzling Chicken Fajitas",
+      "desc_en": "Classic Sizzling Chicken Fajitas — Slice chicken breast, bell peppers, and onion into strips; toss with taco seasoning and lime juice.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Bell Peppers: 150 g",
+        "Onion: 100 g",
+        "Fajita / Taco Seasoning: 15 g",
+        "Soft Flour Tortillas: 3 sheets",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_014",
@@ -1192,7 +1315,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Rest 8 minutes, slice thinly against the grain, and serve with lime wedges."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Carne Asada (Grilled Marinated Steak)",
+      "desc_en": "Classic Carne Asada (Grilled Marinated Steak) — Marinate flank steak in fresh orange juice, lime juice, garlic, cilantro, cumin, and olive oil.",
+      "ingredients_en": [
+        "Beef Steak: 400 g",
+        "Orange: 1 pc",
+        "Lime: 2 pcs",
+        "Garlic: 20 g",
+        "Fresh Cilantro: 20 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_015",
@@ -1266,7 +1398,15 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Crisp the shredded pork in a hot skillet or under the broiler until golden edges form."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Mexican Pork Carnitas",
+      "desc_en": "Classic Crispy Mexican Pork Carnitas — Slow-braise pork chunks with orange juice, garlic, cumin, and herbs until fork-tender.",
+      "ingredients_en": [
+        "Pork Shoulder: 500 g",
+        "Orange: 1 pc",
+        "Garlic: 20 g",
+        "Oregano / Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_016",
@@ -1347,7 +1487,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Serve on warm corn tortillas topped with diced onion, cilantro, and lime."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tacos al Pastor (Marinated Pork & Pineapple)",
+      "desc_en": "Classic Tacos al Pastor (Marinated Pork & Pineapple) — Soak dried guajillo chilies in hot water, then blend with pineapple juice, garlic, cumin, and vinegar.",
+      "ingredients_en": [
+        "Thinly Sliced Pork: 350 g",
+        "Pineapple: 120 g",
+        "Dried Guajillo Chilies: 15 g",
+        "Yellow Corn Tortillas: 4 sheets",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_017",
@@ -1426,7 +1575,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Assemble on warm corn tortillas with shredded cabbage, crispy fish, and creamy sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Baja Crispy Fish Tacos",
+      "desc_en": "Classic Baja Crispy Fish Tacos — Cut fish fillets into strips, dip in seasoned batter, and fry until golden and crispy.",
+      "ingredients_en": [
+        "White Fish / Sea Bass Fillet: 300 g",
+        "Yellow Corn Tortillas: 3 sheets",
+        "Shredded Cabbage: 80 g",
+        "Mayonnaise: 30 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_018",
@@ -1507,7 +1665,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Sauté sliced onions until soft, add chipotle sauce and shredded chicken, and simmer 10 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Tinga (Smoky Chipotle Shredded Chicken)",
+      "desc_en": "Classic Chicken Tinga (Smoky Chipotle Shredded Chicken) — Poach chicken breasts until cooked, shred with forks, and reserve a splash of broth.",
+      "ingredients_en": [
+        "Chicken Breast: 350 g",
+        "Chipotle Peppers in Adobo: 30 g",
+        "Tomato Sauce: 200 ml",
+        "Onion: 100 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_019",
@@ -1595,7 +1762,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Ladle soup into bowls and garnish with crispy tortilla strips, avocado, cheese, and cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Mexican Chicken Tortilla Soup",
+      "desc_en": "Classic Classic Mexican Chicken Tortilla Soup — Cut corn tortillas into thin strips and fry or bake until crisp.",
+      "ingredients_en": [
+        "Chicken Breast: 250 g",
+        "Corn Tortilla Strips: 80 g",
+        "Tomato Sauce: 200 ml",
+        "Black Beans: 100 g",
+        "Avocado: 60 g",
+        "Cheddar Cheese: 30 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_020",
@@ -1676,7 +1853,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Add white hominy corn and simmer 15 minutes; garnish with shredded cabbage and lime."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Red Pork and Hominy Stew (Pozole Rojo)",
+      "desc_en": "Classic Red Pork and Hominy Stew (Pozole Rojo) — Simmer pork chunks with onion, garlic, and bay leaf for 45 minutes until tender.",
+      "ingredients_en": [
+        "Pork Shoulder: 400 g",
+        "White Hominy Corn: 250 g",
+        "Dried Guajillo Chilies: 20 g",
+        "Shredded Cabbage: 60 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_021",
@@ -1757,7 +1943,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Cover and braise gently for 2 hours until fall-apart tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Beef Birria Stew",
+      "desc_en": "Classic Mexican Beef Birria Stew — Simmer dried guajillo chilies and tomatoes until soft, then blend with garlic, cumin, cinnamon, and vinegar.",
+      "ingredients_en": [
+        "Beef Chuck: 500 g",
+        "Dried Guajillo Chilies: 25 g",
+        "Tomato: 150 g",
+        "Garlic: 20 g",
+        "Cinnamon: 3 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_022",
@@ -1838,7 +2033,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Blend half the soup until creamy, return to the pot, and garnish with cilantro and lime."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Smoky Mexican Black Bean Soup",
+      "desc_en": "Classic Smoky Mexican Black Bean Soup — Sauté diced onion, bell pepper, and garlic in olive oil with cumin and smoked paprika.",
+      "ingredients_en": [
+        "Black Beans: 300 g",
+        "Onion: 80 g",
+        "Bell Pepper: 80 g",
+        "Garlic: 15 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_023",
@@ -1921,7 +2125,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Mexican Beef and Vegetable Soup (Caldo de Res)",
+      "desc_en": "Classic Mexican Beef and Vegetable Soup (Caldo de Res) — Simmer beef chunks in water with onion and garlic for 50 minutes until tender.",
+      "ingredients_en": [
+        "Beef Shanks / Stew Meat: 400 g",
+        "Sweet Corn on the Cob: 150 g",
+        "Potato: 150 g",
+        "Carrot: 100 g",
+        "Cabbage: 100 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_024",
@@ -2012,7 +2225,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Mexican Meatball Soup (Sopa de Albóndigas)",
+      "desc_en": "Classic Mexican Meatball Soup (Sopa de Albóndigas) — Mix ground beef, raw rice, egg, chopped mint/cilantro, and cumin; roll into meatballs.",
+      "ingredients_en": [
+        "Ground Beef: 300 g",
+        "Uncooked Rice: 40 g",
+        "Egg: 1 pc",
+        "Tomato Sauce: 200 ml",
+        "Carrot: 80 g",
+        "Potato: 100 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_025",
@@ -2100,7 +2323,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Top with sliced avocado, sour cream, and crunchy tortilla chips."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Loaded Mexican Taco Salad",
+      "desc_en": "Classic Loaded Mexican Taco Salad — Brown ground beef with taco seasoning and let cool slightly.",
+      "ingredients_en": [
+        "Ground Beef: 200 g",
+        "Romaine Lettuce: 150 g",
+        "Black Beans: 80 g",
+        "Avocado: 80 g",
+        "Cheddar Cheese: 40 g",
+        "Tortilla Chips: 40 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_026",
@@ -2180,7 +2413,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Dress with lime juice, olive oil, and chili powder, topping with crumbled cotija cheese."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Street Corn and Black Bean Salad",
+      "desc_en": "Classic Mexican Street Corn and Black Bean Salad — Char sweet corn kernels in a hot dry skillet until lightly blackened.",
+      "ingredients_en": [
+        "Sweet Corn Kernels: 200 g",
+        "Black Beans: 150 g",
+        "Cotija Cheese: 40 g",
+        "Jalapeño Pepper: 15 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_027",
@@ -2270,7 +2512,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Gently fold in diced avocado and serve chilled with tortilla chips."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Shrimp Ceviche",
+      "desc_en": "Classic Mexican Shrimp Ceviche — Blanch shrimp briefly until pink, cool, and chop into bite-sized pieces.",
+      "ingredients_en": [
+        "Shrimp: 250 g",
+        "Lime: 3 pcs",
+        "Tomato: 100 g",
+        "Cucumber: 80 g",
+        "Avocado: 80 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_028",
@@ -2352,7 +2604,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Spoon the zesty tuna salad generously into each avocado half and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Tuna Stuffed Avocados",
+      "desc_en": "Classic Mexican Tuna Stuffed Avocados — Mix drained canned tuna with diced tomato, minced onion, cilantro, lime juice, and olive oil.",
+      "ingredients_en": [
+        "Ripe Avocados: 2 pcs",
+        "Canned Tuna: 150 g",
+        "Tomato: 60 g",
+        "Fresh Cilantro: 10 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_029",
@@ -2433,7 +2694,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Toss romaine lettuce with the dressing and top with grilled chicken and avocado slices."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cilantro Lime Grilled Chicken Salad",
+      "desc_en": "Classic Cilantro Lime Grilled Chicken Salad — Grill seasoned chicken breast until cooked through, then slice.",
+      "ingredients_en": [
+        "Chicken Breast: 200 g",
+        "Avocado: 80 g",
+        "Romaine Lettuce: 150 g",
+        "Fresh Cilantro: 20 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_030",
@@ -2514,7 +2784,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Dress with fresh lime juice, olive oil, and sea salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Nopales (Cactus) and Tomato Salad",
+      "desc_en": "Classic Mexican Nopales (Cactus) and Tomato Salad — Slice cleaned nopales cactus paddles into strips, boil or grill until tender, and rinse.",
+      "ingredients_en": [
+        "Tomato: 200 g",
+        "Onion: 60 g",
+        "Fresh Cilantro: 15 g",
+        "Lime: 1 pc",
+        "Olive Oil: 20 ml"
+      ]
     },
     {
       "recipe_id": "mx_pop_031",
@@ -2594,7 +2873,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Spoon warm ranchero tomato salsa around the eggs; serve with black beans and avocado."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Huevos Rancheros",
+      "desc_en": "Classic Huevos Rancheros — Lightly pan-fry corn tortillas until warm and crisp around the edges, then plate.",
+      "ingredients_en": [
+        "Yellow Corn Tortillas: 2 sheets",
+        "Egg: 2 pcs",
+        "Ranchero Tomato Salsa: 150 ml",
+        "Black Beans: 80 g",
+        "Avocado: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_032",
@@ -2673,7 +2961,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Roll into burritos and toast seam-side down until golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Breakfast Burrito",
+      "desc_en": "Classic Mexican Breakfast Burrito — Cook bacon until crisp and chop; scramble eggs softly in a skillet.",
+      "ingredients_en": [
+        "Large Flour Tortillas: 2 sheets",
+        "Egg: 3 pcs",
+        "Bacon: 80 g",
+        "Cheddar Cheese: 50 g",
+        "Avocado: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_033",
@@ -2753,7 +3050,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Pour remaining red sauce over, top with cheddar cheese, and bake at 190°C (375°F) for 20 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Red Chicken Enchiladas",
+      "desc_en": "Classic Red Chicken Enchiladas — Simmer tomato sauce with blended guajillo chili, garlic, and cumin to make red enchilada sauce.",
+      "ingredients_en": [
+        "Corn Tortillas: 4 sheets",
+        "Shredded Chicken: 250 g",
+        "Red Enchilada Chili Sauce: 15 g",
+        "Tomato Sauce: 200 ml",
+        "Cheddar Cheese: 100 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_034",
@@ -2833,7 +3139,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Smother with green cream sauce and shredded cheese; bake at 190°C (375°F) for 20 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Creamy Green Enchiladas Suizas",
+      "desc_en": "Classic Creamy Green Enchiladas Suizas — Blend salsa verde with sour cream and cilantro into a creamy green sauce.",
+      "ingredients_en": [
+        "Corn Tortillas: 4 sheets",
+        "Shredded Chicken: 250 g",
+        "Mexican Salsa Verde: 200 ml",
+        "Sour Cream: 80 g",
+        "Queso Fresco / Mozzarella: 100 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_035",
@@ -2913,7 +3228,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Dip in fluffy whipped egg batter and fry until golden; serve over warm tomato sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chile Relleno (Cheese-Stuffed Roasted Pepper)",
+      "desc_en": "Classic Chile Relleno (Cheese-Stuffed Roasted Pepper) — Char poblano peppers over flame, peel off blackened skin, and carefully remove seeds.",
+      "ingredients_en": [
+        "Poblano Peppers: 2 pcs",
+        "Queso Fresco / Oaxaca Cheese: 120 g",
+        "Egg: 2 pcs",
+        "All-Purpose Flour: 40 g",
+        "Tomato Sauce: 150 ml"
+      ]
     },
     {
       "recipe_id": "mx_pop_036",
@@ -2992,7 +3316,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Top with pickled jalapeños and mayonnaise, close sandwich, and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Carne Asada Torta Sandwich",
+      "desc_en": "Classic Mexican Carne Asada Torta Sandwich — Halve crusty sandwich roll and toast cut sides in butter.",
+      "ingredients_en": [
+        "Telera / Crusty Sandwich Roll: 150 g",
+        "Grilled Carne Asada Steak: 180 g",
+        "Refried Black Beans: 60 g",
+        "Avocado: 60 g",
+        "Pickled Jalapeño Slices: 15 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_037",
@@ -3080,7 +3413,17 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Top with dollops of sour cream, guacamole, and diced tomatoes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Loaded Nachos Supreme",
+      "desc_en": "Classic Loaded Nachos Supreme — Spread tortilla chips on a baking sheet and scatter shredded cheddar, black beans, and jalapeño slices.",
+      "ingredients_en": [
+        "Tortilla Chips: 180 g",
+        "Cheddar & Monterey Jack Cheese: 120 g",
+        "Black Beans: 80 g",
+        "Jalapeño Slices: 25 g",
+        "Sour Cream: 40 g",
+        "Avocado / Guacamole: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_038",
@@ -3160,7 +3503,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Roll corn in crumbled cotija cheese and dust with chili powder and chopped cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Mexican Street Corn (Elote)",
+      "desc_en": "Classic Mexican Street Corn (Elote) — Grill whole sweet corn cobs over high heat until charred in spots.",
+      "ingredients_en": [
+        "Sweet Corn on the Cob: 2 ears",
+        "Cotija Cheese: 40 g",
+        "Mayonnaise: 25 g",
+        "Sour Cream: 25 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_039",
@@ -3233,7 +3585,15 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Mash beans with a potato masher until creamy and season with salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Creamy Mexican Refried Beans",
+      "desc_en": "Classic Creamy Mexican Refried Beans — Sauté finely diced onion and garlic in oil with ground cumin.",
+      "ingredients_en": [
+        "Cooked Pinto Beans: 300 g",
+        "Onion: 50 g",
+        "Garlic: 15 g",
+        "Olive Oil: 20 ml"
+      ]
     },
     {
       "recipe_id": "mx_pop_040",
@@ -3314,7 +3674,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Serve as a tangy dip for tortilla chips or topping for tacos."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Roasted Tomatillo Salsa Verde",
+      "desc_en": "Classic Roasted Tomatillo Salsa Verde — Husk and rinse green tomatillos, then roast or broil with jalapeños and onion until blistered.",
+      "ingredients_en": [
+        "Fresh Green Tomatillos: 300 g",
+        "Jalapeño Peppers: 25 g",
+        "Onion: 60 g",
+        "Fresh Cilantro: 20 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_041",
@@ -3394,7 +3763,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Fry or bake until golden and crispy; serve with guacamole and sour cream."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Rolled Chicken Taquitos",
+      "desc_en": "Classic Crispy Rolled Chicken Taquitos — Mix shredded cooked chicken with shredded cheddar cheese and taco seasoning.",
+      "ingredients_en": [
+        "Corn Tortillas: 6 sheets",
+        "Shredded Chicken: 200 g",
+        "Cheddar Cheese: 60 g",
+        "Sour Cream: 30 g",
+        "Avocado: 60 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_042",
@@ -3473,7 +3851,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Deep-fry until golden brown and crispy; top with melted cheese sauce and sour cream."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Beef Chimichanga",
+      "desc_en": "Classic Crispy Beef Chimichanga — Spoon seasoned ground beef, refried pinto beans, and cheese onto flour tortillas.",
+      "ingredients_en": [
+        "Large Flour Tortillas: 2 sheets",
+        "Ground Beef: 220 g",
+        "Pinto Beans: 100 g",
+        "Cheddar Cheese: 80 g",
+        "Sour Cream: 30 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_043",
@@ -3552,7 +3939,16 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Roll warm churros in cinnamon sugar and serve with warm melted chocolate sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Mexican Churros with Chocolate Sauce",
+      "desc_en": "Classic Crispy Mexican Churros with Chocolate Sauce — Boil water, butter, and salt, stir in flour into a smooth dough, cool slightly, and beat in egg.",
+      "ingredients_en": [
+        "All-Purpose Flour: 150 g",
+        "Butter: 40 g",
+        "Egg: 1 pc",
+        "Ground Cinnamon: 10 g",
+        "Dark Chocolate Chips: 100 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_044",
@@ -3634,6 +4030,15 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Classic Tres Leches Cake",
+      "desc_en": "Classic Classic Tres Leches Cake — Bake a light vanilla sponge cake, cool, and poke holes all over with a fork.",
+      "ingredients_en": [
+        "All-Purpose Flour: 150 g",
+        "Egg: 4 pcs",
+        "Whole Milk: 200 ml",
+        "Heavy Cream: 250 ml",
+        "Ground Cinnamon: 5 g"
       ]
     },
     {
@@ -3695,6 +4100,12 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Mexican Caramel Flan",
+      "desc_en": "Classic Mexican Caramel Flan — Melt sugar in a saucepan into amber caramel and coat the bottom of a baking mold.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Whole Milk: 300 ml"
       ]
     },
     {
@@ -3752,7 +4163,13 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Sweeten with sugar and vanilla, chill, and serve over ice dusted with cinnamon."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Traditional Mexican Horchata",
+      "desc_en": "Classic Traditional Mexican Horchata — Soak uncooked white rice and cinnamon sticks in warm water for at least 4 hours.",
+      "ingredients_en": [
+        "Uncooked White Rice: 120 g",
+        "Cinnamon Sticks / Powder: 8 g"
+      ]
     },
     {
       "recipe_id": "mx_pop_047",
@@ -3809,7 +4226,13 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "Dilute with cold water, add a squeeze of lime, and serve over ice."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Hibiscus Iced Tea (Agua de Jamaica)",
+      "desc_en": "Classic Hibiscus Iced Tea (Agua de Jamaica) — Simmer dried hibiscus flowers in water for 10 minutes until deeply crimson.",
+      "ingredients_en": [
+        "Dried Hibiscus Flowers: 40 g",
+        "Lime: 1 pc"
+      ]
     },
     {
       "recipe_id": "mx_pop_048",
@@ -3878,6 +4301,13 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Mexican Cinnamon Rice Pudding (Arroz con Leche)",
+      "desc_en": "Classic Mexican Cinnamon Rice Pudding (Arroz con Leche) — Simmer white rice with water and a cinnamon stick for 15 minutes until tender.",
+      "ingredients_en": [
+        "White Rice: 150 g",
+        "Whole Milk: 400 ml",
+        "Ground Cinnamon: 8 g"
       ]
     },
     {
@@ -3912,6 +4342,24 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/mx/mx_mig_01.webp"
+      ],
+      "name_en": "Pan-Seared Sea Bass with Mango Salsa",
+      "desc_en": "Pressing the fish gently with a spatula during the first 30 seconds skin-side down keeps the skin flat against the pan for an even crisp.",
+      "ingredients_en": [
+        "Skin-on sea bass fillet: 200 g",
+        "Diced ripe mango: 100 g",
+        "Diced red bell pepper: 30 g",
+        "Minced shallots: 2 tbsp",
+        "Fresh lime juice: 1.5 tbsp",
+        "Chopped cilantro: 1 tbsp",
+        "Olive oil: 1 tbsp",
+        "Fine salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the diced mango, red bell pepper, shallots, cilantro, lime juice, and a pinch of salt together to make the salsa, then chill.",
+        "Pat the sea bass fillet dry and season both flesh and skin evenly with salt and pepper.",
+        "Heat olive oil in a skillet, place the fish skin-side down over medium heat for 4 minutes until crisp, then flip and cook for 2 more minutes.",
+        "Plate the sea bass crispy skin-side up and serve with the chilled mango salsa alongside or spooned on top."
       ]
     },
     {
@@ -3946,6 +4394,24 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/mx/mx_mig_02.webp"
+      ],
+      "name_en": "Mexican-Style Braised Ground Beef & Red Bean Chili",
+      "desc_en": "For deeper flavor, stir in a small square of 70% dark chocolate while simmering to add richness and complexity to the sauce.",
+      "ingredients_en": [
+        "Ground beef: 300 g",
+        "Cooked red kidney beans: 150 g",
+        "Canned diced tomatoes: 200 g",
+        "Chopped onion: 1 piece",
+        "Ground toasted cumin: 1 tsp",
+        "Paprika powder: 1 tbsp",
+        "Beef broth: 150 ml",
+        "Fine salt: 1 tsp"
+      ],
+      "steps_en": [
+        "Sauté the chopped onion in a pot until soft, then add the ground beef and cook until browned throughout.",
+        "Stir in the ground cumin, paprika, and salt, cooking for 1 minute until the spices smell toasted and fragrant.",
+        "Add the canned diced tomatoes, cooked red beans, and beef broth, stirring to combine.",
+        "Simmer over low heat for about 25 minutes until thick and saucy, then serve hot."
       ]
     },
     {
@@ -3979,6 +4445,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/mx/mx_mig_03.webp"
+      ],
+      "name_en": "Grilled Sea Bass & Mango Salsa Salad Bowl",
+      "desc_en": "Choose a slightly firm, half-ripe mango for a bright sweet-tart crunch that balances the tender grilled sea bass.",
+      "ingredients_en": [
+        "Boneless sea bass fillet: 130 g",
+        "Diced semi-ripe Nam Dok Mai mango: 60 g",
+        "Finely minced shallots: 1 tbsp",
+        "Chopped cilantro: 1 tbsp",
+        "Fresh lime juice: 1 tbsp",
+        "Mixed salad greens: 60 g",
+        "Salt and black pepper: a pinch"
+      ],
+      "steps_en": [
+        "Season the sea bass with salt and black pepper, then pan-grill in a nonstick skillet until the skin is crisp and the fish is cooked through.",
+        "Combine the diced mango, minced shallots, cilantro, and lime juice to make the salsa.",
+        "Arrange the mixed salad greens in a bowl as a fresh base.",
+        "Set the grilled sea bass over the greens and spoon the bright mango salsa on top."
       ]
     },
     {
@@ -4015,6 +4498,26 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/mx/mx_mig_04.webp"
+      ],
+      "name_en": "Grilled Fish Tacos with Lime Yogurt Sauce",
+      "desc_en": "Single-serving recipe with approximate nutrition; choose boneless fish fillets or remove all pin bones before cooking.",
+      "ingredients_en": [
+        "White fish fillet, cut into strips: 140 g",
+        "Small tortillas: 2 pieces",
+        "Shredded cabbage: 50 g",
+        "Plain yogurt: 30 g",
+        "Lime juice: 2 tsp",
+        "Ground paprika: 1/4 tsp",
+        "Olive oil: 1 tsp",
+        "Salt: 1/8 tsp",
+        "Sliced avocado: 30 g"
+      ],
+      "steps_en": [
+        "Toss the fish strips with olive oil, paprika, and salt.",
+        "Pan-grill over medium heat for 3–4 minutes per side until cooked through and flaky.",
+        "Whisk the plain yogurt and lime juice together into a creamy sauce.",
+        "Warm the tortillas in a dry skillet.",
+        "Fill the tortillas with shredded cabbage, fish, and avocado, drizzle with the lime yogurt sauce, and serve."
       ]
     },
     {
@@ -4051,6 +4554,26 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/mx/mx_mig_05.webp"
+      ],
+      "name_en": "Paprika Pork Tacos",
+      "desc_en": "Single-serving recipe with approximate nutrition; adjust the spices to suit your taste.",
+      "ingredients_en": [
+        "Lean ground pork: 120 g",
+        "Small tortillas: 2 pieces",
+        "Shredded cabbage: 40 g",
+        "Diced tomato: 30 g",
+        "Plain yogurt: 20 g",
+        "Ground paprika: 1/2 tsp",
+        "Ground cumin: 1/8 tsp",
+        "Olive oil: 1 tsp",
+        "Lime juice: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a skillet over medium heat, add the ground pork, and break it up with a spatula.",
+        "Stir in the paprika and cumin, cooking until the pork reaches an internal temperature of 71°C.",
+        "Warm the tortillas in a dry skillet.",
+        "Mix the plain yogurt with lime juice to make the sauce.",
+        "Divide the seasoned pork among the tortillas, top with shredded cabbage, diced tomato, and yogurt sauce, and serve."
       ]
     },
     {
@@ -4101,7 +4624,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "อบที่ 170°C นาน 75-90 นาทีจนเนื้อหมูเปื่อยนุ่มฉีกเป็นเส้นได้ง่าย",
         "ฉีกเนื้อหมูคลุกกับน้ำซอสในถาด เสิร์ฟพร้อมหอมแดงดองและแป้งตอร์ตียาอุ่นๆ"
       ],
-      "note": "อาหารประจำแคว้นยูกาตัน เนื้อหมูเปื่อยนุ่มหอมส้มและเครื่องเทศอาชิโอเต ไม่เผ็ด"
+      "note": "อาหารประจำแคว้นยูกาตัน เนื้อหมูเปื่อยนุ่มหอมส้มและเครื่องเทศอาชิโอเต ไม่เผ็ด",
+      "name_en": "Cochinita Pibil",
+      "desc_en": "A Yucatan classic of citrus-and-achiote braised pork shoulder, mild in spice and so tender it shreds effortlessly.",
+      "ingredients_en": [
+        "Pork shoulder, cut into large chunks: 400 g",
+        "Achiote paste: 2 tbsp",
+        "Fresh orange juice and lime juice blend: 120 ml",
+        "Minced garlic and dried oregano: 1 tbsp",
+        "Pickled red onions for topping: 40 g",
+        "Tortillas for serving: 4 pieces"
+      ],
+      "steps_en": [
+        "Whisk the achiote paste into the orange juice, lime juice, garlic, and oregano until smooth.",
+        "Marinate the pork shoulder in the citrus-achiote sauce for at least 30 minutes, then wrap tightly in banana leaves or foil.",
+        "Bake at 170°C for 75–90 minutes until the pork is fork-tender and shreds easily.",
+        "Shred the pork into its rich pan juices and serve with pickled red onions and warm tortillas."
+      ]
     },
     {
       "recipe_id": "mx_pop_050",
@@ -4149,7 +4688,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ปั่นวอลนัต ครีมชีส และนมสดจนเนียนข้นเป็นซอสครีมสีขาว (Nogada)",
         "จัดพริกยัดไส้ลงจาน ราดซอสวอลนัตครีมให้ทั่ว โรยเม็ดทับทิมและพาร์สลีย์ให้เป็นสีธงชาติเม็กซิโก"
       ],
-      "note": "จานประจำชาติเม็กซิโก รสหวานมันหอมถั่ววอลนัต ตัดด้วยความสดชื่นของเม็ดทับทิม"
+      "note": "จานประจำชาติเม็กซิโก รสหวานมันหอมถั่ววอลนัต ตัดด้วยความสดชื่นของเม็ดทับทิม",
+      "name_en": "Chiles en Nogada",
+      "desc_en": "Mexico's celebratory national dish pairing sweet-savory stuffed poblano peppers with creamy walnut sauce and bright pomegranate seeds.",
+      "ingredients_en": [
+        "Roasted and peeled bell peppers or poblano chilies: 2 pieces",
+        "Ground pork or beef: 200 g",
+        "Finely diced apple and raisins: 60 g",
+        "Toasted walnuts and cream cheese (for sauce): 80 g",
+        "Whole milk: 80 ml",
+        "Fresh pomegranate seeds and chopped parsley: 3 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the ground meat with onion, garlic, tomatoes, diced apple, and raisins until cooked and fragrant to form the picadillo filling.",
+        "Slit the roasted chilies, remove the seeds, and stuff generously with the savory-sweet filling.",
+        "Blend the toasted walnuts, cream cheese, and milk until velvety smooth to create the white nogada sauce.",
+        "Plate the stuffed chilies, ladle the walnut cream sauce generously over top, and garnish with pomegranate seeds and parsley in the colors of the Mexican flag."
+      ]
     },
     {
       "recipe_id": "mx_pop_051",
@@ -4197,7 +4752,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ใส่ดาร์กช็อกโกแลตลงเคี่ยวไฟอ่อนจนละลายเงางามและได้รสกลมกล่อมหวานเค็มเผ็ดอ่อน",
         "นำไก่ลงคลุกหรือตักซอสโมเลราดให้ชุ่ม โรยงาขาวคั่วแล้วเสิร์ฟคู่ข้าวหรือตอร์ตียา"
       ],
-      "note": "ซอสระดับตำนานของเมืองปวยบลา ผสานเครื่องเทศ พริกแห้ง และดาร์กช็อกโกแลตอย่างลงตัว"
+      "note": "ซอสระดับตำนานของเมืองปวยบลา ผสานเครื่องเทศ พริกแห้ง และดาร์กช็อกโกแลตอย่างลงตัว",
+      "name_en": "Mole Poblano con Pollo",
+      "desc_en": "Puebla's legendary sauce harmoniously blending warm spices, dried chilies, and dark chocolate over tender chicken.",
+      "ingredients_en": [
+        "Chicken leg quarters: 350 g",
+        "Mole Poblano paste (or spiced dried chili paste): 4 tbsp",
+        "70% dark chocolate: 25 g",
+        "Chicken broth: 350 ml",
+        "Toasted white sesame seeds for garnish: 1 tbsp",
+        "Vegetable oil and salt: a pinch"
+      ],
+      "steps_en": [
+        "Simmer or roast the chicken leg quarters with onion and garlic until tender, reserving the cooking broth.",
+        "Warm the mole paste with the chicken broth in a pot over low heat, stirring until smooth and thickened.",
+        "Melt in the dark chocolate over gentle heat until glossy and balanced between sweet, savory, and mild warmth.",
+        "Coat the chicken in the mole sauce, scatter with toasted white sesame seeds, and serve with rice or tortillas."
+      ]
     },
     {
       "recipe_id": "mx_pop_052",
@@ -4245,7 +4816,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ตักไก่ฉีกซอสชิโปตเลวางทับ ตามด้วยผักกาดแก้วซอย",
         "ราดซาวร์ครีมและโรยชีส เสิร์ฟทันทีขณะแป้งยังกรอบ"
       ],
-      "note": "เมนูจานด่วนยอดฮิต กรอบหอมแป้งข้าวโพดตัดกับไก่ฉีกรสเข้มข้น"
+      "note": "เมนูจานด่วนยอดฮิต กรอบหอมแป้งข้าวโพดตัดกับไก่ฉีกรสเข้มข้น",
+      "name_en": "Tostadas de Tinga de Pollo",
+      "desc_en": "A crisp, quick Mexican favorite contrasting crunchy corn tostadas with smoky chipotle shredded chicken.",
+      "ingredients_en": [
+        "Crispy corn tostada shells: 3 pieces",
+        "Boiled shredded chicken breast: 180 g",
+        "Refried beans: 3 tbsp",
+        "Crushed tomatoes and chipotle chili sauce: 120 g",
+        "Shredded iceberg lettuce: 40 g",
+        "Sour cream and crumbled feta or cotija cheese: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sauté sliced onion with crushed tomatoes and chipotle sauce, then stir in the shredded chicken and simmer until well coated.",
+        "Spread warm refried beans evenly over each crisp corn tostada shell.",
+        "Pile on the smoky chipotle chicken tinga followed by shredded iceberg lettuce.",
+        "Top with sour cream and crumbled cheese, serving right away while the shells stay crisp."
+      ]
     },
     {
       "recipe_id": "mx_pop_053",
@@ -4291,7 +4878,22 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ทาถั่วบดลงบนฐานแป้งโซเปส ตักโชริโซวางทับให้พูน",
         "โรยผักกาดแก้วซอย ชีส และราดครีมเปรี้ยว เสิร์ฟร้อนๆ"
       ],
-      "note": "สตรีทฟู้ดเม็กซิกันแท้ๆ แป้งข้าวโพดหนานุ่มขอบกรอบ เข้ากันดีกับโชริโซรสจัด"
+      "note": "สตรีทฟู้ดเม็กซิกันแท้ๆ แป้งข้าวโพดหนานุ่มขอบกรอบ เข้ากันดีกับโชริโซรสจัด",
+      "name_en": "Sopes de Chorizo",
+      "desc_en": "Authentic Mexican street food featuring thick, crispy-edged masa boats piled high with savory chorizo and creamy beans.",
+      "ingredients_en": [
+        "Masa harina corn dough, shaped into thick pinched-edge rounds: 150 g",
+        "Crumbled Mexican chorizo sausage: 120 g",
+        "Refried red or black beans: 4 tbsp",
+        "Shredded iceberg lettuce: 30 g",
+        "Sour cream and grated cotija cheese: 2 tbsp"
+      ],
+      "steps_en": [
+        "Knead the masa harina with warm water, shape into thick discs, cook on a griddle until done, and pinch up the edges to form shallow rims.",
+        "Brown the crumbled chorizo in a skillet until fragrant and deeply colored.",
+        "Spread refried beans over the sope bases and mound the cooked chorizo generously on top.",
+        "Finish with shredded lettuce, cheese, and a drizzle of sour cream, serving hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_054",
@@ -4338,7 +4940,22 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ทาถั่วบดทั่วแผ่นแป้ง วางเนื้อย่างและราดซัลซ่าเขียวให้ชุ่ม",
         "โรยหอมใหญ่สับ ผักชี และชีสเฟรสโก เสิร์ฟร้อนๆ"
       ],
-      "note": "สตรีทฟู้ดดังจากเม็กซิโกซิตี อิ่มจุใจทั้งแป้งข้าวโพดย่างหอมๆ และเนื้อย่างซัลซ่า"
+      "note": "สตรีทฟู้ดดังจากเม็กซิโกซิตี อิ่มจุใจทั้งแป้งข้าวโพดย่างหอมๆ และเนื้อย่างซัลซ่า",
+      "name_en": "Huaraches con Carne Asada",
+      "desc_en": "A hearty Mexico City street classic combining griddled oblong corn masa with juicy grilled steak and zesty salsa verde.",
+      "ingredients_en": [
+        "Masa harina corn dough, shaped into flat ovals: 150 g",
+        "Marinated grilled steak, diced (carne asada): 150 g",
+        "Refried beans: 3 tbsp",
+        "Green salsa (salsa verde): 3 tbsp",
+        "Chopped onion, cilantro, and queso fresco: 3 tbsp"
+      ],
+      "steps_en": [
+        "Shape the masa dough into flat oblong sandal shapes (huaraches) and cook on a lightly oiled cast-iron griddle until golden.",
+        "Grill the marinated steak over high heat until cooked to your liking, then dice into small cubes.",
+        "Spread refried beans over the warm huaraches, top with diced steak, and spoon salsa verde generously over top.",
+        "Scatter with chopped onion, cilantro, and queso fresco and serve hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_055",
@@ -4384,7 +5001,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "เรียงตั้งในซึ้งนึ่งด้วยไฟกลางประมาณ 45-50 นาทีจนแป้งสุกไม่ติดกาบข้าวโพด",
         "พักอุ่น 5 นาทีแล้วแกะกาบข้าวโพดออกรับประทานร้อนๆ"
       ],
-      "note": "ขนมห่อกาบข้าวโพดนึ่งสูตรโบราณ แป้งนุ่มหอมข้าวโพด ย่อยง่าย"
+      "note": "ขนมห่อกาบข้าวโพดนึ่งสูตรโบราณ แป้งนุ่มหอมข้าวโพด ย่อยง่าย",
+      "name_en": "Tamales Rojos",
+      "desc_en": "Traditional steamed corn-husk tamales with soft, fragrant masa and mildly spiced shredded pork that is gentle and easy to digest.",
+      "ingredients_en": [
+        "Masa harina whipped with broth and vegetable oil: 200 g",
+        "Braised shredded pork in mild red chili sauce: 150 g",
+        "Dried corn husks, soaked in warm water until pliable: 6 pieces",
+        "Baking powder and salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Beat the masa harina with broth, vegetable oil, baking powder, and salt until light and fluffy.",
+        "Spread the masa onto soaked corn husks, spoon the red-sauced pork down the center, and fold the husks neatly to enclose.",
+        "Stand upright in a steamer and steam over medium heat for 45–50 minutes until the masa pulls cleanly away from the husks.",
+        "Rest for 5 minutes, unwrap the corn husks, and serve warm."
+      ]
     },
     {
       "recipe_id": "mx_pop_056",
@@ -4435,7 +5066,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "เทซอสพริกลงเคี่ยวในกระทะ 4-5 นาทีจนหอมข้น ปรุงรสเกลือและน้ำมะนาว",
         "ใส่กุ้งกลับลงคลุกให้ซอสเคลือบทั่ว เสิร์ฟคู่ข้าวเม็กซิกันและมะนาวฝาน"
       ],
-      "note": "ถูกปากคนไทยที่ชอบรสจัดจ้าน เผ็ดร้อนหอมพริกคั่วและกระเทียม"
+      "note": "ถูกปากคนไทยที่ชอบรสจัดจ้าน เผ็ดร้อนหอมพริกคั่วและกระเทียม",
+      "name_en": "Camarones a la Diabla",
+      "desc_en": "Fiery Mexican devil shrimp simmered in a bold roasted chili and garlic sauce that hits all the right spicy notes.",
+      "ingredients_en": [
+        "Peeled and deveined white shrimp: 250 g",
+        "Crushed tomatoes: 150 g",
+        "Guajillo chili paste or chipotle chili sauce: 2 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Butter or olive oil: 2 tbsp",
+        "Lime juice and salt: to taste"
+      ],
+      "steps_en": [
+        "Blend the crushed tomatoes, chipotle sauce, and garlic until completely smooth into a deep red sauce.",
+        "Heat butter or olive oil in a skillet over medium heat, sauté the shrimp until 70% cooked, and set aside.",
+        "Pour the chili sauce into the pan, simmer for 4–5 minutes until rich and thickened, and season with salt and lime juice.",
+        "Return the shrimp to the skillet to coat evenly in the sauce, then serve with Mexican rice and lime wedges."
+      ]
     },
     {
       "recipe_id": "mx_pop_057",
@@ -4487,7 +5134,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "วางเนื้อปลากะพงลงในซอส ปิดฝาอบไฟอ่อนประมาณ 8-10 นาทีจนเนื้อปลาสุกขาวนุ่ม",
         "ตักเสิร์ฟร้อนๆ ราดซอสมะเขือเทศมะกอกให้ทั่ว"
       ],
-      "note": "เมนูชายฝั่งรัฐเวรากรูซ เนื้อปลานุ่มไขมันต่ำ เปรี้ยวเค็มกลมกล่อมไม่เผ็ด เหมาะกับผู้สูงอายุ"
+      "note": "เมนูชายฝั่งรัฐเวรากรูซ เนื้อปลานุ่มไขมันต่ำ เปรี้ยวเค็มกลมกล่อมไม่เผ็ด เหมาะกับผู้สูงอายุ",
+      "name_en": "Pescado a la Veracruzana",
+      "desc_en": "A coastal Veracruz specialty of lean, tender white fish poached in a tangy, mild tomato, olive, and caper sauce—ideal for seniors.",
+      "ingredients_en": [
+        "White sea bass fillets: 250 g",
+        "Diced tomatoes: 200 g",
+        "Sliced onion and minced garlic: 60 g",
+        "Pitted green olives: 40 g",
+        "Capers: 1 tbsp",
+        "Bay leaf, oregano, and olive oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the onion and garlic in olive oil until soft and fragrant.",
+        "Add the diced tomatoes, green olives, capers, bay leaf, and oregano, simmering for 10 minutes into a thick sauce.",
+        "Nestle the sea bass fillets into the sauce, cover, and gently braise over low heat for 8–10 minutes until opaque and tender.",
+        "Plate hot with the tomato-olive sauce spooned generously over the fish."
+      ]
     },
     {
       "recipe_id": "mx_pop_058",
@@ -4534,7 +5197,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "นำลงหม้อตุ๋นพร้อมน้ำซุป ปิดฝาเคี่ยวไฟอ่อน 75-90 นาทีจนเนื้อเปื่อยนุ่มฉีกง่าย",
         "ฉีกเนื้อเป็นเส้นจัดจาน เสิร์ฟคู่แผ่นตอร์ตียาอุ่น หอมใหญ่สับ ผักชี และมะนาวสด"
       ],
-      "note": "เนื้อตุ๋นเปื่อยนุ่มละมุนสไตล์เม็กซิกันตอนกลาง ไม่เผ็ด ทานง่ายทั้งครอบครัว"
+      "note": "เนื้อตุ๋นเปื่อยนุ่มละมุนสไตล์เม็กซิกันตอนกลาง ไม่เผ็ด ทานง่ายทั้งครอบครัว",
+      "name_en": "Barbacoa de Borrego",
+      "desc_en": "Central Mexican slow-braised lamb or beef that shreds effortlessly—mild, succulent, and comforting for the whole family.",
+      "ingredients_en": [
+        "Slightly marbled lamb or beef: 350 g",
+        "Bay leaf, cloves, cumin, and oregano: a small amount each",
+        "Crushed garlic and onion: 60 g",
+        "Apple cider vinegar and broth: 200 ml",
+        "Tortillas, chopped onion, cilantro, and lime wedges for serving: to taste"
+      ],
+      "steps_en": [
+        "Season and marinate the meat with the spices, garlic, apple cider vinegar, and salt.",
+        "Transfer to a pot with the broth, cover, and braise over low heat for 75–90 minutes until fall-apart tender.",
+        "Shred the meat onto a platter and serve alongside warm tortillas, chopped onion, cilantro, and fresh lime."
+      ]
     },
     {
       "recipe_id": "mx_pop_059",
@@ -4578,7 +5255,22 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ผ่าครึ่งขนมปัง ตักไส้มันฝรั่งโชริโซใส่ให้เต็ม",
         "โปะผักกาดแก้วซอย ราดซาวร์ครีม และโรยชีส เสิร์ฟร้อนๆ"
       ],
-      "note": "แซนด์วิชสตรีทฟู้ดสีแดงสดอันเป็นเอกลักษณ์ของเม็กซิโก หอมพริกแห้งกวาฮิโยและมันฝรั่งโชริโซ"
+      "note": "แซนด์วิชสตรีทฟู้ดสีแดงสดอันเป็นเอกลักษณ์ของเม็กซิโก หอมพริกแห้งกวาฮิโยและมันฝรั่งโชริโซ",
+      "name_en": "Pambazos",
+      "desc_en": "Mexico's iconic crimson street sandwich dipped in mild guajillo chili sauce and griddled around a hearty potato-and-chorizo filling.",
+      "ingredients_en": [
+        "Soft bolillo rolls or burger buns: 2 pieces",
+        "Boiled small-diced potatoes: 150 g",
+        "Crumbled chorizo sausage: 100 g",
+        "Blended mild guajillo chili sauce: 1/2 cup",
+        "Shredded iceberg lettuce, sour cream, and queso fresco: 4 tbsp"
+      ],
+      "steps_en": [
+        "Fry the chorizo until browned and fragrant, then toss in the boiled potato cubes to absorb the savory drippings and set aside.",
+        "Brush or dip the outside of the bread rolls in the red guajillo sauce and griddle over medium heat until lightly crisp and aromatic.",
+        "Slice the rolls open and pack generously with the potato and chorizo filling.",
+        "Tuck in shredded lettuce, drizzle with sour cream, crumble cheese on top, and serve hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_060",
@@ -4624,7 +5316,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ใส่ตอร์ตียาชิปส์ลงคลุกเร็วๆ 1-2 นาทีให้ซอสเคลือบทั่วแต่ยังคงความกรอบบางส่วน",
         "ตักใส่จาน โปะไข่ดาวเยิ้มๆ ด้านบน ราดซาวร์ครีม โรยชีสและผักชี เสิร์ฟทันที"
       ],
-      "note": "อาหารเช้าสุดคลาสสิกของเม็กซิโก เปรี้ยวหอมสดชื่นจากซัลซ่ามะเขือเทศเขียว"
+      "note": "อาหารเช้าสุดคลาสสิกของเม็กซิโก เปรี้ยวหอมสดชื่นจากซัลซ่ามะเขือเทศเขียว",
+      "name_en": "Chilaquiles Verdes",
+      "desc_en": "A classic Mexican breakfast balancing crisp tortilla chips with bright, tangy tomatillo salsa verde and a runny fried egg.",
+      "ingredients_en": [
+        "Crispy corn tortilla chips: 100 g",
+        "Tomatillo green salsa (salsa verde): 180 ml",
+        "Sunny-side-up fried egg: 1 piece",
+        "Sour cream and queso fresco: 3 tbsp",
+        "Cilantro and sliced shallots: a pinch"
+      ],
+      "steps_en": [
+        "Warm the salsa verde in a skillet until gently simmering.",
+        "Toss in the tortilla chips quickly for 1–2 minutes until evenly coated while retaining some crunch.",
+        "Plate immediately, top with a runny fried egg, drizzle with sour cream, scatter with cheese and cilantro, and serve."
+      ]
     },
     {
       "recipe_id": "mx_pop_061",
@@ -4670,7 +5376,22 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ราดซอสมะเขือเทศอุ่นๆ โรยแฮมหั่นเต๋าและถั่วลันเตาต้ม",
         "จัดกล้วยทอดหวานหอมเคียงข้างจาน เสิร์ฟเป็นมื้อเช้าครบ 5 หมู่"
       ],
-      "note": "อาหารเช้าประจำเมืองโมตุล รัฐยูกาตัน ผสานรสเค็มมันของไข่แฮมกับความหวานหอมของกล้วยทอด"
+      "note": "อาหารเช้าประจำเมืองโมตุล รัฐยูกาตัน ผสานรสเค็มมันของไข่แฮมกับความหวานหอมของกล้วยทอด",
+      "name_en": "Huevos Motulenos",
+      "desc_en": "A traditional breakfast from Motul, Yucatan combining savory eggs, ham, and black beans with sweet caramelized fried plantains.",
+      "ingredients_en": [
+        "Crisp griddled corn tortillas: 2 pieces",
+        "Warm refried black beans: 4 tbsp",
+        "Fried eggs: 2 pieces",
+        "Mexican tomato salsa: 4 tbsp",
+        "Diced ham and boiled green peas: 50 g",
+        "Butter-fried sliced banana or plantain: 4 pieces"
+      ],
+      "steps_en": [
+        "Spread warm refried black beans over the crisp corn tortillas and place the fried eggs on top.",
+        "Spoon warm tomato salsa over the eggs and scatter with diced ham and green peas.",
+        "Serve with sweet fried banana slices alongside for a balanced, flavorful breakfast."
+      ]
     },
     {
       "recipe_id": "mx_pop_062",
@@ -4718,7 +5439,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ใส่อกไก่ฉีกและบีบน้ำมะนาวสดปรุงรสด้วยเกลือให้ได้รสกลมกล่อมเปรี้ยวหอมสดชื่น",
         "ตักใส่ชาม โรยเส้นตอร์ตียาอบกรอบและวางมะนาวฝานแว่นเสิร์ฟร้อนๆ"
       ],
-      "note": "ซุปใสขึ้นชื่อของแคว้นยูกาตัน หอมมะนาว ซดคล่องคอ ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "ซุปใสขึ้นชื่อของแคว้นยูกาตัน หอมมะนาว ซดคล่องคอ ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Sopa de Lima",
+      "desc_en": "A celebrated clear Yucatan chicken soup bright with fresh lime—completely mild, soothing, and ideal for seniors.",
+      "ingredients_en": [
+        "Clear chicken broth: 600 ml",
+        "Boiled shredded chicken breast: 150 g",
+        "Fresh lime juice and lime slices: 1 piece",
+        "Onion, garlic, and oregano: 40 g",
+        "Baked crispy corn tortilla strips for topping: 30 g"
+      ],
+      "steps_en": [
+        "Simmer the chicken broth with onion, garlic, and oregano for about 15 minutes until aromatic.",
+        "Stir in the shredded chicken and fresh lime juice, seasoning with salt for a bright, clean flavor.",
+        "Ladle into bowls and top with crispy tortilla strips and fresh lime slices before serving hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_063",
@@ -4763,7 +5498,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "เติมน้ำซุปเคี่ยวไฟอ่อน 15 นาทีจนซุปเนียนหอม ใส่อกไก่ฉีกและปรุงเกลือตามชอบ",
         "ตักใส่ชาม ตกแต่งด้วยอะโวคาโดสด ซาวร์ครีม ชีส และเส้นตอร์ตียากรอบก่อนเสิร์ฟ"
       ],
-      "note": "ซุปแอซเท็กสูตรดั้งเดิม รสเปรี้ยวหวานธรรมชาติจากมะเขือเทศและมันนุ่มจากอะโวคาโด"
+      "note": "ซุปแอซเท็กสูตรดั้งเดิม รสเปรี้ยวหวานธรรมชาติจากมะเขือเทศและมันนุ่มจากอะโวคาโด",
+      "name_en": "Sopa Azteca",
+      "desc_en": "Traditional Aztec tortilla soup pairing naturally sweet-tart roasted tomato broth with creamy fresh avocado.",
+      "ingredients_en": [
+        "Roasted ripe tomatoes, pureed smooth: 250 g",
+        "Chicken or vegetable broth: 500 ml",
+        "Shredded chicken breast (optional): 100 g",
+        "Sliced avocado: 1/2 piece",
+        "Crispy tortilla strips, sour cream, and shredded cheese: 4 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the pureed tomatoes with garlic and onion in a little oil until fragrant.",
+        "Pour in the broth, simmer over low heat for 15 minutes until smooth and savory, then add shredded chicken and salt to taste.",
+        "Ladle into bowls and garnish with fresh avocado slices, sour cream, shredded cheese, and crisp tortilla strips before serving."
+      ]
     },
     {
       "recipe_id": "mx_pop_064",
@@ -4810,7 +5559,21 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ปิดไฟ คลุกข้าวโพดร้อนๆ กับมายองเนส ซาวร์ครีม น้ำมะนาว และผักชีสับ",
         "ตักใส่ถ้วย โรยชีสขูดและพริกป่นเล็กน้อย เสิร์ฟคู่ซีกมะนาว"
       ],
-      "note": "สตรีทฟู้ดถ้วยโปรดของชาวเม็กซิกัน หอมหวานข้าวโพดคั่วตัดกับมะนาวและชีส"
+      "note": "สตรีทฟู้ดถ้วยโปรดของชาวเม็กซิกัน หอมหวานข้าวโพดคั่วตัดกับมะนาวและชีส",
+      "name_en": "Esquites",
+      "desc_en": "Mexico's favorite street corn cup, tossing sweet charred kernels with tangy lime, creamy dressing, and savory cheese.",
+      "ingredients_en": [
+        "Sweet corn kernels: 250 g",
+        "Unsalted butter: 1 tbsp",
+        "Mayonnaise and sour cream: 1 tbsp each",
+        "Grated cotija or parmesan cheese: 2 tbsp",
+        "Fresh lime juice, chopped cilantro, and Tajin chili powder: a pinch"
+      ],
+      "steps_en": [
+        "Char the corn kernels in unsalted butter over high heat until lightly blistered and fragrant.",
+        "Remove from heat and toss the hot corn with mayonnaise, sour cream, lime juice, and chopped cilantro.",
+        "Spoon into cups, sprinkle with grated cheese and a pinch of chili powder, and serve with lime wedges."
+      ]
     },
     {
       "recipe_id": "mx_pop_065",
@@ -4859,7 +5622,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ใส่ถั่วต้มสุกและน้ำซุป เคี่ยวไฟอ่อน 20 นาทีให้น้ำซุปข้นหอมกลมกล่อม",
         "โรยผักชีสดแล้วตักเสิร์ฟร้อนๆ"
       ],
-      "note": "ซุปถั่วสไตล์คาวบอยเม็กซิกัน อุดมโปรตีนและไฟเบอร์ หอมเบคอนและมะเขือเทศ"
+      "note": "ซุปถั่วสไตล์คาวบอยเม็กซิกัน อุดมโปรตีนและไฟเบอร์ หอมเบคอนและมะเขือเทศ",
+      "name_en": "Frijoles Charros",
+      "desc_en": "Hearty Mexican cowboy bean soup packed with protein and fiber, rich with smoky bacon, sausage, and sweet tomatoes.",
+      "ingredients_en": [
+        "Cooked pinto or red kidney beans: 250 g",
+        "Chopped bacon and sausage: 100 g",
+        "Diced tomato and onion: 100 g",
+        "Minced garlic and ground cumin: 1 tsp",
+        "Broth: 450 ml",
+        "Fresh cilantro for garnish: to taste"
+      ],
+      "steps_en": [
+        "Cook the bacon and sausage in a pot until golden and crisp.",
+        "Add the onion, garlic, and tomato, sautéing until soft, then stir in the ground cumin.",
+        "Add the cooked beans and broth and simmer over low heat for 20 minutes until thick and savory.",
+        "Scatter with fresh cilantro and serve steaming hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_066",
@@ -4908,7 +5687,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ใส่มะเขือเทศหั่นเต๋า ปรุงรสเกลือและพริกไทยขาว ผัดต่ออีก 2 นาที",
         "โรยชีสขูดแล้วปิดฝา 1 นาทีจนชีสละลายเยิ้ม เสิร์ฟร้อนๆ"
       ],
-      "note": "ผัดผักสีสวยรสหวานธรรมชาติ นุ่มย่อยง่าย ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุและเด็ก"
+      "note": "ผัดผักสีสวยรสหวานธรรมชาติ นุ่มย่อยง่าย ไม่เผ็ด เหมาะมากสำหรับผู้สูงอายุและเด็ก",
+      "name_en": "Calabacitas con Queso",
+      "desc_en": "A colorful, naturally sweet vegetable sauté that is soft, non-spicy, and easy to digest—wonderful for seniors and kids.",
+      "ingredients_en": [
+        "Diced zucchini: 250 g",
+        "Sweet corn kernels: 100 g",
+        "Diced tomatoes: 100 g",
+        "Minced onion and garlic: 40 g",
+        "Shredded mozzarella or Monterey Jack cheese: 60 g",
+        "Olive oil and salt: 1 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the onion and garlic in olive oil until fragrant.",
+        "Add the zucchini and sweet corn and cook for 5 minutes until tender without turning mushy.",
+        "Stir in the diced tomatoes, season with salt and white pepper, and cook for 2 more minutes.",
+        "Sprinkle with shredded cheese, cover for 1 minute until melted and gooey, and serve hot."
+      ]
     },
     {
       "recipe_id": "mx_pop_067",
@@ -4955,7 +5750,23 @@ window.KITCHSYNC_PACK_DATA.mx_popular = {
         "ทอดในน้ำมันร้อนไฟกลางข้างละ 45-60 วินาทีจนพองกรอบสีเหลืองทอง",
         "ตักซับน้ำมันแล้วคลุกน้ำตาลทรายผสมผงอบเชยขณะยังอุ่น เสิร์ฟกรอบหอม"
       ],
-      "note": "ขนมหวานเทศกาลของเม็กซิโก แผ่นบางกรอบฟูหอมกลิ่นอบเชย ทานเพลินคู่กาแฟหรือโกโก้ร้อน"
+      "note": "ขนมหวานเทศกาลของเม็กซิโก แผ่นบางกรอบฟูหอมกลิ่นอบเชย ทานเพลินคู่กาแฟหรือโกโก้ร้อน",
+      "name_en": "Bunuelos",
+      "desc_en": "Festive Mexican fried pastries—paper-thin, airy, and crisp with warm cinnamon sugar to enjoy alongside coffee or hot cocoa.",
+      "ingredients_en": [
+        "All-purpose flour: 200 g",
+        "Melted unsalted butter: 25 g",
+        "Egg: 1 piece",
+        "Warm water and baking powder: 70 ml / 1/2 tsp",
+        "Cinnamon sugar for coating: 4 tbsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Knead the flour, baking powder, egg, melted butter, and warm water into a smooth dough, then rest for 15 minutes.",
+        "Divide into small balls and roll each out as thin as possible into flat rounds.",
+        "Fry in hot oil over medium heat for 45–60 seconds per side until puffed, crisp, and golden.",
+        "Drain briefly and toss in cinnamon sugar while still warm, then serve crisp and fragrant."
+      ]
     }
   ]
 };

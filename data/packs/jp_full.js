@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Japanese Full (370 recipes)
-// Place this file at assets/data/packs/jp_full.js
+// KitchSync Master Pack: jp_full (374 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.jp_full = {
   "pack_id": "jp_full",
@@ -41,7 +40,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_001",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; adjust the sugar to taste.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh: 140 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Cooking sake: 1 tbsp",
+        "Sugar: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, mirin, cooking sake, and sugar together until combined.",
+        "Heat the oil in a skillet over medium heat, sear the chicken skin-side down until golden, then flip.",
+        "Pour in the sauce, reduce the heat, and simmer until the chicken reaches 74°C throughout and the sauce thickens to a glaze.",
+        "Slice the chicken into bite-sized pieces.",
+        "Scoop the rice into a bowl, top with the chicken, drizzle with sauce, and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดขิง",
@@ -72,7 +90,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_002",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Pork Rice Bowl (Butadon)",
+      "desc_en": "Serves 1 with approximate calorie estimates; use thinly sliced pork so it cooks quickly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 120 g",
+        "Onion, wedged: 25 g",
+        "Grated ginger: 5 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Cooking sake: 1 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Mix the grated ginger, soy sauce, mirin, and cooking sake together.",
+        "Heat the oil in a skillet over medium heat and sauté the onion until it begins to soften.",
+        "Add the sliced pork and stir-fry until cooked through.",
+        "Pour in the sauce and toss until it evenly coats the meat.",
+        "Serve hot over Japanese rice."
+      ]
     },
     {
       "title": "ข้าวแกงกะหรี่ญี่ปุ่นไก่",
@@ -103,7 +140,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_003",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Japanese Chicken Curry Rice",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the curry roux label for spice level and ingredients.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast, diced: 120 g",
+        "Potato, diced: 60 g",
+        "Carrot, diced: 35 g",
+        "Onion, diced: 35 g",
+        "Japanese curry roux block: 25 g",
+        "Water: 250 ml",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pot over medium heat and sauté the onion until translucent.",
+        "Add the chicken and cook until the outside changes color.",
+        "Add the potato, carrot, and water, bring to a boil, then reduce the heat.",
+        "Simmer for about 15–20 minutes until the vegetables are tender and the chicken is cooked through.",
+        "Turn off the heat, stir in the curry roux until dissolved, gently reheat until thickened, and serve over rice."
+      ]
     },
     {
       "title": "ไก่คาราอาเกะ",
@@ -133,7 +189,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_004",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Chicken Karaage",
+      "desc_en": "Serves 1 with approximate calorie estimates; watch out for oil splatter and avoid overcrowding the pan.",
+      "ingredients_en": [
+        "Skinless chicken thigh, cut into bite-sized pieces: 150 g",
+        "Japanese soy sauce: 2 tsp",
+        "Cooking sake: 1 tsp",
+        "Grated ginger: 3 g",
+        "Grated garlic: 2 g",
+        "Potato starch: 20 g",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Marinate the chicken with the soy sauce, sake, ginger, and garlic for 15 minutes.",
+        "Toss the chicken in potato starch until evenly coated.",
+        "Heat oil over medium heat and fry the chicken in batches until cooked to 74°C throughout.",
+        "Transfer to a wire rack to drain excess oil.",
+        "Serve hot with lemon wedges or vegetables of choice."
+      ]
     },
     {
       "title": "โอยาโกะด้ง",
@@ -164,7 +238,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_005",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Oyakodon (Chicken and Egg Rice Bowl)",
+      "desc_en": "Serves 1 with approximate calorie estimates; use kombu or fish dashi to suit your dietary preference.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced chicken breast: 100 g",
+        "Eggs: 2 pieces",
+        "Onion, thinly sliced: 30 g",
+        "Dashi stock: 100 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tbsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, and mirin in a skillet, add the onion, and bring to a gentle simmer.",
+        "Add the chicken and simmer until cooked to 74°C throughout.",
+        "Lightly beat the eggs and pour them evenly over the skillet.",
+        "Cover and cook until the eggs set to your desired doneness.",
+        "Slide over a bowl of rice, garnish with chopped scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนย่างเกลือ",
@@ -194,7 +287,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_006",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salt-Grilled Salmon Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the salmon carefully for pin bones before cooking.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 130 g",
+        "Salt: 1 pinch",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 25 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Chopped scallion: 3 g"
+      ],
+      "steps_en": [
+        "Pat the salmon dry and season both sides with salt.",
+        "Heat a grill pan over medium heat, brush lightly with oil, and sear the salmon skin-side down.",
+        "Flip and cook until the center reaches 63°C or the flesh turns opaque and flakes easily.",
+        "Warm the rice and scoop it into a bowl.",
+        "Top the rice with the salmon and grated daikon, then finish with soy sauce and scallions."
+      ]
     },
     {
       "title": "ซุปมิโสะเต้าหู้และสาหร่าย",
@@ -225,7 +336,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Tofu and Wakame Miso Soup",
+      "desc_en": "Serves 1 with approximate calorie estimates; sodium levels in miso and wakame vary by brand, making this gentle dish suitable for seniors.",
+      "ingredients_en": [
+        "Silken tofu, diced: 80 g",
+        "Dried wakame seaweed: 2 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Chopped scallion: 5 g"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package directions and drain well.",
+        "Heat the dashi in a pot until steaming hot without bringing it to a hard boil.",
+        "Add the tofu and wakame and warm gently over low heat.",
+        "Dissolve the miso in a ladleful of warm broth, then stir it back into the pot.",
+        "Turn off the heat just before boiling, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ยากิโซบะหมู",
@@ -255,7 +382,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_008",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork Yakisoba",
+      "desc_en": "Serves 1 with approximate calorie estimates; check noodle and sauce labels for any dietary restrictions.",
+      "ingredients_en": [
+        "Yakisoba noodles: 150 g",
+        "Sliced pork loin: 80 g",
+        "Cabbage, chopped: 50 g",
+        "Carrot, julienned: 20 g",
+        "Yakisoba sauce: 1 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Pickled red ginger (beni shoga): 10 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat and stir-fry the pork until cooked through.",
+        "Add the carrot and cabbage and stir-fry for about 2 minutes.",
+        "Add the yakisoba noodles with 1–2 tbsp water and gently loosen the strands.",
+        "Stir in the yakisoba sauce and toss until the noodles are heated through and evenly coated.",
+        "Serve garnished with pickled red ginger."
+      ]
     },
     {
       "title": "อุด้งน้ำซุปเต้าหู้และผัก",
@@ -288,7 +433,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tofu and Vegetable Udon Soup",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a dashi base suited to your diet, as this comforting soup is suitable for seniors.",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Firm tofu, diced: 70 g",
+        "Napa cabbage, chopped: 50 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Dashi stock: 350 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Chopped scallion: 5 g"
+      ],
+      "steps_en": [
+        "Bring the dashi and soy sauce to a gentle simmer in a pot.",
+        "Add the napa cabbage and shiitake mushrooms and cook until starting to soften.",
+        "Add the udon noodles and tofu, then simmer according to the noodle package instructions.",
+        "Ensure both the noodles and tofu are heated completely through.",
+        "Ladle into a bowl, sprinkle with scallions, and serve."
+      ]
     },
     {
       "title": "ทงคัตสึหมู",
@@ -318,7 +481,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_010",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Crispy Pork Tonkatsu",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil carefully and adjust frying time for pork chop thickness.",
+      "ingredients_en": [
+        "Thick-cut pork loin chop: 140 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 25 g",
+        "Oil for frying: as needed",
+        "Shredded cabbage: 50 g",
+        "Tonkatsu sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pat the pork dry and lightly score the fat edges to prevent curling while frying.",
+        "Dredge the pork in flour, dip into beaten egg, and press evenly into panko breadcrumbs.",
+        "Heat oil over medium heat and fry until golden brown on both sides and the center reaches 63°C.",
+        "Let the cutlet rest for at least 3 minutes before slicing into strips.",
+        "Serve alongside shredded cabbage and tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งเทมปุระ",
@@ -348,7 +529,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_011",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp Tempura Rice Bowl (Tendon)",
+      "desc_en": "Serves 1 with approximate calorie estimates; watch for hot oil splatter and fry the shrimp until fully cooked.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled with tails intact: 120 g",
+        "Tempura batter mix: 35 g",
+        "Ice-cold water: 45 ml",
+        "Tempura sauce (tentsuyu): 1 tbsp",
+        "Oil for frying: as needed",
+        "Grated daikon radish: 15 g"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and make shallow slits along the underside to keep them straight while frying.",
+        "Lightly stir the tempura mix with ice-cold water, leaving a few small lumps.",
+        "Dip the shrimp in batter and fry in hot oil until cooked through and golden crisp.",
+        "Drain on a wire rack to remove excess oil.",
+        "Scoop rice into a bowl, arrange the shrimp on top, drizzle with tempura sauce, and serve with grated daikon."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาไหลย่าง",
@@ -376,7 +575,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_012",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Eel Rice Bowl (Unadon)",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the labels on the prepared eel and sauce before use.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Ready-to-eat grilled eel (unagi): 100 g",
+        "Unagi eel sauce: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Chopped scallion: 3 g"
+      ],
+      "steps_en": [
+        "Warm the grilled eel according to package instructions or broil over low heat until heated through.",
+        "Brush the eel sauce over the fish and warm briefly to set the glaze.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Lay the eel over the rice and drizzle with any remaining sauce.",
+        "Sprinkle with sesame seeds and scallions before serving."
+      ]
     },
     {
       "title": "โอนิกิริไส้ทูน่ามายองเนส",
@@ -404,7 +619,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_013",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tuna Mayo Onigiri Rice Ball",
+      "desc_en": "Serves 1 with approximate calorie estimates; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna, drained: 45 g",
+        "Japanese mayonnaise: 1 tsp",
+        "Nori seaweed sheet: 1 sheet",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Mix the drained tuna and Japanese mayonnaise together until smooth.",
+        "Lightly wet your hands with water and rub a pinch of salt across your palms.",
+        "Divide the rice in half, place the tuna filling in the center of one portion, and cover with the remaining rice.",
+        "Gently shape into a firm triangle or round ball without over-compressing.",
+        "Wrap with a nori seaweed sheet just before serving."
+      ]
     },
     {
       "title": "ไข่ม้วนทามาโกะ",
@@ -436,7 +667,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Japanese Rolled Omelet (Tamagoyaki)",
+      "desc_en": "Serves 1; cook the eggs thoroughly before serving, making it suitable for seniors.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Dashi stock: 1 tbsp",
+        "Mirin: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Japanese soy sauce: 1/4 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs with dashi, mirin, sugar, and soy sauce until well blended.",
+        "Heat a rectangular tamagoyaki pan or nonstick skillet over low heat and brush lightly with oil.",
+        "Pour in a thin layer of egg; as it begins to set, roll it toward yourself.",
+        "Lightly oil the pan again, pour in another layer of egg, and lift the roll so liquid egg flows underneath.",
+        "Repeat until all egg is used and cooked through, then rest briefly and slice into pieces."
+      ]
     },
     {
       "title": "ยากิโทริไก่ต้นหอม",
@@ -466,7 +714,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_015",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Chicken and Scallion Yakitori Skewers",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot skewers carefully and ensure the chicken is cooked through.",
+      "ingredients_en": [
+        "Skinless chicken thigh, diced: 130 g",
+        "Scallion, cut into chunks: 40 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Cooking sake: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Skewers: 2 pieces"
+      ],
+      "steps_en": [
+        "Soak wooden skewers in water for at least 15 minutes if using bamboo skewers.",
+        "Thread the chicken and scallion pieces alternately onto the skewers, leaving a tiny gap between pieces.",
+        "Stir the soy sauce, mirin, sake, and sugar together to make the tare glaze.",
+        "Grill on a skillet or grill over medium heat, turning and brushing with glaze periodically until the chicken reaches 74°C.",
+        "Brush with one final coat of glaze before removing from heat and serving."
+      ]
     },
     {
       "title": "โซบะเย็นซอสสึยุ",
@@ -495,7 +761,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_016",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chilled Soba Noodles with Tsuyu Dipping Sauce",
+      "desc_en": "Serves 1; check soba noodle and tsuyu labels carefully, as some noodles contain wheat and tsuyu often contains fish.",
+      "ingredients_en": [
+        "Dried soba noodles: 80 g",
+        "Tsuyu dipping sauce base: 40 ml",
+        "Cold water: 60 ml",
+        "Chopped scallion: 5 g",
+        "Shredded nori seaweed: 2 g",
+        "Wasabi: to taste"
+      ],
+      "steps_en": [
+        "Boil the soba noodles according to the package timing.",
+        "Drain and rinse thoroughly under cold running water until chilled and free of surface starch.",
+        "Combine the tsuyu base and cold water in a small dipping cup.",
+        "Arrange the chilled noodles on a plate and top with shredded nori.",
+        "Serve with scallions and wasabi, dipping the noodles into the sauce before each bite."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูคัตสึ",
@@ -525,7 +808,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_017",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Katsudon (Crispy Pork Cutlet Rice Bowl)",
+      "desc_en": "Serves 1 with approximate calorie estimates; use fully cooked tonkatsu and ensure it is heated through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked breaded pork loin cutlet: 120 g",
+        "Egg: 1 piece",
+        "Onion, thinly sliced: 25 g",
+        "Dashi stock: 80 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp"
+      ],
+      "steps_en": [
+        "Slice the cooked pork cutlet into bite-sized strips.",
+        "Combine the dashi, soy sauce, and mirin in a small skillet, add the onion, and simmer until tender.",
+        "Place the sliced pork cutlet on top of the simmering onions.",
+        "Lightly beat the egg, pour it around the pork, cover, and cook until the egg is cooked through.",
+        "Slide the mixture over a bowl of Japanese rice and serve."
+      ]
     },
     {
       "title": "ซุปนาเบะผักและเต้าหู้",
@@ -558,7 +859,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Tofu and Vegetable Nabe Hot Pot",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a dashi suited to your dietary needs, as this warm broth is suitable for seniors.",
+      "ingredients_en": [
+        "Silken tofu, diced: 90 g",
+        "Napa cabbage, chopped: 80 g",
+        "Fresh shiitake mushrooms, sliced: 30 g",
+        "Carrot, sliced: 25 g",
+        "Dashi stock: 350 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Chopped scallion: 5 g"
+      ],
+      "steps_en": [
+        "Bring the dashi and soy sauce to a gentle simmer in a small pot.",
+        "Add the carrot, napa cabbage, and shiitake mushrooms, cooking until starting to soften.",
+        "Add the silken tofu and lower the heat.",
+        "Simmer gently until all ingredients are heated through.",
+        "Top with chopped scallions and serve straight from the pot or ladled into a bowl."
+      ]
     },
     {
       "title": "ปลาคอดชุบเกล็ดขนมปังญี่ปุ่น",
@@ -588,7 +907,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_019",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Crispy Panko-Breaded Cod",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil safely and verify the fish is cooked through.",
+      "ingredients_en": [
+        "Cod or white fish fillet: 150 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed",
+        "Shredded cabbage: 40 g",
+        "Tonkatsu sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Check the fish fillet for bones and pat completely dry.",
+        "Dredge the fish in flour, dip in beaten egg, and coat thoroughly with panko breadcrumbs.",
+        "Fry over medium heat until the crust is golden brown and the fish reaches 63°C internally.",
+        "Drain on a wire rack.",
+        "Serve with shredded cabbage and tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งเทริยากิ",
@@ -618,7 +955,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_020",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Shrimp Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook the shrimp until opaque and heated through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 130 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the soy sauce, mirin, and honey together.",
+        "Heat the oil in a skillet over medium heat and sauté the shrimp until they begin turning pink.",
+        "Pour in the sauce and simmer until the shrimp are cooked through and glazed.",
+        "Spoon the rice into a bowl and arrange the shrimp and sauce on top.",
+        "Sprinkle with white sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะย่างมิโสะ",
@@ -648,7 +1003,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_021",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Glazed Grilled Mackerel Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; mackerel may contain fine pin bones, so inspect carefully and eat with caution.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Mackerel fillet (saba): 130 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Stir the miso, mirin, and water together into a smooth glaze.",
+        "Inspect the mackerel fillet and remove any visible bones.",
+        "Grill the fish in a skillet over medium heat until nearly cooked, brush on the miso glaze, and flip.",
+        "Continue cooking until the center of the fish reaches 63°C.",
+        "Scoop rice into a bowl, top with the mackerel, and garnish with sesame seeds and scallions."
+      ]
     },
     {
       "title": "โคร็อกเกะมันฝรั่งไส้ผัก",
@@ -678,7 +1051,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_022",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Vegetable Potato Korokke (Croquettes)",
+      "desc_en": "Serves 1 with approximate calorie estimates; let the filling cool slightly before shaping and take care with hot oil.",
+      "ingredients_en": [
+        "Boiled mashed potato: 150 g",
+        "Carrot, finely diced: 20 g",
+        "Cooked sweet corn kernels: 20 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Mix the mashed potato with the diced carrot and corn, then shape into flat oval patties.",
+        "Coat each patty in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Heat oil over medium heat and fry until the croquettes are golden and crisp.",
+        "Drain on a wire rack.",
+        "Serve hot with tonkatsu sauce on the side if desired."
+      ]
     },
     {
       "title": "ข้าวหน้าผักเทมปุระ",
@@ -709,7 +1100,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_023",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Vegetable Tempura Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil carefully and fry the vegetables in small batches.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Kabocha pumpkin, thinly sliced: 40 g",
+        "Zucchini, sliced: 35 g",
+        "Large button mushrooms: 30 g",
+        "Tempura batter mix: 35 g",
+        "Ice-cold water: 45 ml",
+        "Tempura sauce (tentsuyu): 1 tbsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Gently mix the tempura batter mix with ice-cold water.",
+        "Dip the pumpkin, zucchini, and mushrooms into the batter.",
+        "Fry in hot oil in small batches until the batter is crisp and golden and the vegetables are tender.",
+        "Drain on a wire rack.",
+        "Scoop rice into a bowl, arrange the vegetable tempura on top, and drizzle with sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูชาชู",
@@ -738,7 +1148,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_024",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chashu Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; use fully cooked chashu pork stored according to package instructions.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked chashu pork, sliced: 100 g",
+        "Chashu glaze sauce: 1 tbsp",
+        "Boiled egg: 1/2 piece",
+        "Chopped scallion: 5 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Warm the sliced chashu pork in a skillet over low heat with the sauce until heated through.",
+        "Warm the Japanese rice and transfer it to a bowl.",
+        "Arrange the chashu pork over the rice and spoon the warm sauce on top.",
+        "Place the halved boiled egg alongside the pork.",
+        "Garnish with chopped scallions and sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่ามายองเนส",
@@ -768,7 +1195,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_025",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tuna Mayo Donburi Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna, drained: 70 g",
+        "Japanese mayonnaise: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Shredded nori seaweed: 2 g",
+        "Chopped scallion: 4 g",
+        "Cucumber, diced: 20 g"
+      ],
+      "steps_en": [
+        "Combine the drained tuna with Japanese mayonnaise and soy sauce.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the diced cucumber and tuna mixture over the rice.",
+        "Sprinkle with shredded nori and chopped scallions.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "สุกี้ยากี้หมูและผัก",
@@ -799,7 +1244,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_026",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Pork and Vegetable Sukiyaki",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook the pork thoroughly before eating.",
+      "ingredients_en": [
+        "Thinly sliced pork: 100 g",
+        "Napa cabbage, chopped: 70 g",
+        "Fresh shiitake mushrooms: 25 g",
+        "Firm tofu, diced: 50 g",
+        "Dashi stock: 200 ml",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, mirin, and sugar in a pot.",
+        "Bring to a gentle simmer and add the napa cabbage and shiitake mushrooms.",
+        "Add the tofu and simmer until the vegetables begin to soften.",
+        "Add the pork slices one by one and simmer until cooked completely through.",
+        "Ladle the pork, vegetables, and broth into a bowl and serve."
+      ]
     },
     {
       "title": "ข้าวปั้นโอนิกิริไส้บ๊วยดอง",
@@ -826,7 +1290,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_027",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Umeboshi Pickled Plum Onigiri",
+      "desc_en": "Serves 1 with approximate calorie estimates; saltiness of pickled plums varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Japanese pickled plum (umeboshi), pitted: 1 piece",
+        "Nori seaweed sheet: 1 sheet",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Divide the cooked Japanese rice into two equal portions.",
+        "Moisten your hands with water and rub lightly with a pinch of salt.",
+        "Press the pitted umeboshi into the center of one portion of rice.",
+        "Cover with the remaining rice and shape gently into a triangle.",
+        "Wrap with a sheet of nori seaweed before serving."
+      ]
     },
     {
       "title": "ทาโกะยากิสไตล์บ้าน",
@@ -857,7 +1336,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_028",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Homemade Takoyaki",
+      "desc_en": "Serves 1 with approximate calorie estimates; use pre-cooked octopus and be careful of the hot takoyaki pan.",
+      "ingredients_en": [
+        "Takoyaki batter mix: 50 g",
+        "Water: 150 ml",
+        "Egg: 1 piece",
+        "Cooked octopus, diced: 40 g",
+        "Chopped scallion: 5 g",
+        "Takoyaki sauce: 1 tbsp",
+        "Japanese mayonnaise: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the takoyaki flour mix with water and egg until smooth.",
+        "Preheat a takoyaki pan and brush the wells lightly with oil.",
+        "Pour batter into the wells and drop in the diced octopus and scallions.",
+        "Once the edges begin to set, turn with a skewer to form round balls and cook until golden and cooked through.",
+        "Drizzle with takoyaki sauce and Japanese mayonnaise before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวย่างซอสพอนสึ",
@@ -886,7 +1384,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_029",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled White Fish Bowl with Ponzu Sauce",
+      "desc_en": "Serves 1 with approximate calorie estimates; sodium content in ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 20 g",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Inspect the fish for bones and pat dry.",
+        "Heat a grill pan over medium heat with oil and place the fish inside.",
+        "Flip and cook until the center reaches 63°C or the flesh is opaque and flakes easily.",
+        "Warm the rice, spoon it into a bowl, and place the fish on top.",
+        "Drizzle with ponzu sauce and garnish with grated daikon and scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่คัตสึอบ",
@@ -917,7 +1432,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_030",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Oven-Baked Chicken Katsu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; baking time depends on the thickness of the chicken breast.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 130 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Tonkatsu sauce: 1 tbsp",
+        "Olive oil: 1 tsp",
+        "Shredded cabbage: 35 g"
+      ],
+      "steps_en": [
+        "Preheat the oven to 210°C, then dredge the chicken in flour, dip in egg, and coat in panko breadcrumbs.",
+        "Place the breaded chicken on a baking sheet and drizzle lightly with olive oil.",
+        "Bake for 18–22 minutes, flipping halfway through.",
+        "Verify the internal temperature reaches 74°C, then slice into strips.",
+        "Scoop rice into a bowl, top with chicken and shredded cabbage, and drizzle with tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้คัตสึ",
@@ -948,7 +1482,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_031",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Tofu Katsu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; pat the tofu thoroughly dry before breading and handle hot oil carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, thickly sliced: 120 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed",
+        "Tonkatsu sauce: 1 tbsp",
+        "Shredded cabbage: 35 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry, then coat in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Heat oil over medium heat and fry the tofu until golden crisp on both sides.",
+        "Drain on a wire rack, then slice into strips.",
+        "Scoop rice into a bowl and arrange the shredded cabbage and tofu katsu on top.",
+        "Drizzle with tonkatsu sauce and serve."
+      ]
     },
     {
       "title": "อุด้งผัดผักและเต้าหู้",
@@ -981,7 +1534,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Yaki Udon with Tofu and Vegetables",
+      "desc_en": "Serves 1 with approximate calorie estimates; check noodle and soy sauce labels for dietary restrictions, making this soft dish suitable for seniors.",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Firm tofu, diced: 70 g",
+        "Cabbage, chopped: 40 g",
+        "Carrot, julienned: 20 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Blanch the udon noodles according to package directions and drain well.",
+        "Sear the diced tofu in a skillet over medium heat until lightly golden.",
+        "Add the mushrooms, carrot, and cabbage and stir-fry until tender-crisp.",
+        "Toss in the udon noodles and soy sauce, stir-frying until heated through.",
+        "Transfer to a plate and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาคอดซอสเทริยากิ",
@@ -1011,7 +1582,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_033",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Cod Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; grilling time depends on the thickness of the fish.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cod or white fish fillet: 140 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, mirin, and honey to make the teriyaki glaze.",
+        "Check the fish for bones and pat dry.",
+        "Pan-sear the fish over medium heat until almost cooked through, then pour in the sauce.",
+        "Simmer gently, turning the fish carefully until the center reaches 63°C and the glaze coats the fillet.",
+        "Serve over rice and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่และผักเทมปุระ",
@@ -1042,7 +1631,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_034",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Fried Egg and Vegetable Tempura Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil carefully and cook the egg to your preferred doneness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 piece",
+        "Kabocha pumpkin, thinly sliced: 35 g",
+        "Zucchini, sliced: 30 g",
+        "Tempura batter mix: 30 g",
+        "Ice-cold water: 40 ml",
+        "Tempura sauce (tentsuyu): 1 tbsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Lightly stir the tempura batter mix with ice-cold water.",
+        "Dip the pumpkin and zucchini in batter and fry until crisp and cooked through.",
+        "Fry the egg in oil over medium heat until the white is set to your liking.",
+        "Drain the fried ingredients on a wire rack.",
+        "Scoop rice into a bowl, top with vegetable tempura and the egg, and drizzle with sauce before serving."
+      ]
     },
     {
       "title": "ซุปมิโสะปลาแซลมอนและผัก",
@@ -1074,7 +1682,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Salmon and Vegetable Miso Soup",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a suitable dashi and check the fish for bones, making this warming soup suitable for seniors.",
+      "ingredients_en": [
+        "Salmon fillet, diced: 100 g",
+        "Napa cabbage, chopped: 60 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 350 ml",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Bring the dashi to a gentle simmer in a pot and add the napa cabbage and shiitake mushrooms.",
+        "Cook until the vegetables begin to soften.",
+        "Add the diced salmon and simmer gently until the fish reaches 63°C internally.",
+        "Dissolve the miso in a small amount of broth and stir it back into the pot.",
+        "Turn off the heat before it boils, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดมิโสะ",
@@ -1105,7 +1730,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_036",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Pork Stir-Fry Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced pork loin: 120 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Onion, thinly sliced: 25 g",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Stir the miso, mirin, and water together until smooth.",
+        "Heat the oil in a skillet over medium heat and sauté the onion until soft.",
+        "Add the sliced pork and stir-fry until cooked through.",
+        "Pour in the miso sauce and toss until the pork is evenly glazed and piping hot.",
+        "Serve over rice and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ไก่ย่างซอสพอนสึ",
@@ -1134,7 +1778,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_037",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Grilled Chicken Breast with Ponzu Sauce",
+      "desc_en": "Serves 1 with approximate calorie estimates; sodium levels in ponzu sauce vary by brand.",
+      "ingredients_en": [
+        "Skinless chicken breast: 140 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 25 g",
+        "Chopped scallion: 4 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Pat the chicken breast dry and season with ground black pepper.",
+        "Heat a grill pan with oil over medium heat and sear the chicken until its center reaches 74°C.",
+        "Let the chicken rest for 3 minutes, then slice.",
+        "Top the sliced chicken with grated daikon radish and chopped scallions.",
+        "Drizzle with ponzu sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและไข่สไตล์ญี่ปุ่น",
@@ -1165,7 +1826,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_038",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese Shrimp and Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook both the shrimp and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 90 g",
+        "Egg: 1 piece",
+        "Onion, thinly sliced: 20 g",
+        "Dashi stock: 80 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, and mirin in a skillet, add the onion, and bring to a gentle simmer.",
+        "Add the shrimp and cook until they start turning pink.",
+        "Lightly beat the egg, pour it over the skillet, and cover with a lid.",
+        "Cook until the shrimp are cooked through and the egg sets as desired.",
+        "Slide over Japanese rice, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ยากิโซบะเต้าหู้และผัก",
@@ -1195,7 +1875,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_039",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tofu and Vegetable Yakisoba",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the noodle and sauce labels before use.",
+      "ingredients_en": [
+        "Yakisoba noodles: 150 g",
+        "Firm tofu, diced: 80 g",
+        "Cabbage, chopped: 45 g",
+        "Carrot, julienned: 20 g",
+        "Yakisoba sauce: 1 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Pickled red ginger (beni shoga): 10 g"
+      ],
+      "steps_en": [
+        "Pan-sear the tofu over medium heat until golden, then set aside.",
+        "Add oil to the skillet and stir-fry the carrot and cabbage until starting to soften.",
+        "Add the noodles with a splash of water and gently loosen the strands.",
+        "Stir in the yakisoba sauce and seared tofu, tossing until heated through.",
+        "Serve with pickled red ginger on the side."
+      ]
     },
     {
       "title": "สลัดสาหร่ายวากาเมะและแตงกวา",
@@ -1224,7 +1922,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_040",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Wakame Seaweed and Cucumber Salad",
+      "desc_en": "Serves 1 with approximate calorie estimates; saltiness of wakame seaweed varies by type and brand.",
+      "ingredients_en": [
+        "Dried wakame seaweed: 4 g",
+        "Cucumber, thinly sliced: 70 g",
+        "Rice vinegar: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sugar: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package instructions and drain well.",
+        "Toss the cucumber slices with a pinch of salt, rest 5 minutes, and squeeze out excess liquid.",
+        "Whisk the rice vinegar, soy sauce, and sugar together.",
+        "Toss the wakame and cucumber with the dressing.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าผักนึ่งซอสงา",
@@ -1255,7 +1970,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_041",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Steamed Vegetable Rice Bowl with Sesame Sauce",
+      "desc_en": "Serves 1 with approximate calorie estimates; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Broccoli florets: 45 g",
+        "Carrot, sliced: 35 g",
+        "Cauliflower florets: 40 g",
+        "Ground white sesame seeds: 8 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the broccoli, carrot, and cauliflower until tender to your liking.",
+        "Mix the ground sesame seeds, soy sauce, mirin, and water into a creamy sauce.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Arrange the steamed vegetables neatly over the rice.",
+        "Drizzle with sesame sauce before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่าซอสพอนสึ",
@@ -1284,7 +2018,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_042",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tuna and Ponzu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna in spring water, drained: 75 g",
+        "Ponzu sauce: 1 tbsp",
+        "Cucumber, diced: 25 g",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the drained tuna with ponzu sauce.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Top the rice with diced cucumber and the seasoned tuna.",
+        "Garnish with shredded nori and white sesame seeds.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่โซโบโระ",
@@ -1315,7 +2066,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_043",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken Soboro Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook both the ground chicken and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless ground chicken: 110 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Cooked green peas: 20 g"
+      ],
+      "steps_en": [
+        "Heat oil in a skillet over medium heat and cook the ground chicken, breaking it into fine crumbles with a spatula.",
+        "Add the ginger, soy sauce, and mirin, and stir-fry until the chicken reaches 74°C throughout.",
+        "Scramble the egg in a separate pan until cooked through.",
+        "Scoop rice into a bowl and arrange the chicken soboro, scrambled egg, and green peas in neat sections.",
+        "Serve warm."
+      ]
     },
     {
       "title": "ซุปเคนชินผักและเต้าหู้",
@@ -1349,7 +2119,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Kenchin Tofu and Root Vegetable Soup",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a dashi suited to your diet, as this wholesome soup is suitable for seniors.",
+      "ingredients_en": [
+        "Firm tofu, diced: 50 g",
+        "Daikon radish, diced: 40 g",
+        "Carrot, diced: 30 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Vegetable stock or dashi: 350 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Sesame oil: 1/4 tsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Heat sesame oil in a pot over medium heat and sauté the daikon and carrot briefly.",
+        "Pour in the stock and simmer until the root vegetables start to soften.",
+        "Add the shiitake mushrooms and tofu, simmering for about 5 minutes more.",
+        "Season with Japanese soy sauce.",
+        "Garnish with chopped scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสยากินิกุ",
@@ -1379,7 +2168,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_045",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yakiniku Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the yakiniku sauce label and taste before adding extra seasoning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 120 g",
+        "Onion, wedged: 25 g",
+        "Yakiniku BBQ sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a skillet over medium heat and sauté the onion until starting to soften.",
+        "Add the pork and stir-fry until cooked through.",
+        "Pour in the yakiniku sauce and toss until the meat is glossy and heated through.",
+        "Spoon over a bowl of Japanese rice.",
+        "Sprinkle with sesame seeds and scallions before serving."
+      ]
     },
     {
       "title": "ข้าวปั้นโอนิกิริไส้แซลมอน",
@@ -1407,7 +2214,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_046",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Flaked Salmon Onigiri Rice Ball",
+      "desc_en": "Serves 1 with approximate calorie estimates; use cooked salmon that has cooled slightly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked salmon, flaked: 45 g",
+        "Salt: 1 pinch",
+        "Nori seaweed sheet: 1 sheet",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for bones, ensure it is cooked through, and flake into small pieces.",
+        "Toss the flaked salmon with toasted white sesame seeds.",
+        "Moisten your hands with water and rub lightly with a pinch of salt.",
+        "Divide the rice, place the salmon filling in the center, and shape into a triangle.",
+        "Wrap with a nori seaweed sheet before serving."
+      ]
     },
     {
       "title": "ซาบะต้มซีอิ๊ว",
@@ -1437,7 +2260,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_047",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Soy-Simmered Mackerel (Saba no Nitsuke)",
+      "desc_en": "Serves 1 with approximate calorie estimates; mackerel may have fine bones, so inspect thoroughly before eating.",
+      "ingredients_en": [
+        "Mackerel fillet (saba): 140 g",
+        "Sliced ginger: 5 g",
+        "Water: 100 ml",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Cooking sake: 1 tbsp",
+        "Sugar: 1 tsp"
+      ],
+      "steps_en": [
+        "Inspect the mackerel fillet and remove any visible bones.",
+        "Combine the water, soy sauce, mirin, sake, sugar, and ginger slices in a skillet.",
+        "Bring the sauce to a gentle simmer and place the fish in skin-side up.",
+        "Cover and simmer for 10–15 minutes until the fish reaches 63°C throughout.",
+        "Transfer the mackerel to a plate and spoon the glossy sauce over the top."
+      ]
     },
     {
       "title": "ยากิโทริเห็ดและเต้าหู้",
@@ -1467,7 +2308,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_048",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Tofu and Mushroom Skewers (Vegetarian Yakitori)",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot skewers carefully.",
+      "ingredients_en": [
+        "Firm tofu, diced: 80 g",
+        "Large button mushrooms: 50 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Sugar: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Skewers: 2 pieces"
+      ],
+      "steps_en": [
+        "Soak wooden skewers in water for at least 15 minutes if using bamboo skewers.",
+        "Thread the tofu cubes and mushrooms alternately onto the skewers.",
+        "Mix the soy sauce, mirin, and sugar to make the glaze.",
+        "Grill on a lightly oiled skillet over medium heat, brushing with glaze and turning until heated through.",
+        "Brush with one more layer of glaze before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ปลาแซลมอนและแตงกวา",
@@ -1496,7 +2355,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_049",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salmon Roe and Cucumber Rice Bowl (Ikura Don)",
+      "desc_en": "Serves 1 with approximate calorie estimates; use salmon roe stored properly according to package instructions.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Ready-to-eat salmon roe (ikura): 35 g",
+        "Cucumber, diced: 30 g",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Japanese soy sauce: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the diced cucumber neatly along one side.",
+        "Spoon the salmon roe generously over the rice.",
+        "Sprinkle with shredded nori and white sesame seeds.",
+        "Drizzle lightly with soy sauce before serving."
+      ]
     },
     {
       "title": "ชิราชิซูชิปลาแซลมอนสุก",
@@ -1526,7 +2402,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_050",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Cooked Salmon Chirashi Sushi Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; made with fully cooked salmon rather than raw fish.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked salmon fillet: 80 g",
+        "Cucumber, diced: 25 g",
+        "Sweet Japanese omelet (tamagoyaki), diced: 30 g",
+        "Rice vinegar: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Dissolve the sugar in rice vinegar and gently fold into warm rice.",
+        "Allow the seasoned sushi rice to cool slightly.",
+        "Check the cooked salmon for bones and flake into bite-sized pieces.",
+        "Scoop the rice into a bowl and top with salmon, cucumber, and diced sweet omelet.",
+        "Sprinkle with shredded nori and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสมิโสะ",
@@ -1556,7 +2450,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_051",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Glazed Grilled Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh: 140 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, mirin, and water together into a smooth glaze.",
+        "Heat oil in a skillet over medium heat and sear the chicken until nearly cooked through.",
+        "Brush the miso glaze over the chicken, flip, and cook until the center reaches 74°C.",
+        "Let the chicken rest for 3 minutes, then slice.",
+        "Serve over rice and garnish with toasted sesame seeds."
+      ]
     },
     {
       "title": "ซุปอุด้งไก่และเห็ด",
@@ -1589,7 +2501,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken and Mushroom Udon Soup",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a suitable dashi for your diet, as this gentle soup is suitable for seniors.",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Thinly sliced chicken breast: 90 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Napa cabbage, chopped: 40 g",
+        "Dashi stock: 350 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Chopped scallion: 4 g"
+      ],
+      "steps_en": [
+        "Bring the dashi and soy sauce to a gentle simmer in a pot.",
+        "Add the chicken, mushrooms, and napa cabbage and cook until the chicken reaches 74°C.",
+        "Add the udon noodles and heat according to the package timing.",
+        "Make sure the noodles and all ingredients are piping hot.",
+        "Ladle into a bowl, sprinkle with chopped scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวเทมปุระ",
@@ -1619,7 +2549,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_053",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "White Fish Tempura Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil safely and ensure the fish is cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet, sliced into pieces: 120 g",
+        "Tempura batter mix: 35 g",
+        "Ice-cold water: 45 ml",
+        "Tempura sauce (tentsuyu): 1 tbsp",
+        "Oil for frying: as needed",
+        "Grated daikon radish: 15 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Lightly mix the tempura batter mix with ice-cold water.",
+        "Dip the fish in batter and fry in hot oil until golden crisp and cooked to 63°C internally.",
+        "Drain on a wire rack.",
+        "Scoop rice into a bowl, top with the fish tempura, drizzle with sauce, and serve with grated daikon."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดกะหล่ำปลีมิโสะ",
@@ -1649,7 +2597,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_054",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Pork and Cabbage Stir-Fry Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 110 g",
+        "Cabbage, chopped: 50 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Stir the miso, mirin, and water together until smooth.",
+        "Heat oil in a skillet over medium heat and stir-fry the pork until nearly cooked through.",
+        "Add the chopped cabbage and stir-fry until starting to soften.",
+        "Pour in the miso sauce and toss until the pork is cooked through and well coated.",
+        "Serve over Japanese rice."
+      ]
     },
     {
       "title": "เกี๊ยวซ่าผักและเต้าหู้",
@@ -1680,7 +2646,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_055",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Pan-Seared Tofu and Vegetable Gyoza",
+      "desc_en": "Serves 1; check the gyoza wrapper label for any unwanted ingredients or allergens.",
+      "ingredients_en": [
+        "Gyoza wrappers: 6 sheets",
+        "Firm tofu, finely crumbled: 60 g",
+        "Cabbage, finely chopped: 35 g",
+        "Shiitake mushrooms, finely chopped: 20 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Water for pan-steaming: 60 ml"
+      ],
+      "steps_en": [
+        "Squeeze excess moisture from the chopped cabbage, then mix with the tofu, mushrooms, ginger, and soy sauce.",
+        "Spoon filling onto each gyoza wrapper, fold in half, and pleat the edges to seal.",
+        "Heat oil in a skillet over medium heat, arrange the gyoza flat-side down, and sear until the bottoms are golden.",
+        "Add the water, cover with a lid, and steam for 4–5 minutes until the filling is hot throughout.",
+        "Uncover and cook briefly until any remaining water evaporates, then serve immediately."
+      ]
     },
     {
       "title": "โอนิกิริไส้แซลมอนมิโสะ",
@@ -1709,7 +2694,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_056",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Salmon Onigiri Rice Ball",
+      "desc_en": "Serves 1 with approximate calorie estimates; use cooked salmon that has cooled slightly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked salmon, flaked: 45 g",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1/2 tsp",
+        "Nori seaweed sheet: 1 sheet",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and flake into small pieces.",
+        "Mix the flaked salmon with miso paste and mirin.",
+        "Divide the rice and place the miso salmon filling in the center.",
+        "Shape the rice gently into a triangle, enclosing the filling completely.",
+        "Wrap with nori seaweed and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "สุกี้ยากี้เต้าหู้และผัก",
@@ -1739,7 +2741,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_057",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Tofu and Vegetable Sukiyaki",
+      "desc_en": "Serves 1 with approximate calorie estimates; choose a dashi base suited to your dietary preferences.",
+      "ingredients_en": [
+        "Firm tofu, diced: 100 g",
+        "Napa cabbage, chopped: 70 g",
+        "Fresh shiitake mushrooms, sliced: 30 g",
+        "Carrot, sliced: 25 g",
+        "Dashi stock: 250 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, and mirin in a pot and bring to a gentle simmer.",
+        "Add the carrot and napa cabbage and simmer until starting to soften.",
+        "Add the shiitake mushrooms and tofu.",
+        "Continue simmering until the vegetables are tender and the tofu is heated through.",
+        "Ladle into a bowl with the broth and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูทงคัตสึซอสแกงกะหรี่",
@@ -1769,7 +2789,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_058",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Katsu Curry (Crispy Pork Cutlet with Japanese Curry)",
+      "desc_en": "Serves 1 with approximate calorie estimates; check the labels on the curry roux and pork cutlet.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked breaded pork loin cutlet: 110 g",
+        "Japanese curry roux block: 20 g",
+        "Potato, diced: 35 g",
+        "Carrot, diced: 25 g",
+        "Water: 180 ml",
+        "Shredded cabbage: 30 g"
+      ],
+      "steps_en": [
+        "Simmer the diced potato and carrot in water until tender.",
+        "Turn off the heat, add the curry roux block, and stir until completely dissolved.",
+        "Warm the curry gently over low heat until the sauce thickens.",
+        "Reheat the pork cutlet until piping hot throughout, then slice into strips.",
+        "Scoop rice onto a plate, ladle curry alongside, and top with the sliced katsu and shredded cabbage."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและผักผัดซอสเทริยากิ",
@@ -1800,7 +2838,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_059",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Shrimp and Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook the shrimp until opaque and fully done.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 110 g",
+        "Broccoli, cut into small florets: 35 g",
+        "Carrot, julienned: 20 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, mirin, and honey together to make the sauce.",
+        "Heat oil in a skillet over medium heat and sauté the shrimp until they begin changing color.",
+        "Add the broccoli and carrot with a splash of water, cover, and steam for 2 minutes.",
+        "Uncover, pour in the sauce, and toss until the shrimp and vegetables are cooked through and glazed.",
+        "Serve over Japanese rice."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่คัตสึซอสทงคัตสึ",
@@ -1831,7 +2888,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_060",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken Katsu Rice Bowl with Tonkatsu Sauce",
+      "desc_en": "Serves 1 with approximate calorie estimates; handle hot oil carefully and fry the chicken until cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 130 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Tonkatsu sauce: 1 tbsp",
+        "Oil for frying: as needed",
+        "Shredded cabbage: 35 g"
+      ],
+      "steps_en": [
+        "Pat the chicken dry, dredge in flour, dip in beaten egg, and coat thoroughly with panko breadcrumbs.",
+        "Fry in oil over medium heat until golden brown and the center of the chicken reaches 74°C.",
+        "Drain on a wire rack, then slice into strips.",
+        "Scoop rice into a bowl and top with the chicken katsu and shredded cabbage.",
+        "Drizzle with tonkatsu sauce and serve."
+      ]
     },
     {
       "title": "สลัดเส้นโซบะเย็นเต้าหู้",
@@ -1862,7 +2938,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_061",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Chilled Tofu and Soba Noodle Salad",
+      "desc_en": "Serves 1 with approximate calorie estimates; check soba noodle and tsuyu labels, as they may contain wheat or fish.",
+      "ingredients_en": [
+        "Dried soba noodles: 70 g",
+        "Firm tofu, diced: 70 g",
+        "Cucumber, julienned: 25 g",
+        "Carrot, julienned: 20 g",
+        "Tsuyu dipping sauce base: 30 ml",
+        "Cold water: 50 ml",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Boil the soba noodles according to package directions, rinse under cold water, and drain well.",
+        "Pan-sear the diced tofu until golden on all sides.",
+        "Mix the tsuyu base with cold water in a small cup.",
+        "Arrange the chilled noodles, cucumber, carrot, and seared tofu on a plate.",
+        "Sprinkle with sesame seeds and nori, and serve with the dipping sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูชาบูซอสพอนสึ",
@@ -1892,7 +2987,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_062",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork Shabu-Shabu Rice Bowl with Ponzu",
+      "desc_en": "Serves 1 with approximate calorie estimates; cook the pork thoroughly and check the saltiness of your ponzu sauce.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork: 120 g",
+        "Shredded napa cabbage: 40 g",
+        "Ponzu sauce: 1 tbsp",
+        "Water for blanching: 500 ml",
+        "Chopped scallion: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Bring water to a gentle simmer and swish the pork slices one at a time until cooked through.",
+        "Blanch the shredded napa cabbage in the same water until tender, then drain well.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the blanched pork and napa cabbage on top of the rice.",
+        "Drizzle with ponzu sauce and garnish with scallions and sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนเทริยากิ",
@@ -1922,7 +3035,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_063",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Salmon Rice Bowl",
+      "desc_en": "Serves 1 with approximate calorie estimates; pan-searing time depends on the thickness of the salmon fillet.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 130 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the soy sauce, mirin, and honey together to make the teriyaki sauce.",
+        "Inspect the salmon for bones and pat dry.",
+        "Pan-sear the salmon over medium heat until nearly cooked, then pour in the sauce and simmer gently.",
+        "Cook until the center reaches 63°C and the sauce glazes the fish.",
+        "Serve over rice and sprinkle with white sesame seeds."
+      ]
     },
     {
       "title": "ซุปมิโสะเห็ดและเต้าหู้",
@@ -1954,7 +3085,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Mushroom and Tofu Miso Soup",
+      "desc_en": "Serves 1 with approximate calories; check miso and dashi labels to match your dietary preferences (suitable for seniors).",
+      "ingredients_en": [
+        "Silken tofu, diced: 70 g",
+        "Fresh shiitake mushrooms, sliced: 30 g",
+        "Dried wakame seaweed: 2 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package directions and drain well.",
+        "Warm the dashi in a pot, add the mushrooms, and simmer until cooked through.",
+        "Add the tofu and wakame, then warm gently over low heat.",
+        "Dissolve the miso in a ladleful of warm broth and stir it back into the pot.",
+        "Turn off the heat just before boiling, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งเทมปุระซอสหวาน",
@@ -1984,7 +3132,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_065",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp Tempura Rice Bowl (Tendon)",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and fry the shrimp until opaque and cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled with tails on: 120 g",
+        "Tempura batter mix: 35 g",
+        "Ice-cold water: 45 ml",
+        "Tempura sauce: 1 tbsp",
+        "Oil for frying: as needed",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and make shallow slits along the underside.",
+        "Lightly mix the tempura flour with ice-cold water until just combined.",
+        "Dip the shrimp in the batter and fry in hot oil until golden, crisp, and cooked through.",
+        "Drain on a wire rack to remove excess oil.",
+        "Scoop the rice into a bowl, top with tempura shrimp, drizzle with sauce, and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างเกลือยูซุ",
@@ -2014,7 +3180,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_066",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yuzu Salt Grilled Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; lemon juice can be substituted if yuzu juice is unavailable.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh: 140 g",
+        "Yuzu juice: 1 tsp",
+        "Salt: 1 pinch",
+        "Ground black pepper: 1 pinch",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Pat the chicken dry and season with salt and black pepper.",
+        "Heat the oil in a pan over medium heat and sear the chicken until the internal temperature reaches 74°C.",
+        "Let the chicken rest for 3 minutes, then slice into bite-sized pieces.",
+        "Scoop the rice into a bowl and arrange the chicken on top.",
+        "Drizzle with yuzu juice and garnish with green onion before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่โอยาโกะซอสขิง",
@@ -2045,7 +3229,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_067",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Oyakodon (Chicken and Egg Rice Bowl)",
+      "desc_en": "Serves 1 with approximate calories; choose a dashi stock that fits your dietary needs.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast, thinly sliced: 100 g",
+        "Eggs: 2 eggs",
+        "Onion, thinly sliced: 25 g",
+        "Grated ginger: 3 g",
+        "Dashi stock: 100 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tbsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, mirin, and ginger in a skillet, add the onion, and bring to a gentle simmer.",
+        "Add the chicken and simmer until cooked through to 74°C.",
+        "Lightly beat the eggs and pour evenly over the skillet.",
+        "Cover and cook until the eggs reach your desired doneness.",
+        "Slide over a bowl of Japanese rice and serve."
+      ]
     },
     {
       "title": "ไก่ทอดนันบังซอสทาร์ทาร์",
@@ -2077,7 +3280,27 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_068",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Chicken Nanban with Tartar Sauce",
+      "desc_en": "Serves 1 with approximate calories; use caution with hot oil and ensure the chicken is fully cooked.",
+      "ingredients_en": [
+        "Skinless chicken breast: 140 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 egg",
+        "Oil for frying: as needed",
+        "Rice vinegar: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Sugar: 1 tsp",
+        "Japanese mayonnaise: 15 g",
+        "Hard-boiled egg, chopped: 1/2 egg"
+      ],
+      "steps_en": [
+        "Whisk together the rice vinegar, soy sauce, and sugar to make the Nanban glaze.",
+        "Coat the chicken in flour, dip in beaten egg, and fry over medium heat until cooked to 74°C.",
+        "Drain excess oil from the chicken, then toss it in the Nanban glaze.",
+        "Mix the Japanese mayonnaise with the chopped hard-boiled egg to make the tartar sauce.",
+        "Slice the chicken and serve with the tartar sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสยูซุโคโช",
@@ -2107,7 +3330,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_069",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Chicken Rice Bowl with Yuzu Kosho",
+      "desc_en": "Serves 1 with approximate calories; yuzu kosho is salty and spicy, so start with a small amount.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 130 g",
+        "Yuzu kosho: 1/2 tsp",
+        "Lime juice: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Cucumber, sliced: 25 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Lightly brush the chicken with rice bran oil.",
+        "Pan-grill the chicken over medium heat until the center reaches 74°C.",
+        "Rest the chicken for 3 minutes, then slice into pieces.",
+        "Mix the yuzu kosho with lime juice and toss lightly with the sliced chicken.",
+        "Scoop rice into a bowl, top with chicken and cucumber, and garnish with green onion before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่บดโซโบโระสามสี",
@@ -2138,7 +3379,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_070",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Three-Color Chicken Soboro Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook both the ground chicken and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless ground chicken: 100 g",
+        "Egg: 1 egg",
+        "Cooked green peas: 25 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat, add the ground chicken, and break it up into fine crumbles with a spatula.",
+        "Add the ginger, soy sauce, and mirin, and stir-fry until the chicken reaches 74°C.",
+        "In a separate pan, scramble the egg until fully cooked.",
+        "Scoop rice into a bowl and arrange the seasoned chicken, scrambled egg, and green peas in neat sections.",
+        "Serve while warm."
+      ]
     },
     {
       "title": "หมูย่างมิโสะ",
@@ -2168,7 +3428,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_072",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Miso-Glazed Grilled Pork",
+      "desc_en": "Serves 1 with approximate calories; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 130 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Water: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded cabbage: 40 g"
+      ],
+      "steps_en": [
+        "Whisk the miso, mirin, honey, and water together into a smooth glaze.",
+        "Coat the pork with the glaze and let marinate for 10 minutes.",
+        "Heat the oil in a pan over medium heat and sear the pork until cooked to 63°C.",
+        "Let the pork rest for at least 3 minutes.",
+        "Serve alongside shredded cabbage and drizzle with any remaining pan sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูชาบูซอสงา",
@@ -2198,7 +3476,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_073",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork Shabu-Shabu Rice Bowl with Sesame Sauce",
+      "desc_en": "Serves 1 with approximate calories; check the sesame sauce label if you have sesame allergies or restrictions.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork: 120 g",
+        "Napa cabbage, shredded: 40 g",
+        "Japanese sesame dressing: 1 tbsp",
+        "Water for blanching: 500 ml",
+        "Green onion, thinly sliced: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Bring the water to a gentle simmer and blanch the pork slices one by one until cooked through.",
+        "Blanch the napa cabbage in the same water until just tender, then drain well.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Top the rice with the pork and napa cabbage, then drizzle with sesame dressing.",
+        "Garnish with green onion and toasted sesame seeds before serving."
+      ]
     },
     {
       "title": "หมูผัดขิงสไตล์ญี่ปุ่น",
@@ -2228,7 +3524,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_074",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Japanese Ginger Pork Stir-Fry (Shogayaki)",
+      "desc_en": "Serves 1 with approximate calories; use thinly sliced pork so it cooks quickly and evenly.",
+      "ingredients_en": [
+        "Thinly sliced pork loin: 130 g",
+        "Grated ginger: 6 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Onion, thinly sliced: 25 g",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded cabbage: 35 g"
+      ],
+      "steps_en": [
+        "Mix the grated ginger, soy sauce, and mirin together.",
+        "Heat the oil in a pan over medium heat and sauté the onion until softened.",
+        "Add the pork and stir-fry until cooked through to 63°C.",
+        "Pour in the ginger sauce and toss until the meat is evenly glazed.",
+        "Serve with shredded cabbage and rice as desired."
+      ]
     },
     {
       "title": "หมูคัตสึอบ",
@@ -2258,7 +3572,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_075",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Oven-Baked Pork Katsu",
+      "desc_en": "Serves 1 with approximate calories; baking time may vary depending on the thickness of the pork.",
+      "ingredients_en": [
+        "Thin pork loin cutlet: 140 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 egg",
+        "Japanese panko breadcrumbs: 20 g",
+        "Olive oil: 1 tsp",
+        "Shredded cabbage: 40 g",
+        "Tonkatsu sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 210°C and pat the pork dry.",
+        "Dredge the pork in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Place on a baking tray and lightly drizzle with olive oil.",
+        "Bake for 15–20 minutes, flipping halfway through, until the pork reaches 63°C.",
+        "Rest for at least 3 minutes, then serve with shredded cabbage and tonkatsu sauce."
+      ]
     },
     {
       "title": "ชาบูหมูน้ำซุปมิโสะ",
@@ -2291,7 +3623,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Miso Pork Shabu-Shabu Soup",
+      "desc_en": "Serves 1 with approximate calories; choose a dashi stock that suits your dietary needs (suitable for seniors).",
+      "ingredients_en": [
+        "Thinly sliced pork: 110 g",
+        "Napa cabbage, cut into chunks: 80 g",
+        "Enoki mushrooms, bases trimmed: 35 g",
+        "Firm tofu, diced: 40 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 350 ml",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Bring the dashi stock to a gentle boil in a pot.",
+        "Add the napa cabbage and mushrooms, and simmer until tender.",
+        "Add the tofu and sliced pork, cooking until the pork is cooked through.",
+        "Dissolve the miso in a small amount of broth and stir back into the pot.",
+        "Turn off the heat before boiling, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าแซลมอนย่างเกลือและไข่หวาน",
@@ -2320,7 +3670,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_077",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salt-Grilled Salmon and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check labels on the sweet omelette and salmon for dietary suitability.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 110 g",
+        "Japanese sweet omelette (tamagoyaki), sliced: 30 g",
+        "Salt: 1 pinch",
+        "Grated daikon radish: 20 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for any bones, pat dry, and season with salt.",
+        "Pan-grill the salmon over medium heat until the center reaches 63°C.",
+        "Let the salmon rest briefly and flake or cut into bite-sized pieces.",
+        "Warm the rice, scoop into a bowl, and arrange the salmon and tamagoyaki on top.",
+        "Add the grated daikon and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดเนยโชยุ",
@@ -2350,7 +3717,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_078",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Garlic Butter Shoyu Shrimp Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp until just cooked through without overcooking.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Unsalted butter: 6 g",
+        "Japanese soy sauce: 1 tsp",
+        "Minced garlic: 3 g",
+        "Green onion, thinly sliced: 4 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Melt the butter in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the shrimp and stir-fry until opaque and cooked through.",
+        "Stir in the soy sauce and black pepper, tossing to coat evenly.",
+        "Scoop the rice into a bowl and spoon the shrimp and pan sauce on top.",
+        "Garnish with green onion and serve."
+      ]
     },
     {
       "title": "ข้าวปั้นโอนิกิริไส้คอมบุ",
@@ -2378,7 +3763,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_079",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Kombu Kelp Onigiri Rice Balls",
+      "desc_en": "Serves 1 with approximate calories; seasoned kombu saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Seasoned kombu kelp, chopped: 20 g",
+        "Nori seaweed: 1 sheet",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Mix the chopped kombu with the toasted white sesame seeds.",
+        "Wet your hands lightly and rub a pinch of salt onto your palms.",
+        "Portion out the rice and place the kombu filling in the center.",
+        "Gently press and shape the rice into a triangle or ball just firmly enough to hold together.",
+        "Wrap with nori seaweed right before serving."
+      ]
     },
     {
       "title": "อุด้งผัดหมูและกะหล่ำปลี",
@@ -2411,7 +3812,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork and Cabbage Yaki Udon",
+      "desc_en": "Serves 1 with approximate calories; check the noodle and sauce labels before use (suitable for seniors).",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Pork loin, cut into strips: 90 g",
+        "Cabbage, chopped: 50 g",
+        "Carrot, julienned: 20 g",
+        "Yakisoba sauce: 1 tbsp",
+        "Rice bran oil: 1 tsp",
+        "Pickled ginger: 10 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and stir-fry the pork until cooked through.",
+        "Add the carrot and cabbage, stir-frying until just tender.",
+        "Add the udon noodles with a splash of water and gently separate the strands.",
+        "Pour in the yakisoba sauce and toss until the noodles are heated through.",
+        "Serve garnished with pickled ginger."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้เทริยากิ",
@@ -2441,7 +3860,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_081",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Tofu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; add a splash of water if the glaze thickens too quickly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, sliced: 120 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear over medium heat until golden brown on both sides.",
+        "Mix the soy sauce, mirin, and honey together.",
+        "Pour the sauce into the pan, reduce the heat, and flip the tofu to coat evenly.",
+        "Warm the rice and scoop it into a bowl.",
+        "Arrange the tofu over the rice, spoon the glaze on top, and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะเทริยากิ",
@@ -2471,7 +3908,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_082",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Mackerel (Saba) Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saba mackerel may contain small bones, so check carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Mackerel (saba) fillet: 130 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Inspect the fish fillet and remove any visible pin bones.",
+        "Whisk the soy sauce, mirin, and honey together to make the glaze.",
+        "Pan-sear the mackerel over medium heat until nearly cooked, pour in the glaze, and flip gently.",
+        "Cook until the internal temperature reaches 63°C and the glaze coats the fish.",
+        "Scoop the rice into a bowl, top with the mackerel, and garnish with green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดซอสพอนสึ",
@@ -2501,7 +3956,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_083",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Stir-Fried Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; ponzu sauce saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Zucchini, diced: 35 g",
+        "Red bell pepper, chopped: 30 g",
+        "Button mushrooms, sliced: 35 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and sauté the mushrooms until softened.",
+        "Add the zucchini and red bell pepper, stir-frying until cooked to your liking.",
+        "Pour in the ponzu sauce and toss well to coat.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Top the rice with the stir-fried vegetables and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูไข่ข้นสไตล์ญี่ปุ่น",
@@ -2531,7 +4004,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_084",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese Pork and Silky Egg Rice Bowl (Tanindon)",
+      "desc_en": "Serves 1 with approximate calories; ensure both the pork and eggs are thoroughly cooked.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork: 80 g",
+        "Eggs: 2 eggs",
+        "Onion, thinly sliced: 20 g",
+        "Dashi stock: 70 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, and mirin in a skillet, add the onion, and simmer until softened.",
+        "Add the pork and cook until it reaches 63°C.",
+        "Lightly beat the eggs and pour evenly over the skillet.",
+        "Cover and cook until the eggs are set to your preference.",
+        "Spoon over a bowl of Japanese rice and serve."
+      ]
     },
     {
       "title": "สลัดกุ้งและสาหร่ายวากาเมะ",
@@ -2561,7 +4052,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_085",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Shrimp and Wakame Seaweed Salad",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp thoroughly and check the saltiness of the wakame.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Dried wakame seaweed: 3 g",
+        "Cucumber, sliced: 35 g",
+        "Rice vinegar: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sugar: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package instructions and drain well.",
+        "Boil or blanch the shrimp for 2–3 minutes until cooked through, then let cool.",
+        "Whisk together the rice vinegar, soy sauce, and sugar.",
+        "Toss the wakame, cucumber, and shrimp with the dressing.",
+        "Sprinkle with toasted white sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักมิโสะ",
@@ -2592,7 +4101,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_086",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Tofu and Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the miso label for any restricted ingredients.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 90 g",
+        "Cabbage, chopped: 40 g",
+        "Carrot, julienned: 20 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear over medium heat until lightly golden.",
+        "Mix the miso, mirin, and water until smooth.",
+        "Add the cabbage and carrot to the pan and stir-fry until just tender.",
+        "Pour in the miso sauce and toss until the tofu and vegetables are heated through.",
+        "Serve over a bowl of Japanese rice."
+      ]
     },
     {
       "title": "ข้าวหน้าแซลมอนและผักดองญี่ปุ่น",
@@ -2622,7 +4150,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_087",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Salmon and Japanese Pickles Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; Japanese pickles vary in saltiness by type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 120 g",
+        "Japanese pickles (tsukemono): 25 g",
+        "Rice bran oil: 1/2 tsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and pat dry.",
+        "Pan-grill the salmon over medium heat until the center reaches 63°C.",
+        "Let rest briefly, then cut into bite-sized pieces.",
+        "Warm the rice, scoop into a bowl, and top with the salmon and Japanese pickles.",
+        "Drizzle lightly with soy sauce and garnish with sesame seeds and green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูย่างซอสงา",
@@ -2652,7 +4198,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_088",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sesame-Glazed Grilled Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; sesame dressing contains sesame and varies in saltiness by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 120 g",
+        "Japanese sesame dressing: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded cabbage: 35 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and sear the pork until cooked to 63°C.",
+        "Add the soy sauce and toss well to coat.",
+        "Warm the rice and scoop it into a bowl.",
+        "Top the rice with shredded cabbage and grilled pork.",
+        "Drizzle with sesame dressing and sprinkle with white sesame seeds before serving."
+      ]
     },
     {
       "title": "ซุปอุด้งเต้าหู้มิโสะ",
@@ -2685,7 +4249,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Tofu Udon Noodle Soup",
+      "desc_en": "Serves 1 with approximate calories; check miso and dashi labels to suit your dietary needs (suitable for seniors).",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Silken tofu, diced: 70 g",
+        "Napa cabbage, cut into chunks: 40 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 350 ml",
+        "Fresh shiitake mushrooms, sliced: 20 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Warm the dashi in a pot, add the napa cabbage and mushrooms, and simmer until tender.",
+        "Add the udon noodles and heat according to package directions.",
+        "Gently add the silken tofu and reduce the heat to low.",
+        "Dissolve the miso in a little warm broth and stir back into the pot.",
+        "Turn off the heat before boiling, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวย่างขิงและต้นหอม",
@@ -2715,7 +4297,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_090",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger-Scallion Grilled White Fish Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; grilling time depends on the thickness of the fish fillet.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Grated ginger: 4 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 5 g",
+        "Lime juice: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check and remove any bones from the fish, then pat dry.",
+        "Pan-grill the fish over medium heat until the center reaches 63°C.",
+        "Whisk together the grated ginger, soy sauce, and lime juice.",
+        "Scoop rice into a bowl, place the fish on top, and drizzle with the ginger sauce.",
+        "Garnish with green onion and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักโขมและไข่หวาน",
@@ -2747,7 +4347,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Spinach and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the sweet omelette label for dietary restrictions (suitable for seniors).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Japanese sweet omelette (tamagoyaki), sliced: 50 g",
+        "Spinach: 40 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and sauté the spinach until wilted.",
+        "Stir in the soy sauce, toss briefly, and remove from heat.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Arrange the sautéed spinach and tamagoyaki slices over the rice.",
+        "Sprinkle with toasted white sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดเทริยากิ",
@@ -2778,7 +4395,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_092",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use clearly identified mushrooms from a trusted source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "King oyster mushrooms, sliced: 80 g",
+        "Fresh shiitake mushrooms, sliced: 30 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, mirin, and honey together to make the teriyaki sauce.",
+        "Heat the oil in a pan over medium heat and sauté the mushrooms until tender.",
+        "Pour in the sauce and simmer until it glazes the mushrooms.",
+        "Scoop rice into a bowl, top with the mushrooms, and spoon over the sauce.",
+        "Sprinkle with white sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ข้นปูอัด",
@@ -2808,7 +4444,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_093",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crabstick Creamy Scrambled Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the imitation crabstick label for ingredients and allergens.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Eggs: 2 eggs",
+        "Imitation crabstick, shredded: 35 g",
+        "Milk: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Beat the eggs with the milk and soy sauce.",
+        "Heat the oil in a nonstick pan over low heat and pour in the egg mixture.",
+        "As the eggs begin to set, add the shredded crabstick and stir gently.",
+        "Cook until the eggs reach your desired doneness and the crabstick is heated through.",
+        "Slide over rice, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "โคร็อกเกะฟักทองญี่ปุ่น",
@@ -2838,7 +4492,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_094",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Japanese Kabocha Pumpkin Korokke (Croquettes)",
+      "desc_en": "Serves 1 with approximate calories; let the mashed mixture cool slightly before shaping so it holds together easily.",
+      "ingredients_en": [
+        "Steamed kabocha pumpkin, mashed: 130 g",
+        "Boiled potato, mashed: 50 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 egg",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed",
+        "Tonkatsu sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix the mashed pumpkin and mashed potato together, then shape into flat patties.",
+        "Coat in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Fry in oil over medium heat until golden brown and crispy outside.",
+        "Transfer to a wire rack to drain excess oil.",
+        "Serve warm with tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าผักดองญี่ปุ่นและไข่ดาว",
@@ -2867,7 +4539,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_095",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese Pickles and Fried Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; pickled vegetables vary in saltiness depending on type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 egg",
+        "Japanese pickles, finely chopped: 25 g",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and fry the egg until the whites are set to your liking.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Top the rice with the chopped pickles and fried egg.",
+        "Sprinkle with shredded nori and white sesame seeds.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่คาราอาเกะซอสพอนสึ",
@@ -2898,7 +4587,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_096",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken Karaage Rice Bowl with Ponzu",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and fry the chicken until cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh, cut into bite-sized pieces: 130 g",
+        "Japanese soy sauce: 1 tsp",
+        "Grated ginger: 3 g",
+        "Potato starch: 20 g",
+        "Oil for frying: as needed",
+        "Ponzu sauce: 1 tbsp",
+        "Shredded cabbage: 30 g"
+      ],
+      "steps_en": [
+        "Marinate the chicken with soy sauce and grated ginger for about 10 minutes.",
+        "Coat the chicken pieces evenly with potato starch.",
+        "Fry over medium heat until cooked to 74°C, then drain on a rack.",
+        "Scoop rice into a bowl and arrange the shredded cabbage and fried chicken on top.",
+        "Drizzle with ponzu sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสสึคุเนะ",
@@ -2929,7 +4637,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_097",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Glazed Tsukune Chicken Patty Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; shape the patties to an even thickness so they cook through uniformly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless ground chicken: 120 g",
+        "Green onion, thinly sliced: 8 g",
+        "Potato starch: 1 tsp",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Sugar: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the ground chicken, green onion, and potato starch, then shape into round patties.",
+        "Whisk the soy sauce, mirin, and sugar together to make the glaze.",
+        "Heat the oil in a pan over medium heat and sear the patties on both sides until cooked to 74°C.",
+        "Pour in the glaze and simmer until it coats the chicken.",
+        "Serve the glazed patties over rice."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสโชยุและเห็ด",
@@ -2960,7 +4687,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_098",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shoyu Chicken and Shimeji Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a trusted source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast, cut into bite-sized pieces: 120 g",
+        "Shimeji mushrooms: 40 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add the shimeji mushrooms and sauté until softened.",
+        "Add the soy sauce and mirin, tossing until the chicken reaches 74°C.",
+        "Warm the rice and scoop it into a bowl.",
+        "Top with the chicken and mushrooms, then garnish with green onion and sesame seeds."
+      ]
     },
     {
       "title": "ไก่ย่างเกลือโคจิ",
@@ -2988,7 +4734,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_099",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Shio-Koji Grilled Chicken",
+      "desc_en": "Serves 1 with approximate calories; shio-koji saltiness varies by brand.",
+      "ingredients_en": [
+        "Skinless chicken breast: 140 g",
+        "Shio-koji: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Cucumber, sliced: 30 g",
+        "Lime wedge: 1 wedge"
+      ],
+      "steps_en": [
+        "Coat the chicken with shio-koji and marinate in the refrigerator for 20 minutes.",
+        "Wipe off excess marinade to prevent scorching.",
+        "Heat the oil in a pan over medium heat and sear the chicken until the center reaches 74°C.",
+        "Let rest for 3 minutes before slicing.",
+        "Serve with cucumber slices and a lime wedge."
+      ]
     },
     {
       "title": "ไก่ทอดคาราอาเกะซอสขิงมะนาว",
@@ -3018,7 +4780,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_100",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Ginger-Lime Chicken Karaage",
+      "desc_en": "Serves 1 with approximate calories; watch out for oil splatter while frying.",
+      "ingredients_en": [
+        "Skinless chicken thigh, cut into bite-sized pieces: 140 g",
+        "Japanese soy sauce: 1 tsp",
+        "Grated ginger: 4 g",
+        "Potato starch: 20 g",
+        "Oil for frying: as needed",
+        "Lime juice: 1 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Marinate the chicken with soy sauce and ginger for 10 minutes.",
+        "Dredge the chicken pieces thoroughly in potato starch.",
+        "Fry over medium heat until crispy and cooked to 74°C.",
+        "Drain on a wire rack to remove excess oil.",
+        "Squeeze lime juice over the chicken and garnish with green onion before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดมิโสะและมะเขือม่วง",
@@ -3049,7 +4829,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_101",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Pork and Eggplant Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; taste the sauce before seasoning further since miso is salty.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin, cut into strips: 100 g",
+        "Eggplant, diced: 60 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 2 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the miso, mirin, and water together until smooth.",
+        "Heat the oil in a pan over medium heat and stir-fry the pork until nearly cooked.",
+        "Add the eggplant and sauté until softened.",
+        "Pour in the miso sauce and cook until the pork reaches 63°C and the glaze clings to the ingredients.",
+        "Spoon over rice and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูย่างซอสสึยุ",
@@ -3079,7 +4878,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_102",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tsuyu-Glazed Grilled Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; tsuyu sauce may contain fish ingredients and varies in saltiness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 120 g",
+        "Tsuyu sauce: 1 tbsp",
+        "Water: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Mix the tsuyu sauce, water, and grated ginger.",
+        "Heat the oil in a pan over medium heat and sear the pork until cooked to 63°C.",
+        "Pour the sauce into the pan and flip the pork to coat evenly.",
+        "Warm the rice and scoop it into a bowl.",
+        "Arrange the pork over the rice, spoon the sauce on top, and garnish with green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดกระเทียมโชยุ",
@@ -3109,7 +4926,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_103",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Garlic Shoyu Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; take care not to burn the garlic while stir-frying.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced pork loin: 120 g",
+        "Minced garlic: 4 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded cabbage: 35 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the pork and stir-fry until cooked through to 63°C.",
+        "Stir in the soy sauce and mirin, tossing until the meat is glazed.",
+        "Warm the rice and scoop it into a bowl.",
+        "Top the rice with the pork and shredded cabbage, then serve."
+      ]
     },
     {
       "title": "หมูชาชูตุ๋นขิง",
@@ -3139,7 +4974,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_104",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Ginger-Braised Pork Tenderloin Chashu",
+      "desc_en": "Serves 1 with approximate calories; braising time depends on the size and thickness of the pork cut.",
+      "ingredients_en": [
+        "Pork tenderloin: 150 g",
+        "Sliced ginger: 6 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Cooking sake: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Water: 180 ml",
+        "Onion, cut into wedges: 20 g"
+      ],
+      "steps_en": [
+        "Combine the water, soy sauce, sake, mirin, ginger, and onion in a pot.",
+        "Add the pork tenderloin and bring to a gentle simmer.",
+        "Cover and braise over low heat for 35–45 minutes, turning the pork occasionally.",
+        "Ensure the pork is cooked through, then let it rest in the braising liquid for 5 minutes.",
+        "Slice thinly and spoon the braising sauce over the top before serving."
+      ]
     },
     {
       "title": "ปลาคอดต้มขิงและซีอิ๊ว",
@@ -3169,7 +5022,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_105",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Simmered Cod with Ginger and Soy Sauce",
+      "desc_en": "Serves 1 with approximate calories; use gentle heat so the delicate fish stays intact.",
+      "ingredients_en": [
+        "Cod or white fish fillet: 150 g",
+        "Sliced ginger: 5 g",
+        "Water: 120 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tbsp",
+        "Sugar: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check and remove any bones from the fish fillet.",
+        "Combine the water, soy sauce, mirin, sugar, and ginger in a skillet.",
+        "Bring to a gentle simmer and carefully place the fish in the pan.",
+        "Cover and simmer gently until the center of the fish reaches 63°C.",
+        "Plate the fish, spoon the simmering sauce over it, and garnish with green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่าต้มซีอิ๊ว",
@@ -3199,7 +5070,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_106",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Simmered Tuna Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the fresh tuna completely through rather than serving raw or rare.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh tuna, diced: 120 g",
+        "Julienne ginger: 4 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Water: 80 ml",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Combine the water, soy sauce, mirin, and ginger in a skillet and bring to a gentle simmer.",
+        "Add the tuna cubes and simmer gently until cooked all the way through.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Spoon the tuna and simmering sauce over the rice.",
+        "Garnish with green onion and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่ากระป๋องซอสขิง",
@@ -3229,7 +5118,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_107",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Soy Tuna Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; measure the canned tuna weight after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna in mineral water, drained: 75 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 2 tbsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Combine the ginger, soy sauce, mirin, and water in a skillet.",
+        "Warm the sauce over low heat, then add the drained tuna.",
+        "Stir gently until the tuna is heated through.",
+        "Warm the rice, scoop into a bowl, and top with the tuna.",
+        "Spoon the remaining sauce over the top and garnish with green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าแซลมอนผัดเนยโชยุ",
@@ -3259,7 +5166,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_108",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Butter Shoyu Salmon Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; stir gently to avoid breaking up the salmon pieces.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet, cubed: 120 g",
+        "Unsalted butter: 5 g",
+        "Japanese soy sauce: 1 tsp",
+        "Shimeji mushrooms: 30 g",
+        "Ground black pepper: 1 pinch",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and cut into cubes.",
+        "Melt the butter in a pan over medium heat, add the salmon and mushrooms, and toss gently.",
+        "Add the soy sauce and cook until the salmon reaches an internal temperature of 63°C.",
+        "Warm the rice and scoop it into a bowl.",
+        "Top with the salmon and mushrooms, then garnish with black pepper and green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวซอสยูซุ",
@@ -3289,7 +5214,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_109",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yuzu-Glazed White Fish Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; lemon juice can be substituted if yuzu juice is unavailable.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Yuzu juice: 1 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 20 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check and remove any bones from the fish, then pat dry.",
+        "Pan-grill the fish over medium heat until the center reaches 63°C.",
+        "Mix the yuzu juice with the Japanese soy sauce.",
+        "Scoop rice into a bowl and top with the fish and grated daikon.",
+        "Drizzle with the yuzu soy sauce and garnish with green onion."
+      ]
     },
     {
       "title": "ปลาซาบะอบมิโสะและมะเขือเทศ",
@@ -3319,7 +5262,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_110",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Miso-Baked Mackerel with Tomato",
+      "desc_en": "Serves 1 with approximate calories; saba mackerel may have small bones, so inspect thoroughly.",
+      "ingredients_en": [
+        "Mackerel (saba) fillet: 130 g",
+        "Tomato, diced: 50 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Grated ginger: 3 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Preheat the oven to 190°C, inspect the fish, and remove any visible bones.",
+        "Whisk the miso, mirin, water, and ginger into a smooth sauce.",
+        "Place the fish in a baking dish, scatter the diced tomato around it, and brush with the miso sauce.",
+        "Bake for 12–16 minutes until the center of the fish reaches 63°C.",
+        "Garnish with green onion and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนและผักดอง",
@@ -3348,7 +5309,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_111",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Flaked Salmon and Pickles Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use properly cooked and safely stored salmon.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked salmon: 100 g",
+        "Japanese pickles (tsukemono): 25 g",
+        "Cucumber, diced: 20 g",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Check the cooked salmon for bones and flake into bite-sized pieces.",
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Arrange the salmon, Japanese pickles, and diced cucumber on top.",
+        "Sprinkle with white sesame seeds and shredded nori.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดมิโสะ",
@@ -3378,7 +5356,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_112",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Stir-Fried Shrimp Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp until opaque and completely done.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 120 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Shimeji mushrooms: 30 g",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the miso, mirin, and water into a smooth sauce.",
+        "Heat the oil in a pan over medium heat and sauté the mushrooms until softened.",
+        "Add the shrimp and stir-fry until they begin to turn pink.",
+        "Pour in the miso sauce and cook until the shrimp are cooked through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "สลัดทูน่ามันฝรั่งสไตล์ญี่ปุ่น",
@@ -3407,7 +5403,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_113",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Japanese-Style Tuna Potato Salad",
+      "desc_en": "Serves 1 with approximate calories; weigh the canned tuna after draining and keep the salad refrigerated.",
+      "ingredients_en": [
+        "Boiled potato: 120 g",
+        "Canned tuna in mineral water, drained: 50 g",
+        "Cucumber, thinly sliced: 25 g",
+        "Carrot, finely diced: 15 g",
+        "Japanese mayonnaise: 1 tbsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Coarsely mash the boiled potato and let it cool slightly.",
+        "Squeeze excess moisture out of the thinly sliced cucumber.",
+        "Combine the potato with the tuna, cucumber, and carrot.",
+        "Add the Japanese mayonnaise and black pepper, mixing until well combined.",
+        "Chill briefly or serve right away."
+      ]
     },
     {
       "title": "โอนิกิริไส้คอมบุมิโสะ",
@@ -3435,7 +5448,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_114",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Kombu Miso Onigiri Rice Balls",
+      "desc_en": "Serves 1 with approximate calories; kombu and miso saltiness vary by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Seasoned kombu kelp, chopped: 18 g",
+        "Miso paste: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Nori seaweed: 1 sheet"
+      ],
+      "steps_en": [
+        "Mix the chopped kombu with miso paste and white sesame seeds.",
+        "Moisten your hands with water and divide the rice into portions.",
+        "Place the kombu miso filling in the center of the rice.",
+        "Gently shape into triangles, pressing just firmly enough to hold together.",
+        "Wrap with nori seaweed before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าผักเทมปุระซอสสึยุ",
@@ -3466,7 +5495,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_115",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Vegetable Tempura Rice Bowl with Tsuyu",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and check the tsuyu label.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Kabocha pumpkin, sliced: 35 g",
+        "Shimeji mushrooms: 30 g",
+        "Green beans: 30 g",
+        "Tempura batter mix: 35 g",
+        "Ice-cold water: 45 ml",
+        "Tsuyu sauce: 1 tbsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Lightly mix the tempura flour with ice-cold water until just combined.",
+        "Dip the pumpkin, mushrooms, and green beans into the batter.",
+        "Fry in batches until the vegetables are tender and the batter is golden and crisp.",
+        "Drain on a wire rack to remove excess oil.",
+        "Scoop rice into a bowl, top with vegetable tempura, and drizzle with tsuyu."
+      ]
     },
     {
       "title": "อุด้งแกงกะหรี่ญี่ปุ่นเต้าหู้",
@@ -3496,7 +5544,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_116",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tofu Japanese Curry Udon",
+      "desc_en": "Serves 1 with approximate calories; check curry roux labels and choose a suitable dashi or vegetable broth.",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Firm tofu, diced: 70 g",
+        "Onion, thinly sliced: 25 g",
+        "Japanese curry roux block: 18 g",
+        "Vegetable stock: 300 ml",
+        "Carrot, sliced: 25 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "In a pot over medium heat, sauté the onion with a splash of water until translucent.",
+        "Add the vegetable stock and carrot, simmering until the carrot begins to soften.",
+        "Turn off the heat, add the curry roux block, and stir until completely dissolved.",
+        "Add the tofu and udon noodles, then warm gently over low heat until heated through.",
+        "Ladle into a bowl, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ปลาแซลมอนและไข่หวาน",
@@ -3528,7 +5594,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ikura Salmon Roe and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use ready-to-eat salmon roe stored according to package instructions (suitable for seniors).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Ready-to-eat salmon roe (ikura): 30 g",
+        "Japanese sweet omelette (tamagoyaki), diced: 35 g",
+        "Cucumber, diced: 20 g",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Warm the Japanese rice and scoop it into a bowl.",
+        "Arrange the salmon roe, diced tamagoyaki, and cucumber neatly over the rice.",
+        "Sprinkle with shredded nori and white sesame seeds.",
+        "Serve immediately.",
+        "Store any leftover salmon roe according to the package instructions."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดเห็ดชิเมจิ",
@@ -3558,7 +5641,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_118",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork and Shimeji Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; source mushrooms from a reliable supplier.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin, cut into strips: 110 g",
+        "Shimeji mushrooms: 50 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a pan over medium heat and stir-fry the pork until nearly cooked.",
+        "Add the shimeji mushrooms and sauté until softened.",
+        "Add the soy sauce and mirin, stir-frying until the pork reaches 63°C.",
+        "Warm the rice and scoop it into a bowl.",
+        "Spoon the pork and mushrooms over the rice and garnish with green onion."
+      ]
     },
     {
       "title": "ปลาขาวย่างเกลือกับหัวไชเท้าขูด",
@@ -3587,7 +5688,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_119",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "stirfry_grill"
+      "universalCategory": "stirfry_grill",
+      "name_en": "Salt-Grilled White Fish with Grated Daikon",
+      "desc_en": "Serves 1 with approximate calories; cook the fish thoroughly and check for any remaining bones before serving.",
+      "ingredients_en": [
+        "White fish fillet: 150 g",
+        "Salt: 1 pinch",
+        "Grated daikon radish: 35 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Lime wedge: 1 wedge"
+      ],
+      "steps_en": [
+        "Check and remove any bones from the fish, pat dry, and season with salt.",
+        "Lightly oil a grill pan and heat over medium heat.",
+        "Grill the fish on both sides until the center reaches 63°C or the flesh turns opaque and flakes easily.",
+        "Serve alongside the grated daikon radish.",
+        "Add a dash of soy sauce and a squeeze of lime before eating."
+      ]
     },
     {
       "title": "โคร็อกเกะมันฝรั่งไส้ข้าวโพด",
@@ -3617,7 +5735,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_120",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "snacks_sides"
+      "universalCategory": "snacks_sides",
+      "name_en": "Sweet Corn Potato Korokke (Croquettes)",
+      "desc_en": "Serves 1 with approximate calories; let the mashed potatoes cool slightly before shaping.",
+      "ingredients_en": [
+        "Boiled potato, mashed: 150 g",
+        "Cooked sweet corn kernels: 30 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 egg",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed",
+        "Tonkatsu sauce: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix the mashed potato with the corn kernels and shape into flat patties.",
+        "Coat in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Fry over medium heat until golden brown and crispy outside.",
+        "Drain on a wire rack to remove excess oil.",
+        "Serve warm with tonkatsu sauce."
+      ]
     },
     {
       "title": "สลัดเต้าหู้และสาหร่ายวากาเมะ",
@@ -3646,7 +5782,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_121",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Silken Tofu and Wakame Seaweed Salad",
+      "desc_en": "Serves 1 with approximate calories; wakame and ponzu sauce saltiness vary by brand.",
+      "ingredients_en": [
+        "Silken tofu, diced: 100 g",
+        "Dried wakame seaweed: 3 g",
+        "Cucumber, sliced: 35 g",
+        "Ponzu sauce: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Green onion, thinly sliced: 3 g"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package directions and drain well.",
+        "Arrange the cucumber slices and wakame on a plate.",
+        "Gently place the diced silken tofu on top.",
+        "Drizzle with ponzu sauce.",
+        "Sprinkle with toasted white sesame seeds and green onion, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่คัตสึแกงกะหรี่",
@@ -3677,7 +5830,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_122",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken Katsu Curry Rice",
+      "desc_en": "Serves 1 with approximate calories; check the curry roux label and handle hot oil carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 120 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 egg",
+        "Japanese panko breadcrumbs: 20 g",
+        "Japanese curry roux block: 20 g",
+        "Water: 180 ml",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Coat the chicken in flour, dip in beaten egg, and press into panko breadcrumbs.",
+        "Fry over medium heat until the chicken reaches 74°C, drain on a rack, and slice into strips.",
+        "Bring the water to a gentle boil, turn off the heat, add the curry roux block, and stir until dissolved.",
+        "Simmer the curry sauce over low heat until thickened.",
+        "Plate the rice, top with sliced chicken katsu, and ladle the curry sauce alongside."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดกิมจิญี่ปุ่น",
@@ -3707,7 +5879,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_123",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese-Style Pork and Kimchi Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; kimchi and sliced pork vary in saltiness by type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 110 g",
+        "Vegetarian kimchi, chopped: 50 g",
+        "Onion, thinly sliced: 20 g",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check the kimchi label to confirm it contains no fish ingredients if preparing a vegetarian-friendly version.",
+        "Heat the oil in a pan over medium heat and sauté the onion until softened.",
+        "Add the pork and stir-fry until cooked through to 63°C.",
+        "Add the kimchi and stir-fry until heated through.",
+        "Spoon over rice and garnish with sesame seeds and green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดพริกชิชิมิ",
@@ -3738,7 +5928,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_124",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shichimi-Spiced Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; adjust the amount of shichimi togarashi to your preferred spice level.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast, cut into bite-sized pieces: 120 g",
+        "Red bell pepper, chopped: 35 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shichimi togarashi: 1 pinch",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Mix the Japanese soy sauce and mirin together.",
+        "Heat the oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add the red bell pepper and continue cooking until the chicken reaches 74°C.",
+        "Pour in the sauce and toss until everything is evenly glazed.",
+        "Serve over rice, garnished with shichimi togarashi and green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูสุกี้ยากี้",
@@ -3769,7 +5978,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_125",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork Sukiyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; choose a dashi stock that suits your dietary needs.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork: 110 g",
+        "Onion, thinly sliced: 25 g",
+        "Fresh shiitake mushrooms, sliced: 25 g",
+        "Dashi stock: 100 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tbsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, mirin, and sugar in a skillet.",
+        "Add the onion and shiitake mushrooms, simmering over medium heat until softened.",
+        "Add the sliced pork a piece at a time and simmer until cooked through to 63°C.",
+        "Simmer briefly so the meat absorbs the savory-sweet broth.",
+        "Spoon the pork, vegetables, and sauce over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนย่างซอสมิโสะ",
@@ -3799,7 +6027,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_126",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Glazed Grilled Salmon Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; miso paste varies in saltiness by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 130 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, mirin, and water into a smooth glaze.",
+        "Check the salmon for bones and pat dry.",
+        "Pan-grill the salmon over medium heat until nearly cooked, brush with the glaze, and flip gently.",
+        "Continue cooking until the center of the salmon reaches 63°C.",
+        "Serve over rice and sprinkle with toasted white sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและไข่ข้นดาชิ",
@@ -3829,7 +6075,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_127",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Dashi Scrambled Egg and Shrimp Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook both the shrimp and eggs thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 90 g",
+        "Eggs: 2 eggs",
+        "Dashi stock: 2 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with the dashi stock and Japanese soy sauce.",
+        "Heat the oil in a pan over medium heat, stir-fry the shrimp until cooked through, and set aside.",
+        "Pour the egg mixture into the pan over low heat, stirring slowly as it begins to set.",
+        "Return the shrimp to the pan and cook until the eggs reach your desired doneness.",
+        "Slide over rice, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนผัดเนยโชยุ",
@@ -3859,7 +6123,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_128",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Butter Soy Glazed Salmon Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; stir gently so the salmon doesn't break apart.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced salmon fillet: 120 g",
+        "Shimeji mushrooms: 30 g",
+        "Unsalted butter: 5 g",
+        "Japanese soy sauce: 1 tsp",
+        "Ground black pepper: 1 pinch",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and cut into bite-sized pieces.",
+        "Melt butter in a pan over medium heat, add mushrooms and salmon, and stir-fry gently.",
+        "Add Japanese soy sauce and black pepper, cooking until the salmon reaches an internal temperature of 63°C.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top the rice with the salmon and mushrooms, then garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าทูน่ากระป๋องขิงโชยุ",
@@ -3889,7 +6171,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_130",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Soy Canned Tuna Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna in spring water, drained: 75 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 2 tbsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Combine ginger, soy sauce, mirin, and water in a pan.",
+        "Warm the sauce over low heat and add the drained tuna.",
+        "Toss gently until the tuna is heated through.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Top the rice with the tuna, drizzle with sauce, and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าปูอัดและไข่หวาน",
@@ -3922,7 +6222,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crab Stick and Tamagoyaki Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check crab stick and tamagoyaki labels for ingredients and allergens.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Shredded crab sticks: 45 g",
+        "Sliced Japanese rolled omelet (tamagoyaki): 35 g",
+        "Diced cucumber: 25 g",
+        "Japanese mayonnaise: 1 tsp",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the crab sticks, tamagoyaki, and cucumber over the rice.",
+        "Drizzle Japanese mayonnaise in thin ribbons.",
+        "Sprinkle with shredded nori and toasted white sesame seeds.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดหอมตุ๋น",
@@ -3955,7 +6273,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Simmered Shiitake Mushroom Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; choose a dashi stock that suits your dietary needs.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced fresh shiitake mushrooms: 70 g",
+        "Dashi stock: 120 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Add dashi, soy sauce, mirin, and sugar to a pan and bring to a gentle simmer.",
+        "Add the shiitake mushrooms and simmer for about 10 minutes until tender.",
+        "Continue simmering until the mushrooms absorb the flavor and the sauce reduces slightly.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Place the mushrooms and sauce over the rice, then garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดซอสยากินิกุ",
@@ -3985,7 +6321,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_134",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yakiniku Stir-Fried Vegetable Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; check the yakiniku sauce label and taste before adding extra seasoning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced zucchini: 35 g",
+        "Julienne red bell pepper: 35 g",
+        "Sliced button mushrooms: 35 g",
+        "Yakiniku sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the mushrooms until they start to soften.",
+        "Add the zucchini and red bell pepper and stir-fry until tender-crisp.",
+        "Pour in the yakiniku sauce and toss to coat evenly.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Top the rice with the stir-fried vegetables and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวชุบแป้งทอดซอสทงคัตสึ",
@@ -4016,7 +6370,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_135",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy White Fish Katsu Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; handle hot oil carefully and ensure the fish is cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2 piece",
+        "Japanese panko breadcrumbs: 20 g",
+        "Oil for frying: as needed",
+        "Tonkatsu sauce: 1 tbsp",
+        "Shredded cabbage: 30 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Coat the fish in flour, dip into beaten egg, and press into panko breadcrumbs.",
+        "Fry over medium heat until golden brown and the fish reaches an internal temperature of 63°C.",
+        "Drain on a wire rack and slice into pieces.",
+        "Spoon rice into a bowl, top with fish and cabbage, and drizzle with tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและเห็ดผัดโชยุ",
@@ -4046,7 +6419,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_136",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy Stir-Fried Shrimp and Mushroom Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the shrimp until opaque and fully cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 100 g",
+        "Shimeji mushrooms: 35 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the mushrooms until starting to soften.",
+        "Add the shrimp and stir-fry until they begin to turn pink.",
+        "Add Japanese soy sauce and mirin, cooking until the shrimp are cooked through.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top the rice with the shrimp and mushrooms, then garnish with scallions."
+      ]
     },
     {
       "title": "ซุปมิโสะเต้าหู้และข้าวโพด",
@@ -4077,7 +6468,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Tofu and Sweet Corn Miso Soup",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check dashi and miso ingredients according to dietary restrictions.",
+      "ingredients_en": [
+        "Diced soft tofu: 70 g",
+        "Cooked corn kernels: 25 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat the dashi stock in a pot until hot.",
+        "Add the corn and soft tofu and warm gently over low heat.",
+        "Ladle out a small amount of broth to dissolve the miso paste.",
+        "Pour the dissolved miso back into the pot and stir gently.",
+        "Remove from heat just before boiling, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "สลัดมันฝรั่งญี่ปุ่น",
@@ -4107,7 +6514,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_139",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Japanese Potato Salad",
+      "desc_en": "Single-serving recipe with approximate calories; refrigerate the salad if prepared ahead of time.",
+      "ingredients_en": [
+        "Boiled potatoes: 130 g",
+        "Thinly sliced cucumber: 25 g",
+        "Finely diced carrot: 15 g",
+        "Japanese mayonnaise: 1 tbsp",
+        "Rice vinegar: 1/2 tsp",
+        "Salt: 1 pinch",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the potatoes until fork-tender, then drain well.",
+        "Toss the cucumber with a pinch of salt, let sit for 5 minutes, and squeeze out excess liquid.",
+        "Coarsely mash the potatoes while still warm.",
+        "Fold in the carrot, cucumber, mayonnaise, and rice vinegar until well combined.",
+        "Season with black pepper and serve warm or chilled."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดเห็ดมิโสะ",
@@ -4138,7 +6563,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_140",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Mushroom Chicken Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced chicken breast: 110 g",
+        "Sliced button mushrooms: 40 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Whisk together miso paste, mirin, and water until smooth.",
+        "Heat oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add the mushrooms and stir-fry until they begin to soften.",
+        "Pour in the miso sauce and cook until the chicken reaches 74°C and is nicely glazed.",
+        "Spoon over rice and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ข้นผักโขมและเห็ด",
@@ -4168,7 +6612,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_141",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Creamy Spinach and Mushroom Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the eggs thoroughly to suit the diner's preference.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Eggs: 2 pieces",
+        "Spinach: 25 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Fresh milk: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Japanese soy sauce: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the mushrooms until starting to soften.",
+        "Add the spinach, cook until wilted, then remove and set aside.",
+        "Beat the eggs with milk and soy sauce, then pour into the pan over low heat.",
+        "Stir slowly until the eggs reach your desired consistency, then fold the mushrooms and spinach back in.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้และมะเขือม่วงซอสพอนสึ",
@@ -4198,7 +6660,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_142",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Glazed Tofu and Eggplant Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; ponzu sauce saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 90 g",
+        "Diced eggplant: 70 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated ginger: 3 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear over medium heat until golden.",
+        "Add the eggplant with a splash of water, cover, and steam until starting to soften.",
+        "Uncover, add grated ginger and ponzu sauce, and toss to combine.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Top the rice with the tofu and eggplant, then sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าแซลมอนย่างซอสพอนสึ",
@@ -4227,7 +6707,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_143",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pan-Grilled Salmon Rice Bowl with Ponzu",
+      "desc_en": "Single-serving recipe with approximate calories; ponzu sauce saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 120 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 20 g",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and pat dry.",
+        "Pan-grill the salmon over medium heat until the center reaches 63°C.",
+        "Warm the rice and spoon it into a bowl.",
+        "Arrange the salmon and grated daikon over the rice.",
+        "Drizzle with ponzu sauce and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดหน่อไม้ฝรั่งโชยุ",
@@ -4257,7 +6754,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_145",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy Stir-Fried Chicken and Asparagus Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; trim off the tough woody ends of the asparagus before cooking.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Stripped chicken breast: 110 g",
+        "Cut asparagus: 50 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add the asparagus and stir-fry for about 2 minutes.",
+        "Pour in Japanese soy sauce and mirin, cooking until the chicken reaches 74°C.",
+        "Spoon rice into a bowl and top with the chicken and asparagus.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "โซบะผัดกุ้งและผัก",
@@ -4287,7 +6802,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_146",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Soba with Shrimp and Vegetables",
+      "desc_en": "Single-serving recipe with approximate calories; check soba noodle labels as some varieties contain wheat.",
+      "ingredients_en": [
+        "Dried soba noodles: 70 g",
+        "Peeled and deveined fresh shrimp: 90 g",
+        "Shredded cabbage: 35 g",
+        "Julienne carrot: 20 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the soba noodles according to package directions, rinse under cold water, and drain well.",
+        "Heat oil in a pan over medium heat and stir-fry the shrimp until they begin to turn pink.",
+        "Add the cabbage and carrot and sauté until they begin to soften.",
+        "Toss in the noodles and soy sauce, stir-frying until the shrimp are cooked through and noodles are hot.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่บดไข่คนมิโสะ",
@@ -4321,7 +6854,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Miso Ground Chicken and Scrambled Egg Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; cook both the chicken and eggs thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless ground chicken: 90 g",
+        "Egg: 1 piece",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Whisk together miso paste, mirin, and water until smooth.",
+        "Heat oil in a pan over medium heat, add ground chicken, and break it into fine crumbles with a spatula.",
+        "Pour in the miso sauce and cook until the chicken reaches 74°C.",
+        "In a separate pan, scramble the egg until fully cooked.",
+        "Spoon rice into a bowl, divide the chicken and scrambled egg on top, and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้และผักผัดซอสโชยุ",
@@ -4351,7 +6903,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_148",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Braised Tofu and Vegetable Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; add a splash of water if ingredients begin to stick to the pan.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 90 g",
+        "Cut broccoli florets: 35 g",
+        "Julienne carrot: 20 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear over medium heat until golden.",
+        "Add broccoli and carrot with a splash of water, cover, and steam for 2 minutes.",
+        "Uncover and add Japanese soy sauce and mirin.",
+        "Stir-fry until the vegetables are tender and the tofu is heated through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูเทริยากิและไข่ต้ม",
@@ -4382,7 +6952,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_149",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Pork and Boiled Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the pork thoroughly and use properly stored boiled eggs.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 100 g",
+        "Boiled egg: 1/2 piece",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded cabbage: 25 g"
+      ],
+      "steps_en": [
+        "Mix Japanese soy sauce, mirin, and honey to make the glaze.",
+        "Heat oil in a pan over medium heat and stir-fry the pork until cooked through to 63°C.",
+        "Pour in the sauce and simmer until it coats the pork.",
+        "Spoon rice into a bowl and arrange shredded cabbage, pork, and halved boiled egg on top.",
+        "Drizzle with remaining sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดเห็ดและสาหร่าย",
@@ -4413,7 +7002,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_150",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken, Shiitake, and Nori Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; use unseasoned nori seaweed if preferred.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced chicken breast: 100 g",
+        "Sliced fresh shiitake mushrooms: 30 g",
+        "Shredded nori seaweed: 2 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add shiitake mushrooms and water, cover briefly until the mushrooms start to soften.",
+        "Uncover, add soy sauce and mirin, and cook until the chicken reaches 74°C.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top the rice with the chicken and mushrooms, then sprinkle with shredded nori."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวอบมิโสะและเห็ด",
@@ -4443,7 +7051,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_151",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Baked White Fish and Mushroom Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; baking time depends on the thickness of the fish fillet.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Shimeji mushrooms: 30 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Preheat the oven to 190°C and check the fish for bones.",
+        "Mix miso, mirin, and water, then brush the glaze over the fish.",
+        "Place the fish and mushrooms in a baking dish.",
+        "Bake for 12–16 minutes until the fish reaches an internal temperature of 63°C.",
+        "Serve over rice and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและไข่หวาน",
@@ -4475,7 +7101,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Poached Shrimp and Tamagoyaki Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check tamagoyaki and mayonnaise labels for ingredients and allergens.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 80 g",
+        "Sliced Japanese rolled omelet (tamagoyaki): 35 g",
+        "Diced cucumber: 20 g",
+        "Japanese mayonnaise: 1 tsp",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Poach the shrimp in gently simmering water for 2–3 minutes until cooked through, then cool.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the shrimp, tamagoyaki, and cucumber over the rice.",
+        "Drizzle lightly with Japanese mayonnaise.",
+        "Sprinkle with shredded nori and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ย่างซอสพอนสึและขิง",
@@ -4505,7 +7148,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_153",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Tofu with Ginger Ponzu Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; ponzu sauce saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced firm tofu: 110 g",
+        "Ponzu sauce: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Grated daikon radish: 20 g",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-grill over medium heat until golden on both sides.",
+        "Combine ponzu sauce and grated ginger.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Top the rice with grilled tofu and grated daikon.",
+        "Drizzle with ginger ponzu sauce and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดมิโสะและงา",
@@ -4536,7 +7197,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_154",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sesame Miso Stir-Fried Vegetable Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chopped cabbage: 45 g",
+        "Julienne carrot: 25 g",
+        "Shimeji mushrooms: 30 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk together miso paste, mirin, and water into a smooth sauce.",
+        "Heat a little oil in a pan over medium heat and briefly stir-fry the mushrooms and carrot.",
+        "Add the cabbage and stir-fry until starting to soften.",
+        "Pour in the miso sauce and toss until the vegetables are cooked to your liking.",
+        "Spoon over rice and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ต้มซอสมิโสะและผักโขม",
@@ -4566,7 +7246,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_155",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Boiled Egg and Spinach Rice Bowl with Miso Sauce",
+      "desc_en": "Single-serving recipe with approximate calories; cook the egg thoroughly and adjust for miso saltiness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 piece",
+        "Spinach: 30 g",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1/2 tsp",
+        "Water: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the egg for about 10 minutes, chill in cold water, and peel.",
+        "Mix miso paste, mirin, and water into a smooth sauce.",
+        "Blanch or sauté the spinach until wilted.",
+        "Spoon rice into a bowl and arrange the spinach and halved egg on top.",
+        "Drizzle with miso sauce and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดเทมปุระ",
@@ -4596,7 +7294,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_156",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Mushroom Tempura Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; source mushrooms safely and handle hot frying oil with care.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Shimeji mushrooms: 40 g",
+        "Large button mushrooms: 35 g",
+        "Tempura flour mix: 30 g",
+        "Ice-cold water: 40 ml",
+        "Tempura dipping sauce (tentsuyu): 1 tbsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Lightly mix the tempura flour with ice-cold water.",
+        "Dip the mushrooms in batter and fry in hot oil until crisp and golden.",
+        "Drain on a wire rack.",
+        "Spoon Japanese rice into a bowl and top with the mushroom tempura.",
+        "Drizzle with tempura sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดหัวไชเท้า",
@@ -4626,7 +7342,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_157",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Pork and Daikon Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cut the daikon into thin strips so it cooks quickly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Stripped pork loin: 110 g",
+        "Daikon radish strips: 50 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the pork until nearly cooked.",
+        "Add the daikon with a splash of water, cover, and cook for about 3 minutes.",
+        "Uncover and add grated ginger, soy sauce, and mirin.",
+        "Continue stir-frying until the pork reaches 63°C and the daikon is tender.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ซุปมิโสะกุ้งและผักกาดขาว",
@@ -4658,7 +7392,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Shrimp and Napa Cabbage Miso Soup",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; cook shrimp thoroughly and check miso saltiness.",
+      "ingredients_en": [
+        "Peeled and deveined fresh shrimp: 90 g",
+        "Chopped napa cabbage: 60 g",
+        "Sliced fresh shiitake mushrooms: 20 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat dashi in a pot, add napa cabbage and mushrooms, and simmer until tender.",
+        "Add the shrimp and cook until fully opaque and cooked through.",
+        "Dissolve the miso paste in a small ladle of broth and stir it back into the pot.",
+        "Warm gently over low heat without letting it boil vigorously.",
+        "Remove from heat, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวปั้นโอนิกิริไส้ไก่เทริยากิ",
@@ -4687,7 +7438,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_159",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Chicken Onigiri",
+      "desc_en": "Single-serving recipe with approximate calories; let the cooked chicken cool slightly before shaping the rice balls.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Finely diced chicken breast: 45 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Nori seaweed: 1 sheet",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat a little oil in a pan over medium heat and cook the chicken until it reaches 74°C.",
+        "Add soy sauce and mirin, simmer until glazed, then set aside to cool slightly.",
+        "Toss the chicken with toasted white sesame seeds.",
+        "Divide the rice, place the chicken filling in the center, and shape into triangles.",
+        "Wrap with nori seaweed before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะและผักดอง",
@@ -4716,7 +7484,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_160",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Mackerel and Pickled Cucumber Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; mackerel may contain small pin bones and pickles are salty.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Mackerel fillet: 120 g",
+        "Japanese pickled cucumber: 25 g",
+        "Grated daikon radish: 20 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Inspect the mackerel and remove any visible bones.",
+        "Pan-grill the fish over medium heat until the center reaches 63°C.",
+        "Warm the rice and spoon it into a bowl.",
+        "Arrange the grilled mackerel, pickled cucumber, and grated daikon on top.",
+        "Drizzle lightly with soy sauce, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ไข่หวานญี่ปุ่นใส่ต้นหอม",
@@ -4748,7 +7533,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Scallion Japanese Rolled Omelet (Tamagoyaki)",
+      "desc_en": "Single-serving senior-friendly recipe; cook the egg thoroughly before serving.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Dashi stock: 1 tbsp",
+        "Mirin: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Sliced scallions: 5 g",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with dashi stock, mirin, sugar, and sliced scallions.",
+        "Heat a tamagoyaki pan or nonstick skillet over low heat and brush lightly with oil.",
+        "Pour in a thin layer of egg mixture and wait for it to start setting.",
+        "Roll the egg toward you, lightly oil the pan again, and pour in another layer of egg.",
+        "Repeat rolling until all egg is used and cooked through, then rest briefly and slice."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูย่างโชยุและหอมใหญ่",
@@ -4778,7 +7580,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_162",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Glazed Pork and Onion Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; ensure the pork is cooked thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 110 g",
+        "Sliced onion: 25 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the onion until translucent.",
+        "Add the pork and stir-fry until cooked through to 63°C.",
+        "Add Japanese soy sauce and mirin, tossing until the glaze coats the pork.",
+        "Spoon Japanese rice into a bowl.",
+        "Top the rice with the pork and onion, then sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลากะพงย่างขิง",
@@ -4808,7 +7628,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_163",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger-Glazed Grilled Sea Bass Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; grilling time varies depending on fillet thickness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sea bass fillet: 140 g",
+        "Grated ginger: 4 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Mix grated ginger, Japanese soy sauce, and mirin.",
+        "Pan-grill the sea bass over medium heat until the center reaches 63°C.",
+        "Pour the ginger sauce over the fish and warm briefly.",
+        "Serve over rice and garnish with scallions."
+      ]
     },
     {
       "title": "สลัดเต้าหู้เย็นซอสพอนสึ",
@@ -4837,7 +7675,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_164",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Chilled Tofu Salad with Ponzu",
+      "desc_en": "Single-serving recipe with approximate calories; use tofu that has been properly refrigerated per package instructions.",
+      "ingredients_en": [
+        "Soft tofu: 150 g",
+        "Ponzu sauce: 1 tbsp",
+        "Grated ginger: 2 g",
+        "Sliced scallions: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Shredded nori seaweed: 1 g"
+      ],
+      "steps_en": [
+        "Drain the soft tofu and place it on a serving plate.",
+        "Pour ponzu sauce evenly over the tofu.",
+        "Top with grated ginger and sliced scallions.",
+        "Sprinkle with toasted white sesame seeds and shredded nori.",
+        "Serve immediately while chilled."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ดาวซอสเทริยากิเห็ด",
@@ -4868,7 +7723,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_166",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Mushroom and Fried Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the egg to the diner's preferred doneness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 piece",
+        "Shimeji mushrooms: 40 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the shimeji mushrooms until starting to soften.",
+        "Add soy sauce, mirin, and honey, simmering until the glaze coats the mushrooms.",
+        "In a separate pan, fry the egg until the white is set to your liking.",
+        "Spoon rice into a bowl and top with the mushrooms and fried egg.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะย่างเกลือและหัวไชเท้า",
@@ -4897,7 +7771,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_168",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salt-Grilled Mackerel and Daikon Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; mackerel may contain small bones, so eat carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Mackerel fillet: 130 g",
+        "Salt: 1 pinch",
+        "Grated daikon radish: 25 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Inspect the mackerel for bones, remove any visible ones, pat dry, and sprinkle with salt.",
+        "Pan-grill the fish over medium heat until cooked through and the center reaches 63°C.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Place the mackerel and grated daikon over the rice.",
+        "Add a light drizzle of soy sauce and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูบดโซโบโระไข่และถั่วลันเตา",
@@ -4928,7 +7819,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_169",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pork Soboro, Egg, and Pea Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook both the ground pork and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Lean ground pork: 90 g",
+        "Egg: 1 piece",
+        "Cooked green peas: 20 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Grated ginger: 2 g",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat, add ground pork, and break it into fine crumbles with a spatula.",
+        "Add ginger, soy sauce, and mirin, cooking until the pork reaches 71°C.",
+        "In a separate pan, scramble the egg until cooked through.",
+        "Spoon rice into a bowl and arrange the pork, scrambled egg, and green peas in neat sections.",
+        "Serve warm."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสยูซุโคโช",
@@ -4958,7 +7868,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_171",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yuzu Kosho Stir-Fried Pork Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; yuzu kosho is salty and spicy, so start with a small amount.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Stripped pork loin: 110 g",
+        "Julienne green bell pepper: 30 g",
+        "Yuzu kosho: 1/4 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix yuzu kosho, Japanese soy sauce, and water.",
+        "Heat oil in a pan over medium heat and stir-fry the pork until nearly cooked.",
+        "Add the green bell pepper and cook until the pork reaches 63°C.",
+        "Pour in the sauce and toss to coat evenly.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่และเห็ดซอสพอนสึ",
@@ -4988,7 +7916,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_172",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Mushroom and Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the eggs thoroughly before serving.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Eggs: 2 pieces",
+        "Sliced button mushrooms: 40 g",
+        "Ponzu sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the mushrooms until tender.",
+        "Beat the eggs, pour into the pan, and stir gently until cooked through.",
+        "Add ponzu sauce and toss to combine.",
+        "Spoon rice into a bowl and top with the egg and mushroom mixture.",
+        "Garnish with scallions and sesame seeds before serving."
+      ]
     },
     {
       "title": "อุด้งน้ำซุปปลาแซลมอนและผัก",
@@ -5021,7 +7967,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salmon and Vegetable Udon Noodle Soup",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check salmon for bones and choose dashi to fit dietary needs.",
+      "ingredients_en": [
+        "Udon noodles: 180 g",
+        "Diced salmon: 90 g",
+        "Chopped napa cabbage: 45 g",
+        "Sliced fresh shiitake mushrooms: 20 g",
+        "Dashi stock: 350 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Bring dashi stock and Japanese soy sauce to a gentle simmer.",
+        "Add napa cabbage and mushrooms and cook until starting to soften.",
+        "Add the salmon and simmer gently until the center reaches 63°C.",
+        "Add the udon noodles and heat according to package instructions.",
+        "Transfer to a bowl, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ทอดซอสมิโสะหวาน",
@@ -5052,7 +8016,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_174",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sweet Miso Glazed Pan-Fried Tofu Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced firm tofu: 110 g",
+        "Potato starch: 8 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 2 tsp",
+        "Sugar: 1/2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and dust lightly with potato starch.",
+        "Heat oil in a pan over medium heat and pan-fry the tofu until golden on both sides.",
+        "Mix miso, mirin, sugar, and a splash of water, then pour into the pan.",
+        "Gently turn the tofu to coat evenly in the glaze.",
+        "Serve over rice and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าแซลมอนย่างซอสขิงมิโสะ",
@@ -5082,7 +8065,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_175",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Miso Grilled Salmon Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; check salmon for bones and taste the sauce before adding extra seasoning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 120 g",
+        "Miso paste: 1 tsp",
+        "Grated ginger: 3 g",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix miso paste, grated ginger, mirin, and water into a smooth glaze.",
+        "Check the salmon for bones and pan-grill over medium heat.",
+        "Brush the glaze onto the salmon and cook until the center reaches 63°C.",
+        "Warm the rice and spoon it into a bowl.",
+        "Place the salmon over the rice, spoon any remaining glaze on top, and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "สลัดเต้าหู้ย่างซอสโชยุขิง",
@@ -5113,7 +8114,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_176",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Grilled Tofu Salad with Ginger Soy Dressing",
+      "desc_en": "Single-serving recipe with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Sliced firm tofu: 100 g",
+        "Salad greens: 35 g",
+        "Sliced cucumber: 25 g",
+        "Japanese soy sauce: 1 tsp",
+        "Grated ginger: 3 g",
+        "Rice vinegar: 1 tsp",
+        "Sesame oil: 1/4 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-grill over medium heat until golden.",
+        "Whisk together soy sauce, grated ginger, rice vinegar, and sesame oil.",
+        "Arrange the salad greens and cucumber on a plate.",
+        "Top with the grilled tofu and drizzle with the dressing.",
+        "Sprinkle with toasted white sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดซอสเทริยากิ",
@@ -5144,7 +8164,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_177",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Vegetable Stir-Fry Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; adjust the sweetness of the glaze to taste.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cut broccoli florets: 35 g",
+        "Julienne carrot: 25 g",
+        "Shimeji mushrooms: 30 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix soy sauce, mirin, and honey to make the glaze.",
+        "Heat oil in a pan over medium heat and sauté the mushrooms until starting to soften.",
+        "Add broccoli and carrot with a splash of water, cover, and steam for 2 minutes.",
+        "Uncover, pour in the glaze, and stir-fry until the vegetables are tender and coated.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งเทมปุระและผักดอง",
@@ -5174,7 +8213,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_178",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp Tempura and Pickles Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; handle hot frying oil carefully and check pickle saltiness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled fresh shrimp, tail-on: 110 g",
+        "Tempura flour mix: 30 g",
+        "Ice-cold water: 40 ml",
+        "Oil for frying: as needed",
+        "Japanese pickles: 20 g",
+        "Tempura dipping sauce (tentsuyu): 1 tbsp"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and make shallow slits along the underside to prevent curling.",
+        "Lightly mix the tempura flour with ice-cold water.",
+        "Dip the shrimp in batter and fry in hot oil until crisp and cooked through.",
+        "Drain on a wire rack.",
+        "Spoon rice into a bowl, top with shrimp and pickles, and drizzle with tempura sauce."
+      ]
     },
     {
       "title": "สลัดปลาทูน่ามันฝรั่งและแตงกวา",
@@ -5204,7 +8261,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_179",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Japanese Tuna, Potato, and Cucumber Salad",
+      "desc_en": "Single-serving recipe with approximate calories; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Boiled potatoes: 120 g",
+        "Canned tuna in spring water, drained: 50 g",
+        "Thinly sliced cucumber: 25 g",
+        "Finely diced carrot: 15 g",
+        "Japanese mayonnaise: 1 tbsp",
+        "Rice vinegar: 1/2 tsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the potatoes until fork-tender, drain, and mash coarsely.",
+        "Toss the cucumber with a pinch of salt, let sit, and squeeze out excess moisture.",
+        "Combine the potatoes with tuna, cucumber, and carrot.",
+        "Fold in Japanese mayonnaise and rice vinegar until well mixed.",
+        "Season with black pepper and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูบดซอสมิโสะและไข่ดาว",
@@ -5235,7 +8310,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_180",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Ground Pork and Fried Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the ground pork thoroughly and fry the egg to your preferred doneness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Lean ground pork: 90 g",
+        "Egg: 1 piece",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Whisk together miso paste, mirin, and water.",
+        "Heat oil in a pan over medium heat, add ground pork, and break it up.",
+        "Pour in the miso sauce and cook until the pork reaches 71°C.",
+        "In a separate pan, fry the egg until the white is cooked to your liking.",
+        "Spoon rice into a bowl, top with pork and fried egg, and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนย่างเกลือและวากาเมะ",
@@ -5264,7 +8358,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_182",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Salt-Grilled Salmon and Wakame Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; wakame seaweed saltiness varies by type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 120 g",
+        "Dried wakame seaweed: 2 g",
+        "Salt: 1 pinch",
+        "Diced cucumber: 20 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Rehydrate the wakame according to package instructions and drain well.",
+        "Check the salmon for bones, pat dry, and season with salt.",
+        "Pan-grill the salmon over medium heat until the center reaches 63°C.",
+        "Warm the rice, spoon into a bowl, and top with salmon, wakame, and cucumber.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดกระเทียมโชยุ",
@@ -5294,7 +8405,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_184",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Garlic Soy Butter Shrimp Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook the shrimp until opaque and fully cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 120 g",
+        "Minced garlic: 4 g",
+        "Japanese soy sauce: 1 tsp",
+        "Unsalted butter: 4 g",
+        "Ground black pepper: 1 pinch",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Melt butter in a pan over medium heat and sauté garlic until fragrant.",
+        "Add the shrimp and stir-fry until they begin to turn pink.",
+        "Add Japanese soy sauce and black pepper, cooking until the shrimp are cooked through.",
+        "Spoon rice into a bowl and top with the shrimp and pan sauce.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักและเต้าหู้ซอสงา",
@@ -5325,7 +8454,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_185",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sesame-Dressed Tofu and Vegetable Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 80 g",
+        "Cut broccoli florets: 35 g",
+        "Julienne carrot: 20 g",
+        "Ground white sesame seeds: 8 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden brown.",
+        "Steam or stir-fry the broccoli and carrot until tender-crisp.",
+        "Whisk together ground sesame seeds, soy sauce, mirin, and water into a smooth sauce.",
+        "Spoon rice into a bowl and arrange the tofu and vegetables on top.",
+        "Drizzle with sesame sauce before serving."
+      ]
     },
     {
       "title": "ซุปมิโสะปลาแซลมอนและข้าวโพด",
@@ -5357,7 +8505,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Salmon and Sweet Corn Miso Soup",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check salmon for bones and choose dashi to fit dietary needs.",
+      "ingredients_en": [
+        "Diced salmon fillet: 90 g",
+        "Cooked corn kernels: 25 g",
+        "Chopped napa cabbage: 40 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat dashi in a pot, add napa cabbage, and simmer until starting to soften.",
+        "Add the salmon and corn, simmering gently until the fish reaches 63°C.",
+        "Dissolve the miso paste in a little broth and stir it back into the pot.",
+        "Warm gently over low heat without boiling vigorously.",
+        "Remove from heat, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดกะหล่ำปลีและซอสพอนสึ",
@@ -5387,7 +8552,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_187",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Pork and Cabbage Stir-Fry Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; ponzu sauce saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 100 g",
+        "Chopped cabbage: 55 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated ginger: 3 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté grated ginger until fragrant.",
+        "Add the pork and stir-fry until cooked to 63°C.",
+        "Add the cabbage and stir-fry until starting to soften.",
+        "Pour in the ponzu sauce and toss to coat evenly.",
+        "Spoon over rice and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวซอสเทริยากิและไข่หวาน",
@@ -5420,7 +8603,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki White Fish and Tamagoyaki Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; check tamagoyaki labels and ensure the fish is cooked thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 120 g",
+        "Sliced Japanese rolled omelet (tamagoyaki): 25 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix soy sauce, mirin, and honey to make the teriyaki glaze.",
+        "Check the fish for bones and pan-grill over medium heat.",
+        "Brush the glaze onto the fish and cook until the center reaches 63°C.",
+        "Warm the rice, spoon into a bowl, and top with the fish and tamagoyaki.",
+        "Drizzle with remaining glaze and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่าและไข่คน",
@@ -5453,7 +8654,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Tuna and Scrambled Egg Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna in spring water, drained: 60 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sliced scallions: 4 g",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat, crack in the egg, and scramble until cooked through.",
+        "Add the drained tuna and Japanese soy sauce, tossing gently to combine.",
+        "Warm the rice and spoon it into a bowl.",
+        "Spoon the egg and tuna mixture over the rice.",
+        "Garnish with scallions and shredded nori."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดถั่วแระและเห็ด",
@@ -5483,7 +8702,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_191",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken, Edamame, and Mushroom Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; use cooked, shelled edamame.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced chicken breast: 100 g",
+        "Cooked shelled edamame: 30 g",
+        "Shimeji mushrooms: 30 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the chicken until nearly cooked.",
+        "Add the mushrooms and edamame, stirring until heated through.",
+        "Add Japanese soy sauce and mirin.",
+        "Continue stir-frying until the chicken reaches 74°C and is coated in the glaze.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะซอสขิงมะนาว",
@@ -5513,7 +8750,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_192",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Mackerel with Ginger Lime Sauce Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; mackerel may contain small bones, so eat carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Mackerel fillet: 125 g",
+        "Grated ginger: 4 g",
+        "Lime juice: 1 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Inspect the mackerel and remove any visible bones.",
+        "Pan-grill the fish over medium heat until the center reaches 63°C.",
+        "Mix grated ginger, lime juice, and Japanese soy sauce.",
+        "Spoon rice into a bowl, top with the grilled mackerel, and drizzle with the sauce.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูย่างและไข่ข้น",
@@ -5544,7 +8799,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_193",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Pork and Soft Scrambled Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook both the pork and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork loin: 90 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Fresh milk: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Mix Japanese soy sauce and mirin.",
+        "Heat oil in a pan over medium heat and sear the pork until cooked to 63°C.",
+        "Pour in the sauce, toss to coat the pork, and remove from the pan.",
+        "Beat the egg with milk and scramble over low heat until cooked through.",
+        "Spoon rice into a bowl, top with pork and egg, and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและไข่ตุ๋น",
@@ -5577,7 +8851,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp Chawanmushi Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; steaming time depends on cup size and steam intensity.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 150 g",
+        "Peeled and deveined fresh shrimp: 60 g",
+        "Egg: 1 piece",
+        "Dashi stock: 70 ml",
+        "Japanese soy sauce: 1/2 tsp",
+        "Chopped fresh shiitake mushrooms: 15 g",
+        "Water for steaming: 500 ml"
+      ],
+      "steps_en": [
+        "Gently whisk the egg with dashi and soy sauce, then strain through a fine sieve.",
+        "Place the shrimp and shiitake mushrooms into a heatproof cup.",
+        "Pour the egg mixture into the cup and cover loosely.",
+        "Steam over low heat for 15–18 minutes until the custard sets and shrimp are cooked through.",
+        "Spoon warm rice into a bowl, top with the savory custard, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักดองและเต้าหู้ทอด",
@@ -5607,7 +8899,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_196",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Tofu and Japanese Pickles Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; pickle saltiness varies by type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 100 g",
+        "Potato starch: 8 g",
+        "Chopped Japanese pickles: 25 g",
+        "Rice bran oil: 1 tsp",
+        "Sliced scallions: 4 g",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and dust lightly with potato starch.",
+        "Pan-fry the tofu in oil until golden brown on all sides.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Top the rice with the crispy tofu and chopped pickles.",
+        "Garnish with scallions and shredded nori, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูและหัวไชเท้าต้มซีอิ๊ว",
@@ -5637,7 +8947,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_197",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Simmered Pork Tenderloin and Daikon Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; slice the daikon evenly so it cooks uniformly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced pork tenderloin: 110 g",
+        "Sliced daikon radish: 60 g",
+        "Sliced ginger: 4 g",
+        "Dashi stock: 180 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp"
+      ],
+      "steps_en": [
+        "Parboil the daikon slices in water until slightly tender, then drain.",
+        "Bring dashi, soy sauce, mirin, and sliced ginger to a gentle simmer in a pot.",
+        "Add the pork and daikon, simmering until the pork is cooked through to 63°C.",
+        "Continue simmering until the daikon is tender and absorbs the savory broth.",
+        "Spoon over Japanese rice along with the simmering sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนและไข่คนโชยุ",
@@ -5670,7 +8998,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Soy Salmon and Scrambled Egg Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; cook both the salmon and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 90 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and pan-grill over medium heat until the center reaches 63°C.",
+        "In a separate pan, scramble the egg until cooked through.",
+        "Warm the rice and spoon it into a bowl.",
+        "Arrange the salmon and scrambled egg over the rice.",
+        "Drizzle lightly with soy sauce and garnish with scallions and sesame seeds."
+      ]
     },
     {
       "title": "สุกี้ยากี้เนื้อและผัก",
@@ -5701,7 +9047,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_199",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Beef and Vegetable Sukiyaki",
+      "desc_en": "Single-serving recipe with approximate calories; cook the beef to the diner's preferred level of doneness.",
+      "ingredients_en": [
+        "Thinly sliced beef: 100 g",
+        "Chopped napa cabbage: 70 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Diced firm tofu: 40 g",
+        "Dashi stock: 180 ml",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tbsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine dashi stock, soy sauce, mirin, and sugar in a pot.",
+        "Add napa cabbage and shiitake mushrooms and simmer until starting to soften.",
+        "Add the tofu and thin slices of beef one piece at a time.",
+        "Simmer until the beef is cooked through and all ingredients are piping hot.",
+        "Transfer to a serving bowl with the broth and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่และผักตุ๋นดาชิ",
@@ -5735,7 +9100,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Dashi-Braised Chicken and Vegetable Rice Bowl",
+      "desc_en": "Single-serving senior-friendly recipe with approximate calories; choose a dashi stock that suits your dietary preferences.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced chicken breast: 100 g",
+        "Sliced carrot: 25 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Dashi stock: 150 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Cooked green peas: 20 g"
+      ],
+      "steps_en": [
+        "Bring dashi stock, Japanese soy sauce, and mirin to a gentle simmer.",
+        "Add carrot and shiitake mushrooms and simmer until starting to soften.",
+        "Add the chicken and simmer until cooked to 74°C.",
+        "Stir in the cooked green peas and heat through.",
+        "Spoon the mixture over Japanese rice with a splash of the broth."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่และกุ้งผัดโชยุ",
@@ -5765,7 +9149,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_204",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy Stir-Fried Shrimp and Egg Rice Bowl",
+      "desc_en": "Single-serving recipe with approximate calories; cook both the shrimp and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 80 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the shrimp until they begin to turn pink.",
+        "Add Japanese soy sauce and mirin, cooking until the shrimp are cooked through.",
+        "Crack the egg into the other side of the pan and scramble until cooked.",
+        "Warm the rice, spoon into a bowl, and top with the shrimp and egg.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "สลัดโซบะเย็นเต้าหู้และสาหร่าย",
@@ -5795,7 +9197,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_205",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Chilled Soba Salad with Tofu and Wakame",
+      "desc_en": "Serves 1 with approximate calories; check soba noodle and tsuyu labels as they may contain wheat or fish.",
+      "ingredients_en": [
+        "Dried soba noodles: 70 g",
+        "Diced firm tofu: 60 g",
+        "Julienne cucumber: 25 g",
+        "Rehydrated wakame seaweed: 15 g",
+        "Tsuyu dipping sauce: 30 ml",
+        "Cold water: 50 ml",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the soba noodles according to package directions, rinse under cold water, and drain well.",
+        "Soak the wakame until tender, then drain.",
+        "Arrange the noodles, cucumber, wakame, and tofu on a plate.",
+        "Mix the tsuyu with cold water to make the dipping sauce.",
+        "Sprinkle with sesame seeds and serve with the dipping sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ทอดซอสพอนสึขิง",
@@ -5825,7 +9245,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_206",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Tofu Rice Bowl with Ginger Ponzu",
+      "desc_en": "Serves 1 with approximate calories; saltiness of ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 110 g",
+        "Potato starch: 10 g",
+        "Ponzu sauce: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and coat lightly with potato starch.",
+        "Pan-sear the tofu in oil until golden on all sides.",
+        "Mix the ponzu sauce with ginger and pour into the pan.",
+        "Toss gently so the sauce glazes the tofu.",
+        "Spoon over rice, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดไข่มิโสะ",
@@ -5856,7 +9294,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_207",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Egg and Stir-Fried Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the egg thoroughly and taste the sauce before adding extra seasoning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1",
+        "Chopped cabbage: 40 g",
+        "Shimeji mushrooms: 30 g",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Whisk together the miso, mirin, and water until smooth.",
+        "Heat oil in a pan over medium heat and stir-fry the mushrooms and cabbage until tender.",
+        "Crack the egg into the pan and scramble until cooked through.",
+        "Add the miso sauce and toss to combine evenly.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดถั่วแระโชยุ",
@@ -5886,7 +9343,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_208",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Glazed Chicken and Edamame Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use cooked, shelled edamame.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced chicken breast: 100 g",
+        "Cooked shelled edamame: 35 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated ginger: 2 g"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the chicken and stir-fry until nearly cooked through.",
+        "Add the edamame, soy sauce, and mirin.",
+        "Stir-fry until the chicken reaches 74°C and the edamame are heated through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่าผัดขิงและเห็ด",
@@ -5916,7 +9391,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_209",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Tuna and Shiitake Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; tuna weight is measured after draining.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Drained canned tuna: 65 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the shiitake mushrooms and sauté until just tender.",
+        "Add the drained tuna, soy sauce, and mirin.",
+        "Toss gently until the tuna is heated through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักนึ่งและเต้าหู้มิโสะงา",
@@ -5947,7 +9440,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_210",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Steamed Vegetable and Tofu Bowl with Sesame Miso",
+      "desc_en": "Serves 1 with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 70 g",
+        "Broccoli florets: 35 g",
+        "Sliced carrot: 25 g",
+        "Miso paste: 1 tsp",
+        "Ground white sesame seeds: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the broccoli and carrot until tender to your liking.",
+        "Pan-sear the tofu over medium heat until golden.",
+        "Mix the miso, ground sesame, mirin, and water into a smooth sauce.",
+        "Place rice in a bowl and top with the tofu and steamed vegetables.",
+        "Drizzle with the sesame miso sauce before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลากะพงเทริยากิ",
@@ -5977,7 +9489,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_211",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Sea Bass Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; searing time varies depending on fillet thickness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sea bass fillet: 140 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Mix the Japanese soy sauce, mirin, and honey.",
+        "Check the fish for bones and pat dry.",
+        "Pan-sear the fish over medium heat until nearly done, then pour in the sauce.",
+        "Flip gently and cook until the internal temperature reaches 63°C.",
+        "Serve over rice and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูทอดและไข่ข้นดาชิ",
@@ -6007,7 +9537,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_212",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Katsudon (Crispy Pork and Dashi Egg Rice Bowl)",
+      "desc_en": "Serves 1 with approximate calories; use pre-cooked tonkatsu and reheat thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked pork tonkatsu: 100 g",
+        "Egg: 1",
+        "Sliced onion: 20 g",
+        "Dashi stock: 70 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, and mirin in a skillet, add the onion, and simmer until tender.",
+        "Slice the tonkatsu into strips and lay them over the onions.",
+        "Lightly beat the egg, pour it into the skillet, and cover.",
+        "Cook until the egg is set and the pork is heated through.",
+        "Slide over Japanese rice and serve."
+      ]
     },
     {
       "title": "ซุปมิโสะเต้าหู้และเห็ดชิเมจิ",
@@ -6039,7 +9587,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Silken Tofu and Shimeji Miso Soup",
+      "desc_en": "Serves 1 with approximate calories; check miso and dashi ingredients for dietary needs (senior-friendly).",
+      "ingredients_en": [
+        "Diced soft tofu: 70 g",
+        "Shimeji mushrooms: 30 g",
+        "Dried wakame seaweed: 2 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Soak the wakame according to package directions and drain.",
+        "Heat the dashi, add the shimeji mushrooms, and simmer until tender.",
+        "Add the tofu and wakame, warming gently over low heat.",
+        "Dissolve the miso in a ladleful of warm broth and stir back into the pot.",
+        "Turn off the heat before boiling, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและผักผัดซอสโชยุขิง",
@@ -6070,7 +9635,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_214",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Soy Shrimp and Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp until opaque and cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 110 g",
+        "Chopped cabbage: 35 g",
+        "Julienne carrot: 20 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the shrimp and stir-fry until they begin to turn pink.",
+        "Add the cabbage, carrot, and water, then cover and steam for 2 minutes.",
+        "Uncover, add the soy sauce, and stir-fry until the shrimp are cooked through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสโคจิและเห็ด",
@@ -6100,7 +9684,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_216",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shio-Koji Pork and Shiitake Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of shio-koji varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin strips: 110 g",
+        "Sliced fresh shiitake mushrooms: 30 g",
+        "Shio-koji: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced onion: 20 g",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Toss the pork with shio-koji and marinate for 10 minutes.",
+        "Heat oil in a pan over medium heat and sauté the onion until softened.",
+        "Add the pork and mushrooms, stir-frying until the pork reaches 63°C.",
+        "Warm the rice and transfer to a bowl.",
+        "Top with the pork and mushrooms, then garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวผัดเนยโชยุ",
@@ -6130,7 +9732,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_217",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Butter Soy White Fish Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; stir gently so the fish pieces stay intact.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet, cut into chunks: 140 g",
+        "Unsalted butter: 5 g",
+        "Japanese soy sauce: 1 tsp",
+        "Shimeji mushrooms: 25 g",
+        "Ground black pepper: 1 pinch",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Melt butter in a pan over medium heat, add the fish and mushrooms, and sauté gently.",
+        "Add the soy sauce and pepper, cooking until the fish reaches 63°C at the center.",
+        "Scoop rice into a bowl and arrange the fish and mushrooms on top.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักและไข่หวานซอสมิโสะ",
@@ -6164,7 +9784,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tamagoyaki and Steamed Vegetable Rice Bowl with Miso",
+      "desc_en": "Serves 1 with approximate calories; check tamagoyaki and miso labels for dietary needs (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 45 g",
+        "Broccoli florets: 35 g",
+        "Sliced carrot: 25 g",
+        "Miso paste: 1/2 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the broccoli and carrot until tender to your liking.",
+        "Whisk the miso, mirin, and water into a smooth sauce.",
+        "Warm the Japanese rice and place in a bowl.",
+        "Arrange the steamed vegetables and tamagoyaki over the rice.",
+        "Drizzle with miso sauce and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ทอดซอสนันบัง",
@@ -6195,7 +9834,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_219",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken Nanban Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and cook chicken thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast pieces: 130 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2",
+        "Frying oil: as needed",
+        "Rice vinegar: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk the rice vinegar, soy sauce, and sugar together to make the nanban glaze.",
+        "Dredge the chicken in flour, dip in beaten egg, and fry over medium heat until it reaches 74°C.",
+        "Drain the chicken and toss it in the nanban sauce.",
+        "Slice the chicken into bite-sized pieces.",
+        "Place rice in a bowl, top with the chicken, and spoon over the remaining sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดเห็ดและสาหร่ายโนริ",
@@ -6226,7 +9884,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_220",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Savory Tofu, Shiitake, and Nori Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a reliable source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 80 g",
+        "Sliced fresh shiitake mushrooms: 30 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Shredded nori seaweed: 2 g",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear in oil until golden.",
+        "Add the shiitake mushrooms and sauté until tender.",
+        "Pour in the Japanese soy sauce and mirin, tossing to coat evenly.",
+        "Scoop rice into a bowl and top with the tofu and mushrooms.",
+        "Garnish with shredded nori and scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวนึ่งโชยุขิง",
@@ -6256,7 +9933,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_221",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Steamed Ginger Soy White Fish Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; open the steamer lid carefully to avoid hot steam.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Julienne ginger: 5 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water for steaming: 500 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Remove any bones from the fish and place it on a heatproof plate.",
+        "Top with ginger and drizzle with Japanese soy sauce and mirin.",
+        "Bring water to a boil in a steamer, place the plate inside, and cover.",
+        "Steam for 10–15 minutes until the fish reaches 63°C at the center.",
+        "Place rice in a bowl, top with the fish and steaming juices, and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่คนและกุ้งเทริยากิ",
@@ -6290,7 +9985,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "breakfast_bakery"
+      "universalCategory": "breakfast_bakery",
+      "name_en": "Teriyaki Shrimp and Scrambled Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook both the shrimp and egg thoroughly (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 80 g",
+        "Egg: 1",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Combine the soy sauce, mirin, and honey in a small bowl.",
+        "Heat oil in a pan over medium heat and sauté the shrimp until they begin to change color.",
+        "Pour in the sauce and cook until the shrimp are cooked through.",
+        "Scramble the egg in a separate pan until fully cooked.",
+        "Scoop rice into a bowl, top with the shrimp and egg, and garnish with scallions."
+      ]
     },
     {
       "title": "สลัดเต้าหู้และผักดองญี่ปุ่น",
@@ -6319,7 +10033,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_223",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Chilled Silken Tofu and Pickled Vegetable Salad",
+      "desc_en": "Serves 1 with approximate calories; saltiness of Japanese pickles and ponzu varies by brand.",
+      "ingredients_en": [
+        "Soft tofu: 120 g",
+        "Chopped Japanese pickles: 25 g",
+        "Diced cucumber: 25 g",
+        "Ponzu sauce: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Drain the soft tofu well and place it on a serving plate.",
+        "Arrange the cucumber and Japanese pickles around the tofu.",
+        "Drizzle with ponzu sauce.",
+        "Sprinkle with toasted sesame seeds and scallions.",
+        "Serve immediately while chilled."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดผัดเนยโชยุ",
@@ -6349,7 +10080,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_224",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Butter Soy Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use clearly identified mushrooms from a trusted source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced king oyster mushrooms: 45 g",
+        "Shimeji mushrooms: 35 g",
+        "Unsalted butter: 5 g",
+        "Japanese soy sauce: 1 tsp",
+        "Sliced scallions: 4 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Melt butter in a pan over medium heat and sauté the mushrooms until tender and excess moisture evaporates.",
+        "Add the Japanese soy sauce and black pepper, tossing to coat evenly.",
+        "Warm the Japanese rice and transfer to a bowl.",
+        "Spoon the sautéed mushrooms over the rice.",
+        "Garnish with scallions before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูย่างซอสขิงมิโสะ",
@@ -6379,7 +10128,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_225",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Miso Grilled Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of miso varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Thinly sliced pork tenderloin: 120 g",
+        "Miso paste: 1 tsp",
+        "Grated ginger: 4 g",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, ginger, mirin, and water until smooth.",
+        "Heat oil in a pan over medium heat and sear the pork until cooked to 63°C.",
+        "Pour in the sauce and turn the pork to coat evenly.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the pork over the rice and spoon the remaining sauce on top."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนและผักย่าง",
@@ -6409,7 +10176,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_226",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Salmon and Roasted Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the salmon carefully for bones before cooking.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 110 g",
+        "Sliced zucchini: 30 g",
+        "Chopped red bell pepper: 30 g",
+        "Olive oil: 1 tsp",
+        "Salt: 1 pinch",
+        "Lemon juice: 1 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and season lightly with salt.",
+        "Pan-grill the salmon in oil over medium heat until the center reaches 63°C.",
+        "Grill the zucchini and bell pepper until tender to your liking.",
+        "Scoop rice into a bowl and top with the salmon and grilled vegetables.",
+        "Squeeze lemon juice over the bowl before serving."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งชุบเกล็ดขนมปังญี่ปุ่น",
@@ -6440,7 +10225,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_227",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ebi Fry (Crispy Panko Shrimp) Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and cook shrimp thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled fresh shrimp, tail-on: 120 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2",
+        "Japanese panko breadcrumbs: 20 g",
+        "Frying oil: as needed",
+        "Tonkatsu sauce: 1 tbsp",
+        "Shredded cabbage: 30 g"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and make shallow slits along the underside to prevent curling.",
+        "Dredge the shrimp in flour, dip in beaten egg, and coat in panko breadcrumbs.",
+        "Fry over medium heat until golden brown and cooked through.",
+        "Drain on a wire rack.",
+        "Scoop rice into a bowl, top with shredded cabbage and fried shrimp, and drizzle with tonkatsu sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่และไข่ตุ๋นดาชิ",
@@ -6473,7 +10277,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Steamed Dashi Egg Custard and Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; steaming time depends on bowl size and steam intensity (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 150 g",
+        "Finely diced chicken breast: 60 g",
+        "Egg: 1",
+        "Dashi stock: 80 ml",
+        "Japanese soy sauce: 1/2 tsp",
+        "Chopped fresh shiitake mushrooms: 15 g",
+        "Water for steaming: 500 ml"
+      ],
+      "steps_en": [
+        "Sauté the chicken in a pan until cooked to 74°C, then set aside.",
+        "Gently whisk the egg with dashi and soy sauce, then strain through a fine sieve.",
+        "Place the chicken and shiitake mushrooms in a heatproof cup and pour the egg mixture over.",
+        "Steam over low heat for 15–18 minutes until the custard is set in the center.",
+        "Warm the rice in a serving bowl, top with the steamed egg custard, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดผักซอสพอนสึ",
@@ -6503,7 +10325,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_229",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Pan-Seared Tofu and Vegetable Bowl with Ponzu",
+      "desc_en": "Serves 1 with approximate calories; saltiness of ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 80 g",
+        "Broccoli florets: 35 g",
+        "Julienne carrot: 20 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear in oil until golden.",
+        "Add the broccoli and carrot with a splash of water, cover, and steam for 2 minutes.",
+        "Uncover, pour in the ponzu sauce, and toss to coat evenly.",
+        "Warm the rice and scoop into a bowl.",
+        "Top with the tofu and vegetables, then sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่หวานและผักดอง",
@@ -6532,7 +10372,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_230",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tamagoyaki and Japanese Pickle Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of tamagoyaki and pickles varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 55 g",
+        "Chopped Japanese pickles: 20 g",
+        "Diced cucumber: 20 g",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the tamagoyaki, pickles, and cucumber over the rice.",
+        "Sprinkle with shredded nori and white sesame seeds.",
+        "Serve immediately.",
+        "Store any leftover ingredients according to package instructions."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวผัดเห็ดและผักโขม",
@@ -6562,7 +10419,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_231",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "White Fish, Shimeji, and Spinach Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; stir gently to avoid breaking the fish pieces.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet, cut into chunks: 130 g",
+        "Shimeji mushrooms: 30 g",
+        "Spinach: 20 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Heat oil in a pan over medium heat and sauté the mushrooms until tender.",
+        "Add the fish and water, cooking until the center of the fish reaches 63°C.",
+        "Add the spinach and soy sauce, stirring gently until wilted.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดมะเขือม่วงซอสพอนสึ",
@@ -6592,7 +10467,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_232",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Pork and Eggplant Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; add a splash of water if the eggplant begins to stick.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin strips: 100 g",
+        "Diced eggplant: 60 g",
+        "Ponzu sauce: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the pork and stir-fry until nearly cooked through.",
+        "Add the eggplant and a splash of water, then cover until softened.",
+        "Uncover, add the ponzu sauce, and cook until the pork reaches 63°C.",
+        "Spoon over rice and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดไข่และต้นหอม",
@@ -6622,7 +10515,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_233",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp and Scallion Scrambled Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook both the shrimp and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 80 g",
+        "Egg: 1",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 5 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the shrimp until they begin to turn pink.",
+        "Crack the egg into the pan and stir gently until it starts to set.",
+        "Add the Japanese soy sauce and cook until the shrimp and egg are done.",
+        "Scoop rice into a bowl and top with the shrimp and egg mixture.",
+        "Sprinkle with scallions and sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดผักดองโชยุ",
@@ -6653,7 +10564,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_234",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy Chicken, Shiitake, and Japanese Pickle Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; taste before adding extra seasoning as pickles and soy sauce are salty.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast pieces: 100 g",
+        "Chopped Japanese pickles: 25 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the chicken until nearly cooked through.",
+        "Add the shiitake mushrooms and water, then cover briefly until softened.",
+        "Uncover and add the Japanese pickles and soy sauce.",
+        "Stir-fry until the chicken reaches 74°C and everything is heated through.",
+        "Spoon over rice, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดรวมและไข่ข้น",
@@ -6683,7 +10613,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_235",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soft Scrambled Egg and Mixed Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a trusted source and cook thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Identified mixed mushrooms: 70 g",
+        "Eggs: 2",
+        "Milk: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and sauté the mushrooms until cooked through.",
+        "Whisk the eggs with milk and soy sauce, then pour into the pan over low heat.",
+        "Stir slowly until the eggs are softly scrambled to your liking.",
+        "Warm the rice in a bowl and top with the sautéed mushrooms.",
+        "Spoon the scrambled eggs over the bowl and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ย่างขิงและหัวไชเท้า",
@@ -6713,7 +10661,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_237",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Tofu Rice Bowl with Ginger and Grated Daikon",
+      "desc_en": "Serves 1 with approximate calories; gently squeeze excess liquid from the grated daikon if watery.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced firm tofu: 100 g",
+        "Grated daikon radish: 25 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear in oil over medium heat until golden.",
+        "Mix the grated ginger with Japanese soy sauce.",
+        "Warm the rice and scoop into a bowl.",
+        "Top the rice with the seared tofu and grated daikon.",
+        "Drizzle with the ginger soy sauce and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดเห็ดและขิง",
@@ -6743,7 +10709,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_239",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Pork and Shimeji Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a reliable source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin strips: 100 g",
+        "Shimeji mushrooms: 35 g",
+        "Grated ginger: 4 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the pork and stir-fry until nearly cooked through.",
+        "Add the shimeji mushrooms, soy sauce, and mirin.",
+        "Stir-fry until the pork reaches 63°C and the mushrooms are tender.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาแซลมอนและผักโขมมิโสะ",
@@ -6773,7 +10757,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_240",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Glazed Salmon and Spinach Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of miso varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 110 g",
+        "Spinach: 25 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, mirin, and water into a smooth glaze.",
+        "Check the salmon for bones and pan-sear over medium heat.",
+        "Brush the glaze onto the salmon and cook until the center reaches 63°C.",
+        "Sauté the spinach in the pan until wilted.",
+        "Scoop rice into a bowl, top with the salmon and spinach, and drizzle with remaining sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดซอสโชยุหวาน",
@@ -6804,7 +10806,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_241",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sweet Soy Stir-Fried Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; adjust the sweetness of the glaze to taste.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Broccoli florets: 35 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Julienne carrot: 20 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk together the soy sauce, mirin, and honey.",
+        "Heat oil in a pan over medium heat and stir-fry the mushrooms and carrot until just tender.",
+        "Add the broccoli with a splash of water, cover, and steam for 2 minutes.",
+        "Uncover, pour in the sauce, and toss until the vegetables are tender-crisp.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "สลัดปลาแซลมอนย่างและวากาเมะ",
@@ -6834,7 +10855,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_242",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Grilled Salmon and Wakame Seaweed Salad",
+      "desc_en": "Serves 1 with approximate calories; saltiness of wakame and ponzu varies by brand.",
+      "ingredients_en": [
+        "Salmon fillet: 100 g",
+        "Dried wakame seaweed: 2 g",
+        "Sliced cucumber: 30 g",
+        "Salad greens: 25 g",
+        "Ponzu sauce: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Soak the wakame according to package directions and drain well.",
+        "Check the salmon for bones and grill until the center reaches 63°C.",
+        "Arrange the salad greens, cucumber, and wakame on a plate.",
+        "Flake or slice the salmon into chunks and place over the salad.",
+        "Drizzle with ponzu sauce and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งไข่หวานและสาหร่าย",
@@ -6866,7 +10905,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp, Tamagoyaki, and Nori Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check tamagoyaki and mayonnaise labels for ingredients and allergens (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 70 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 35 g",
+        "Diced cucumber: 20 g",
+        "Shredded nori seaweed: 2 g",
+        "Japanese mayonnaise: 1 tsp"
+      ],
+      "steps_en": [
+        "Poach the shrimp in gently simmering water for 2–3 minutes until cooked through, then let cool.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the shrimp, tamagoyaki, and cucumber over the rice.",
+        "Drizzle lightly with Japanese mayonnaise.",
+        "Top with shredded nori and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดกะหล่ำปลีมิโสะ",
@@ -6897,7 +10953,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_244",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Tofu and Cabbage Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of miso varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 80 g",
+        "Chopped cabbage: 50 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear over medium heat until golden.",
+        "Mix the miso, mirin, and water until smooth.",
+        "Add the cabbage to the pan and stir-fry until softened.",
+        "Pour in the miso sauce and toss until the tofu and cabbage are heated through.",
+        "Spoon over rice and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ทอดซอสทาร์ทาร์ญี่ปุ่น",
@@ -6928,7 +11003,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_245",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Chicken Katsu Rice Bowl with Japanese Tartar Sauce",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and cook chicken thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 130 g",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 1/2",
+        "Japanese panko breadcrumbs: 20 g",
+        "Frying oil: as needed",
+        "Japanese mayonnaise: 15 g",
+        "Chopped hard-boiled egg: 1/2"
+      ],
+      "steps_en": [
+        "Mix the Japanese mayonnaise and chopped boiled egg to make the tartar sauce.",
+        "Dredge the chicken in flour, dip in beaten egg, and coat in panko breadcrumbs.",
+        "Fry over medium heat until golden crisp and the internal temperature reaches 74°C.",
+        "Drain on a wire rack and slice into strips.",
+        "Scoop rice into a bowl, top with the crispy chicken, and serve with tartar sauce."
+      ]
     },
     {
       "title": "ข้าวหน้าผักย่างเต้าหู้และซอสพอนสึ",
@@ -6958,7 +11052,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_246",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Tofu and Vegetable Rice Bowl with Ponzu",
+      "desc_en": "Serves 1 with approximate calories; saltiness of ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced firm tofu: 70 g",
+        "Sliced zucchini: 30 g",
+        "Chopped red bell pepper: 30 g",
+        "Ponzu sauce: 1 tbsp",
+        "Olive oil: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Brush a thin layer of olive oil over the tofu, zucchini, and bell pepper.",
+        "Grill in a pan over medium heat until the vegetables are tender and the tofu is golden.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the grilled tofu and vegetables over the rice.",
+        "Drizzle with ponzu sauce and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าปลากะพงนึ่งมิโสะ",
@@ -6988,7 +11100,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_247",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Steamed Sea Bass Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; open the steamer lid carefully to avoid hot steam.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sea bass fillet: 140 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Julienne ginger: 4 g",
+        "Water for steaming: 500 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and place it on a heatproof plate.",
+        "Mix the miso and mirin, spread over the fish, and scatter ginger on top.",
+        "Bring water to a boil in a steamer, place the plate inside, and cover.",
+        "Steam for 10–15 minutes until the fish reaches 63°C at the center.",
+        "Serve over rice and garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดพริกชิชิมิและเห็ด",
@@ -7018,7 +11148,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_248",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shichimi Chili Pork and Shimeji Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; adjust the shichimi togarashi to your preferred spice level.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin strips: 100 g",
+        "Shimeji mushrooms: 35 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Shichimi togarashi: 1 pinch",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat oil in a pan over medium heat and stir-fry the pork until nearly cooked through.",
+        "Add the shimeji mushrooms and sauté until just tender.",
+        "Pour in the soy sauce and mirin, cooking until the pork reaches 63°C.",
+        "Season with shichimi togarashi to taste and toss to combine.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดมะเขือม่วงมิโสะ",
@@ -7048,7 +11196,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_249",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Shrimp and Eggplant Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp until opaque and cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 100 g",
+        "Diced eggplant: 60 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, mirin, and water into a smooth sauce.",
+        "Heat oil in a pan over medium heat and sauté the eggplant until softened.",
+        "Add the shrimp and stir-fry until they begin to turn pink.",
+        "Pour in the miso sauce and cook until the shrimp are cooked through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "สลัดปูอัดและแตงกวาสไตล์ญี่ปุ่น",
@@ -7077,7 +11243,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_250",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Japanese-Style Crabstick and Cucumber Salad",
+      "desc_en": "Serves 1 with approximate calories; check crabstick labels for ingredients and allergens.",
+      "ingredients_en": [
+        "Shredded imitation crabsticks: 60 g",
+        "Julienne cucumber: 50 g",
+        "Rice vinegar: 1 tbsp",
+        "Sugar: 1/2 tsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the cucumber with a pinch of salt, let stand for 5 minutes, and squeeze out excess liquid.",
+        "Whisk together the rice vinegar, sugar, and soy sauce.",
+        "Combine the shredded crabsticks and cucumber in a bowl.",
+        "Pour over the dressing and toss gently.",
+        "Sprinkle with sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ซอสสุกี้ยากี้",
@@ -7108,7 +11291,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_251",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sukiyaki-Style Tofu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; choose a dashi stock that fits your dietary preference.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 90 g",
+        "Chopped napa cabbage: 40 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Dashi stock: 100 ml",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 1 tsp",
+        "Sugar: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the dashi, soy sauce, mirin, and sugar in a skillet.",
+        "Add the napa cabbage and shiitake mushrooms and simmer until softened.",
+        "Add the tofu and simmer gently until heated through.",
+        "Warm the rice and scoop into a bowl.",
+        "Spoon the tofu, vegetables, and sukiyaki broth over the rice."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างซอสโชยุส้ม",
@@ -7138,7 +11340,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_252",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Orange Soy Glazed Grilled Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use unsweetened fresh orange juice.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken breast: 130 g",
+        "Fresh orange juice: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the orange juice, Japanese soy sauce, and mirin.",
+        "Heat oil in a pan over medium heat and sear the chicken until cooked to 74°C.",
+        "Pour in the orange soy sauce and simmer until it glazes the chicken.",
+        "Rest the chicken for 3 minutes, then slice.",
+        "Serve over rice and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวและผักดอง",
@@ -7168,7 +11388,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_253",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled White Fish and Japanese Pickle Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; taste before adding extra seasoning as pickles and soy sauce are salty.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 130 g",
+        "Chopped Japanese pickles: 20 g",
+        "Rice bran oil: 1/2 tsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pan-grill over medium heat until the center reaches 63°C.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the fish and pickles on top of the rice.",
+        "Drizzle lightly with soy sauce.",
+        "Garnish with sesame seeds and scallions before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่หวานและปลาแซลมอนย่าง",
@@ -7197,7 +11435,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_254",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Salmon and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check tamagoyaki and fish labels to suit the diner's needs.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Salmon fillet: 90 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 35 g",
+        "Salt: 1 pinch",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the salmon for bones, pat dry, and season with salt.",
+        "Pan-grill the salmon over medium heat until the center reaches 63°C.",
+        "Warm the rice and scoop into a bowl.",
+        "Arrange the salmon and tamagoyaki over the rice.",
+        "Garnish with sesame seeds and scallions, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งชุบแป้งทอดซอสพอนสึ",
@@ -7228,7 +11483,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_255",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Shrimp Rice Bowl with Ponzu Sauce",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and cook shrimp thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled fresh shrimp, tail-on: 110 g",
+        "All-purpose flour: 12 g",
+        "Beaten egg: 1/2",
+        "Japanese panko breadcrumbs: 18 g",
+        "Frying oil: as needed",
+        "Ponzu sauce: 1 tbsp",
+        "Shredded cabbage: 25 g"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and make shallow slits along the underside.",
+        "Dredge the shrimp in flour, dip in beaten egg, and coat in panko breadcrumbs.",
+        "Fry over medium heat until cooked through and golden crisp.",
+        "Drain on a wire rack.",
+        "Scoop rice into a bowl, top with shredded cabbage and fried shrimp, and drizzle with ponzu sauce."
+      ]
     },
     {
       "title": "ซุปมิโสะเห็ดหอมและหัวไชเท้า",
@@ -7260,7 +11534,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "soups_curries"
+      "universalCategory": "soups_curries",
+      "name_en": "Shiitake and Daikon Miso Soup",
+      "desc_en": "Serves 1 with approximate calories; choose dashi and miso according to dietary preferences (senior-friendly).",
+      "ingredients_en": [
+        "Thinly sliced daikon radish: 50 g",
+        "Sliced fresh shiitake mushrooms: 25 g",
+        "Dried wakame seaweed: 2 g",
+        "Miso paste: 12 g",
+        "Dashi stock: 300 ml",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Soak the wakame according to package directions and drain.",
+        "Simmer the dashi with daikon and shiitake mushrooms until tender.",
+        "Add the wakame and heat through.",
+        "Dissolve the miso in a small amount of broth and stir back into the pot.",
+        "Turn off the heat before boiling, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดเห็ดและซอสพอนสึ",
@@ -7290,7 +11581,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_258",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Chicken and Shimeji Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast pieces: 100 g",
+        "Shimeji mushrooms: 35 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated ginger: 2 g",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Heat oil and ginger in a pan over medium heat until fragrant.",
+        "Add the chicken and stir-fry until nearly cooked through.",
+        "Add the shimeji mushrooms and sauté until just tender.",
+        "Pour in the ponzu sauce and cook until the chicken reaches 74°C.",
+        "Spoon over rice, garnish with scallions, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่หวานและเต้าหู้เย็น",
@@ -7322,7 +11631,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Tamagoyaki and Chilled Silken Tofu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use tofu kept refrigerated according to package instructions (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 160 g",
+        "Soft tofu: 80 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 40 g",
+        "Ponzu sauce: 1 tbsp",
+        "Sliced scallions: 4 g",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Drain the soft tofu well and cut into bite-sized pieces.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the tofu and tamagoyaki over the rice.",
+        "Drizzle with ponzu sauce.",
+        "Top with scallions and shredded nori, then serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดเห็ดซอสขิงมิโสะ",
@@ -7353,7 +11679,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_260",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Miso Stir-Fried Vegetables and Mushrooms Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a reliable source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced button mushrooms: 40 g",
+        "Chopped cabbage: 35 g",
+        "Julienne carrot: 20 g",
+        "Miso paste: 1/2 tsp",
+        "Grated ginger: 3 g",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix the miso, ginger, mirin, and water until smooth.",
+        "Heat a light coating of oil in a pan over medium heat and sauté the mushrooms until tender.",
+        "Add the cabbage and carrot and stir-fry until nearly cooked.",
+        "Pour in the miso sauce and toss until the vegetables are tender to your liking.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ย่างสึคุเนะซอสเทริยากิ",
@@ -7384,7 +11729,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_261",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Chicken Tsukune Patty Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; shape patties to an even thickness so they cook uniformly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Ground skinless chicken: 120 g",
+        "Sliced scallions: 6 g",
+        "Potato starch: 1 tsp",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the ground chicken, scallions, and potato starch, then shape into round patties.",
+        "Combine the soy sauce, mirin, and honey to make the teriyaki sauce.",
+        "Pan-sear the patties over medium heat until cooked through to 74°C.",
+        "Pour in the sauce and simmer until it glazes the tsukune.",
+        "Serve over Japanese rice."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวย่างซอสงาขิง",
@@ -7414,7 +11778,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_262",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled White Fish Rice Bowl with Sesame Ginger Sauce",
+      "desc_en": "Serves 1 with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Ground white sesame seeds: 1 tsp",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Pan-grill the fish over medium heat until the center reaches 63°C.",
+        "Mix the ground sesame seeds, ginger, soy sauce, and mirin.",
+        "Scoop rice into a bowl and place the grilled fish on top.",
+        "Drizzle with the sesame ginger sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและผักนึ่งซอสมิโสะ",
@@ -7444,7 +11826,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_263",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Shrimp and Steamed Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook shrimp thoroughly and taste the sauce before adding extra seasoning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 100 g",
+        "Broccoli florets: 35 g",
+        "Sliced carrot: 25 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Steam the broccoli and carrot until tender to your liking.",
+        "Whisk together the miso, mirin, and water into a smooth sauce.",
+        "Poach the shrimp until cooked through.",
+        "Scoop rice into a bowl and arrange the shrimp and steamed vegetables on top.",
+        "Drizzle with miso sauce before serving."
+      ]
     },
     {
       "title": "สลัดปลาแซลมอนและมันฝรั่งวาซาบิ",
@@ -7473,7 +11873,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_264",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Wasabi Salmon and Potato Salad",
+      "desc_en": "Serves 1 with approximate calories; adjust the wasabi to your preferred heat level.",
+      "ingredients_en": [
+        "Cooked salmon fillet: 90 g",
+        "Boiled potato: 100 g",
+        "Thinly sliced cucumber: 25 g",
+        "Japanese mayonnaise: 1 tbsp",
+        "Wasabi paste: 1/4 tsp",
+        "Lemon juice: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Check the salmon for bones and flake into small pieces.",
+        "Coarsely mash the boiled potato and let cool slightly.",
+        "Whisk together the Japanese mayonnaise, wasabi, and lemon juice.",
+        "Toss the salmon, potato, and cucumber with the dressing.",
+        "Serve chilled or at room temperature."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดมิโสะและถั่วลันเตา",
@@ -7503,7 +11920,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_265",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso Pork and Green Pea Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; use pre-cooked green peas.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork loin strips: 100 g",
+        "Cooked green peas: 25 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the miso, mirin, and water until smooth.",
+        "Heat oil in a pan over medium heat and stir-fry the pork until nearly cooked through.",
+        "Add the green peas and miso sauce.",
+        "Stir-fry until the pork reaches 63°C and the peas are heated through.",
+        "Spoon over Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดและเต้าหู้ซอสพอนสึ",
@@ -7533,7 +11968,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_266",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Mushroom and Tofu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; saltiness of ponzu sauce varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 70 g",
+        "Shimeji mushrooms: 35 g",
+        "Ponzu sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Grated ginger: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden.",
+        "Add the shimeji mushrooms and ginger, sautéing until the mushrooms are tender.",
+        "Pour in the ponzu sauce and toss to coat evenly.",
+        "Warm the rice in a bowl and top with the tofu and mushrooms.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและไข่หวานซอสพอนสึ",
@@ -7565,7 +12018,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ponzu Shrimp and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check tamagoyaki labels and cook shrimp thoroughly (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Peeled and deveined fresh shrimp: 80 g",
+        "Sliced Japanese rolled omelette (tamagoyaki): 30 g",
+        "Ponzu sauce: 1 tbsp",
+        "Diced cucumber: 20 g",
+        "Shredded nori seaweed: 2 g"
+      ],
+      "steps_en": [
+        "Poach the shrimp in gently simmering water until cooked through, then let cool.",
+        "Warm the Japanese rice and scoop into a bowl.",
+        "Arrange the shrimp, tamagoyaki, and cucumber over the rice.",
+        "Drizzle with ponzu sauce.",
+        "Top with shredded nori and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่และเห็ดชิเมจิตุ๋นดาชิ",
@@ -7598,7 +12068,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Dashi-Braised Chicken and Shimeji Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; choose dashi based on your ingredient preferences (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast pieces: 100 g",
+        "Shimeji mushrooms: 35 g",
+        "Dashi stock: 130 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Bring the dashi, soy sauce, and mirin to a gentle simmer.",
+        "Add the chicken and mushrooms, simmering until the chicken reaches 74°C.",
+        "Simmer briefly until the mushrooms are tender and infused with broth.",
+        "Warm the rice and scoop into a bowl.",
+        "Spoon the chicken, mushrooms, and broth over the rice, then garnish with scallions."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ผัดสาหร่ายและไข่",
@@ -7628,7 +12116,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_269",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Nori Egg and Pan-Seared Tofu Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the egg thoroughly before eating.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Diced firm tofu: 70 g",
+        "Egg: 1",
+        "Shredded nori seaweed: 2 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Sliced scallions: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear in oil until golden.",
+        "Crack the egg into the other side of the pan and scramble until cooked through.",
+        "Add the Japanese soy sauce and shredded nori, tossing gently.",
+        "Scoop rice into a bowl and top with the tofu and egg mixture.",
+        "Garnish with scallions and serve."
+      ]
     },
     {
       "title": "สลัดกุ้งวากาเมะและแตงกวา",
@@ -7658,7 +12164,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_270",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "healthy_salad"
+      "universalCategory": "healthy_salad",
+      "name_en": "Sunomono Shrimp, Wakame, and Cucumber Salad",
+      "desc_en": "Serves 1 with approximate calories; cook shrimp thoroughly and check the saltiness of the wakame.",
+      "ingredients_en": [
+        "Peeled and deveined fresh shrimp: 100 g",
+        "Dried wakame seaweed: 3 g",
+        "Thinly sliced cucumber: 35 g",
+        "Rice vinegar: 1 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Sugar: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Soak the wakame according to package directions and drain.",
+        "Poach the shrimp until cooked through and let cool.",
+        "Whisk together the rice vinegar, soy sauce, and sugar.",
+        "Toss the shrimp, wakame, and cucumber with the dressing.",
+        "Sprinkle with sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักย่างซอสโชยุและขิง",
@@ -7689,7 +12213,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_271",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Grilled Vegetable Rice Bowl with Ginger Soy Sauce",
+      "desc_en": "Serves 1 with approximate calories; use mushrooms from a reliable source.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Sliced zucchini: 35 g",
+        "Chopped red bell pepper: 35 g",
+        "Sliced button mushrooms: 35 g",
+        "Japanese soy sauce: 1 tsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Toss the zucchini, bell pepper, and mushrooms with a little oil.",
+        "Grill the vegetables in a pan over medium heat until tender to your liking.",
+        "Mix the Japanese soy sauce with grated ginger.",
+        "Scoop rice into a bowl, top with the grilled vegetables, and drizzle with the sauce.",
+        "Sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดกะหล่ำปลีและงา",
@@ -7719,7 +12262,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_272",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Chicken, Cabbage, and Sesame Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Chicken breast, julienned: 100 g",
+        "Cabbage, chopped: 50 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Sesame oil: 1/4 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat a little oil in a skillet over medium heat, add the chicken, and stir-fry until nearly cooked through.",
+        "Add the cabbage and stir-fry until it begins to soften.",
+        "Add the soy sauce and mirin, and stir-fry until the chicken reaches an internal temperature of 74°C.",
+        "Turn off the heat, drizzle in the sesame oil, and toss well to combine.",
+        "Spoon over the rice and sprinkle with toasted white sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้และถั่วแระซอสเทริยากิ",
@@ -7749,7 +12310,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_273",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Tofu and Edamame Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; uses cooked, shelled edamame.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 80 g",
+        "Cooked shelled edamame: 35 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden brown.",
+        "Add the edamame and warm everything through.",
+        "Mix the soy sauce, mirin, and honey, then pour into the skillet.",
+        "Toss over low heat until the glaze coats the tofu and edamame.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวและไข่หวานซอสพอนสึ",
@@ -7781,7 +12360,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "White Fish and Tamagoyaki Rice Bowl with Ponzu",
+      "desc_en": "Serves 1 with approximate calories; check labels on tamagoyaki and ponzu sauce (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 120 g",
+        "Japanese sweet rolled omelette (tamagoyaki), sliced: 30 g",
+        "Ponzu sauce: 1 tbsp",
+        "Cucumber, diced: 20 g",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pan-grill over medium heat until the center reaches 63°C.",
+        "Warm the rice and transfer it to a serving bowl.",
+        "Arrange the fish, tamagoyaki, and diced cucumber over the rice.",
+        "Drizzle with ponzu sauce.",
+        "Garnish with sliced green onion and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดซอสส้มและขิง",
@@ -7811,7 +12407,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_275",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Orange Ginger Pork Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; uses unsweetened freshly squeezed orange juice.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork tenderloin, julienned: 110 g",
+        "Fresh orange juice: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the orange juice, ginger, soy sauce, and mirin.",
+        "Heat the oil in a skillet over medium heat, add the pork, and stir-fry until nearly cooked.",
+        "Pour in the orange sauce and stir-fry until the pork reaches 63°C.",
+        "Simmer briefly until the sauce glazes the meat.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดและไข่ดาวซอสโชยุ",
@@ -7841,7 +12455,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_276",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shoyu Mushroom and Fried Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the egg to the diner's preferred doneness.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 piece",
+        "Shimeji mushrooms: 40 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat, add the mushrooms, and stir-fry until tender.",
+        "Add the soy sauce and mirin, tossing to coat evenly.",
+        "Fry the egg in a separate pan until the whites are set to your liking.",
+        "Scoop the rice into a bowl and top with the mushrooms and fried egg.",
+        "Sprinkle with green onion and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาซาบะผัดกะหล่ำปลี",
@@ -7871,7 +12503,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_277",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Mackerel and Cabbage Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; mackerel may contain small bones, so inspect and eat carefully.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked mackerel fillet, flaked: 100 g",
+        "Cabbage, chopped: 50 g",
+        "Japanese soy sauce: 1 tsp",
+        "Grated ginger: 3 g",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Inspect the mackerel to remove any visible bones.",
+        "Heat the oil in a skillet over medium heat, add the ginger, and stir-fry until fragrant.",
+        "Add the cabbage and stir-fry until it starts to soften.",
+        "Add the cooked mackerel and soy sauce, tossing gently until heated through.",
+        "Spoon over the rice and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าผักโขมและเห็ดซอสงา",
@@ -7901,7 +12551,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_278",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sesame Spinach and Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Spinach: 40 g",
+        "Button mushrooms, sliced: 35 g",
+        "Ground white sesame seeds: 1 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat, add the mushrooms, and sauté until tender.",
+        "Add the spinach and stir-fry until wilted.",
+        "Mix the ground sesame seeds, soy sauce, and mirin.",
+        "Toss the sesame sauce with the mushrooms and spinach.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งและผักดองญี่ปุ่น",
@@ -7931,7 +12599,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_279",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Shrimp and Japanese Pickles Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp thoroughly and taste before adding soy sauce.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 100 g",
+        "Japanese pickles, chopped: 20 g",
+        "Cucumber, diced: 20 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat and sauté the shrimp until cooked through.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the shrimp, cucumber, and pickles on top of the rice.",
+        "Drizzle lightly with soy sauce.",
+        "Sprinkle with white sesame seeds and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้และฟักทองซอสมิโสะ",
@@ -7961,7 +12647,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_280",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Glazed Tofu and Kabocha Squash Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 80 g",
+        "Kabocha squash, diced: 60 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Water: 2 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden brown.",
+        "Add the kabocha squash and water, cover, and steam until the squash begins to soften.",
+        "Mix the miso and mirin, then add to the skillet.",
+        "Toss gently until the squash is tender and the sauce glazes the tofu.",
+        "Spoon over the rice and sprinkle with sesame seeds."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูและไข่หวานซอสเทริยากิ",
@@ -7994,7 +12698,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Teriyaki Pork and Tamagoyaki Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the tamagoyaki label and cook pork thoroughly (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork tenderloin, thinly sliced: 90 g",
+        "Japanese sweet rolled omelette (tamagoyaki), sliced: 35 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Honey: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk together the soy sauce, mirin, and honey to make the glaze.",
+        "Heat the oil in a skillet over medium heat and stir-fry the pork until cooked to 63°C.",
+        "Pour in the sauce and simmer until it glazes the pork.",
+        "Scoop the rice into a bowl and arrange the pork and tamagoyaki on top.",
+        "Drizzle with any remaining sauce and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักผัดถั่วแระและโชยุ",
@@ -8024,7 +12746,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_282",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Soy-Glazed Edamame and Vegetable Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; uses cooked, shelled edamame.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked shelled edamame: 35 g",
+        "Shimeji mushrooms: 30 g",
+        "Carrot, julienned: 20 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat and sauté the mushrooms until beginning to soften.",
+        "Add the carrot and edamame, stir-frying until heated through.",
+        "Add the Japanese soy sauce and mirin, and toss well to combine.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top the rice with the stir-fried vegetables and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวย่างมิโสะและมะนาว",
@@ -8054,7 +12794,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_283",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Miso-Grilled White Fish and Lime Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; miso saltiness varies by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet: 140 g",
+        "Miso paste: 1 tsp",
+        "Mirin: 1 tsp",
+        "Lime juice: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Check the fish for bones and mix the miso paste with mirin.",
+        "Pan-grill the fish over medium heat, brushing with the miso glaze as it cooks.",
+        "Cook until the center of the fish reaches 63°C.",
+        "Warm the rice, spoon it into a bowl, and place the fish on top.",
+        "Squeeze fresh lime juice over the fish and garnish with green onion before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ทอดซอสพอนสึขิง",
@@ -8084,7 +12842,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_284",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crispy Chicken Rice Bowl with Ginger Ponzu",
+      "desc_en": "Serves 1 with approximate calories; handle hot oil carefully and ensure the chicken is cooked through.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh, bite-sized pieces: 130 g",
+        "Potato starch: 20 g",
+        "Frying oil: as needed for frying",
+        "Ponzu sauce: 1 tbsp",
+        "Grated ginger: 3 g",
+        "Shredded cabbage: 30 g"
+      ],
+      "steps_en": [
+        "Coat the chicken pieces evenly with potato starch.",
+        "Deep-fry over medium heat until crispy golden brown and cooked through to 74°C.",
+        "Drain on a wire rack.",
+        "Mix the ponzu sauce with grated ginger and gently toss with the crispy chicken.",
+        "Spoon the rice into a bowl, top with shredded cabbage and chicken, and drizzle with sauce."
+      ]
     },
     {
       "title": "ข้าวหน้ากุ้งผัดไข่และข้าวโพด",
@@ -8114,7 +12890,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_285",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Stir-Fried Shrimp, Egg, and Corn Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook both the shrimp and egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 80 g",
+        "Egg: 1 piece",
+        "Boiled corn kernels: 25 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat and sauté the shrimp until they begin to turn pink.",
+        "Add the corn kernels and crack the egg directly into the skillet.",
+        "Scramble gently until both the egg and shrimp are cooked through.",
+        "Add the Japanese soy sauce and toss to combine.",
+        "Spoon over the rice and garnish with green onion."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้ทอดและไข่ข้น",
@@ -8144,7 +12938,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_286",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Crisp Pan-Fried Tofu and Fluffy Egg Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the egg thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 80 g",
+        "Potato starch: 8 g",
+        "Egg: 1 piece",
+        "Dashi stock: 2 tbsp",
+        "Japanese soy sauce: 1/2 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and dust lightly with potato starch.",
+        "Pan-fry the tofu in oil until golden on all sides.",
+        "Whisk the egg with dashi and soy sauce, pour into a separate pan, and scramble softly until cooked through.",
+        "Spoon the rice into a bowl and top with the crispy tofu and scrambled egg.",
+        "Serve warm."
+      ]
     },
     {
       "title": "ข้าวหน้าหมูผัดหน่อไม้และขิง",
@@ -8174,7 +12986,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_287",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Ginger Pork and Bamboo Shoot Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; uses pre-cooked bamboo shoots.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Pork tenderloin, julienned: 100 g",
+        "Boiled bamboo shoots, julienned: 40 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat the oil in a skillet over medium heat, add the ginger, and stir-fry until fragrant.",
+        "Add the pork and stir-fry until nearly cooked through.",
+        "Add the bamboo shoots, Japanese soy sauce, and mirin.",
+        "Stir-fry until the pork reaches 63°C and the glaze coats everything.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่ผัดซอสคาบายากิ",
@@ -8205,7 +13035,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_289",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Kabayaki-Style Glazed Chicken Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; simmer the glaze over medium-low heat to prevent burning.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Skinless chicken thigh, bite-sized pieces: 130 g",
+        "Japanese soy sauce: 2 tsp",
+        "Mirin: 2 tsp",
+        "Cooking sake: 1 tsp",
+        "Sugar: 1/2 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Combine the soy sauce, mirin, cooking sake, and sugar.",
+        "Heat the oil in a skillet over medium heat and stir-fry the chicken until cooked through to 74°C.",
+        "Pour in the sauce and simmer until thickened and glossy, coating the chicken.",
+        "Scoop the rice into a bowl and top with the glazed chicken and sauce.",
+        "Sprinkle with toasted sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าเห็ดและเต้าหู้มิโสะงา",
@@ -8236,7 +13085,26 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_290",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Sesame Miso Tofu and Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; contains sesame, so check for allergies.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 70 g",
+        "Shimeji mushrooms: 35 g",
+        "Miso paste: 1/2 tsp",
+        "Ground white sesame seeds: 1 tsp",
+        "Mirin: 1 tsp",
+        "Rice bran oil: 1/2 tsp",
+        "Water: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden brown.",
+        "Add the shimeji mushrooms and sauté until beginning to soften.",
+        "Whisk together the miso, ground white sesame seeds, mirin, and water to make a sauce.",
+        "Pour the sauce into the skillet and toss until the tofu and mushrooms are heated through and coated.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าไข่ข้นกุ้งและผักโขม",
@@ -8266,7 +13134,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_291",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Creamy Scrambled Egg, Shrimp, and Spinach Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; cook the shrimp and eggs thoroughly.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Fresh shrimp, peeled and deveined: 70 g",
+        "Eggs: 2 pieces",
+        "Spinach: 20 g",
+        "Milk: 1 tbsp",
+        "Dashi stock: 1 tbsp",
+        "Rice bran oil: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Sauté the shrimp in a skillet until cooked through, then set aside.",
+        "Whisk the eggs with milk and dashi stock.",
+        "Pour the egg mixture into the skillet over low heat, add the spinach, and stir gently.",
+        "Return the shrimp to the skillet and cook until the eggs reach your desired doneness.",
+        "Spoon over the Japanese rice and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักดอง ไข่ต้มและสาหร่าย",
@@ -8295,7 +13181,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_292",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese Pickles, Boiled Egg, and Nori Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; pickle saltiness varies by type and brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Egg: 1 piece",
+        "Japanese pickles, chopped: 25 g",
+        "Cucumber, diced: 20 g",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Boil the egg for about 10 minutes, chill in cold water, and peel.",
+        "Warm the Japanese rice and spoon it into a bowl.",
+        "Arrange the pickles, diced cucumber, and halved egg over the rice.",
+        "Garnish with shredded nori seaweed and toasted white sesame seeds.",
+        "Serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาขาวผัดเนยและขิง",
@@ -8325,7 +13228,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_293",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Butter Ginger White Fish Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; stir gently so the fish pieces stay intact.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "White fish fillet, cut into chunks: 130 g",
+        "Unsalted butter: 5 g",
+        "Grated ginger: 3 g",
+        "Japanese soy sauce: 1 tsp",
+        "Green onion, thinly sliced: 4 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Check the fish for bones and pat dry.",
+        "Melt the butter in a skillet over medium heat, add the ginger, and sauté until fragrant.",
+        "Add the fish and cook until the center reaches 63°C.",
+        "Add the soy sauce and toss very gently.",
+        "Spoon over the rice, garnish with green onion, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าผักและถั่วแระซอสสึยุ",
@@ -8355,7 +13276,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_294",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Steamed Vegetable and Edamame Rice Bowl with Tsuyu",
+      "desc_en": "Serves 1 with approximate calories; check the tsuyu label as it may contain fish-derived ingredients.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cooked shelled edamame: 40 g",
+        "Broccoli florets, chopped: 35 g",
+        "Carrot, julienned: 20 g",
+        "Tsuyu soup base: 1 tbsp",
+        "Water: 1 tbsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Steam the broccoli and carrot until tender-crisp.",
+        "Warm the edamame through.",
+        "Dilute the tsuyu soup base with water.",
+        "Scoop the rice into a bowl and arrange the vegetables and edamame on top.",
+        "Drizzle with the tsuyu mixture and sprinkle with sesame seeds before serving."
+      ]
     },
     {
       "title": "ข้าวหน้าไก่และไข่ตุ๋นเห็ดหอม",
@@ -8388,7 +13327,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "dietaryTags": [
         "ผู้สูงอายุ"
       ],
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Chicken and Shiitake Chawanmushi Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; steaming time depends on the cup size (senior-friendly).",
+      "ingredients_en": [
+        "Cooked Japanese rice: 150 g",
+        "Chicken breast, finely diced: 55 g",
+        "Egg: 1 piece",
+        "Fresh shiitake mushrooms, chopped: 15 g",
+        "Dashi stock: 80 ml",
+        "Japanese soy sauce: 1/2 tsp",
+        "Water for steaming: 500 ml"
+      ],
+      "steps_en": [
+        "Sauté the chicken in a skillet until cooked through to 74°C.",
+        "Gently whisk the egg with dashi and soy sauce, then strain through a fine sieve.",
+        "Place the chicken and shiitake mushrooms in a heatproof cup and pour the egg mixture over.",
+        "Steam over low heat for 15–18 minutes until the custard sets in the center.",
+        "Scoop warm rice into a bowl, top with the steamed custard, and serve."
+      ]
     },
     {
       "title": "ข้าวหน้าปลาทูน่าและอะโวคาโดสไตล์ญี่ปุ่น",
@@ -8418,7 +13375,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_297",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Japanese-Style Tuna and Avocado Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; tuna weight is measured drained, and the dish is best eaten soon after slicing the avocado.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Canned tuna in spring water, drained: 65 g",
+        "Avocado, diced: 35 g",
+        "Japanese soy sauce: 1/2 tsp",
+        "Lime juice: 1/2 tsp",
+        "Shredded nori seaweed: 2 g",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the drained tuna with the Japanese soy sauce.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top the rice with the seasoned tuna and diced avocado.",
+        "Squeeze lime juice over the avocado and sprinkle with shredded nori.",
+        "Garnish with white sesame seeds and serve immediately."
+      ]
     },
     {
       "title": "ข้าวหน้าเต้าหู้และเห็ดผัดซอสยากินิกุ",
@@ -8448,7 +13423,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "recipe_id": "jp_full_298",
       "country": "JP",
       "packId": "jp_full",
-      "universalCategory": "rice_noodles"
+      "universalCategory": "rice_noodles",
+      "name_en": "Yakiniku-Glazed Tofu and Mushroom Rice Bowl",
+      "desc_en": "Serves 1 with approximate calories; check the yakiniku sauce label for suitable ingredients.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Firm tofu, diced: 80 g",
+        "Shimeji mushrooms: 35 g",
+        "Yakiniku sauce: 1 tbsp",
+        "Rice bran oil: 1/2 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Green onion, thinly sliced: 4 g"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and pan-sear until golden brown.",
+        "Add the shimeji mushrooms and sauté until beginning to soften.",
+        "Pour in the yakiniku sauce and toss until evenly glazed.",
+        "Warm the rice and spoon it into a bowl.",
+        "Top with the tofu and mushrooms, then sprinkle with sesame seeds and green onion."
+      ]
     },
     {
       "id": "jp_dessert_01",
@@ -8484,7 +13477,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Ichigo Daifuku (Strawberry Mochi)",
+      "desc_en": "Serves 2 and is best eaten the same day so the mochi stays soft and chewy.",
+      "ingredients_en": [
+        "Large fresh strawberries: 4 pieces",
+        "Japanese sweet red bean paste (anko): 120 g",
+        "Shiratamako (Japanese glutinous rice flour): 100 g",
+        "Granulated sugar: 30 g",
+        "Water: 130 ml",
+        "Toasted tapioca starch (for dusting): 20 g"
+      ],
+      "steps_en": [
+        "Wash and pat the strawberries dry, remove the stems, wrap each berry completely in red bean paste, and chill for 10 minutes.",
+        "Whisk the glutinous rice flour, sugar, and water until completely smooth, cover with plastic wrap, and microwave on high for 1.5 minutes.",
+        "Stir vigorously with a silicone spatula until smooth and glossy, then microwave for another 1 minute until cooked, stretchy, and soft.",
+        "Dust a tray with toasted starch, divide the mochi dough into 4 pieces, flatten each into a thin disc, and wrap smoothly around the strawberry-anko filling.",
+        "Arrange on a plate and halve one to showcase the fresh strawberry before serving."
+      ]
     },
     {
       "id": "jp_dessert_02",
@@ -8521,7 +13531,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Mitarashi Dango",
+      "desc_en": "Kneading the flour with silken tofu keeps the dango soft and chewy even after cooling.",
+      "ingredients_en": [
+        "Glutinous rice flour: 100 g",
+        "Silken tofu: 110 g",
+        "Japanese soy sauce: 2 tbsp",
+        "Granulated sugar: 4 tbsp",
+        "Mirin: 1 tbsp",
+        "Potato starch: 1 tbsp",
+        "Water: 100 ml"
+      ],
+      "steps_en": [
+        "Knead the glutinous rice flour and silken tofu together until smooth, then roll into about 12 bite-sized balls.",
+        "Boil water, cook the dango balls until they float plus 2 more minutes, chill in ice water, and thread 3 onto each skewer.",
+        "Grill the skewers in a dry skillet over medium heat until lightly charred and fragrant on both sides.",
+        "Whisk the soy sauce, sugar, mirin, potato starch, and water in a saucepan over low heat, stirring constantly until clear, glossy, and thickened.",
+        "Spoon the warm mitarashi glaze generously over the skewers and serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_03",
@@ -8556,7 +13584,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kinako Warabimochi",
+      "desc_en": "For a gentler sweetness, mix a pinch of fine sugar into the kinako powder before coating.",
+      "ingredients_en": [
+        "Warabimochi flour (or potato starch): 50 g",
+        "Granulated sugar: 30 g",
+        "Water: 250 ml",
+        "Kinako (roasted soybean flour): 3 tbsp",
+        "Kuromitsu (Japanese black sugar syrup): 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the warabimochi flour, sugar, and water in a pot until completely dissolved before turning on the heat.",
+        "Cook over medium-low heat, stirring constantly with a wooden spatula until the mixture thickens into a chewy, translucent gel.",
+        "Pour into a lightly dampened tray, let cool slightly, and refrigerate for 15 minutes.",
+        "Cut into bite-sized squares and toss in kinako powder to coat all sides.",
+        "Plate and drizzle with fragrant kuromitsu syrup before serving."
+      ]
     },
     {
       "id": "jp_dessert_04",
@@ -8593,7 +13637,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Red Bean Dorayaki",
+      "desc_en": "Cooking over steady low heat gives dorayaki pancakes a smooth, even golden-brown surface.",
+      "ingredients_en": [
+        "Cake flour: 100 g",
+        "Eggs: 2 pieces",
+        "Granulated sugar: 55 g",
+        "Honey: 1 tbsp",
+        "Milk: 30 ml",
+        "Baking powder: 1/2 tsp",
+        "Japanese sweet red bean paste (anko): 120 g"
+      ],
+      "steps_en": [
+        "Whisk the eggs, sugar, and honey until pale and fluffy, then stir in the milk.",
+        "Sift in the cake flour and baking powder, gently fold until smooth, and chill the batter for 15 minutes.",
+        "Heat a lightly oiled nonstick skillet over low heat, ladle rounds of batter, and flip once bubbles form across the surface.",
+        "Cook the other side for about 30 seconds until golden brown, then cool on a wire rack.",
+        "Spoon red bean paste onto the center of one pancake, sandwich with another, press the edges lightly, and serve."
+      ]
     },
     {
       "id": "jp_dessert_05",
@@ -8630,7 +13692,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Anko Taiyaki (Fish-Shaped Waffle)",
+      "desc_en": "Swap the red bean filling for vanilla or matcha custard if preferred.",
+      "ingredients_en": [
+        "All-purpose flour: 120 g",
+        "Baking powder: 1 tsp",
+        "Granulated sugar: 30 g",
+        "Egg: 1 piece",
+        "Milk: 130 ml",
+        "Melted butter: 15 g",
+        "Japanese sweet red bean paste (anko): 120 g"
+      ],
+      "steps_en": [
+        "Sift the flour and baking powder together, then whisk in the sugar, egg, milk, and melted butter until smooth.",
+        "Preheat a taiyaki pan over low heat and brush both sides lightly with butter.",
+        "Pour batter halfway up the mold, spoon red bean paste into the center, and cover completely with more batter.",
+        "Close the pan and cook over low heat for 2–3 minutes per side until crisp and golden brown.",
+        "Transfer to a wire rack for 1 minute to keep the exterior crisp, then serve hot."
+      ]
     },
     {
       "id": "jp_dessert_06",
@@ -8665,7 +13745,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Raindrop Mizu Shingen Mochi",
+      "desc_en": "Serve immediately out of the fridge, as the raindrop cake slowly softens as it warms.",
+      "ingredients_en": [
+        "Japanese clear agar powder (Cool Agar): 8 g",
+        "Granulated sugar: 10 g",
+        "Mineral water: 300 ml",
+        "Kinako (roasted soybean flour): 2 tbsp",
+        "Kuromitsu (Japanese black sugar syrup): 2 tbsp"
+      ],
+      "steps_en": [
+        "Mix the clear agar powder and sugar in a pot, then gradually whisk in the mineral water.",
+        "Bring to a boil over medium heat while stirring until completely clear, turn off the heat, and skim off any surface bubbles.",
+        "Pour into half-sphere molds, let cool slightly, and chill in the refrigerator for at least 1 hour until crystal-clear and set.",
+        "Carefully unmold onto a dark plate and serve alongside kinako powder and kuromitsu syrup.",
+        "Serve chilled right away to preserve its delicate, glassy raindrop shape."
+      ]
     },
     {
       "id": "jp_dessert_07",
@@ -8702,7 +13798,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Nama Yatsuhashi (Kyoto Cinnamon Mochi)",
+      "desc_en": "Divide the dough and flavor half with matcha instead of cinnamon for two-tone yatsuhashi.",
+      "ingredients_en": [
+        "Glutinous rice flour: 50 g",
+        "Rice flour: 50 g",
+        "Granulated sugar: 40 g",
+        "Water: 120 ml",
+        "Ground cinnamon: 1/2 tsp",
+        "Kinako (roasted soybean flour): 2 tbsp",
+        "Japanese sweet red bean paste (anko): 100 g"
+      ],
+      "steps_en": [
+        "Whisk the glutinous rice flour, rice flour, sugar, and water until smooth, then steam over high heat for 15 minutes until cooked.",
+        "Knead the ground cinnamon into the warm mochi dough until evenly fragrant.",
+        "Dust a work mat with kinako powder, roll the dough into a thin rectangle, and cut into 7×7 cm squares.",
+        "Spoon red bean paste into the center of each square and fold diagonally into neat triangles.",
+        "Arrange on a plate and serve with hot Japanese tea."
+      ]
     },
     {
       "id": "jp_dessert_08",
@@ -8738,7 +13852,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sakura Mochi",
+      "desc_en": "The subtle saltiness and floral aroma of the pickled sakura leaf balance the sweet red bean filling.",
+      "ingredients_en": [
+        "Japanese sweet glutinous rice: 120 g",
+        "Granulated sugar: 25 g",
+        "Salt: 1/4 tsp",
+        "Light pink food coloring (from beetroot): 2 drops",
+        "Japanese sweet red bean paste (anko): 100 g",
+        "Salt-pickled sakura leaves: 4 leaves"
+      ],
+      "steps_en": [
+        "Soak the pickled sakura leaves in fresh water for 15 minutes to reduce excess salt, then pat dry.",
+        "Cook the glutinous rice with water, salt, and pink coloring until soft, stir in the sugar while hot, and lightly mash so some texture remains.",
+        "Shape the red bean paste into 4 oval portions.",
+        "Flatten portions of the pink rice on plastic wrap and wrap smoothly around each oval of red bean paste.",
+        "Wrap a pickled sakura leaf around each mochi and serve."
+      ]
     },
     {
       "id": "jp_dessert_09",
@@ -8771,7 +13902,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Anko Monaka Wafer",
+      "desc_en": "Assemble right before eating so the monaka wafer shells stay crisp and fragrant.",
+      "ingredients_en": [
+        "Crisp monaka wafer shells: 4 pairs",
+        "Coarse Japanese sweet red bean paste (tsubuan): 140 g",
+        "Cooked mini shiratama mochi balls: 4 pieces",
+        "Matcha powder (for dusting): 1/4 tsp"
+      ],
+      "steps_en": [
+        "Warm the monaka wafer shells in a low oven for 1 minute to refresh their crispness.",
+        "Fill one half of each wafer shell generously with coarse red bean paste.",
+        "Nestle a chewy shiratama mochi ball into the center of the filling.",
+        "Gently press the top wafer shell on without cracking it and serve immediately while crisp."
+      ]
     },
     {
       "id": "jp_dessert_10",
@@ -8806,7 +13951,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Steamed Anko Manju",
+      "desc_en": "Brown sugar gives the steamed buns their traditional golden-brown hue and rich aroma.",
+      "ingredients_en": [
+        "Cake flour: 100 g",
+        "Baking powder: 1 tsp",
+        "Brown sugar: 45 g",
+        "Water: 45 ml",
+        "Smooth sweet red bean paste (koshian): 120 g"
+      ],
+      "steps_en": [
+        "Dissolve the brown sugar in water, then sift in the cake flour and baking powder and knead gently until a dough forms.",
+        "Chill the dough for 15 minutes, then divide both the dough and red bean paste into 4 equal portions.",
+        "Flatten each dough piece, place a ball of red bean paste in the center, seal the edges tightly, and set on parchment squares.",
+        "Steam over briskly boiling water on high heat for 10–12 minutes until fluffy and soft.",
+        "Let cool slightly and serve warm alongside green tea."
+      ]
     },
     {
       "id": "jp_dessert_11",
@@ -8841,7 +14002,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Anmitsu",
+      "desc_en": "Top with a scoop of vanilla or matcha ice cream to turn it into cream anmitsu.",
+      "ingredients_en": [
+        "Kanten agar powder: 4 g",
+        "Water: 350 ml",
+        "Japanese sweet red bean paste (anko): 60 g",
+        "Cooked shiratama mochi balls: 6 pieces",
+        "Mandarin oranges and kiwi, sliced: 80 g",
+        "Kuromitsu (Japanese black sugar syrup): 3 tbsp"
+      ],
+      "steps_en": [
+        "Boil the kanten agar powder and water for 2 minutes until dissolved and clear, pour into a tray, chill until set, and cut into cubes.",
+        "Spoon the chilled kanten cubes into glass serving bowls.",
+        "Arrange the red bean paste, shiratama mochi balls, and fresh fruit attractively on top.",
+        "Drizzle with chilled kuromitsu syrup right before serving."
+      ]
     },
     {
       "id": "jp_dessert_12",
@@ -8876,7 +14053,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sweet Red Bean Yokan",
+      "desc_en": "Just a pinch of salt brings out the rich, nutty flavor of red beans without making it overly sweet.",
+      "ingredients_en": [
+        "Smooth sweet red bean paste (koshian): 200 g",
+        "Kanten agar powder: 4 g",
+        "Water: 200 ml",
+        "Granulated sugar: 30 g",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Combine the kanten agar powder and water in a pot and bring to a boil over medium heat, stirring until fully dissolved.",
+        "Reduce to low heat and whisk in the sugar, salt, and red bean paste until completely smooth.",
+        "Simmer over low heat for 3–4 minutes until glossy and slightly thickened.",
+        "Pour into a lightly dampened square mold, let cool, and refrigerate for 2 hours until firm.",
+        "Slice into bite-sized squares and serve chilled with matcha green tea."
+      ]
     },
     {
       "id": "jp_dessert_13",
@@ -8910,7 +14103,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Uiro (Steamed Rice Flour Cake)",
+      "desc_en": "Uiro has a soft, chewy bite similar to Thai layer cake, but with less fat since it uses no coconut milk.",
+      "ingredients_en": [
+        "Rice flour: 80 g",
+        "All-purpose flour: 20 g",
+        "Matcha powder: 1 tbsp",
+        "Granulated sugar: 55 g",
+        "Water: 200 ml"
+      ],
+      "steps_en": [
+        "Sift the rice flour, all-purpose flour, matcha powder, and sugar together into a mixing bowl.",
+        "Gradually whisk in the water until smooth, then strain once through a fine sieve.",
+        "Pour into a parchment-lined square pan and steam over high heat for 20 minutes until cooked through, glossy, and bouncy.",
+        "Cool completely before slicing into squares and serving with hot tea."
+      ]
     },
     {
       "id": "jp_dessert_14",
@@ -8945,7 +14153,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Grilled Kintsuba",
+      "desc_en": "Keep the heat low throughout pan-searing so the thin wrapper stays translucent and doesn't scorch.",
+      "ingredients_en": [
+        "Coarse sweet red bean paste (tsubuan): 200 g",
+        "Kanten agar powder: 2 g",
+        "Water: 60 ml",
+        "All-purpose flour: 40 g",
+        "Glutinous rice flour: 10 g",
+        "Water (for batter): 70 ml"
+      ],
+      "steps_en": [
+        "Boil the agar powder in 60 ml water until dissolved, mix with the coarse red bean paste, press into a square pan, chill until firm, and cut into cubes.",
+        "Whisk the all-purpose flour, glutinous rice flour, and 70 ml water into a thin, smooth batter.",
+        "Heat a nonstick skillet over low heat, dip one face of a red bean cube into the batter, and sear each of the 6 sides until set.",
+        "Let cool slightly and serve warm to enjoy the toasted crust and whole-bean filling."
+      ]
     },
     {
       "id": "jp_dessert_15",
@@ -8984,6 +14208,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "tier": "full",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Japanese Custard Purin",
+      "desc_en": "Steaming gently over very low heat with covered molds prevents air bubbles in the custard (senior-friendly).",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Milk: 250 ml",
+        "Granulated sugar (for custard): 35 g",
+        "Vanilla extract: 1/2 tsp",
+        "Granulated sugar (for caramel): 40 g",
+        "Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Simmer 40 g sugar with 1 tbsp water until deep amber, stir in 1 tbsp hot water, and divide among ramekins.",
+        "Warm the milk with 35 g sugar just until dissolved without boiling, remove from heat, and stir in the vanilla.",
+        "Gently whisk the eggs without creating foam, gradually stir in the warm milk, and strain twice through a fine sieve.",
+        "Pour into the ramekins, cover with foil, steam over very low heat for 18–20 minutes until set with a gentle jiggle, and chill for at least 2 hours.",
+        "Run a thin knife around the edges and invert onto plates so the caramel sauce flows over the custard."
       ]
     },
     {
@@ -9018,7 +14259,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Coffee Jelly",
+      "desc_en": "The bold bitterness of black coffee paired with cool whipped cream makes an ideal after-meal dessert.",
+      "ingredients_en": [
+        "Strong brewed black coffee: 300 ml",
+        "Gelatin powder: 6 g",
+        "Granulated sugar: 25 g",
+        "Whipping cream: 60 ml",
+        "Sweetened condensed milk (for drizzling): 1 tbsp"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in 2 tbsp cold water for 5 minutes.",
+        "Heat the black coffee and sugar until hot, then stir in the bloomed gelatin until completely dissolved.",
+        "Pour into a tray or glasses, chill for at least 2 hours until firm and bouncy, and cut into cubes.",
+        "Whip the cream to soft peaks, pipe onto the coffee jelly, and drizzle lightly with condensed milk before serving."
+      ]
     },
     {
       "id": "jp_dessert_17",
@@ -9053,7 +14309,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Ice Cream with Anko",
+      "desc_en": "This no-churn recipe delivers a creamy texture packed with rich green tea flavor.",
+      "ingredients_en": [
+        "Chilled whipping cream: 200 ml",
+        "Sweetened condensed milk: 80 g",
+        "Ceremonial-grade matcha powder: 1.5 tbsp",
+        "Hot water: 2 tbsp",
+        "Japanese sweet red bean paste (anko): 50 g",
+        "Cooked shiratama mochi balls: 4 pieces"
+      ],
+      "steps_en": [
+        "Whisk the matcha powder with hot water until completely smooth, stir into the condensed milk, and let cool.",
+        "Whip the chilled cream to medium peaks, then gently fold in the matcha mixture until uniform.",
+        "Transfer to a lidded container and freeze for at least 4 hours until firm and creamy.",
+        "Scoop into bowls and serve with sweet red bean paste and shiratama mochi balls."
+      ]
     },
     {
       "id": "jp_dessert_18",
@@ -9089,7 +14361,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Uji Kintoki Kakigori (Matcha Shaved Ice)",
+      "desc_en": "Chill the serving bowls in the freezer for 10 minutes beforehand to slow down melting.",
+      "ingredients_en": [
+        "Clean ice cubes: 350 g",
+        "Matcha powder: 1 tbsp",
+        "Granulated sugar: 40 g",
+        "Hot water: 60 ml",
+        "Sweetened condensed milk: 2 tbsp",
+        "Japanese sweet red bean paste (anko): 60 g",
+        "Cooked shiratama mochi balls: 4 pieces"
+      ],
+      "steps_en": [
+        "Whisk the matcha powder, sugar, and hot water until dissolved into a rich matcha syrup, then chill completely.",
+        "Shave the ice into fine, fluffy flakes and mound into tall bowls.",
+        "Drizzle the chilled matcha syrup and sweetened condensed milk evenly over the shaved ice.",
+        "Garnish the sides with red bean paste and shiratama mochi balls and serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_19",
@@ -9125,7 +14414,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kyoto Matcha Parfait",
+      "desc_en": "Layering soft, crunchy, and chilled textures makes every spoonful of this parfait a delight.",
+      "ingredients_en": [
+        "Matcha ice cream: 2 scoops",
+        "Matcha green tea jelly, cubed: 80 g",
+        "Sponge cake or castella, cubed: 60 g",
+        "Whipped cream: 60 g",
+        "Japanese sweet red bean paste (anko): 50 g",
+        "Cooked shiratama mochi balls: 4 pieces",
+        "Crisp cornflakes: 20 g"
+      ],
+      "steps_en": [
+        "Layer the bottom of tall parfait glasses with matcha jelly cubes and crisp cornflakes.",
+        "Add the cubed sponge cake and pipe a generous layer of whipped cream on top.",
+        "Crown with scoops of matcha ice cream, red bean paste, and shiratama mochi balls.",
+        "Dust lightly with matcha powder and serve immediately with long spoons."
+      ]
     },
     {
       "id": "jp_dessert_20",
@@ -9160,7 +14466,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Black Sesame Soft Serve",
+      "desc_en": "Freshly toasted and ground black sesame paste gives a deeper, nuttier aroma than store-bought versions.",
+      "ingredients_en": [
+        "Black sesame paste: 3 tbsp",
+        "Chilled whipping cream: 200 ml",
+        "Milk: 50 ml",
+        "Sweetened condensed milk: 65 g",
+        "Salt: 1 pinch",
+        "Crisp waffle cones: 2 pieces"
+      ],
+      "steps_en": [
+        "Whisk the black sesame paste, milk, condensed milk, and salt together until smooth.",
+        "Whip the chilled cream to soft peaks, then fold in the black sesame mixture until evenly dark gray.",
+        "Freeze for about 3 hours, stirring every hour for smoothness, until firm enough to pipe.",
+        "Transfer to a piping bag fitted with a star tip, swirl tall peaks onto waffle cones, and serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_21",
@@ -9195,7 +14517,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Hokkaido Milk Soft Serve",
+      "desc_en": "Adding whole milk powder gives this soft serve the signature rich, creamy taste of Hokkaido milk.",
+      "ingredients_en": [
+        "Whole milk: 120 ml",
+        "Chilled whipping cream: 200 ml",
+        "Hokkaido milk powder (or whole milk powder): 2 tbsp",
+        "Sweetened condensed milk: 65 g",
+        "Vanilla extract: 1/4 tsp",
+        "Crisp waffle cones: 2 pieces"
+      ],
+      "steps_en": [
+        "Dissolve the milk powder in slightly warmed milk, stir in the condensed milk and vanilla, and chill thoroughly.",
+        "Whip the cream to soft peaks, then gently fold in the chilled milk mixture.",
+        "Freeze for 3 hours, stirring every hour to prevent ice crystals.",
+        "Pipe tall swirls onto crisp waffle cones and serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_22",
@@ -9229,7 +14567,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Yuzu Honey Jelly",
+      "desc_en": "This light, vitamin C-rich dessert is refreshing and ideal for hot days.",
+      "ingredients_en": [
+        "Yuzu concentrate (or yuzu honey marmalade): 3 tbsp",
+        "Honey: 2 tbsp",
+        "Water: 300 ml",
+        "Gelatin powder: 6 g",
+        "Mint sprigs (for garnish): 2 sprigs"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in 2 tbsp cold water for 5 minutes.",
+        "Warm the water with the yuzu and honey just until warm without boiling to preserve the citrus aroma.",
+        "Stir in the bloomed gelatin until completely dissolved and strain into serving glasses.",
+        "Refrigerate for at least 2 hours until set, then garnish with yuzu zest and mint before serving."
+      ]
     },
     {
       "id": "jp_dessert_23",
@@ -9267,6 +14620,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "tier": "full",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Silky Black Sesame Pudding",
+      "desc_en": "Soy milk can be substituted for dairy milk for those avoiding cow's milk (senior-friendly).",
+      "ingredients_en": [
+        "Finely ground roasted black sesame paste: 2.5 tbsp",
+        "Milk: 220 ml",
+        "Whipping cream: 80 ml",
+        "Granulated sugar: 30 g",
+        "Gelatin powder: 5 g",
+        "Toasted white and black sesame seeds (for garnish): 1/2 tsp"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in 2 tbsp cold water for 5 minutes.",
+        "Combine the milk, cream, sugar, and black sesame paste in a saucepan over low heat, stirring until smooth and hot.",
+        "Remove from heat, stir in the bloomed gelatin until dissolved, and strain through a sieve for a silky texture.",
+        "Pour into cups, chill for at least 3 hours until set, and top with a dollop of whipped cream and toasted sesame seeds."
       ]
     },
     {
@@ -9302,7 +14671,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Hojicha Roasted Tea Pudding",
+      "desc_en": "Hojicha is lower in caffeine than regular green tea, making it a comforting evening dessert.",
+      "ingredients_en": [
+        "Hojicha powder (or roasted hojicha tea leaves): 2 tsp",
+        "Milk: 240 ml",
+        "Whipping cream: 60 ml",
+        "Brown sugar: 30 g",
+        "Gelatin powder: 5 g",
+        "Kuromitsu (Japanese black sugar syrup): 1 tbsp"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in 2 tbsp cold water for 5 minutes.",
+        "Simmer the milk, hojicha, and brown sugar over low heat until fragrant, then stir in the whipping cream.",
+        "Remove from heat, stir in the gelatin until dissolved, and strain through a fine sieve into glass cups.",
+        "Chill for 3 hours until set, then drizzle with kuromitsu syrup and dust with hojicha powder before serving."
+      ]
     },
     {
       "id": "jp_dessert_25",
@@ -9339,7 +14724,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Souffle Cotton Cheesecake",
+      "desc_en": "Baking in a water bath creates an airy, jiggly cheesecake that melts in your mouth.",
+      "ingredients_en": [
+        "Cream cheese: 150 g",
+        "Butter: 30 g",
+        "Milk: 80 ml",
+        "Eggs, separated: 3 pieces",
+        "Cake flour: 35 g",
+        "Granulated sugar: 60 g",
+        "Lemon juice: 1 tsp"
+      ],
+      "steps_en": [
+        "Melt the cream cheese, butter, and milk together over a double boiler until smooth, remove from heat, and whisk in the egg yolks and sifted cake flour.",
+        "Whip the egg whites with lemon juice and sugar until glossy soft peaks form.",
+        "Gently fold the meringue into the cream cheese batter until light and airy.",
+        "Pour into a parchment-lined pan, set inside a hot water bath, and bake at 150°C for about 50 minutes until golden on top.",
+        "Let cool in the oven with the door slightly ajar for 15 minutes to prevent sinking, then slice and serve."
+      ]
     },
     {
       "id": "jp_dessert_26",
@@ -9375,7 +14778,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Burnt Basque Cheesecake",
+      "desc_en": "Chilling for at least 6 hours allows the matcha and cheese flavors to deepen and set smoothly.",
+      "ingredients_en": [
+        "Cream cheese, room temperature: 250 g",
+        "Granulated sugar: 70 g",
+        "Eggs: 2 pieces",
+        "Whipping cream: 130 ml",
+        "Matcha powder: 12 g",
+        "Cake flour: 10 g"
+      ],
+      "steps_en": [
+        "Beat the cream cheese and sugar until smooth, then mix in the eggs one at a time.",
+        "Dissolve the matcha powder in slightly warmed whipping cream until smooth and stir into the cream cheese mixture.",
+        "Sift in the cake flour, fold until smooth, and strain into a pan lined with crumpled parchment paper.",
+        "Bake at 210°C for 25–28 minutes until deeply caramelized on top with a soft, custardy center.",
+        "Cool completely and refrigerate overnight before slicing."
+      ]
     },
     {
       "id": "jp_dessert_27",
@@ -9411,7 +14831,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Fruit Sando",
+      "desc_en": "Patting the fruit completely dry before assembling prevents the cream from thinning and keeps the bread from getting soggy.",
+      "ingredients_en": [
+        "Crustless milk bread: 4 slices",
+        "Chilled whipping cream: 180 ml",
+        "Powdered sugar: 20 g",
+        "Fresh strawberries: 6 pieces",
+        "Kiwi, peeled: 1 piece",
+        "Orange segments: 1 piece"
+      ],
+      "steps_en": [
+        "Whip the chilled cream and powdered sugar until stiff peaks hold their shape.",
+        "Spread cream on one slice of bread and arrange the strawberries, kiwi, and orange segments along the diagonal cutting line.",
+        "Spread more cream over and around the fruit to fill all gaps, then top with a second slice of bread.",
+        "Wrap tightly in plastic wrap, mark the cutting direction, and chill for 30 minutes.",
+        "Slice diagonally with a sharp knife dipped in warm water and wiped dry to reveal the fruit pattern."
+      ]
     },
     {
       "id": "jp_dessert_28",
@@ -9448,7 +14885,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Fluffy Souffle Pancakes",
+      "desc_en": "Serve straight from the pan so the pancakes stay at their tallest, fluffiest bounce.",
+      "ingredients_en": [
+        "Eggs, separated: 2 pieces",
+        "Milk: 25 ml",
+        "Cake flour: 35 g",
+        "Baking powder: 1/2 tsp",
+        "Granulated sugar: 25 g",
+        "Butter (for greasing and serving): 15 g",
+        "Honey or maple syrup: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the egg yolks and milk, then sift in the cake flour and baking powder and mix until smooth.",
+        "Beat the egg whites with sugar to glossy stiff peaks, then gently fold into the yolk batter.",
+        "Heat a lightly buttered skillet over very low heat, mound the batter high, add 1 tbsp water to the side of the pan, and cover.",
+        "Steam-cook for 4–5 minutes until the bottoms set, gently flip, add a splash more water, and cover for 4 more minutes.",
+        "Stack on plates, top with butter, and drizzle with honey or maple syrup to serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_29",
@@ -9485,7 +14940,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Cream Swiss Roll Cake",
+      "desc_en": "Chilling before slicing and wiping the knife between cuts keeps the swirl clean and neat.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Granulated sugar: 55 g",
+        "Cake flour: 45 g",
+        "Matcha powder: 10 g",
+        "Milk: 30 ml",
+        "Vegetable oil: 25 ml",
+        "Whipped cream: 150 ml"
+      ],
+      "steps_en": [
+        "Whisk the egg yolks with part of the sugar, milk, vegetable oil, cake flour, and matcha powder until smooth.",
+        "Beat the egg whites with the remaining sugar to soft peaks, fold into the matcha batter, and pour onto a parchment-lined baking sheet.",
+        "Bake at 175°C for 12–14 minutes, then transfer to a wire rack to cool.",
+        "Spread whipped cream evenly over the cake (adding red bean paste if desired), roll up tightly in parchment, and chill for 1 hour.",
+        "Slice into generous rounds and serve."
+      ]
     },
     {
       "id": "jp_dessert_30",
@@ -9521,7 +14994,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Honey Castella Cake",
+      "desc_en": "Using bread flour gives castella its signature springy, moist chew without crumbling.",
+      "ingredients_en": [
+        "Eggs: 4 pieces",
+        "Bread flour: 90 g",
+        "Granulated sugar: 80 g",
+        "Honey: 35 g",
+        "Warm milk: 30 ml",
+        "Vegetable oil: 25 ml"
+      ],
+      "steps_en": [
+        "Whisk the honey, warm milk, and vegetable oil together and set aside.",
+        "Beat the whole eggs and sugar over a warm water bath until pale, thick, and able to hold a ribbon.",
+        "Sift in the bread flour and fold gently, then gradually fold in the warm milk-honey mixture until smooth.",
+        "Pour into a parchment-lined square pan, tap to release air bubbles, and bake at 160°C for 35–40 minutes.",
+        "Invert onto parchment, wrap tightly in plastic wrap while still warm, and rest overnight for a moist, honey-scented crumb before slicing."
+      ]
     },
     {
       "id": "jp_dessert_31",
@@ -9557,7 +15047,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Harajuku Strawberry Cream Crepe",
+      "desc_en": "Let the crepes cool completely before piping whipped cream so the filling doesn't melt.",
+      "ingredients_en": [
+        "Cake flour: 70 g",
+        "Egg: 1 piece",
+        "Milk: 160 ml",
+        "Granulated sugar: 15 g",
+        "Melted butter: 15 g",
+        "Whipped cream: 100 ml",
+        "Fresh strawberries, sliced: 80 g"
+      ],
+      "steps_en": [
+        "Whisk the cake flour, egg, milk, sugar, and melted butter until smooth, strain, and rest for 15 minutes.",
+        "Swirl thin rounds of batter onto a lightly heated nonstick skillet over low heat, cook both sides, and cool completely.",
+        "Fold each crepe in half, pipe whipped cream, arrange sliced strawberries, and add a drizzle of chocolate sauce if desired.",
+        "Roll into a Harajuku-style cone, garnish with extra strawberries on top, and serve immediately."
+      ]
     },
     {
       "id": "jp_dessert_32",
@@ -9593,7 +15100,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Custard Cream Puff (Choux Cream)",
+      "desc_en": "Avoid opening the oven door during the first 20 minutes so the choux puffs rise hollow and crisp without collapsing.",
+      "ingredients_en": [
+        "Water: 80 ml",
+        "Butter: 35 g",
+        "All-purpose flour: 50 g",
+        "Eggs: 2 pieces",
+        "Milk (for custard): 200 ml",
+        "Matcha powder: 1 tbsp",
+        "Granulated sugar: 40 g"
+      ],
+      "steps_en": [
+        "Boil the water and butter, stir in the flour over low heat until the dough pulls away from the pan, cool slightly, and beat in the eggs gradually until glossy.",
+        "Pipe mounds onto a baking tray and bake at 200°C for 15 minutes, then reduce to 170°C for 15 more minutes until puffed and crisp.",
+        "Cook the milk, matcha powder, sugar, egg yolk, and 1.5 tbsp cornstarch until thickened into a smooth custard, then chill.",
+        "Poke a small hole underneath each puff, pipe in the matcha custard generously, dust lightly with powdered sugar, and serve."
+      ]
     },
     {
       "id": "jp_dessert_33",
@@ -9630,7 +15154,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Crispy Melonpan",
+      "desc_en": "A crisp, buttery cookie crust wraps around a soft, fluffy bread center.",
+      "ingredients_en": [
+        "Bread flour: 150 g",
+        "Instant dry yeast: 3 g",
+        "Milk: 90 ml",
+        "Butter: 45 g",
+        "Granulated sugar: 55 g",
+        "Cake flour (for cookie crust): 80 g",
+        "Egg: 1 piece"
+      ],
+      "steps_en": [
+        "Knead the bread flour, yeast, milk, 20 g sugar, and 20 g butter until smooth, then let rise until doubled.",
+        "Make the cookie topping by creaming 25 g butter and 35 g sugar, beating in half the egg, mixing in the cake flour, and chilling for 20 minutes.",
+        "Divide the bread dough into 4 balls, drape thin discs of cookie dough over the tops, roll in sugar, and score a crisscross pattern.",
+        "Proof for 30 minutes, then bake at 180°C for 15–18 minutes until the cookie crust is golden and crisp.",
+        "Cool on a wire rack and serve."
+      ]
     },
     {
       "id": "jp_dessert_34",
@@ -9665,7 +15207,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Tiramisu",
+      "desc_en": "Made without raw eggs, this safe and intensely fragrant matcha dessert is enjoyable for all ages.",
+      "ingredients_en": [
+        "Mascarpone cheese: 120 g",
+        "Chilled whipping cream: 100 ml",
+        "Powdered sugar: 25 g",
+        "Ladyfinger biscuits (or sponge cake): 6 pieces",
+        "Matcha powder: 1.5 tbsp",
+        "Hot water: 80 ml"
+      ],
+      "steps_en": [
+        "Dissolve 1 tbsp matcha powder in hot water with a pinch of sugar and let cool for dipping.",
+        "Whip the cream and powdered sugar to soft peaks, then fold smoothly into the mascarpone cheese.",
+        "Dip the biscuits briefly in the matcha liquid and layer in dishes alternating with two layers of mascarpone cream.",
+        "Chill for at least 2 hours, then sift the remaining matcha powder generously over the top right before serving."
+      ]
     },
     {
       "id": "jp_dessert_35",
@@ -9701,7 +15259,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Mille Crepe Cake",
+      "desc_en": "The thinner and more even the cream layers, the cleaner the stacked crepe slices will look.",
+      "ingredients_en": [
+        "Cake flour: 100 g",
+        "Matcha powder: 15 g",
+        "Eggs: 2 pieces",
+        "Milk: 280 ml",
+        "Granulated sugar: 35 g",
+        "Melted butter: 25 g",
+        "Matcha whipped cream: 250 ml"
+      ],
+      "steps_en": [
+        "Whisk the cake flour, matcha powder, eggs, milk, sugar, and melted butter until smooth, strain, and rest for 20 minutes.",
+        "Cook 12–15 paper-thin crepes in a nonstick skillet over low heat and let cool completely.",
+        "Stack the crepes, spreading a thin, even layer of matcha whipped cream between each sheet.",
+        "Chill for at least 3 hours to set, dust the top with matcha powder, and cut cleanly into wedges with a sharp knife."
+      ]
     },
     {
       "id": "jp_dessert_36",
@@ -9737,7 +15312,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Hokkaido Baked Cheese Tart",
+      "desc_en": "Freezing the tarts briefly before baking lets the tops blister golden while keeping the centers molten and creamy.",
+      "ingredients_en": [
+        "Pre-baked tart shells: 4 pieces",
+        "Cream cheese: 150 g",
+        "Butter: 20 g",
+        "Milk: 50 ml",
+        "Whipping cream: 50 ml",
+        "Granulated sugar: 35 g",
+        "Egg yolk (for glazing): 1 piece"
+      ],
+      "steps_en": [
+        "Melt the cream cheese, butter, milk, cream, and sugar gently over a double boiler on low heat, stirring until smooth and thickened, then cool.",
+        "Pipe the cheese mousse generously into the tart shells and freeze for 30 minutes until the surface firms up.",
+        "Brush the tops evenly with a thin layer of beaten egg yolk.",
+        "Bake at 210°C for 8–10 minutes until glossy and golden-brown on top, then serve warm."
+      ]
     },
     {
       "id": "jp_dessert_37",
@@ -9772,7 +15364,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Mochi Pon de Ring Donut",
+      "desc_en": "Crisp and delicate on the outside with an irresistible mochi-like chew inside.",
+      "ingredients_en": [
+        "Tapioca starch: 100 g",
+        "Pancake mix: 50 g",
+        "Silken tofu: 100 g",
+        "Milk: 2 tbsp",
+        "Vegetable oil (for frying): 300 ml",
+        "Powdered sugar (for glaze): 40 g"
+      ],
+      "steps_en": [
+        "Knead the tapioca starch, pancake mix, silken tofu, and milk together until smooth and non-sticky.",
+        "Roll into small dough balls and arrange 8 balls in a connected ring on individual parchment squares.",
+        "Heat oil to 170°C, lower the donuts in with the parchment, remove the paper once they float, and fry until crisp and golden on both sides.",
+        "Drain on a wire rack, whisk the powdered sugar with 1 tsp milk, dip the donuts for a glossy glaze, and serve."
+      ]
     },
     {
       "id": "jp_dessert_38",
@@ -9807,7 +15415,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Sweet Potato Tart (Suwito Poteto)",
+      "desc_en": "A beloved Japanese autumn treat that is naturally sweet from sweet potatoes and high in fiber.",
+      "ingredients_en": [
+        "Steamed Japanese sweet potato, mashed smooth: 250 g",
+        "Butter: 25 g",
+        "Granulated sugar: 25 g",
+        "Milk: 3 tbsp",
+        "Egg yolk: 1 piece",
+        "Toasted white or black sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mash the warm steamed Japanese sweet potato with butter, sugar, and milk until silky smooth.",
+        "Shape into small ovals resembling mini sweet potatoes and place on a parchment-lined baking sheet.",
+        "Brush the tops thinly with egg yolk and sprinkle with sesame seeds.",
+        "Bake at 190°C for 15–18 minutes until lightly charred and golden on top, then serve warm or chilled."
+      ]
     },
     {
       "id": "jp_dessert_39",
@@ -9841,7 +15465,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Iced Matcha Latte",
+      "desc_en": "Avoid using boiling water to whisk matcha, as it can make the green tea taste bitter and astringent.",
+      "ingredients_en": [
+        "Ceremonial-grade matcha powder: 1.5 tsp",
+        "Hot water (80°C): 40 ml",
+        "Chilled fresh milk: 150 ml",
+        "Simple syrup or honey: 1 tbsp",
+        "Ice cubes: 1 glass"
+      ],
+      "steps_en": [
+        "Sift the matcha powder into a bowl, add 80°C hot water, and whisk with a bamboo whisk or frother until smooth and frothy.",
+        "Fill a glass with ice, then pour in the syrup and chilled fresh milk.",
+        "Slowly pour the concentrated matcha over the top to create a distinct green-and-white layered look.",
+        "Serve immediately and stir well before drinking."
+      ]
     },
     {
       "id": "jp_dessert_40",
@@ -9875,7 +15514,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Iced Hojicha Latte",
+      "desc_en": "Using oat milk instead of dairy milk enhances the nutty, roasted aroma of hojicha even further.",
+      "ingredients_en": [
+        "Roasted hojicha tea powder: 2 tsp",
+        "Hot water: 45 ml",
+        "Chilled fresh milk: 150 ml",
+        "Brown sugar syrup: 1 tbsp",
+        "Ice cubes: 1 glass"
+      ],
+      "steps_en": [
+        "Dissolve the hojicha powder in hot water and whisk until smooth and fragrant with roasted tea notes.",
+        "Add the brown sugar syrup and ice to a glass, then pour in the chilled fresh milk.",
+        "Pour the hojicha tea over the top to form a rich caramel-brown layer.",
+        "Serve chilled right away."
+      ]
     },
     {
       "id": "jp_dessert_41",
@@ -9908,7 +15562,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Oshiruko (Warm Red Bean Soup with Grilled Mochi)",
+      "desc_en": "A comforting warm Japanese dessert especially popular during winter and New Year celebrations.",
+      "ingredients_en": [
+        "Japanese coarse sweet red bean paste (tsubuan): 200 g",
+        "Water: 250 ml",
+        "Salt: 1 pinch",
+        "Japanese square mochi cakes (kirimochi): 2 pieces"
+      ],
+      "steps_en": [
+        "Combine the coarse sweet red bean paste and water in a pot over low heat, stirring until dissolved and gently simmering.",
+        "Add a pinch of salt to balance and deepen the sweetness, then remove from heat.",
+        "Grill the mochi cakes in a pan or toaster oven until puffed, soft, and lightly golden-charred.",
+        "Ladle the hot red bean soup into bowls, top with the grilled mochi, and serve warm immediately."
+      ]
     },
     {
       "id": "jp_dessert_42",
@@ -9943,7 +15611,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Ice Cream Float",
+      "desc_en": "Dusting extra matcha powder over the ice cream scoop adds an extra burst of earthy aroma.",
+      "ingredients_en": [
+        "Matcha powder: 1.5 tsp",
+        "Hot water: 40 ml",
+        "Chilled water or fresh milk: 140 ml",
+        "Simple syrup: 2 tsp",
+        "Vanilla or Hokkaido milk ice cream: 1 scoop",
+        "Ice cubes: 1 glass"
+      ],
+      "steps_en": [
+        "Whisk the matcha powder with hot water until smooth, then stir in the simple syrup and chilled water.",
+        "Pour the matcha mixture into a glass filled almost to the top with ice.",
+        "Gently place a scoop of vanilla ice cream on top.",
+        "Serve immediately with a straw and ice cream spoon."
+      ]
     },
     {
       "id": "jp_dessert_43",
@@ -9976,7 +15660,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Fresh Strawberry Milk",
+      "desc_en": "Crushing fresh strawberries coarsely gives a much juicier texture and fresher aroma than artificial syrup.",
+      "ingredients_en": [
+        "Diced fresh strawberries: 100 g",
+        "Granulated sugar: 1.5 tbsp",
+        "Chilled fresh milk: 180 ml",
+        "Ice cubes: 0.5 glass"
+      ],
+      "steps_en": [
+        "Toss the diced strawberries with sugar and let sit for 5 minutes—or simmer gently for 2 minutes—then mash coarsely.",
+        "Spoon the fresh strawberry compote into the bottom of a clear glass and smear a little along the sides for a pretty swirl.",
+        "Add ice and slowly pour in the chilled fresh milk.",
+        "Serve immediately and stir to distribute the strawberry pieces before drinking."
+      ]
     },
     {
       "id": "jp_dessert_44",
@@ -10009,7 +15707,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Iced Yuzu Honey Soda",
+      "desc_en": "A light, low-calorie sparkling drink that refreshes the palate after fried or grilled dishes.",
+      "ingredients_en": [
+        "Yuzu honey marmalade (yuzu cha): 2 tbsp",
+        "Fresh lime juice: 1 tsp",
+        "Chilled soda water: 180 ml",
+        "Ice cubes: 1 glass",
+        "Mint sprig: 1 piece"
+      ],
+      "steps_en": [
+        "Spoon the yuzu honey marmalade and lime juice into the bottom of a glass, add a splash of soda water, and stir to dissolve.",
+        "Fill the glass with ice and slowly top up with chilled soda water.",
+        "Garnish with a yuzu slice and fresh mint sprig, then serve fizzy and cold."
+      ]
     },
     {
       "id": "jp_dessert_45",
@@ -10043,7 +15755,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Matcha Chocolate Layered Latte",
+      "desc_en": "The bittersweet richness of dark chocolate pairs beautifully with the crisp, grassy aroma of matcha.",
+      "ingredients_en": [
+        "Chopped dark chocolate or rich cocoa powder: 20 g",
+        "Matcha powder: 1.5 tsp",
+        "Chilled fresh milk: 150 ml",
+        "Hot water: 50 ml",
+        "Ice cubes: 1 glass"
+      ],
+      "steps_en": [
+        "Melt the dark chocolate with 20 ml hot water into a rich sauce and pour it into the bottom of a clear glass.",
+        "Fill the glass with ice and gently pour in the chilled fresh milk as the middle layer.",
+        "Whisk the matcha powder with the remaining 30 ml hot water until smooth and frothy, then pour it gently over the milk as the top layer.",
+        "Serve in three distinct layers and stir well before drinking."
+      ]
     },
     {
       "id": "jp_dessert_46",
@@ -10076,7 +15803,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Warm Non-Alcoholic Koji Amazake",
+      "desc_en": "Naturally sweet and alcohol-free fermented koji rice drink suitable for all ages, including seniors, with no added sugar.",
+      "ingredients_en": [
+        "Non-alcoholic concentrated koji amazake: 200 ml",
+        "Water or soy milk: 100 ml",
+        "Finely grated ginger: 0.5 tsp",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Pour the concentrated amazake and water into a saucepan and stir to combine.",
+        "Warm gently over low heat until hot, taking care not to boil so the natural enzymes and delicate sweetness are preserved.",
+        "Stir in a pinch of salt to round out the gentle sweetness, then pour into ceramic cups.",
+        "Top with a touch of freshly grated ginger and serve warm."
+      ]
     },
     {
       "id": "jp_dessert_47",
@@ -10110,7 +15851,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Honey Butter Roasted Japanese Sweet Potato",
+      "desc_en": "Roasting at a moderate temperature slowly converts the sweet potato starches into natural sugars for a custardy, juicy interior.",
+      "ingredients_en": [
+        "Japanese sweet potatoes (Beniharuka): 2 pieces",
+        "Unsalted butter: 15 g",
+        "Honey: 1.5 tbsp",
+        "Salt: 1 pinch",
+        "Toasted white or black sesame seeds: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Wash the sweet potatoes thoroughly with the skin on, pat dry, and prick lightly all over with a fork.",
+        "Bake in an oven or air fryer at 170°C for 35–40 minutes until tender and caramelized juices begin to seep out.",
+        "Slice open lengthwise while piping hot and lightly score the flesh inside.",
+        "Tuck in the butter to melt into the flesh, drizzle with honey, sprinkle with salt and toasted sesame seeds, and serve hot."
+      ]
     },
     {
       "id": "jp_dessert_48",
@@ -10144,7 +15900,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Festival Candy Apple (Ringo Ame)",
+      "desc_en": "Dry the apples completely so the sugar coating adheres smoothly, and handle the hot syrup with care while dipping.",
+      "ingredients_en": [
+        "Small crisp red apples: 2 pieces",
+        "Granulated sugar: 120 g",
+        "Water: 40 ml",
+        "Lemon juice: 0.5 tsp",
+        "Natural red food coloring (optional): 2 drops"
+      ],
+      "steps_en": [
+        "Wash and dry the apples completely, remove the stems, and insert sturdy bamboo skewers firmly into the centers.",
+        "Combine the sugar, water, and lemon juice in a saucepan over medium heat without stirring until it boils into a clear, thick syrup at about 145°C.",
+        "Add a drop or two of red food coloring, tilt the pan, and twirl each apple in the syrup to coat thinly and evenly.",
+        "Rest on parchment paper for about 10 minutes until the sugar shell hardens into a crisp, glassy glaze, then serve."
+      ]
     },
     {
       "id": "jp_quick_01",
@@ -10178,7 +15949,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Hiyayakko (Chilled Japanese Tofu)",
+      "desc_en": "A cool, refreshing no-cook side dish that comes together in just 5 minutes.",
+      "ingredients_en": [
+        "Chilled silken tofu: 150 g",
+        "Sliced scallions: 1 tbsp",
+        "Finely grated ginger: 1 tsp",
+        "Katsuobushi bonito flakes: 2 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Toasted white sesame seeds: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Remove the chilled silken tofu from its package, gently pat off excess moisture with a paper towel, and plate whole or cut into bite-sized cubes.",
+        "Top the tofu with grated ginger, sliced scallions, and bonito flakes.",
+        "Drizzle with Japanese soy sauce, sprinkle with toasted white sesame seeds, and serve chilled immediately."
+      ]
     },
     {
       "id": "jp_quick_02",
@@ -10214,7 +16000,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Chawanmushi (Japanese Steamed Egg Custard)",
+      "desc_en": "Steaming gently over low heat keeps the savory egg custard silky smooth and free of air bubbles.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Dashi stock: 240 ml",
+        "Japanese soy sauce: 1 tsp",
+        "Mirin: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Peeled fresh shrimp: 4 pieces",
+        "Sliced fresh shiitake mushrooms: 2 pieces",
+        "Sliced scallions: 1 tsp"
+      ],
+      "steps_en": [
+        "Gently beat the eggs without creating foam, stir in the dashi stock, soy sauce, mirin, and salt, then strain through a fine-mesh sieve.",
+        "Place the shrimp and shiitake mushrooms at the bottom of ceramic custard cups, slowly pour in the egg mixture, and skim off any surface bubbles.",
+        "Cover the cups with lids or foil and steam over low heat for about 12 minutes until just set and silky, then garnish with scallions and serve hot."
+      ]
     },
     {
       "id": "jp_quick_03",
@@ -10248,7 +16051,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Garlic Edamame",
+      "desc_en": "Quick to toss together with fragrant garlic and sesame oil, making an ideal fast side dish or snack.",
+      "ingredients_en": [
+        "Boiled edamame pods: 200 g",
+        "Finely minced garlic: 1 tbsp",
+        "Sesame oil: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Sea salt: 0.5 tsp",
+        "Shichimi togarashi chili spice: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Heat the sesame oil in a skillet over medium heat and saute the minced garlic until fragrant and lightly golden.",
+        "Add the boiled edamame pods and stir-fry briskly for about 2 minutes.",
+        "Season with soy sauce, sea salt, and shichimi togarashi, toss well to coat, and serve immediately."
+      ]
     },
     {
       "id": "jp_quick_04",
@@ -10283,7 +16101,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tataki Kyuri (Smashed Sesame Cucumber)",
+      "desc_en": "Smashing the cucumbers instead of slicing them neatly creates rough edges that cling to the savory dressing.",
+      "ingredients_en": [
+        "Japanese cucumbers: 2 pieces",
+        "Sesame oil: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Rice vinegar: 1 tsp",
+        "Grated garlic: 0.5 tsp",
+        "Salt: 0.25 tsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Wash the Japanese cucumbers, lightly smash them with the flat of a knife or a rolling pin until cracked, and break into bite-sized pieces.",
+        "Toss with a pinch of salt, let stand for 3 minutes, and gently squeeze out excess water so the cucumbers stay crisp and absorb flavor.",
+        "Whisk together the sesame oil, soy sauce, rice vinegar, and grated garlic, toss with the cucumbers, sprinkle with toasted sesame seeds, and serve."
+      ]
     },
     {
       "id": "jp_quick_05",
@@ -10322,6 +16156,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "tier": "full",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Dashimaki Tamago (Japanese Dashi Rolled Omelet)",
+      "desc_en": "Infused with dashi broth for a tender, juicy texture, this rolled omelet is delicious warm or chilled and gentle enough for seniors.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Dashi stock: 45 ml",
+        "Mirin: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Granulated sugar: 0.5 tsp",
+        "Vegetable oil: 1 tsp",
+        "Grated daikon radish: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk together the eggs, dashi stock, mirin, soy sauce, and sugar until well combined.",
+        "Lightly oil a pan over medium-low heat, pour in one-third of the egg mixture, and roll it toward one side once it begins to set.",
+        "Lightly re-oil the pan and repeat pouring and rolling the remaining egg mixture in layers until you have a thick, fluffy omelet log.",
+        "Slice into bite-sized pieces and serve alongside grated daikon radish and a splash of soy sauce."
       ]
     },
     {
@@ -10357,7 +16208,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tako Wasabi (Wasabi Marinated Octopus)",
+      "desc_en": "Use fresh sashimi-grade octopus for a clean bite with a bright, punchy wasabi kick.",
+      "ingredients_en": [
+        "Small-diced sashimi-grade octopus tentacles: 120 g",
+        "Grated wasabi and finely chopped wasabi stem: 1 tbsp",
+        "Japanese soy sauce: 1 tbsp",
+        "Mirin: 1 tsp",
+        "Cooking sake: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Sliced scallions: 1 tsp"
+      ],
+      "steps_en": [
+        "Dice the sashimi-grade octopus into small cubes and pat dry.",
+        "Stir together the soy sauce, mirin, sake, salt, and grated wasabi until smooth.",
+        "Toss the octopus thoroughly in the wasabi marinade, chill for 5 minutes, and garnish with sliced scallions before serving."
+      ]
     },
     {
       "id": "jp_quick_07",
@@ -10394,7 +16261,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Agedashi Tofu",
+      "desc_en": "Serve immediately after pouring the broth so the exterior stays crisp while the inside remains pillowy soft.",
+      "ingredients_en": [
+        "Large-diced silken tofu: 200 g",
+        "Potato starch or cornstarch: 3 tbsp",
+        "Dashi stock: 120 ml",
+        "Japanese soy sauce: 2 tbsp",
+        "Mirin: 2 tbsp",
+        "Grated daikon radish: 2 tbsp",
+        "Sliced scallions: 1 tbsp",
+        "Vegetable oil for frying: 200 ml"
+      ],
+      "steps_en": [
+        "Pat the tofu dry and coat all sides evenly in a light layer of potato starch.",
+        "Deep-fry in medium-hot oil until golden and crisp on the outside, then drain on paper towels.",
+        "Simmer the dashi stock, soy sauce, and mirin gently in a small pot to make the tentsuyu dipping broth.",
+        "Arrange the crispy tofu in bowls, pour over the hot broth, and top immediately with grated daikon and sliced scallions."
+      ]
     },
     {
       "id": "jp_quick_08",
@@ -10430,7 +16315,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Sunomono (Japanese Cucumber & Wakame Vinegar Salad)",
+      "desc_en": "A bright, tangy-sweet, and low-calorie salad that cuts cleanly through rich meals.",
+      "ingredients_en": [
+        "Dried wakame seaweed: 10 g",
+        "Thinly sliced Japanese cucumber: 1 piece",
+        "Rice vinegar: 2 tbsp",
+        "Granulated sugar: 1 tbsp",
+        "Japanese soy sauce: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Soak the dried wakame in cold water for about 5 minutes until rehydrated, then squeeze dry.",
+        "Toss the sliced cucumber with a pinch of salt, let stand for 3 minutes, and gently squeeze out excess moisture.",
+        "Stir the rice vinegar, sugar, and soy sauce together until the sugar dissolves completely.",
+        "Toss the wakame and cucumber with the dressing, sprinkle with toasted sesame seeds, and serve chilled."
+      ]
     },
     {
       "id": "jp_quick_09",
@@ -10464,7 +16366,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Aburi Shime Saba (Torched Cured Mackerel)",
+      "desc_en": "Torching the skin brings out the mackerel's rich natural oils while noticeably reducing any fishiness.",
+      "ingredients_en": [
+        "Vinegar-cured mackerel (shime saba): 150 g",
+        "Pickled ginger or grated ginger: 1 tbsp",
+        "Sliced scallions: 1 tbsp",
+        "Lemon wedge: 1 piece",
+        "Japanese soy sauce: 1 tbsp",
+        "Wasabi: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the cured mackerel dry and score the skin in a fine crosshatch pattern to help render the fat evenly.",
+        "Torch the skin side with a kitchen blowtorch until lightly charred and the fish oils begin to bubble.",
+        "Slice into bite-sized pieces and plate with ginger, scallions, a lemon wedge, soy sauce, and wasabi."
+      ]
     },
     {
       "id": "jp_quick_10",
@@ -10499,7 +16416,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Asari Sakamushi (Sake-Steamed Clams)",
+      "desc_en": "Avoid overcooking once the clams pop open so the meat stays plump and tender rather than rubbery.",
+      "ingredients_en": [
+        "Fresh clams (purged of sand in salted water): 300 g",
+        "Cooking sake: 60 ml",
+        "Dashi stock or water: 60 ml",
+        "Crushed garlic: 2 cloves",
+        "Unsalted butter: 10 g",
+        "Japanese soy sauce: 1 tsp",
+        "Sliced scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Rinse the clams thoroughly and place them in a pot with the crushed garlic, sake, and dashi stock.",
+        "Cover and steam over medium-high heat for 4–5 minutes until all the clam shells open.",
+        "Turn off the heat, add the butter and soy sauce, gently swirl the pot to melt the butter, sprinkle with scallions, and serve hot with the broth."
+      ]
     },
     {
       "id": "jp_quick_11",
@@ -10534,7 +16467,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Enoki Butter Foil",
+      "desc_en": "Baking in a sealed foil packet locks in the rich butter aroma and all the natural sweet juices of the mushrooms.",
+      "ingredients_en": [
+        "Enoki mushrooms, trimmed: 200 g",
+        "Unsalted butter: 15 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Cooking sake: 1 tsp",
+        "Ground black pepper: 0.25 tsp",
+        "Sliced scallions: 1 tbsp",
+        "Lemon wedge: 1 piece"
+      ],
+      "steps_en": [
+        "Place the enoki mushrooms in the center of a sheet of aluminum foil, top with butter, and drizzle with soy sauce and sake.",
+        "Seal the foil packet tightly and cook in a covered skillet or air fryer at 190°C for 8–10 minutes.",
+        "Open the packet carefully, season with black pepper and sliced scallions, and finish with a squeeze of lemon before serving hot."
+      ]
     },
     {
       "id": "jp_quick_12",
@@ -10569,7 +16518,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Shio Dare Kyabetsu (Izakaya Sesame Miso Cabbage)",
+      "desc_en": "A classic izakaya quick starter that is crisp, savory, and dangerously addictive.",
+      "ingredients_en": [
+        "Torn or coarsely chopped fresh cabbage: 200 g",
+        "Sesame oil: 1.5 tbsp",
+        "White or red miso: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Grated garlic: 0.25 tsp",
+        "Lemon juice or rice vinegar: 1 tsp",
+        "Toasted white sesame seeds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Soak the cabbage in ice-cold water for 5 minutes until extra crisp, then drain thoroughly.",
+        "Whisk together the sesame oil, miso, salt, grated garlic, and rice vinegar until smooth.",
+        "Gently toss the cabbage in the dressing until lightly coated, shower generously with toasted sesame seeds, and serve immediately."
+      ]
     },
     {
       "id": "jp_breakfast_01",
@@ -10604,7 +16569,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Tamago Sando (Japanese Egg Salad Sandwich)",
+      "desc_en": "Using Japanese mayonnaise gives this sandwich the creamy, umami-rich flavor of authentic konbini egg sandos.",
+      "ingredients_en": [
+        "Soft white sandwich bread (shokupan): 4 slices",
+        "Hard-boiled eggs: 3 pieces",
+        "Japanese mayonnaise: 3 tbsp",
+        "Fresh milk: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Ground white pepper: 0.25 tsp",
+        "Softened unsalted butter: 1 tbsp"
+      ],
+      "steps_en": [
+        "Peel the boiled eggs, mash the yolks with mayonnaise, milk, salt, and white pepper until creamy, then finely chop the egg whites and fold them in.",
+        "Spread a thin layer of butter over all 4 slices of bread, mound the egg salad evenly onto two slices, and top with the remaining slices.",
+        "Wrap tightly in plastic wrap and chill for 5 minutes to set, then trim the crusts and slice in half to serve."
+      ]
     },
     {
       "id": "jp_breakfast_02",
@@ -10640,7 +16621,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Shio Pan (Japanese Salted Butter Roll)",
+      "desc_en": "Best enjoyed warm, with a crisp, salty crust giving way to a hollow, buttery interior.",
+      "ingredients_en": [
+        "Bread flour: 200 g",
+        "Instant dry yeast: 3 g",
+        "Granulated sugar: 15 g",
+        "Salt: 3 g",
+        "Warm fresh milk: 130 ml",
+        "Cold unsalted butter sticks for filling: 40 g",
+        "Flaky sea salt for topping: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Knead the bread flour, yeast, sugar, salt, and warm milk until smooth, then let the dough rise until doubled in size.",
+        "Divide into 4 portions, roll each into a long triangle, place a cold stick of butter at the wide base, and roll up into a crescent shape.",
+        "Proof for another 20 minutes, mist lightly with water, and sprinkle flaky sea salt on top.",
+        "Bake at 200°C for 14–16 minutes until golden brown on top with a crisp, buttery base."
+      ]
     },
     {
       "id": "jp_breakfast_03",
@@ -10673,7 +16671,21 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Hokkaido Honey Toast",
+      "desc_en": "Scoring the thick bread in a grid lets the melted butter and honey soak deep into every bite.",
+      "ingredients_en": [
+        "Thick-sliced white bread (3 cm thick): 1 slice",
+        "Unsalted butter: 20 g",
+        "Honey: 2 tbsp",
+        "Sweetened condensed milk or fresh milk: 1 tbsp",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Score the surface of the thick bread slice in a grid pattern, cutting halfway through without slicing the bottom crust.",
+        "Rub half of the butter into the cuts and bake in an oven or air fryer at 180°C for 6–7 minutes until golden and crisp.",
+        "Top immediately with the remaining butter to melt, drizzle with honey and milk, add a tiny pinch of salt, and serve hot."
+      ]
     },
     {
       "id": "jp_breakfast_04",
@@ -10709,7 +16721,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Shokupan (Japanese Milk Bread)",
+      "desc_en": "Feathery, pull-apart texture rich with milk flavor—delicious toasted with butter or eaten plain.",
+      "ingredients_en": [
+        "Bread flour: 250 g",
+        "Fresh milk: 160 ml",
+        "Heavy whipping cream: 30 ml",
+        "Granulated sugar: 25 g",
+        "Instant dry yeast: 4 g",
+        "Salt: 3 g",
+        "Softened unsalted butter: 25 g"
+      ],
+      "steps_en": [
+        "Combine the bread flour, sugar, yeast, salt, milk, and cream until a dough forms, then add the butter and knead until smooth and elastic enough to pass the windowpane test.",
+        "Let rise for 45 minutes until doubled, divide into 2 pieces, degas, roll out, and coil into a loaf pan.",
+        "Proof in the pan until the dough reaches about 80% of the pan height, then bake at 180°C for 28–30 minutes.",
+        "Turn out onto a wire rack to cool completely before slicing thick for breakfast."
+      ]
     },
     {
       "id": "jp_breakfast_05",
@@ -10745,7 +16774,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Creamy Egg Toast",
+      "desc_en": "Remove the pan from heat while the eggs are still slightly glossy so residual heat finishes them to a silky curd.",
+      "ingredients_en": [
+        "Thick-sliced bread: 1 slice",
+        "Eggs: 2 pieces",
+        "Fresh milk or heavy cream: 2 tbsp",
+        "Unsalted butter: 15 g",
+        "Salt: 0.25 tsp",
+        "Ground black pepper: 0.25 tsp",
+        "Sliced scallions or parsley: 1 tsp"
+      ],
+      "steps_en": [
+        "Toast the thick bread until crisp and golden, lightly butter it, and transfer to a plate.",
+        "Whisk the eggs with milk and salt, then melt the butter in a skillet over low heat.",
+        "Pour in the eggs and gently fold from the edges toward the center with a silicone spatula until soft, creamy curds form, then remove from heat immediately.",
+        "Spoon the creamy scrambled eggs over the toast, finish with black pepper and scallions, and serve hot."
+      ]
     },
     {
       "id": "jp_breakfast_06",
@@ -10782,7 +16828,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Katsu Sando (Pork Cutlet Breakfast Sandwich)",
+      "desc_en": "Resting the assembled sandwich under a light weight for 2 minutes helps yield clean, tidy slices.",
+      "ingredients_en": [
+        "Pork loin cutlet (1.5 cm thick): 150 g",
+        "Soft sandwich bread: 4 slices",
+        "Finely shredded cabbage: 50 g",
+        "Tonkatsu sauce: 2 tbsp",
+        "Egg: 1 piece",
+        "All-purpose flour: 2 tbsp",
+        "Panko breadcrumbs: 50 g",
+        "Butter and a touch of mustard: 1 tbsp"
+      ],
+      "steps_en": [
+        "Season the pork with salt and pepper, then dredge sequentially in flour, beaten egg, and panko breadcrumbs.",
+        "Fry over medium heat for 5–6 minutes until crisp, golden brown, and cooked through, then drain on paper towels.",
+        "Spread butter and a thin swipe of mustard on the bread, layer with shredded cabbage, the pork cutlet, and plenty of tonkatsu sauce.",
+        "Top with the remaining bread, press gently, trim the crusts, and slice in half to show off the thick cutlet cross-section."
+      ]
     },
     {
       "id": "jp_breakfast_07",
@@ -10819,7 +16883,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kare Pan (Japanese Curry Bread)",
+      "desc_en": "Simmer the curry filling thick and chill it completely beforehand so it wraps neatly without leaking.",
+      "ingredients_en": [
+        "Bread flour: 200 g",
+        "Instant dry yeast: 3 g",
+        "Warm fresh milk: 120 ml",
+        "Ground pork: 100 g",
+        "Chopped onion: 50 g",
+        "Japanese curry roux blocks: 2 cubes",
+        "Panko breadcrumbs: 60 g",
+        "Vegetable oil for frying: 300 ml"
+      ],
+      "steps_en": [
+        "Saute the onion and ground pork until cooked, add a splash of water and the curry blocks, simmer into a thick filling, and cool completely.",
+        "Knead the bread flour, yeast, and warm milk until smooth, let rise, divide into 4 portions, flatten each, and seal the curry filling tightly inside.",
+        "Lightly brush the buns with water or beaten egg and coat evenly in panko breadcrumbs.",
+        "Fry over medium heat for 4–5 minutes until puffed and golden-crisp on both sides, drain well, and serve hot."
+      ]
     },
     {
       "id": "jp_breakfast_08",
@@ -10856,7 +16938,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Anpan (Japanese Red Bean Bun)",
+      "desc_en": "A timeless Japanese bakery classic; warming for 10 seconds in the microwave restores its fresh-from-the-oven softness.",
+      "ingredients_en": [
+        "Bread flour: 200 g",
+        "Warm fresh milk: 120 ml",
+        "Granulated sugar: 25 g",
+        "Instant dry yeast: 3 g",
+        "Softened unsalted butter: 20 g",
+        "Sweet red bean paste (anko): 160 g",
+        "Egg yolk for brushing: 1 piece",
+        "Toasted black sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Knead the bread flour, sugar, yeast, milk, and butter until smooth, then let rise until doubled in size.",
+        "Divide the dough into 4 pieces, roll the red bean paste into 4 balls, wrap each tightly in dough, and flatten slightly.",
+        "Proof for 20 minutes, brush the tops lightly with egg yolk, and press black sesame seeds into the center.",
+        "Bake at 180°C for 14–15 minutes until glossy golden brown, and serve with coffee or milk."
+      ]
     },
     {
       "id": "jp_breakfast_09",
@@ -10892,7 +16992,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Morning Set (Grilled Saba & Tamagoyaki)",
+      "desc_en": "A traditional Japanese breakfast rich in protein and omega-3 fatty acids.",
+      "ingredients_en": [
+        "Mackerel fillet (saba): 120 g",
+        "Eggs: 2 pieces",
+        "Dashi stock: 2 tbsp",
+        "Mirin: 1 tsp",
+        "Japanese soy sauce: 1 tsp",
+        "Salt: 0.25 tsp",
+        "Grated daikon radish: 2 tbsp",
+        "Japanese pickles and nori seaweed sheets: 1 set"
+      ],
+      "steps_en": [
+        "Sprinkle salt over the mackerel fillet, let rest 5 minutes, pat dry, and pan-sear or broil until the skin is crisp and the flesh is flaky and fragrant.",
+        "Whisk the eggs with dashi, mirin, and soy sauce, cook into a tender rolled omelet in a pan, and slice into pieces.",
+        "Arrange the grilled mackerel with grated daikon, tamagoyaki, pickles, and nori sheets on a breakfast tray."
+      ]
     },
     {
       "id": "jp_breakfast_10",
@@ -10930,6 +17047,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "tier": "full",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Morning Miso Soup & Onsen Egg",
+      "desc_en": "A soothing, easy-to-digest morning meal offering quality protein and light calories, ideal for seniors.",
+      "ingredients_en": [
+        "Dashi stock: 300 ml",
+        "Miso paste: 1.5 tbsp",
+        "Diced silken tofu: 80 g",
+        "Rehydrated wakame seaweed: 10 g",
+        "Egg: 1 piece",
+        "Japanese soy sauce: 1 tsp",
+        "Sliced scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Bring a pot of water to a boil, turn off the heat, add a splash of cold water to reach 68–70°C, then gently lower in the egg, cover, and steep for 15 minutes to make an onsen egg.",
+        "Heat the dashi stock until simmering, add the silken tofu and wakame, reduce to low heat, and dissolve the miso paste through a strainer without boiling.",
+        "Crack the onsen egg into a small bowl with a splash of dashi and soy sauce, and serve alongside the hot miso soup garnished with scallions."
       ]
     },
     {
@@ -10966,7 +17099,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Japanese Morning Hotcake (Fluffy Cafe Pancake)",
+      "desc_en": "Cooking low and slow under a lid gives these hotcakes their signature thick rise and smooth, golden cafe finish.",
+      "ingredients_en": [
+        "All-purpose flour: 120 g",
+        "Baking powder: 1.5 tsp",
+        "Granulated sugar: 25 g",
+        "Egg: 1 piece",
+        "Fresh milk: 110 ml",
+        "Unsalted butter (melted plus extra for topping): 20 g",
+        "Maple syrup or honey: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sift the flour and baking powder with the sugar, then lightly whisk in the egg, milk, and melted butter without overmixing.",
+        "Lightly grease a nonstick skillet over very low heat, ladle in a thick round of batter, cover, and cook for 3 minutes until the edges set and bubbles appear.",
+        "Flip carefully, cover again, and cook for 2 more minutes until puffed and evenly golden brown on both sides.",
+        "Stack two hotcakes high, crown with a pat of butter, drizzle with maple syrup, and serve warm."
+      ]
     },
     {
       "id": "jp_breakfast_12",
@@ -11001,7 +17151,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       ],
       "country": "JP",
       "packId": "jp_full",
-      "tier": "full"
+      "tier": "full",
+      "name_en": "Kissaten Pizza Toast (Japanese Cafe Pizza Toast)",
+      "desc_en": "An iconic Japanese retro cafe breakfast staple that is quick, hearty, and crowd-pleasing.",
+      "ingredients_en": [
+        "Thick-sliced white bread (shokupan): 1 slice",
+        "Pizza sauce or ketchup: 2 tbsp",
+        "Shredded mozzarella cheese: 45 g",
+        "Sliced sausage or ham: 40 g",
+        "Thinly sliced green bell pepper rings: 3 pieces",
+        "Thinly sliced onion: 15 g",
+        "Dried oregano: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Spread the pizza sauce or ketchup evenly over the thick slice of bread.",
+        "Top with sliced onion, sausage or ham, and green bell pepper rings.",
+        "Scatter shredded mozzarella and dried oregano over the top, then bake or air-fry at 190°C for 6–8 minutes until the cheese is bubbly and the bread edges are crisp."
+      ]
     },
     {
       "title": "ข้าวผัดไข่กระเทียมเจียวสไตล์ญี่ปุ่น",
@@ -11034,6 +17200,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_01.webp"
+      ],
+      "name_en": "Japanese Garlic Butter Egg Fried Rice",
+      "desc_en": "Drizzling soy sauce around the sizzling hot edge of the pan rather than directly onto the rice unlocks a deep, toasted aroma.",
+      "ingredients_en": [
+        "Cooked Japanese short-grain rice: 1 cup (200 g)",
+        "Lightly beaten eggs: 2 pieces",
+        "Coarsely chopped garlic: 2 tbsp",
+        "Unsalted butter: 1 tbsp",
+        "Japanese soy sauce: 1.5 tbsp",
+        "Sliced Japanese scallions: 2 tbsp",
+        "Ground black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Melt the butter in a skillet over low heat, fry half of the chopped garlic until crisp and golden, then set aside.",
+        "Crank the heat to high, pour in the beaten eggs, and immediately add the rice, tossing briskly so the egg coats every grain.",
+        "Pour the soy sauce along the hot rim of the pan to caramelize slightly, then toss well to combine.",
+        "Stir in the scallions and black pepper, plate up, and finish with the crispy fried garlic on top."
       ]
     },
     {
@@ -11067,6 +17250,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_02.webp"
+      ],
+      "name_en": "Japanese Ginger Pork Rice Bowl (Butadon)",
+      "desc_en": "Grating mature ginger finely and squeezing its juice into the sauce infuses every slice of pork with bright ginger warmth.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 1 cup (200 g)",
+        "Thinly sliced pork belly or collar: 150 g",
+        "Finely grated mature ginger: 1.5 tbsp",
+        "Sliced onion wedges: 60 g",
+        "Japanese soy sauce: 2 tbsp",
+        "Mirin and sake (or sugar): 1 tbsp each",
+        "Toasted white sesame seeds and sliced scallions: to taste"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, mirin, sake or sugar, and grated ginger in a small bowl to prepare the stir-fry glaze.",
+        "Heat a splash of oil in a skillet and saute the onion slices until softened and translucent.",
+        "Add the sliced pork and stir-fry until no longer pink, then pour in the ginger sauce and simmer until glossy and clinging to the meat.",
+        "Spoon the pork and sauce over steamed Japanese rice and garnish with toasted sesame seeds and scallions."
       ]
     },
     {
@@ -11101,6 +17301,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_03.webp"
+      ],
+      "name_en": "Sweet Corn & Pork Miso Ramen",
+      "desc_en": "Dissolving the miso over gentle heat keeps its fermented aroma intact and its flavor rich and mellow.",
+      "ingredients_en": [
+        "Fresh ramen noodles: 150 g",
+        "Thinly sliced pork belly: 100 g",
+        "Dashi or chicken broth: 450 ml",
+        "White or red miso paste: 2 tbsp",
+        "Boiled sweet corn kernels: 50 g",
+        "Unsalted butter: 1 tsp",
+        "Sliced Japanese scallions: 20 g",
+        "Soft-boiled egg, halved: 1 piece"
+      ],
+      "steps_en": [
+        "Saute the sliced pork with butter in a pot until fragrant and cooked through, then pour in the broth and bring to a boil.",
+        "Reduce to a gentle simmer and dissolve the miso paste into the soup through a small strainer without letting it boil vigorously.",
+        "Boil the ramen noodles separately until tender, drain well, and place in a serving bowl.",
+        "Ladle the hot miso broth and pork over the noodles, and top with sweet corn, halved soft-boiled egg, and scallions."
       ]
     },
     {
@@ -11135,6 +17353,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_04.webp"
+      ],
+      "name_en": "Quick Shrimp Tempura Udon",
+      "desc_en": "Making 3 shallow nicks along the belly of each shrimp before battering keeps them straight and shapely as they fry.",
+      "ingredients_en": [
+        "Fresh udon noodles: 200 g",
+        "Peeled white shrimp, tail-on: 4 pieces",
+        "Tempura batter mix and ice-cold water: 80 g",
+        "Bonito dashi broth: 400 ml",
+        "Japanese soy sauce and mirin: 2.5 tbsp",
+        "Sliced Japanese scallions: 20 g",
+        "Oil for deep-frying: 200 ml",
+        "Dried wakame seaweed: 5 g"
+      ],
+      "steps_en": [
+        "Whisk the tempura mix with ice-cold water, dip the shrimp, and fry in hot oil until crisp and golden.",
+        "Bring the dashi broth, soy sauce, mirin, and wakame seaweed to a fragrant boil.",
+        "Boil the udon noodles for 2 minutes, transfer to a bowl, and ladle the hot broth over them.",
+        "Crown with the crispy shrimp tempura and sliced scallions, and serve immediately."
       ]
     },
     {
@@ -11169,6 +17405,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_05.webp"
+      ],
+      "name_en": "Black Pepper Beef Yaki Udon",
+      "desc_en": "Removing the seared beef slices while stir-frying the noodles keeps the meat tender and juicy.",
+      "ingredients_en": [
+        "Fresh udon noodles: 200 g",
+        "Thinly sliced beef: 120 g",
+        "Chopped tri-color bell peppers: 60 g",
+        "Sliced onion wedges: 40 g",
+        "Black pepper sauce: 3 tbsp",
+        "Japanese soy sauce: 1 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Vegetable oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Saute the garlic until fragrant, sear the sliced beef over high heat until just cooked, and set aside.",
+        "In the same pan, stir-fry the onion and bell peppers until crisp-tender.",
+        "Add the udon noodles, black pepper sauce, and soy sauce, tossing well until the noodles are evenly glazed.",
+        "Return the beef to the pan, toss together for 15 seconds, and serve hot."
       ]
     },
     {
@@ -11203,6 +17457,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_06.webp"
+      ],
+      "name_en": "Crispy Chicken Japanese Curry Udon",
+      "desc_en": "Dicing the carrots small and slicing the onion thinly ensures the vegetables cook tender in under 10 minutes.",
+      "ingredients_en": [
+        "Fresh udon noodles: 200 g",
+        "Pre-cooked crispy fried chicken thigh: 130 g",
+        "Japanese curry roux block: 1 cube",
+        "Dashi stock or water: 350 ml",
+        "Sliced onion: 50 g",
+        "Small-diced carrot: 40 g",
+        "Japanese soy sauce: 1 tsp",
+        "Sliced scallions: 15 g"
+      ],
+      "steps_en": [
+        "Saute the onion and carrot in a pot until softened, then pour in the broth and simmer until tender.",
+        "Stir in the curry roux block and soy sauce until melted and thickened into a smooth curry soup.",
+        "Boil the udon noodles until tender, place in a bowl, and ladle the hot curry soup over them.",
+        "Slice the crispy chicken into strips, arrange on top, and garnish with sliced scallions."
       ]
     },
     {
@@ -11237,6 +17509,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/jp/jp_mig_07.webp"
+      ],
+      "name_en": "Chilled Zaru Soba with Tamagoyaki & Nori",
+      "desc_en": "Gently rubbing the boiled soba noodles under ice-cold running water washes away excess starch for a slick, springy bite.",
+      "ingredients_en": [
+        "Dried soba noodles: 100 g",
+        "Eggs: 2 pieces",
+        "Concentrated tsuyu dipping sauce: 3 tbsp",
+        "Ice-cold water: 90 ml",
+        "Shredded nori seaweed: 10 g",
+        "Sliced scallions: 1 tbsp",
+        "Grated wasabi: 0.5 tsp",
+        "Sugar and mirin (for omelet): 1 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs with sugar and mirin, cook into a rolled omelet in a pan, and slice into bite-sized pieces.",
+        "Boil the soba noodles for 5 minutes, then rinse thoroughly in ice-cold water and drain well.",
+        "Dilute the concentrated tsuyu sauce with ice-cold water in a small dipping cup alongside scallions and wasabi.",
+        "Mound the chilled soba on a plate, top with shredded nori, and serve with the rolled omelet and dipping sauce."
       ]
     },
     {
@@ -11271,6 +17561,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_08.webp"
+      ],
+      "name_en": "Teriyaki Grilled Chicken Salad Wrap",
+      "desc_en": "Patting the salad greens completely dry before assembling keeps the tortilla wrap crisp and tear-free.",
+      "ingredients_en": [
+        "Tortilla wraps: 2 pieces",
+        "Boneless chicken thigh: 130 g",
+        "Teriyaki sauce: 2.5 tbsp",
+        "Green and red oak leaf lettuce: 60 g",
+        "Cucumber and tomato sticks: 50 g",
+        "Mayonnaise: 1.5 tbsp",
+        "Toasted white sesame seeds: 1 tsp",
+        "Vegetable oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Pan-grill the chicken thigh until golden and cooked through, pour in the teriyaki sauce to glaze, and slice into strips.",
+        "Warm the tortillas in a dry skillet for 15 seconds per side until soft and pliable.",
+        "Spread a thin layer of mayonnaise on each tortilla, then layer with lettuce, tomato, cucumber, and glazed chicken.",
+        "Sprinkle with toasted sesame seeds, fold in the sides, roll up tightly, and slice in half to serve."
       ]
     },
     {
@@ -11305,6 +17613,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/jp/jp_mig_09.webp"
+      ],
+      "name_en": "Japanese-Style Egg Salad Sandwich",
+      "desc_en": "A light coat of butter creates a moisture barrier that keeps the bread soft and prevents sogginess.",
+      "ingredients_en": [
+        "Crustless sandwich bread: 2 slices",
+        "Hard-boiled eggs: 2 pieces",
+        "Japanese mayonnaise: 2.5 tbsp",
+        "Yellow mustard: 0.5 tsp",
+        "Salt: 0.25 tsp",
+        "Ground white pepper: 0.25 tsp",
+        "Granulated sugar: 0.5 tsp",
+        "Softened unsalted butter: 1 tsp"
+      ],
+      "steps_en": [
+        "Peel the boiled eggs and mash the yolks smoothly with mayonnaise, mustard, sugar, salt, and white pepper.",
+        "Finely dice the egg whites and fold them gently into the seasoned yolk mixture.",
+        "Spread a thin layer of softened butter on both slices of bread to seal out moisture.",
+        "Spread the egg salad evenly over one slice, top with the second slice, and cut in half to serve."
       ]
     },
     {
@@ -11338,6 +17664,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_10.webp"
+      ],
+      "name_en": "Pan-Seared Tofu Steak with Shiitake Soy Glaze",
+      "desc_en": "Pressing the tofu thoroughly dry lets it sear to a crisp, golden crust without needing any flour coating.",
+      "ingredients_en": [
+        "Thick-sliced firm white tofu: 200 g",
+        "Sliced fresh shiitake mushrooms: 3 pieces",
+        "Low-sodium Japanese soy sauce: 1.5 tbsp",
+        "Mirin: 1 tsp",
+        "Vegetable broth: 3 tbsp",
+        "Sesame oil: 1 tsp",
+        "Sliced scallions and toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the firm tofu completely dry using paper towels.",
+        "Pan-sear in a lightly oiled skillet over medium heat until golden and crisp on both sides, then transfer to a plate.",
+        "In the same skillet, saute the shiitake slices in sesame oil until tender, add the soy sauce, mirin, and vegetable broth, and bring to a simmer.",
+        "Spoon the savory shiitake glaze over the tofu steak and finish with scallions and toasted sesame seeds."
       ]
     },
     {
@@ -11371,6 +17714,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_11.webp"
+      ],
+      "name_en": "Low-Sodium Grilled Teriyaki Chicken Breast",
+      "desc_en": "Scoring the chicken breast lightly before marinating lets the glaze penetrate deeply while shortening cooking time so it stays tender.",
+      "ingredients_en": [
+        "Skinless chicken breast, lightly scored: 180 g",
+        "Low-sodium Japanese soy sauce: 1.5 tbsp",
+        "Pure honey: 1 tsp",
+        "Finely grated ginger: 1 tsp",
+        "Minced garlic: 1 tsp",
+        "Toasted white sesame seeds: 1 tsp",
+        "Blanched broccoli florets (for serving): 80 g"
+      ],
+      "steps_en": [
+        "Whisk together the low-sodium soy sauce, honey, grated ginger, and minced garlic, then marinate the chicken breast for 15 minutes.",
+        "Grill the chicken in a nonstick skillet over medium-low heat for 5–6 minutes per side until cooked through.",
+        "Pour any remaining marinade into the skillet and simmer gently until thickened and glossy around the chicken.",
+        "Slice the chicken into bite-sized pieces, plate with blanched broccoli, and sprinkle with toasted sesame seeds."
       ]
     },
     {
@@ -11403,6 +17763,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/jp/jp_mig_12.webp"
+      ],
+      "name_en": "Lightly Sweetened Miso-Glazed Grilled Mackerel",
+      "desc_en": "Brushing on the miso glaze only during the final minutes prevents the paste from scorching in the pan.",
+      "ingredients_en": [
+        "Boneless mackerel fillet: 150 g",
+        "White miso paste: 1 tbsp",
+        "Mirin or pressed apple juice: 1 tsp",
+        "Water: 1 tbsp",
+        "Finely grated ginger: 0.5 tsp",
+        "Grated daikon radish (for serving): 50 g"
+      ],
+      "steps_en": [
+        "Whisk the white miso, apple juice or mirin, water, and grated ginger into a smooth glaze.",
+        "Place the mackerel skin-side down in a nonstick skillet over low heat until the skin crisps and renders its natural oils.",
+        "Flip and cook the flesh side until about 80% done, then brush the miso glaze evenly over the fish.",
+        "Grill for 1–2 minutes more until fragrant, and serve alongside grated daikon radish."
       ]
     },
     {
@@ -11438,6 +17814,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_13.webp"
+      ],
+      "name_en": "Japanese Nori & Minced Chicken Rolled Omelet",
+      "desc_en": "Mixing dashi broth into the eggs creates a soft, tender roll that binds easily without extra oil, making it ideal for seniors.",
+      "ingredients_en": [
+        "Eggs: 2 pieces",
+        "Cooked minced chicken breast seasoned with soy sauce: 80 g",
+        "Large nori seaweed sheet: 1 piece",
+        "Finely sliced scallions: 1 tbsp",
+        "Low-sodium Japanese soy sauce: 1 tsp",
+        "Dashi stock or water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the eggs together with dashi stock, low-sodium soy sauce, and sliced scallions.",
+        "Pour a thin layer into a nonstick pan over low heat; as it begins to set, lay the nori sheet and cooked minced chicken across the center.",
+        "Roll the egg from one side to the other, then pour in the remaining egg in stages and continue rolling until finished.",
+        "Let the rolled omelet cool slightly before slicing into neat rounds to serve."
       ]
     },
     {
@@ -11473,6 +17865,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/jp/jp_mig_14.webp"
+      ],
+      "name_en": "Light Tofu & Wakame Miso Soup",
+      "desc_en": "Stirring in the miso off the heat preserves both its natural aroma and beneficial probiotics, making it a gentle choice for seniors.",
+      "ingredients_en": [
+        "Diced soft white tofu: 120 g",
+        "Rehydrated wakame seaweed: 20 g",
+        "Low-sodium white miso paste: 1 tbsp",
+        "Bonito or shiitake dashi powder: 0.5 tsp",
+        "Sliced Japanese scallions: 1 tbsp",
+        "Water: 350 ml"
+      ],
+      "steps_en": [
+        "Bring the water and dashi powder to a boil in a saucepan.",
+        "Add the diced soft tofu and wakame seaweed, and simmer over low heat for about 2 minutes.",
+        "Remove from heat, place the white miso in a small strainer submerged in the broth, and stir until dissolved without reboiling.",
+        "Ladle into bowls, garnish with sliced Japanese scallions, and serve hot."
       ]
     },
     {
@@ -11506,6 +17914,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_15.webp"
+      ],
+      "name_en": "Grilled Chicken & Avocado Salad with Sesame Dressing",
+      "desc_en": "A light squeeze of lime or lemon juice over the diced avocado keeps it vibrant and prevents browning.",
+      "ingredients_en": [
+        "Skinless chicken breast: 120 g",
+        "Diced avocado: 0.5 piece",
+        "Cos and red oak lettuce: 80 g",
+        "Cherry tomatoes: 5 pieces",
+        "Low-fat Japanese sesame dressing: 1.5 tbsp",
+        "Coarsely ground black pepper: 0.5 tsp",
+        "Pink salt: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Season the chicken breast with pink salt and black pepper, and let rest for 10 minutes.",
+        "Grill in a nonstick skillet over medium heat until golden and cooked through on both sides, then slice into bite-sized pieces.",
+        "Wash and drain the lettuce and cherry tomatoes, and arrange them in a salad bowl with the diced avocado.",
+        "Top with the sliced grilled chicken and drizzle with low-fat Japanese sesame dressing before serving."
       ]
     },
     {
@@ -11538,6 +17963,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_16.webp"
+      ],
+      "name_en": "Light Cucumber, Crab Stick & Tobiko Salad",
+      "desc_en": "Chilling the cucumbers in ice-cold water before slicing gives them an extra refreshing crunch.",
+      "ingredients_en": [
+        "Thinly sliced Japanese cucumber: 150 g",
+        "Shredded fish-grade imitation crab sticks: 60 g",
+        "Tobiko (flying fish roe): 1 tbsp",
+        "Non-fat Greek yogurt: 1.5 tbsp",
+        "Low-sodium soy sauce: 1 tsp",
+        "Fresh wasabi: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Toss the sliced cucumbers with a pinch of salt, let stand 3 minutes, and gently squeeze out excess water for extra crunch.",
+        "Whisk the Greek yogurt, low-sodium soy sauce, and wasabi together until smooth.",
+        "Toss the cucumbers and shredded crab sticks in the creamy wasabi-yogurt dressing.",
+        "Spoon into serving bowls and finish with tobiko on top."
       ]
     },
     {
@@ -11572,6 +18013,24 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/jp/jp_mig_17.webp"
+      ],
+      "name_en": "Sugar-Free Teriyaki Chicken & Broccoli Rice Bowl",
+      "desc_en": "Sweetening the teriyaki glaze with monk fruit delivers balanced savory-sweet flavor without spiking blood sugar.",
+      "ingredients_en": [
+        "Bite-sized chicken breast pieces: 140 g",
+        "Cooked brown rice: 100 g",
+        "Blanched broccoli florets: 80 g",
+        "Blanched carrots: 30 g",
+        "Low-sodium Japanese soy sauce: 1.5 tbsp",
+        "Monk fruit sweetener: 1 tsp",
+        "Finely grated ginger: 0.5 tsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Stir together the low-sodium soy sauce, monk fruit sweetener, grated ginger, and 1 tbsp water.",
+        "Pan-sear the chicken breast in a nonstick skillet until cooked through, then pour in the sauce and simmer until glazed.",
+        "Spoon the warm brown rice into a bowl and arrange the blanched broccoli and carrots alongside.",
+        "Top with the glazed teriyaki chicken and sprinkle with toasted white sesame seeds."
       ]
     },
     {
@@ -11605,6 +18064,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/jp/jp_mig_18.webp"
+      ],
+      "name_en": "Miso-Glazed Grilled Tempeh & Vegetable Bowl",
+      "desc_en": "Steaming the tempeh for 5 minutes before grilling softens its fermented bean aroma and helps it absorb the miso glaze.",
+      "ingredients_en": [
+        "Sliced tempeh: 100 g",
+        "Cooked germinated brown rice: 90 g",
+        "Steamed Japanese kabocha pumpkin wedges: 50 g",
+        "Grilled asparagus: 50 g",
+        "White miso paste: 1 tbsp",
+        "Warm water: 1 tbsp",
+        "Apple cider vinegar: 1 tsp"
+      ],
+      "steps_en": [
+        "Whisk the white miso, warm water, and apple cider vinegar into a smooth glaze.",
+        "Brush a thin coat of miso glaze onto the tempeh slices and pan-grill on both sides until golden and fragrant.",
+        "Arrange the germinated brown rice, steamed pumpkin, and grilled asparagus in a bowl.",
+        "Top with the grilled tempeh and drizzle with the remaining miso glaze."
       ]
     },
     {
@@ -11640,6 +18116,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/jp/jp_mig_19.webp"
+      ],
+      "name_en": "Silken Tofu & Enoki Miso Soup",
+      "desc_en": "Dissolving the miso off the boil at the very end preserves its probiotics and delicate aroma, making it comforting for seniors.",
+      "ingredients_en": [
+        "Diced kinu silken tofu: 100 g",
+        "Dried wakame seaweed: 5 g",
+        "White miso paste: 1 tbsp",
+        "Clean dashi broth (bonito flakes and kombu kelp): 300 ml",
+        "Sliced Japanese scallions: 1 tbsp",
+        "Trimmed enoki mushrooms: 40 g"
+      ],
+      "steps_en": [
+        "Bring the dashi broth to a boil, add the enoki mushrooms and wakame seaweed, and simmer for 2 minutes.",
+        "Gently slip in the diced silken tofu and reduce the heat to its lowest setting.",
+        "Dissolve the miso paste in a ladleful of broth before stirring it back into the pot—never let it boil.",
+        "Turn off the heat, ladle into bowls, and garnish with sliced Japanese scallions."
       ]
     },
     {
@@ -11673,6 +18165,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/jp/jp_mig_20.webp"
+      ],
+      "name_en": "Matcha Green Tea Chiffon Cake",
+      "desc_en": "Inverting the chiffon pan immediately out of the oven keeps the crumb tall, airy, and collapse-free.",
+      "ingredients_en": [
+        "Cake flour: 90 g",
+        "Matcha green tea powder: 12 g",
+        "Eggs, separated: 3 pieces",
+        "Granulated sugar: 85 g",
+        "Rice bran oil: 45 ml",
+        "Fresh milk: 60 ml",
+        "Cream of tartar: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Sift the cake flour and matcha powder together, then whisk with the egg yolks, 25 g sugar, rice bran oil, and milk until smooth.",
+        "Beat the egg whites with cream of tartar until foamy, then gradually add the remaining sugar and whip to medium peaks.",
+        "Gently fold the meringue into the matcha batter in batches until uniform and airy.",
+        "Pour into an ungreased chiffon pan, bake at 170°C for 30 minutes, then invert immediately to cool completely."
       ]
     },
     {
@@ -11706,6 +18215,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/jp/jp_mig_21.webp"
+      ],
+      "name_en": "Matcha White Chocolate Cookies",
+      "desc_en": "Chilling the cookie dough for 30 minutes before baking prevents overspreading and preserves the vibrant green color.",
+      "ingredients_en": [
+        "Softened unsalted butter: 100 g",
+        "Brown sugar: 60 g",
+        "Granulated white sugar: 40 g",
+        "Egg: 1 piece",
+        "All-purpose flour: 150 g",
+        "Matcha green tea powder: 10 g",
+        "White chocolate chips: 100 g"
+      ],
+      "steps_en": [
+        "Cream the softened butter with both sugars until smooth, then beat in the egg.",
+        "Sift in the flour and matcha powder and fold gently until a soft dough forms.",
+        "Fold in the white chocolate chips until evenly distributed.",
+        "Scoop onto a baking tray, bake at 170°C for 12 minutes, and let cool briefly on the tray to set."
       ]
     },
     {
@@ -11738,6 +18264,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/jp/jp_mig_22.webp"
+      ],
+      "name_en": "Matcha Red Bean Mousse",
+      "desc_en": "Sifting the matcha powder before dissolving it in warm milk ensures a silky mousse free of stubborn clumps.",
+      "ingredients_en": [
+        "Heavy whipping cream: 200 ml",
+        "Fresh milk: 100 ml",
+        "Matcha green tea powder: 10 g",
+        "Granulated sugar: 40 g",
+        "Gelatin powder: 1 tsp",
+        "Prepared sweet red bean paste: 80 g"
+      ],
+      "steps_en": [
+        "Bloom the gelatin powder in 1.5 tbsp cold water.",
+        "Whisk the matcha powder and sugar into warm milk, stir in the bloomed gelatin until fully dissolved, and let cool.",
+        "Whip the heavy cream to soft peaks and gently fold it into the cooled matcha base.",
+        "Spoon into dessert cups, layering or topping with sweet red bean paste, and chill for 2 hours before serving."
       ]
     },
     {
@@ -11770,6 +18312,22 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/jp/jp_mig_23.webp"
+      ],
+      "name_en": "Japanese-Style Matcha Green Tea Ice Cream",
+      "desc_en": "Using ceremonial-grade or high-quality culinary matcha gives the ice cream a vivid green hue and bold flavor without bitterness.",
+      "ingredients_en": [
+        "Chilled heavy whipping cream: 300 ml",
+        "Sweetened condensed milk: 150 g",
+        "Matcha green tea powder: 15 g",
+        "Warm water for dissolving matcha: 2 tbsp",
+        "Fresh milk: 30 ml",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Whisk the matcha powder with warm water into a smooth, lump-free paste and let cool.",
+        "Stir the matcha paste together with the sweetened condensed milk, fresh milk, and salt.",
+        "Whip the chilled heavy cream to medium peaks, then fold in the matcha mixture until evenly green.",
+        "Transfer to an airtight container and freeze for at least 6 hours before scooping."
       ]
     },
     {
@@ -11803,6 +18361,23 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/jp/jp_mig_24.webp"
+      ],
+      "name_en": "Mitarashi Dango (Sweet Soy-Glazed Rice Dumplings)",
+      "desc_en": "Blending a little rice flour into the glutinous dough gives the dango a pleasant chew without turning overly soft.",
+      "ingredients_en": [
+        "Glutinous rice flour: 100 g",
+        "Rice flour: 50 g",
+        "Warm water: 120 ml",
+        "Japanese soy sauce: 2 tbsp",
+        "Granulated sugar: 3 tbsp",
+        "Water for sauce: 80 ml",
+        "Cornstarch: 1 tsp"
+      ],
+      "steps_en": [
+        "Knead the glutinous rice flour, rice flour, and warm water into a smooth, pliable dough, then roll into bite-sized balls.",
+        "Boil the dumplings until they float and are cooked through, chill briefly in cold water, and thread 3–4 onto each skewer.",
+        "Sear the skewered dango in a nonstick skillet until lightly charred and fragrant.",
+        "Simmer the soy sauce, sugar, water, and cornstarch until glossy and thick to make mitarashi glaze, then brush over the dango and serve."
       ]
     },
     {
@@ -11838,6 +18413,25 @@ window.KITCHSYNC_PACK_DATA.jp_full = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/jp/jp_mig_25.webp"
+      ],
+      "name_en": "Oven-Baked Teriyaki Chicken",
+      "desc_en": "Single-serving recipe with approximate calories; because the glaze contains honey, brush it on late in baking to prevent burning.",
+      "ingredients_en": [
+        "Skinless chicken breast: 160 g",
+        "Japanese soy sauce: 1 tbsp",
+        "Honey: 2 tsp",
+        "Grated ginger: 3 g",
+        "Grated garlic: 3 g",
+        "Sesame oil: 0.5 tsp",
+        "Water: 1 tbsp",
+        "Toasted white sesame seeds: 1 tsp"
+      ],
+      "steps_en": [
+        "Mix the soy sauce, honey, ginger, garlic, sesame oil, and water until well combined.",
+        "Toss the chicken in the sauce and marinate in the refrigerator for 15 minutes.",
+        "Preheat the oven to 200°C, place the chicken on a baking tray, and reserve part of the marinade for basting.",
+        "Bake for 20–25 minutes, brushing with the reserved sauce once halfway through, until the internal temperature reaches 74°C.",
+        "Sprinkle with toasted sesame seeds before serving."
       ]
     }
   ]

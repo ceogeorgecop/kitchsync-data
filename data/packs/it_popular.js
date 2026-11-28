@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Italian (110 recipes)
-// Place this file at assets/data/packs/it_popular.js
+// KitchSync Master Pack: it_popular (110 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.it_popular = {
   "pack_id": "italian_popular_50",
@@ -82,7 +81,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss the cooked spaghetti with the garlic oil and reserved pasta water, season with salt, and serve immediately."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti Aglio e Olio",
+      "desc_en": "Classic Spaghetti Aglio e Olio — Boil spaghetti in salted water until al dente, reserving a splash of pasta water.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Extra Virgin Olive Oil: 60 ml",
+        "Garlic: 20 g",
+        "Dried Chili: 5 g"
+      ]
     },
     {
       "recipe_id": "it_pop_002",
@@ -169,7 +176,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss the pasta with the sauce, top with fresh sweet basil and grated parmesan cheese, and serve."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti al Pomodoro",
+      "desc_en": "Classic Spaghetti al Pomodoro — Cook spaghetti in salted boiling water until al dente.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Garlic: 10 g",
+        "Sweet Basil: 15 g",
+        "Parmesan Cheese: 30 g"
+      ]
     },
     {
       "recipe_id": "it_pop_003",
@@ -232,7 +249,14 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Add pasta, remove from heat, and gradually whisk in finely grated cheese with pasta water until creamy."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cacio e Pepe",
+      "desc_en": "Classic Cacio e Pepe — Boil spaghetti in salted water and reserve 1 cup of starchy pasta water.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Parmesan Cheese: 80 g",
+        "Black Pepper: 5 g"
+      ]
     },
     {
       "recipe_id": "it_pop_004",
@@ -312,7 +336,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss the cooked penne in the spicy tomato sauce until well coated and serve hot."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Penne all'Arrabbiata",
+      "desc_en": "Classic Penne all'Arrabbiata — Cook penne pasta in salted boiling water until al dente.",
+      "ingredients_en": [
+        "Penne Pasta: 200 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Garlic: 15 g",
+        "Dried Chili: 8 g"
+      ]
     },
     {
       "recipe_id": "it_pop_005",
@@ -400,7 +433,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Spoon the marinated tomato mixture over the toasted bread and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Tomato Bruschetta",
+      "desc_en": "Classic Classic Tomato Bruschetta — Dice tomatoes and toss with chopped sweet basil, olive oil, balsamic vinegar, and a pinch of salt.",
+      "ingredients_en": [
+        "Ciabatta Bread: 150 g",
+        "Tomato: 200 g",
+        "Sweet Basil: 10 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Balsamic Vinegar: 10 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_006",
@@ -480,7 +523,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Drizzle with extra virgin olive oil and balsamic vinegar, then season with salt and pepper."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Caprese Salad",
+      "desc_en": "Classic Caprese Salad — Slice fresh tomatoes and mozzarella cheese into even rounds.",
+      "ingredients_en": [
+        "Tomato: 200 g",
+        "Fresh Mozzarella Cheese: 150 g",
+        "Sweet Basil: 10 g",
+        "Extra Virgin Olive Oil: 20 ml",
+        "Balsamic Vinegar: 10 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_007",
@@ -551,7 +603,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss pasta in the sage butter with a splash of pasta water and grated parmesan cheese."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pasta al Burro e Salvia",
+      "desc_en": "Classic Pasta al Burro e Salvia — Boil fettuccine pasta in salted water until al dente.",
+      "ingredients_en": [
+        "Fettuccine Pasta: 200 g",
+        "Butter: 50 g",
+        "Fresh Sage Leaves: 10 g",
+        "Parmesan Cheese: 40 g"
+      ]
     },
     {
       "recipe_id": "it_pop_008",
@@ -622,7 +682,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss hot spaghetti with bacon, remove from heat, and quickly stir in the egg mixture until silky."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Spaghetti Carbonara",
+      "desc_en": "Classic Classic Spaghetti Carbonara — Whisk eggs with grated parmesan cheese and black pepper in a bowl.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Bacon: 100 g",
+        "Egg: 2 pcs",
+        "Parmesan Cheese: 60 g"
+      ]
     },
     {
       "recipe_id": "it_pop_009",
@@ -709,7 +777,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Serve the rich meat sauce over cooked spaghetti topped with parmesan."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti Bolognese",
+      "desc_en": "Classic Spaghetti Bolognese — Sauté finely chopped onion, carrot, and celery in olive oil until soft.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Ground Beef: 250 g",
+        "Tomato Passata Sauce: 300 ml",
+        "Onion: 80 g",
+        "Carrot: 50 g",
+        "Celery: 40 g"
+      ]
     },
     {
       "recipe_id": "it_pop_010",
@@ -780,7 +858,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss fettuccine in the creamy Alfredo sauce until evenly coated."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Fettuccine Alfredo",
+      "desc_en": "Classic Fettuccine Alfredo — Cook fettuccine pasta in salted boiling water until al dente.",
+      "ingredients_en": [
+        "Fettuccine Pasta: 200 g",
+        "Butter: 50 g",
+        "Heavy Cream: 150 ml",
+        "Parmesan Cheese: 70 g"
+      ]
     },
     {
       "recipe_id": "it_pop_011",
@@ -851,7 +937,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Plate and garnish with grated parmesan cheese and toasted pine nuts."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Penne al Pesto Genovese",
+      "desc_en": "Classic Penne al Pesto Genovese — Boil penne pasta until al dente, saving a splash of pasta water.",
+      "ingredients_en": [
+        "Penne Pasta: 200 g",
+        "Basil Pesto: 80 g",
+        "Parmesan Cheese: 30 g",
+        "Pine Nuts: 15 g"
+      ]
     },
     {
       "recipe_id": "it_pop_012",
@@ -931,7 +1025,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss well until the pasta absorbs the savory broth and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti alle Vongole",
+      "desc_en": "Classic Spaghetti alle Vongole — Sauté garlic and chili in olive oil, add cleaned clams, and cover until shells open.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Clams: 400 g",
+        "Garlic: 15 g",
+        "Extra Virgin Olive Oil: 40 ml",
+        "Dried Chili: 5 g"
+      ]
     },
     {
       "recipe_id": "it_pop_013",
@@ -1010,7 +1113,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Serve over cooked spaghetti topped with extra sauce and cheese."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti and Meatballs",
+      "desc_en": "Classic Spaghetti and Meatballs — Mix ground beef, breadcrumbs, egg, and parmesan, form into meatballs, and sear until browned.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Ground Beef: 300 g",
+        "Breadcrumbs: 40 g",
+        "Egg: 1 pc",
+        "Tomato Passata Sauce: 300 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_014",
@@ -1089,7 +1201,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Toss cooked spaghetti in the bold, briny sauce and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spaghetti alla Puttanesca",
+      "desc_en": "Classic Spaghetti alla Puttanesca — Sauté garlic and chili in olive oil, then add sliced black olives and capers.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Black Olives: 50 g",
+        "Capers: 20 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "it_pop_015",
@@ -1171,7 +1292,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Mushroom Risotto (Risotto ai Funghi)",
+      "desc_en": "Classic Mushroom Risotto (Risotto ai Funghi) — Sauté chopped onion and sliced mushrooms in butter, then stir in Arborio rice until translucent.",
+      "ingredients_en": [
+        "Arborio Rice: 200 g",
+        "Mushroom: 150 g",
+        "Onion: 60 g",
+        "Butter: 40 g",
+        "Parmesan Cheese: 50 g"
+      ]
     },
     {
       "recipe_id": "it_pop_016",
@@ -1245,7 +1375,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Risotto alla Milanese",
+      "desc_en": "Classic Risotto alla Milanese — Sauté finely diced onion in butter, then toast the Arborio rice.",
+      "ingredients_en": [
+        "Arborio Rice: 200 g",
+        "Onion: 60 g",
+        "Butter: 50 g",
+        "Parmesan Cheese: 60 g"
+      ]
     },
     {
       "recipe_id": "it_pop_017",
@@ -1316,7 +1454,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 200°C (400°F) for 10 minutes until the cheese is bubbly and melted."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Gnocchi alla Sorrentina",
+      "desc_en": "Classic Gnocchi alla Sorrentina — Boil potato gnocchi until they float to the surface, then drain.",
+      "ingredients_en": [
+        "Potato Gnocchi: 300 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Fresh Mozzarella Cheese: 120 g",
+        "Sweet Basil: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_018",
@@ -1395,7 +1541,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake until the cheese melts and bubbles, then serve hot."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Parmigiana",
+      "desc_en": "Classic Chicken Parmigiana — Pound chicken breasts thin, coat in beaten egg and breadcrumbs, and pan-fry until golden.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Breadcrumbs: 80 g",
+        "Egg: 1 pc",
+        "Tomato Passata Sauce: 200 ml",
+        "Fresh Mozzarella Cheese: 100 g"
+      ]
     },
     {
       "recipe_id": "it_pop_019",
@@ -1475,7 +1630,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Spoon the bright lemon-caper sauce over the chicken and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Piccata",
+      "desc_en": "Classic Chicken Piccata — Dredge thin chicken cutlets in flour and sear in olive oil until golden.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "All-Purpose Flour: 30 g",
+        "Lemon: 1 pc",
+        "Capers: 20 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_020",
@@ -1546,7 +1710,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Return chicken to the skillet to coat in the rich mushroom sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Marsala",
+      "desc_en": "Classic Chicken Marsala — Pan-sear lightly floured chicken breasts until golden brown and set aside.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Mushroom: 150 g",
+        "Butter: 30 g",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_021",
@@ -1635,7 +1807,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Cover and simmer gently for 25 minutes until the chicken is tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Cacciatore",
+      "desc_en": "Classic Chicken Cacciatore — Sear chicken pieces in olive oil until browned on all sides.",
+      "ingredients_en": [
+        "Chicken Breast: 350 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Bell Pepper: 100 g",
+        "Onion: 80 g",
+        "Black Olives: 40 g",
+        "Fresh Rosemary: 5 g"
+      ]
     },
     {
       "recipe_id": "it_pop_022",
@@ -1709,7 +1891,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Rest for 5 minutes and finish with rosemary-infused olive oil."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Bistecca alla Fiorentina",
+      "desc_en": "Classic Bistecca alla Fiorentina — Bring thick-cut steak to room temperature, rub with olive oil, salt, and pepper.",
+      "ingredients_en": [
+        "Beef: 500 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Fresh Rosemary: 10 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "it_pop_023",
@@ -1781,7 +1971,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Deglaze the pan with a splash of broth to make a quick pan sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Saltimbocca alla Romana",
+      "desc_en": "Classic Saltimbocca alla Romana — Layer a slice of prosciutto and a fresh sage leaf onto thin meat cutlets, securing with a toothpick.",
+      "ingredients_en": [
+        "Chicken Breast: 300 g",
+        "Prosciutto Slices: 60 g",
+        "Fresh Sage Leaves: 10 g",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "it_pop_024",
@@ -1862,7 +2060,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Spoon the aromatic tomato broth over the fish and drizzle with olive oil."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Baked Sea Bass Acqua Pazza",
+      "desc_en": "Classic Baked Sea Bass Acqua Pazza — Sauté garlic, halved cherry tomatoes, and black olives in olive oil.",
+      "ingredients_en": [
+        "Sea Bass: 350 g",
+        "Cherry Tomato: 150 g",
+        "Garlic: 15 g",
+        "Black Olives: 30 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_025",
@@ -1952,7 +2159,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic Minestrone Soup",
+      "desc_en": "Classic Classic Minestrone Soup — Sauté diced onion, carrot, and celery in olive oil until softened.",
+      "ingredients_en": [
+        "Cannellini White Beans: 150 g",
+        "Carrot: 80 g",
+        "Celery: 60 g",
+        "Onion: 80 g",
+        "Tomato Passata Sauce: 200 ml",
+        "Penne Pasta: 60 g"
+      ]
     },
     {
       "recipe_id": "it_pop_026",
@@ -2033,7 +2250,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Pasta e Fagioli",
+      "desc_en": "Classic Pasta e Fagioli — Sauté garlic and rosemary in olive oil, then add cannellini beans and tomato passata.",
+      "ingredients_en": [
+        "Cannellini White Beans: 200 g",
+        "Penne Pasta: 100 g",
+        "Tomato Passata Sauce: 150 ml",
+        "Fresh Rosemary: 5 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_027",
@@ -2114,7 +2340,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Italian Wedding Soup",
+      "desc_en": "Classic Italian Wedding Soup — Combine ground beef, egg, and parmesan, then roll into bite-sized mini meatballs.",
+      "ingredients_en": [
+        "Ground Beef: 200 g",
+        "Spinach: 100 g",
+        "Carrot: 60 g",
+        "Parmesan Cheese: 30 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "it_pop_028",
@@ -2188,7 +2423,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Cook until the beef is fork-tender and the sauce is glossy and rich."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tuscan Beef Stew (Peposo)",
+      "desc_en": "Classic Tuscan Beef Stew (Peposo) — Place cubed beef in a pot with whole garlic cloves, generous black pepper, and rosemary.",
+      "ingredients_en": [
+        "Beef: 500 g",
+        "Garlic: 30 g",
+        "Tomato Passata Sauce: 150 ml",
+        "Fresh Rosemary: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_029",
@@ -2276,7 +2519,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Braise slowly until tender and finish with fresh lemon zest gremolata."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Ossobuco alla Milanese",
+      "desc_en": "Classic Ossobuco alla Milanese — Sear bone-in meat shanks until deeply browned on both sides.",
+      "ingredients_en": [
+        "Beef: 500 g",
+        "Carrot: 80 g",
+        "Celery: 60 g",
+        "Onion: 80 g",
+        "Tomato Passata Sauce: 200 ml",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "it_pop_030",
@@ -2361,6 +2614,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Ribollita",
+      "desc_en": "Classic Ribollita — Simmer vegetables, cannellini beans, and spinach in broth until tender.",
+      "ingredients_en": [
+        "Ciabatta Bread: 120 g",
+        "Cannellini White Beans: 200 g",
+        "Spinach: 100 g",
+        "Carrot: 80 g",
+        "Extra Virgin Olive Oil: 30 ml"
       ]
     },
     {
@@ -2449,7 +2711,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Fold in the bread cubes and let rest 10 minutes to absorb the juices before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tuscan Panzanella Salad",
+      "desc_en": "Classic Tuscan Panzanella Salad — Cube ciabatta bread and toast until lightly crisp.",
+      "ingredients_en": [
+        "Ciabatta Bread: 120 g",
+        "Tomato: 250 g",
+        "Onion: 40 g",
+        "Sweet Basil: 15 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Balsamic Vinegar: 15 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_032",
@@ -2522,7 +2794,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Top with shaved parmesan cheese ribbons and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Arugula and Parmesan Salad",
+      "desc_en": "Classic Arugula and Parmesan Salad — Wash and thoroughly dry fresh arugula leaves.",
+      "ingredients_en": [
+        "Arugula: 100 g",
+        "Parmesan Cheese: 40 g",
+        "Extra Virgin Olive Oil: 20 ml",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "it_pop_033",
@@ -2601,7 +2881,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Chill for 15 minutes before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Italian Pasta Salad",
+      "desc_en": "Classic Italian Pasta Salad — Boil penne pasta until al dente, then rinse under cold water and drain.",
+      "ingredients_en": [
+        "Penne Pasta: 200 g",
+        "Cherry Tomato: 120 g",
+        "Fresh Mozzarella Cheese: 100 g",
+        "Black Olives: 40 g",
+        "Basil Pesto: 40 g"
+      ]
     },
     {
       "recipe_id": "it_pop_034",
@@ -2682,7 +2971,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Serve chilled or at room temperature."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tuscan Tuna and White Bean Salad",
+      "desc_en": "Classic Tuscan Tuna and White Bean Salad — Drain canned tuna and cannellini white beans well.",
+      "ingredients_en": [
+        "Canned Tuna: 150 g",
+        "Cannellini White Beans: 150 g",
+        "Onion: 40 g",
+        "Extra Virgin Olive Oil: 20 ml",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "it_pop_035",
@@ -2763,7 +3061,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Drizzle with balsamic vinegar and top with minced garlic and fresh basil."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Grilled Eggplant with Balsamic",
+      "desc_en": "Classic Grilled Eggplant with Balsamic — Slice eggplant lengthwise and brush with olive oil and salt.",
+      "ingredients_en": [
+        "Eggplant: 250 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Balsamic Vinegar: 15 ml",
+        "Garlic: 10 g",
+        "Sweet Basil: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_036",
@@ -2842,7 +3149,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 240°C (465°F) for 10-12 minutes until golden, then garnish with fresh sweet basil."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pizza Margherita",
+      "desc_en": "Classic Pizza Margherita — Stretch fresh pizza dough into a round base and spread tomato passata evenly.",
+      "ingredients_en": [
+        "Fresh Pizza Dough: 250 g",
+        "Tomato Passata Sauce: 100 ml",
+        "Fresh Mozzarella Cheese: 125 g",
+        "Sweet Basil: 10 g",
+        "Extra Virgin Olive Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_037",
@@ -2911,7 +3227,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 240°C (465°F) for 10-12 minutes until bubbly and crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pepperoni Pizza",
+      "desc_en": "Classic Pepperoni Pizza — Stretch pizza dough, spread tomato sauce, and top with mozzarella cheese.",
+      "ingredients_en": [
+        "Fresh Pizza Dough: 250 g",
+        "Tomato Passata Sauce: 100 ml",
+        "Fresh Mozzarella Cheese: 125 g",
+        "Pepperoni Slices: 60 g"
+      ]
     },
     {
       "recipe_id": "it_pop_038",
@@ -2998,7 +3322,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 240°C (465°F) for 12 minutes until the crust is golden and vegetables are roasted."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pizza Ortolana (Veggie Pizza)",
+      "desc_en": "Classic Pizza Ortolana (Veggie Pizza) — Stretch pizza dough and layer with tomato sauce and mozzarella cheese.",
+      "ingredients_en": [
+        "Fresh Pizza Dough: 250 g",
+        "Tomato Passata Sauce: 100 ml",
+        "Fresh Mozzarella Cheese: 100 g",
+        "Bell Pepper: 60 g",
+        "Eggplant: 60 g",
+        "Mushroom: 50 g"
+      ]
     },
     {
       "recipe_id": "it_pop_039",
@@ -3077,7 +3411,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 190°C (375°F) for 35-40 minutes until bubbling and golden on top."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Meat Lasagna",
+      "desc_en": "Classic Classic Meat Lasagna — Cook ground beef with tomato passata to make a rich meat sauce.",
+      "ingredients_en": [
+        "Lasagna Sheets: 180 g",
+        "Ground Beef: 300 g",
+        "Tomato Passata Sauce: 300 ml",
+        "Ricotta Cheese: 150 g",
+        "Fresh Mozzarella Cheese: 150 g"
+      ]
     },
     {
       "recipe_id": "it_pop_040",
@@ -3157,7 +3500,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 190°C (375°F) for 25 minutes until golden and bubbly."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Eggplant Parmigiana (Melanzane alla Parmigiana)",
+      "desc_en": "Classic Eggplant Parmigiana (Melanzane alla Parmigiana) — Slice eggplant into rounds and grill or pan-fry in olive oil until tender.",
+      "ingredients_en": [
+        "Eggplant: 400 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Fresh Mozzarella Cheese: 150 g",
+        "Parmesan Cheese: 50 g",
+        "Sweet Basil: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_041",
@@ -3231,7 +3583,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Cook over low heat until edges set, then bake at 180°C (350°F) for 10 minutes until puffed."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spinach and Cheese Frittata",
+      "desc_en": "Classic Spinach and Cheese Frittata — Sauté spinach in olive oil in an oven-safe skillet until wilted.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Spinach: 100 g",
+        "Parmesan Cheese: 40 g",
+        "Extra Virgin Olive Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_042",
@@ -3295,7 +3655,14 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 210°C (410°F) for 20 minutes until golden and crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Rosemary Focaccia Bread",
+      "desc_en": "Classic Rosemary Focaccia Bread — Knead flour, warm water, yeast, salt, and olive oil; let rise for 1 hour.",
+      "ingredients_en": [
+        "All-Purpose Flour: 300 g",
+        "Extra Virgin Olive Oil: 50 ml",
+        "Fresh Rosemary: 10 g"
+      ]
     },
     {
       "recipe_id": "it_pop_043",
@@ -3379,7 +3746,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Italian Scrambled Eggs with Basil",
+      "desc_en": "Classic Italian Scrambled Eggs with Basil — Sauté halved cherry tomatoes in olive oil until softened.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Cherry Tomato: 80 g",
+        "Sweet Basil: 10 g",
+        "Parmesan Cheese: 20 g",
+        "Extra Virgin Olive Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_044",
@@ -3458,7 +3834,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Deep-fry until golden brown and crispy outside with melted cheese inside."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sicilian Arancini (Fried Risotto Balls)",
+      "desc_en": "Classic Sicilian Arancini (Fried Risotto Balls) — Shape cooled risotto into balls stuffed with a cube of fresh mozzarella in the center.",
+      "ingredients_en": [
+        "Arborio Rice: 200 g",
+        "Fresh Mozzarella Cheese: 80 g",
+        "Parmesan Cheese: 40 g",
+        "Egg: 1 pc",
+        "Breadcrumbs: 80 g"
+      ]
     },
     {
       "recipe_id": "it_pop_045",
@@ -3537,7 +3922,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Bake at 200°C (400°F) for 8-10 minutes until melted and golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cheesy Italian Garlic Bread",
+      "desc_en": "Classic Cheesy Italian Garlic Bread — Mix softened butter with minced garlic and herbs.",
+      "ingredients_en": [
+        "Ciabatta Bread: 200 g",
+        "Butter: 40 g",
+        "Garlic: 15 g",
+        "Fresh Mozzarella Cheese: 80 g",
+        "Parmesan Cheese: 20 g"
+      ]
     },
     {
       "recipe_id": "it_pop_046",
@@ -3626,7 +4020,17 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Season with balsamic vinegar and a touch of sugar, simmering until glossy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Sicilian Caponata",
+      "desc_en": "Classic Sicilian Caponata — Sauté cubed eggplant in olive oil until tender.",
+      "ingredients_en": [
+        "Eggplant: 250 g",
+        "Tomato Passata Sauce: 150 ml",
+        "Celery: 50 g",
+        "Black Olives: 40 g",
+        "Capers: 15 g",
+        "Balsamic Vinegar: 20 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_047",
@@ -3707,7 +4111,16 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Serve as an antipasto starter alongside crusty bread."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Roasted Peppers and Mushrooms Antipasto",
+      "desc_en": "Classic Roasted Peppers and Mushrooms Antipasto — Roast or grill sliced bell peppers and mushrooms drizzled with olive oil until tender.",
+      "ingredients_en": [
+        "Bell Pepper: 150 g",
+        "Mushroom: 150 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "Balsamic Vinegar: 15 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_048",
@@ -3778,7 +4191,15 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Spread mascarpone cream over layers, chill for at least 4 hours, and dust with cocoa powder."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Tiramisu",
+      "desc_en": "Classic Classic Tiramisu — Whisk egg yolks with sugar, fold in mascarpone cheese and whipped egg whites until smooth.",
+      "ingredients_en": [
+        "Mascarpone Cheese: 250 g",
+        "Ladyfinger Biscuits: 150 g",
+        "Egg: 3 pcs",
+        "Espresso: 200 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_049",
@@ -3836,7 +4257,13 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Vanilla Panna Cotta with Berry Sauce",
+      "desc_en": "Classic Vanilla Panna Cotta with Berry Sauce — Warm heavy cream, milk, sugar, and vanilla in a saucepan until steaming.",
+      "ingredients_en": [
+        "Heavy Cream: 250 ml",
+        "Milk: 100 ml"
+      ]
     },
     {
       "recipe_id": "it_pop_050",
@@ -3892,7 +4319,13 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "Pour the hot espresso directly over the vanilla ice cream and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Affogato",
+      "desc_en": "Classic Classic Affogato — Place a scoop of firm vanilla ice cream into a chilled glass.",
+      "ingredients_en": [
+        "Vanilla Ice Cream: 120 g",
+        "Espresso: 60 ml"
+      ]
     },
     {
       "title": "สปาเก็ตตี้คาโบนาร่าเบคอนกรอบ",
@@ -3925,6 +4358,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_01.webp"
+      ],
+      "name_en": "Crispy Bacon Spaghetti Carbonara",
+      "desc_en": "Turn off the heat or remove the pan from the burner before adding the egg yolk mixture so the eggs coat the pasta smoothly without scrambling.",
+      "ingredients_en": [
+        "Spaghetti: 150 g",
+        "Bacon, cut into pieces: 100 g",
+        "Egg Yolks: 2 pieces",
+        "Grated Parmesan Cheese: 40 g",
+        "Whipping Cream or Fresh Milk: 3 tbsp",
+        "Coarsely Ground Black Pepper: 1 tsp",
+        "Salt (for boiling pasta): 1 tsp"
+      ],
+      "steps_en": [
+        "Bring salted water to a boil and cook the spaghetti for 8-9 minutes until al dente, then drain and set aside, reserving 3 tbsp of pasta cooking water.",
+        "Whisk together the egg yolks, Parmesan cheese, whipping cream, and black pepper in a mixing bowl.",
+        "Crisp the bacon in a pan over medium heat until golden brown, then spoon off a little excess fat.",
+        "Turn off the heat, toss in the spaghetti and reserved pasta water with the bacon, then pour in the egg yolk mixture and stir quickly so the sauce coats the pasta smoothly without clumping."
       ]
     },
     {
@@ -3958,6 +4408,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_02.webp"
+      ],
+      "name_en": "Shrimp Tomato Sauce Spaghetti",
+      "desc_en": "Cooking the shrimp separately first and folding them back in at the end keeps them juicy, bouncy, and tender.",
+      "ingredients_en": [
+        "Cooked Spaghetti: 150 g",
+        "Fresh Shrimp, peeled and deveined: 8 pieces",
+        "Rich Tomato Sauce or Crushed Tomatoes: 1 cup",
+        "Minced Garlic: 1 tbsp",
+        "Olive Oil: 2 tbsp",
+        "Sweet Basil and Oregano: 1 tsp",
+        "Salt and Black Pepper: to taste"
+      ],
+      "steps_en": [
+        "Heat olive oil in a pan, sauté the minced garlic until fragrant, then add the shrimp and sear until they just change color; remove and set aside.",
+        "In the same pan, simmer the tomato sauce, oregano, salt, and black pepper until bubbling and thickened.",
+        "Return the spaghetti and shrimp to the pan and toss until evenly coated in sauce.",
+        "Plate and garnish with fresh basil leaves and black pepper before serving."
       ]
     },
     {
@@ -3991,6 +4458,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_03.webp"
+      ],
+      "name_en": "Cheesy Baked Beef Lasagna",
+      "desc_en": "Let the lasagna rest for about 10 minutes before slicing so the layers hold together cleanly without sliding apart.",
+      "ingredients_en": [
+        "Cooked Lasagna Sheets: 4 sheets",
+        "Finely Ground Beef: 250 g",
+        "Bolognese Tomato Sauce: 1.5 cups",
+        "Béchamel White Sauce: 1 cup",
+        "Shredded Mozzarella Cheese: 100 g",
+        "Grated Parmesan Cheese: 30 g",
+        "Dried Oregano: 1 tsp"
+      ],
+      "steps_en": [
+        "Cook the ground beef with the Bolognese tomato sauce and oregano until rich and thickened.",
+        "Lightly brush a baking dish with olive oil, lay down a lasagna sheet, and spoon over the meat sauce followed by the béchamel sauce.",
+        "Repeat for 3-4 layers and finish by generously topping with shredded mozzarella and Parmesan cheese.",
+        "Bake at 180°C for 20-25 minutes until the cheese is melted, bubbling, and golden brown."
       ]
     },
     {
@@ -4025,6 +4509,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_04.webp"
+      ],
+      "name_en": "Garlic Shrimp Pesto Pasta with Parmesan",
+      "desc_en": "Never cook pesto sauce over high heat, as intense heat will turn the basil dark and dull its fresh aroma.",
+      "ingredients_en": [
+        "Cooked Spaghetti: 150 g",
+        "Fresh Shrimp, peeled and deveined: 6 pieces",
+        "Basil Pesto Sauce: 3 tbsp",
+        "Minced Garlic: 1 tsp",
+        "Olive Oil: 1.5 tbsp",
+        "Grated Parmesan Cheese: 2 tbsp",
+        "Cherry Tomatoes, halved: 5 pieces",
+        "Salt and Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Sauté the minced garlic in olive oil, add the shrimp and cook until just firm and pink, then set aside.",
+        "In the same pan, sauté the halved cherry tomatoes until their skins soften.",
+        "Turn off the heat, add the spaghetti, pesto sauce, and 2 tbsp of pasta cooking water, and toss until evenly coated.",
+        "Fold the cooked shrimp back in, plate, and finish with Parmesan cheese and freshly ground black pepper."
       ]
     },
     {
@@ -4058,6 +4560,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_05.webp"
+      ],
+      "name_en": "Roasted Chili Paste & Basil Clam Spaghetti",
+      "desc_en": "Using a splash of pasta cooking water helps emulsify the roasted chili paste and olive oil into a glossy sauce that clings to the noodles.",
+      "ingredients_en": [
+        "Cooked Spaghetti: 150 g",
+        "Blanched Clam Meat: 150 g",
+        "Thai Roasted Chili Paste (Nam Prik Pao): 1.5 tbsp",
+        "Minced Garlic: 1 tbsp",
+        "Fresh Thai Sweet Basil Leaves: 1 handful",
+        "Oyster Sauce & Light Soy Sauce: 1 tbsp oyster sauce, 1 tsp light soy sauce",
+        "Olive Oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the minced garlic in olive oil until fragrant, then stir in the roasted chili paste until dissolved.",
+        "Add the clam meat and season with oyster sauce and light soy sauce.",
+        "Toss in the spaghetti and 2 tbsp of pasta water over high heat until the sauce coats the noodles.",
+        "Add the sweet basil leaves, toss 2-3 times, turn off the heat, and serve immediately."
       ]
     },
     {
@@ -4091,6 +4610,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_06.webp"
+      ],
+      "name_en": "Italian Sausage Penne Arrabbiata",
+      "desc_en": "Gently bloom the crushed red chili flakes in olive oil over low heat before adding the tomatoes for a rounded heat and rich aroma.",
+      "ingredients_en": [
+        "Penne Pasta: 150 g",
+        "Italian Sausage: 120 g",
+        "Crushed Tomatoes: 200 g",
+        "Minced Garlic: 1 tbsp",
+        "Coarsely Crushed Dried Chili: 1 tsp",
+        "Olive Oil: 2 tbsp",
+        "Italian Basil Leaves: 10 g"
+      ],
+      "steps_en": [
+        "Boil the penne in salted water until al dente, then drain.",
+        "Heat olive oil in a pan, brown the sliced Italian sausage, then add the minced garlic and crushed dried chili and sauté.",
+        "Pour in the crushed tomatoes, simmer over low heat for about 8 minutes, and season lightly with salt.",
+        "Toss the penne into the sauce until well coated and top with fresh basil leaves before serving."
       ]
     },
     {
@@ -4124,6 +4660,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_07.webp"
+      ],
+      "name_en": "Creamy Smoked Salmon Linguine",
+      "desc_en": "Fold in the smoked salmon after turning off the heat so it stays silky and retains its delicate smoky flavor.",
+      "ingredients_en": [
+        "Linguine Pasta: 150 g",
+        "Smoked Salmon: 100 g",
+        "Whipping Cream: 150 ml",
+        "Finely Chopped Shallots: 2 tbsp",
+        "Unsalted Butter: 20 g",
+        "Chopped Fresh Dill: 1 tbsp",
+        "Lemon Juice: 1 tsp"
+      ],
+      "steps_en": [
+        "Boil the linguine in salted water until al dente, then drain and set aside.",
+        "Sauté the shallots in unsalted butter until translucent, then pour in the whipping cream and simmer until slightly thickened.",
+        "Season the sauce with black pepper and lemon juice, then toss in the linguine to coat.",
+        "Turn off the heat and gently fold in the sliced smoked salmon and chopped dill before serving."
       ]
     },
     {
@@ -4156,6 +4709,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/it/it_mig_08.webp"
+      ],
+      "name_en": "Crispy Bacon Pesto Fusilli",
+      "desc_en": "Avoid cooking pesto over high heat, as excess heat darkens the basil and dulls its vibrant flavor.",
+      "ingredients_en": [
+        "Fusilli Pasta: 150 g",
+        "Bacon, cut into pieces: 80 g",
+        "Basil Pesto Sauce: 3 tbsp",
+        "Cherry Tomatoes: 80 g",
+        "Grated Parmesan Cheese: 25 g",
+        "Minced Garlic: 1 tsp"
+      ],
+      "steps_en": [
+        "Boil the fusilli until al dente and drain, reserving a splash of pasta cooking water.",
+        "Crisp the bacon in a pan and set aside, then sauté the garlic and halved cherry tomatoes in the same pan.",
+        "Turn the heat to low or off, add the fusilli, pesto sauce, and a little pasta water, and toss so the sauce clings to the spirals.",
+        "Transfer to a plate and scatter the crispy bacon and grated Parmesan on top."
       ]
     },
     {
@@ -4189,6 +4758,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_09.webp"
+      ],
+      "name_en": "Creamy Truffle Mushroom Tagliatelle",
+      "desc_en": "Drizzle the truffle oil at the very end off the heat to preserve its rich, aromatic fragrance.",
+      "ingredients_en": [
+        "Tagliatelle Pasta: 150 g",
+        "Sliced Button Mushrooms: 120 g",
+        "Whipping Cream: 150 ml",
+        "Truffle Paste: 1 tbsp",
+        "Truffle Oil: 1 tsp",
+        "Unsalted Butter: 20 g",
+        "Grated Parmesan Cheese: 30 g"
+      ],
+      "steps_en": [
+        "Cook the tagliatelle in salted boiling water until al dente.",
+        "Sauté the sliced mushrooms in unsalted butter until tender and golden brown.",
+        "Pour in the whipping cream and truffle paste, simmer until thickened, and season with salt and pepper.",
+        "Toss the pasta with the sauce and Parmesan cheese, turn off the heat, and drizzle with truffle oil before serving."
       ]
     },
     {
@@ -4223,6 +4809,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_10.webp"
+      ],
+      "name_en": "White Wine Seafood Spaghetti",
+      "desc_en": "Adding 2-3 tbsp of starchy pasta cooking water gives the white wine sauce body so it coats every strand.",
+      "ingredients_en": [
+        "Spaghetti: 150 g",
+        "Peeled Fresh Shrimp: 100 g",
+        "Squid Rings: 80 g",
+        "Mussels: 100 g",
+        "White Wine: 80 ml",
+        "Minced Garlic: 1 tbsp",
+        "Olive Oil: 2 tbsp",
+        "Chopped Parsley: 1 tbsp"
+      ],
+      "steps_en": [
+        "Boil the spaghetti in salted water until just shy of al dente, then drain and set aside.",
+        "Heat olive oil in a pan, sauté the garlic until fragrant, then add the shrimp, squid, and mussels.",
+        "Pour in the white wine and simmer until the mussels open and the alcohol cooks off; season with salt and pepper.",
+        "Toss in the spaghetti so it absorbs the savory sauce, and sprinkle with chopped parsley before serving."
       ]
     },
     {
@@ -4256,6 +4860,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_11.webp"
+      ],
+      "name_en": "Parmesan & Mushroom Risotto",
+      "desc_en": "Keep the vegetable broth hot while ladling it in so the rice cooks steadily without losing heat.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Sliced Button Mushrooms: 150 g",
+        "Hot Vegetable Broth: 700 ml",
+        "Finely Chopped Onion: 50 g",
+        "White Wine: 60 ml",
+        "Unsalted Butter: 30 g",
+        "Grated Parmesan Cheese: 40 g"
+      ],
+      "steps_en": [
+        "Sauté the mushrooms in half of the butter until tender and golden, then set aside.",
+        "Sauté the chopped onion until translucent, add the Arborio rice and toast until the edges turn translucent, then pour in the white wine.",
+        "Gradually add the hot vegetable broth one ladleful at a time, stirring constantly until the rice absorbs the liquid and turns tender.",
+        "Remove from the heat and stir in the cooked mushrooms, remaining butter, and Parmesan cheese until creamy."
       ]
     },
     {
@@ -4289,6 +4910,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_12.webp"
+      ],
+      "name_en": "Saffron River Prawn Risotto",
+      "desc_en": "Steeping the saffron in hot broth beforehand releases its golden hue evenly throughout the risotto.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "River Prawns, peeled and deveined: 200 g",
+        "Hot Seafood Broth: 700 ml",
+        "Saffron Threads: 1 pinch",
+        "Chopped Shallots: 40 g",
+        "White Wine: 60 ml",
+        "Unsalted Butter: 30 g"
+      ],
+      "steps_en": [
+        "Steep the saffron threads in a small splash of hot seafood broth to release their golden color and aroma.",
+        "Sear the river prawns in a little butter until cooked and fragrant, then set aside.",
+        "Sauté the shallots in butter until soft, then add the Arborio rice and white wine and cook until the wine is absorbed.",
+        "Gradually ladle in the saffron broth while stirring until the rice is creamy and tender, then top with the seared prawns to serve."
       ]
     },
     {
@@ -4322,6 +4960,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_13.webp"
+      ],
+      "name_en": "Roasted Pumpkin & Crispy Bacon Risotto",
+      "desc_en": "Stirring pureed roasted pumpkin in near the end adds natural creaminess and rich color without needing heavy cream.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Diced Pumpkin: 200 g",
+        "Bacon, cut into pieces: 80 g",
+        "Hot Chicken Broth: 700 ml",
+        "Chopped Onion: 50 g",
+        "Unsalted Butter: 25 g",
+        "Grated Parmesan Cheese: 35 g"
+      ],
+      "steps_en": [
+        "Roast or grill the pumpkin until tender; mash half into a smooth puree and reserve the rest in chunks.",
+        "Crisp the bacon in a pot and set aside, then sauté the onion and Arborio rice in the rendered bacon fat.",
+        "Gradually add the hot chicken broth one ladleful at a time, stirring until the rice is nearly tender, then stir in the pumpkin puree.",
+        "Finish with butter and Parmesan cheese until velvety, and garnish with the roasted pumpkin chunks and crispy bacon."
       ]
     },
     {
@@ -4355,6 +5010,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_14.webp"
+      ],
+      "name_en": "Squid Ink Risotto with Grilled Calamari",
+      "desc_en": "Sear the squid quickly over high heat for just a few minutes so it stays tender and never turns rubbery.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Fresh Squid, cut into pieces: 180 g",
+        "Squid Ink Sauce: 1 tbsp",
+        "Hot Seafood Broth: 700 ml",
+        "Minced Garlic: 1 tbsp",
+        "White Wine: 60 ml",
+        "Olive Oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sear the squid in a hot pan with olive oil until just firm and bouncy, then set aside.",
+        "Sauté the minced garlic and Arborio rice in a pot, then add the white wine and cook until evaporated.",
+        "Stir the squid ink into the hot seafood broth and ladle it gradually into the rice, stirring continuously.",
+        "Once the rice is tender and creamy, season with salt and pepper and plate with the seared squid on top."
       ]
     },
     {
@@ -4388,6 +5060,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_15.webp"
+      ],
+      "name_en": "Grilled Chicken Pesto Risotto",
+      "desc_en": "Stir the pesto in off the heat to keep the basil bright green and bursting with fresh aroma.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Chicken Breast: 150 g",
+        "Basil Pesto Sauce: 2 tbsp",
+        "Hot Chicken Broth: 700 ml",
+        "Chopped Onion: 50 g",
+        "Olive Oil: 2 tbsp",
+        "Grated Parmesan Cheese: 30 g"
+      ],
+      "steps_en": [
+        "Season the chicken breast with salt and pepper, grill until cooked through, and slice.",
+        "Sauté the chopped onion in olive oil until translucent, then stir in the Arborio rice until coated in oil.",
+        "Gradually ladle in the hot chicken broth while stirring continuously until the rice is tender and creamy.",
+        "Remove from the heat, fold in the pesto and Parmesan cheese, and serve alongside the grilled chicken."
       ]
     },
     {
@@ -4421,6 +5110,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_16.webp"
+      ],
+      "name_en": "Spinach & Sweet Pea Risotto",
+      "desc_en": "Add the spinach during the final 3 minutes of cooking so it stays vibrant green without overcooking.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Baby Spinach: 100 g",
+        "Shelled Sweet Peas: 80 g",
+        "Hot Vegetable Broth: 700 ml",
+        "Chopped Onion: 50 g",
+        "Unsalted Butter: 25 g",
+        "Grated Parmesan Cheese: 30 g"
+      ],
+      "steps_en": [
+        "Sauté the chopped onion in half of the butter until soft, then add the Arborio rice and toast until the edges turn translucent.",
+        "Gradually ladle in the hot vegetable broth while stirring until the rice is almost tender.",
+        "Stir in the sweet peas and roughly chopped spinach and simmer for 3 minutes more until tender and bright green.",
+        "Turn off the heat and stir in the remaining butter and Parmesan cheese until smooth and creamy."
       ]
     },
     {
@@ -4454,6 +5160,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_17.webp"
+      ],
+      "name_en": "Garlic Butter Salmon Risotto",
+      "desc_en": "Fresh lemon zest brightens the dish and balances the richness of the butter and salmon.",
+      "ingredients_en": [
+        "Arborio Rice: 180 g",
+        "Salmon Fillet: 160 g",
+        "Hot Vegetable Broth: 700 ml",
+        "Minced Garlic: 1 tbsp",
+        "Unsalted Butter: 30 g",
+        "Grated Lemon Zest: 1 tsp",
+        "Chopped Parsley: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pan-sear the salmon in butter with half of the minced garlic until the skin is crisp and the fish is cooked through.",
+        "Sauté the remaining garlic in butter in a pot, then stir in the Arborio rice to coat.",
+        "Gradually ladle in the hot vegetable broth while stirring until the rice is tender and creamy.",
+        "Season with salt, black pepper, and lemon zest, plate, and top with the seared salmon."
       ]
     },
     {
@@ -4491,6 +5214,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/it/it_mig_18.webp"
+      ],
+      "name_en": "Hearty Vegetable & White Bean Minestrone",
+      "desc_en": "If saving soup for later, cook and store the pasta separately so it doesn't swell and soak up all the broth (senior-friendly).",
+      "ingredients_en": [
+        "Canned White Beans, rinsed: 150 g",
+        "Crushed Tomatoes: 200 g",
+        "Diced Carrots: 60 g",
+        "Diced Zucchini: 80 g",
+        "Small Soup Pasta: 50 g",
+        "Vegetable Broth: 500 ml",
+        "Olive Oil: 2 tbsp",
+        "Dried Thyme: 1 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a pot and sauté the carrots and zucchini for about 4 minutes until starting to soften.",
+        "Add the crushed tomatoes, vegetable broth, and dried thyme, and bring to a boil.",
+        "Stir in the small pasta and simmer for about 8 minutes until tender.",
+        "Add the white beans, simmer for 3 minutes more, and season with salt and pepper before serving."
       ]
     },
     {
@@ -4523,6 +5264,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/it/it_mig_19.webp"
+      ],
+      "name_en": "Spinach & Italian Sausage Frittata",
+      "desc_en": "Squeeze all excess water out of the blanched spinach before cooking so the frittata bakes up light and never watery.",
+      "ingredients_en": [
+        "Eggs: 4 pieces",
+        "Sliced Italian Sausage: 100 g",
+        "Blanched Spinach, squeezed dry: 80 g",
+        "Whipping Cream or Fresh Milk: 3 tbsp",
+        "Grated Parmesan Cheese: 30 g",
+        "Olive Oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Brown the sliced Italian sausage in an oven-safe skillet until fragrant, then stir in the spinach.",
+        "Whisk the eggs with the whipping cream, Parmesan cheese, salt, and black pepper.",
+        "Pour the egg mixture into the skillet over the sausage and spinach and cook for 2 minutes until the edges begin to set.",
+        "Transfer the skillet to a 180°C oven and bake for 10 minutes until puffed and cooked through."
       ]
     },
     {
@@ -4556,6 +5313,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/it/it_mig_20.webp"
+      ],
+      "name_en": "Italian-Style Crispy Roast Pork Belly (Porchetta)",
+      "desc_en": "Pat the pork skin completely dry before the final high-heat roast so it blisters into a light, uniform crackle.",
+      "ingredients_en": [
+        "Thick-Cut Pork Belly: 600 g",
+        "Minced Garlic: 4 cloves",
+        "Chopped Rosemary: 1 tbsp",
+        "Crushed Fennel Seeds: 1 tsp",
+        "Sea Salt: 1.5 tsp",
+        "Black Pepper: 1 tsp",
+        "Olive Oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Score the pork skin in a fine crosshatch pattern, flip to the meat side, and rub evenly with salt, pepper, garlic, rosemary, and fennel seeds.",
+        "Roll the pork belly tightly with the skin facing outward and tie securely into a log with kitchen twine.",
+        "Rub the skin lightly with olive oil and salt, then roast at 160°C for 60 minutes.",
+        "Increase the oven temperature to 220°C and roast for another 25 minutes until the skin is evenly puffed and crackling."
       ]
     },
     {
@@ -4588,6 +5362,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/it/it_mig_21.webp"
+      ],
+      "name_en": "Potato Gnocchi with Basil Pesto",
+      "desc_en": "Scoop the gnocchi out of the water as soon as they float to the surface so they stay pillowy and never mushy.",
+      "ingredients_en": [
+        "Potato Gnocchi: 250 g",
+        "Italian Basil Pesto Sauce: 3 tbsp",
+        "Cherry Tomatoes, halved: 80 g",
+        "Grated Parmesan Cheese: 30 g",
+        "Toasted Pine Nuts or Sliced Almonds: 15 g",
+        "Olive Oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Boil the gnocchi in salted water until they float to the surface, then scoop them out and set aside.",
+        "Heat olive oil in a pan and sauté the halved cherry tomatoes until their skins soften.",
+        "Reduce heat to low, add the gnocchi, pesto sauce, and 2 tbsp of pasta cooking water, and toss until coated.",
+        "Plate and top with grated Parmesan cheese and toasted pine nuts before serving."
       ]
     },
     {
@@ -4620,6 +5410,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_22.webp"
+      ],
+      "name_en": "Spinach & Ricotta Ravioli in Sage Brown Butter",
+      "desc_en": "Watch the butter closely as it foams—as soon as it turns light golden brown with a nutty aroma, toss in the ravioli so it doesn't burn.",
+      "ingredients_en": [
+        "Spinach & Ricotta Ravioli: 220 g",
+        "Unsalted Butter: 40 g",
+        "Fresh Sage Leaves: 8 pieces",
+        "Thinly Sliced Garlic: 2 cloves",
+        "Grated Parmesan Cheese: 30 g",
+        "Ground Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Boil the ravioli in salted water for 3-4 minutes until tender, then drain gently.",
+        "Melt the unsalted butter in a pan over low heat until it turns fragrant and golden brown.",
+        "Add the sage leaves and sliced garlic to the butter and fry until crisp and aromatic.",
+        "Toss the ravioli gently in the sage brown butter, then garnish with Parmesan cheese and black pepper."
       ]
     },
     {
@@ -4657,6 +5463,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/it/it_mig_23.webp"
+      ],
+      "name_en": "Light Italian Clear Vegetable Soup",
+      "desc_en": "Dried Italian herbs infuse this clear vegetable broth with rich aroma without needing oil or MSG (senior-friendly).",
+      "ingredients_en": [
+        "Diced Zucchini: 60 g",
+        "Diced Carrots: 40 g",
+        "Sliced Celery: 40 g",
+        "Diced Plum Tomatoes: 80 g",
+        "Chopped Onion: 40 g",
+        "Clear Vegetable Broth: 400 ml",
+        "Dried Oregano and Italian Basil: 1 tsp",
+        "Salt and Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Sweat the onion, carrots, and celery in a pot with 2 tbsp of broth until the vegetables begin to turn translucent.",
+        "Pour in the remaining vegetable broth along with the tomatoes and zucchini, and bring to a boil.",
+        "Reduce the heat to low and simmer for about 12 minutes until all the vegetables are tender.",
+        "Season with salt, black pepper, and oregano, and scatter fresh basil on top before turning off the heat."
       ]
     },
     {
@@ -4690,6 +5514,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/it/it_mig_24.webp"
+      ],
+      "name_en": "Spinach & Mushroom Cauliflower-Crust Pizza",
+      "desc_en": "Squeezing every drop of moisture out of the steamed cauliflower is the key to a crisp, sturdy keto pizza crust.",
+      "ingredients_en": [
+        "Steamed Finely Riced Cauliflower: 180 g",
+        "Egg: 1 piece",
+        "Shredded Mozzarella Cheese: 30 g",
+        "Blanched Spinach, squeezed dry: 40 g",
+        "Sliced Button Mushrooms: 40 g",
+        "Sugar-Free Tomato Sauce: 2 tbsp",
+        "Dried Oregano and Pink Salt: a pinch"
+      ],
+      "steps_en": [
+        "Wrap the steamed cauliflower in cheesecloth and squeeze out as much liquid as possible, then mix with the egg, half of the cheese, and salt.",
+        "Press the cauliflower mixture into a thin round crust on parchment paper and bake at 200°C for 12 minutes.",
+        "Remove the crust, spread with tomato sauce, and top with spinach, mushrooms, remaining cheese, and oregano.",
+        "Return to the oven for 5 minutes until the cheese is melted and golden."
       ]
     },
     {
@@ -4725,6 +5566,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_25.webp"
+      ],
+      "name_en": "Pesto Chicken Pasta",
+      "desc_en": "Single-serving recipe with approximate calories; check pesto labels if you have nut or dairy allergies.",
+      "ingredients_en": [
+        "Sliced Chicken Breast: 120 g",
+        "Dry Pasta: 75 g",
+        "Pesto Sauce: 20 g",
+        "Cherry Tomatoes, halved: 60 g",
+        "Grated Parmesan Cheese: 10 g",
+        "Olive Oil: 1 tsp",
+        "Salt (for boiling pasta): 1/4 tsp",
+        "Pasta Cooking Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Boil the pasta in salted water according to package directions, reserving the pasta water before draining.",
+        "Heat olive oil in a skillet over medium heat, sauté the chicken until cooked through to 74°C, and set aside.",
+        "Add the pasta, cherry tomatoes, and pesto to the skillet with the reserved pasta water and toss to combine.",
+        "Return the chicken to the pan and warm through.",
+        "Plate and sprinkle with grated Parmesan cheese."
       ]
     },
     {
@@ -4761,6 +5621,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_26.webp"
+      ],
+      "name_en": "Lemon Garlic Shrimp Linguine",
+      "desc_en": "Single-serving recipe with approximate calories; cook the shrimp just until opaque so they stay tender.",
+      "ingredients_en": [
+        "Dry Linguine: 75 g",
+        "Fresh Shrimp, peeled and deveined: 120 g",
+        "Minced Garlic: 10 g",
+        "Olive Oil: 2 tsp",
+        "Unsalted Butter: 5 g",
+        "Grated Lemon Zest: 1/2 tsp",
+        "Lemon Juice: 1 tbsp",
+        "Chopped Parsley: 5 g",
+        "Chili Powder or Flakes: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Cook the linguine according to package directions, reserving 3 tbsp of pasta water before draining.",
+        "Heat olive oil in a pan over medium heat and sauté the garlic until fragrant without browning.",
+        "Add the shrimp and chili and sauté until the shrimp are cooked through.",
+        "Stir in the butter, lemon juice, lemon zest, and reserved pasta water until emulsified.",
+        "Toss in the linguine and chopped parsley until evenly coated and serve."
       ]
     },
     {
@@ -4796,6 +5676,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_27.webp"
+      ],
+      "name_en": "Roasted Vegetable Penne Bake",
+      "desc_en": "Single-serving recipe with approximate calories; check sauce and cheese labels if avoiding animal-derived ingredients.",
+      "ingredients_en": [
+        "Dry Penne Pasta: 75 g",
+        "Diced Zucchini: 60 g",
+        "Diced Yellow Bell Pepper: 50 g",
+        "Cherry Tomatoes, halved: 60 g",
+        "Tomato Pasta Sauce: 100 g",
+        "Shredded Mozzarella Cheese: 25 g",
+        "Olive Oil: 2 tsp",
+        "Dried Oregano: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 200°C; boil the penne according to package directions and drain.",
+        "Toss the zucchini, bell pepper, and cherry tomatoes with olive oil and dried oregano.",
+        "Roast the vegetables for 12-15 minutes until tender.",
+        "Toss the pasta with the roasted vegetables and tomato sauce, then transfer to a baking dish.",
+        "Top with mozzarella and bake for 8-10 minutes more until the cheese melts and the sauce bubbles."
       ]
     },
     {
@@ -4831,6 +5730,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_28.webp"
+      ],
+      "name_en": "Broccoli Fettuccine Alfredo",
+      "desc_en": "Single-serving recipe with approximate calories; thin the sauce with a splash of pasta water if it becomes too thick.",
+      "ingredients_en": [
+        "Dry Fettuccine: 75 g",
+        "Broccoli Florets: 100 g",
+        "Fresh Milk: 100 ml",
+        "Grated Parmesan Cheese: 18 g",
+        "Unsalted Butter: 8 g",
+        "All-Purpose Flour: 5 g",
+        "Minced Garlic: 3 g",
+        "Ground Black Pepper: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Boil the fettuccine according to package directions, adding the broccoli florets during the last 3 minutes, then drain.",
+        "Melt the butter in a pan over low heat and briefly sauté the garlic until fragrant.",
+        "Sprinkle in the flour and stir constantly for about 30 seconds.",
+        "Gradually whisk in the milk until the sauce thickens, then stir in the Parmesan cheese and black pepper.",
+        "Toss the pasta and broccoli in the sauce until coated and serve."
       ]
     },
     {
@@ -4867,6 +5785,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/it/it_mig_29.webp"
+      ],
+      "name_en": "Italian Pork Sausage Spaghetti",
+      "desc_en": "Single-serving recipe with approximate calories; saltiness and fat content vary by sausage brand.",
+      "ingredients_en": [
+        "Dry Spaghetti: 75 g",
+        "Italian Pork Sausage, casings removed: 100 g",
+        "Canned Crushed Tomatoes: 150 g",
+        "Chopped Onion: 20 g",
+        "Minced Garlic: 5 g",
+        "Olive Oil: 1 tsp",
+        "Dried Oregano: 1/4 tsp",
+        "Grated Parmesan Cheese: 8 g"
+      ],
+      "steps_en": [
+        "Boil the spaghetti according to package directions and drain, reserving a splash of pasta water.",
+        "Heat olive oil in a skillet over medium heat and sauté the onion until translucent.",
+        "Add the sausage, breaking it apart with a spatula, and cook until browned and cooked through.",
+        "Stir in the garlic, crushed tomatoes, and oregano, and simmer for 10 minutes.",
+        "Toss the spaghetti with the sauce, adding a splash of pasta water if needed.",
+        "Top with grated Parmesan cheese before serving."
       ]
     },
     {
@@ -4900,6 +5838,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_30.webp"
+      ],
+      "name_en": "Sweet Pea Pesto Pasta",
+      "desc_en": "Single-serving recipe with approximate calories; check pesto and cheese labels for nut or dairy allergens.",
+      "ingredients_en": [
+        "Dry Pasta: 75 g",
+        "Sweet Peas: 60 g",
+        "Pesto Sauce: 18 g",
+        "Pasta Cooking Water: 3 tbsp",
+        "Cherry Tomatoes, halved: 50 g",
+        "Grated Parmesan Cheese: 8 g"
+      ],
+      "steps_en": [
+        "Boil the pasta in salted water according to package directions.",
+        "Add the sweet peas to the pot during the last 3 minutes of cooking, then reserve some pasta water before draining.",
+        "Return the pasta and peas to the pot and add the pesto sauce and reserved pasta water.",
+        "Toss over low heat until the sauce coats the pasta, then fold in the cherry tomatoes and warm through.",
+        "Plate and sprinkle with Parmesan cheese."
       ]
     },
     {
@@ -4934,6 +5889,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_31.webp"
+      ],
+      "name_en": "Orecchiette with Pork Sausage & Broccoli",
+      "desc_en": "Single-serving recipe with approximate calories; taste before adding extra salt since sausages vary in saltiness.",
+      "ingredients_en": [
+        "Dry Orecchiette Pasta: 75 g",
+        "Pork Sausage, casings removed: 90 g",
+        "Broccoli Florets: 80 g",
+        "Minced Garlic: 5 g",
+        "Olive Oil: 1 tsp",
+        "Grated Parmesan Cheese: 8 g",
+        "Chili Powder or Flakes: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the pasta in salted water according to package directions, adding the broccoli during the last 4 minutes.",
+        "Reserve a splash of pasta water, then drain the pasta and broccoli.",
+        "Heat olive oil in a pan over medium heat and cook the sausage, breaking it up with a spatula until cooked through.",
+        "Add the garlic and chili, sauté briefly, then toss in the pasta, broccoli, and reserved pasta water.",
+        "Toss until well combined and top with Parmesan cheese before serving."
       ]
     },
     {
@@ -4973,6 +5946,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/it/it_mig_32.webp"
+      ],
+      "name_en": "Classic Vegetable Minestrone",
+      "desc_en": "Single-serving recipe with approximate calories; if making ahead, store the pasta separately so it doesn't absorb all the broth (senior-friendly).",
+      "ingredients_en": [
+        "Cooked White Beans, drained: 50 g",
+        "Dry Macaroni: 25 g",
+        "Crushed Tomatoes: 100 g",
+        "Diced Carrots: 30 g",
+        "Diced Zucchini: 40 g",
+        "Chopped Onion: 20 g",
+        "Vegetable Stock: 300 ml",
+        "Olive Oil: 1 tsp",
+        "Dried Oregano: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a pot over medium heat and sauté the onion until translucent.",
+        "Add the carrots and zucchini and sauté for 2 minutes more.",
+        "Stir in the crushed tomatoes, vegetable stock, and oregano, bring to a boil, then reduce the heat.",
+        "Add the macaroni and simmer according to package directions, stirring occasionally.",
+        "Stir in the white beans, heat through for 3-4 minutes, and serve."
       ]
     },
     {
@@ -5008,6 +6001,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_33.webp"
+      ],
+      "name_en": "Creamy Spinach & Walnut Penne",
+      "desc_en": "Single-serving recipe with approximate calories; contains walnuts and dairy, so check for allergies.",
+      "ingredients_en": [
+        "Dry Penne Pasta: 75 g",
+        "Spinach: 60 g",
+        "Chopped Walnuts: 10 g",
+        "Cooking Cream: 40 ml",
+        "Grated Parmesan Cheese: 10 g",
+        "Minced Garlic: 3 g",
+        "Olive Oil: 1 tsp",
+        "Ground Black Pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the pasta in salted water according to package directions, reserving a little pasta water before draining.",
+        "Heat olive oil in a pan over low heat and sauté the garlic until fragrant.",
+        "Pour in the cooking cream and black pepper, simmering until slightly thickened and adding pasta water if too thick.",
+        "Stir in the spinach until wilted, then add the pasta and toss to coat.",
+        "Sprinkle with chopped walnuts and Parmesan cheese before serving."
       ]
     },
     {
@@ -5043,6 +6055,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_34.webp"
+      ],
+      "name_en": "Spicy Garlic Chicken Spaghetti (Aglio e Olio)",
+      "desc_en": "Single-serving recipe with approximate calories; adjust the dried chili flakes to suit your spice preference.",
+      "ingredients_en": [
+        "Dry Spaghetti: 75 g",
+        "Thinly Sliced Chicken Breast: 100 g",
+        "Sliced Garlic: 8 g",
+        "Crushed Dried Chili: 1 pinch",
+        "Olive Oil: 2 tsp",
+        "Chopped Parsley: 4 g",
+        "Pasta Cooking Water: 3 tbsp",
+        "Grated Parmesan Cheese: 8 g"
+      ],
+      "steps_en": [
+        "Cook the spaghetti according to package directions, reserving pasta water before draining.",
+        "Heat olive oil in a pan over medium heat and sauté the chicken until cooked through to 74°C.",
+        "Add the sliced garlic and crushed dried chili and sauté briefly until fragrant without burning the garlic.",
+        "Toss in the spaghetti and reserved pasta water until evenly coated.",
+        "Garnish with chopped parsley and Parmesan cheese, then serve."
       ]
     },
     {
@@ -5078,6 +6109,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_35.webp"
+      ],
+      "name_en": "Garden Vegetable Tomato Penne",
+      "desc_en": "Single-serving recipe with approximate calories; add a splash of pasta water if the tomato sauce gets too thick.",
+      "ingredients_en": [
+        "Dry Penne Pasta: 75 g",
+        "Tomato Pasta Sauce: 120 g",
+        "Diced Zucchini: 40 g",
+        "Diced Yellow Bell Pepper: 35 g",
+        "Sliced Button Mushrooms: 35 g",
+        "Olive Oil: 1 tsp",
+        "Grated Parmesan Cheese: 10 g",
+        "Dried Oregano: 1/8 tsp"
+      ],
+      "steps_en": [
+        "Boil the penne according to package directions and drain.",
+        "Heat olive oil in a skillet over medium heat and sauté the mushrooms, zucchini, and bell pepper until tender.",
+        "Stir in the tomato sauce and oregano and simmer for about 5 minutes.",
+        "Add the penne and toss until coated in sauce and heated through.",
+        "Plate and sprinkle with Parmesan cheese before serving."
       ]
     },
     {
@@ -5113,6 +6163,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_36.webp"
+      ],
+      "name_en": "Hard-Boiled Egg & Crisp Vegetable Pasta Salad",
+      "desc_en": "Single-serving recipe with approximate calories; keep the salad refrigerated if not eating right away.",
+      "ingredients_en": [
+        "Dry Spiral Pasta (Fusilli): 60 g",
+        "Egg: 1 piece",
+        "Diced Cucumber: 30 g",
+        "Diced Yellow Bell Pepper: 30 g",
+        "Plain Yogurt: 25 g",
+        "Mustard: 1/2 tsp",
+        "Lemon Juice: 1/2 tsp",
+        "Chopped Dill: 2 g"
+      ],
+      "steps_en": [
+        "Cook the pasta according to package directions, drain, and let cool.",
+        "Boil the egg for 10 minutes, chill in cold water, then peel and cut into pieces.",
+        "Whisk together the yogurt, mustard, lemon juice, and dill to make the dressing.",
+        "Toss the cooled pasta with the diced cucumber and bell pepper.",
+        "Drizzle with the dressing, toss gently, and top with the egg."
       ]
     },
     {
@@ -5148,6 +6217,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_37.webp"
+      ],
+      "name_en": "Creamy Yogurt Chicken Pasta Salad",
+      "desc_en": "Single-serving recipe with approximate calories; store in the refrigerator if not serving immediately.",
+      "ingredients_en": [
+        "Dry Spiral Pasta (Fusilli): 60 g",
+        "Diced Chicken Breast: 100 g",
+        "Diced Cucumber: 30 g",
+        "Cherry Tomatoes, halved: 40 g",
+        "Plain Yogurt: 30 g",
+        "Mustard: 1/2 tsp",
+        "Lemon Juice: 1/2 tsp",
+        "Ground Black Pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Cook the pasta according to package directions, drain, and let cool.",
+        "Grill or pan-sear the chicken until cooked through to 74°C, then let cool slightly.",
+        "Whisk together the yogurt, mustard, lemon juice, and black pepper for the dressing.",
+        "Toss the pasta with the chicken, cucumber, and cherry tomatoes.",
+        "Pour over the dressing, toss gently, and serve right away or chill before eating."
       ]
     },
     {
@@ -5183,6 +6271,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/it/it_mig_38.webp"
+      ],
+      "name_en": "Garlic Tomato Shrimp Spaghetti",
+      "desc_en": "Single-serving recipe with approximate calories; add pasta cooking water gradually to adjust the sauce consistency.",
+      "ingredients_en": [
+        "Dry Spaghetti: 75 g",
+        "Fresh Shrimp, peeled and deveined: 120 g",
+        "Crushed Tomatoes: 100 g",
+        "Minced Garlic: 6 g",
+        "Olive Oil: 1 tsp",
+        "Dried Oregano: 1/8 tsp",
+        "Grated Parmesan Cheese: 8 g",
+        "Pasta Cooking Water: 2 tbsp"
+      ],
+      "steps_en": [
+        "Cook the spaghetti according to package directions, reserving pasta water before draining.",
+        "Heat olive oil in a pan over medium heat and sauté the garlic until fragrant.",
+        "Add the crushed tomatoes and oregano and simmer for 5 minutes.",
+        "Add the shrimp and cook until just done, stirring in a splash of pasta water.",
+        "Toss in the spaghetti to coat with the sauce, sprinkle with Parmesan cheese, and serve."
       ]
     },
     {
@@ -5234,7 +6341,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ใส่เส้นสปาเกตตีลงคลุก ปิดไฟแล้วค่อยๆ โรยชีสโปรโวโลเนและพาร์เมซานพร้อมน้ำต้มเส้นจนซอสเคลือบเนียน",
         "ฉีกใบโหระพาสดโรยหน้า ปรุงด้วยพริกไทยดำแล้วเสิร์ฟร้อนๆ"
       ],
-      "note": "สูตรดั้งเดิมจากชายฝั่งอามาลฟี รสละมุนหอมซุกกินีและชีส ไม่เผ็ด ย่อยง่าย"
+      "note": "สูตรดั้งเดิมจากชายฝั่งอามาลฟี รสละมุนหอมซุกกินีและชีส ไม่เผ็ด ย่อยง่าย",
+      "name_en": "Spaghetti alla Nerano",
+      "desc_en": "A traditional Amalfi Coast pasta with silky sweet zucchini and melted cheese—mild, non-spicy, and easy to digest.",
+      "ingredients_en": [
+        "Spaghetti: 160 g",
+        "Thinly Sliced Zucchini: 250 g",
+        "Grated Provolone Cheese: 70 g",
+        "Grated Parmesan Cheese: 30 g",
+        "Italian Basil Leaves: 10 leaves",
+        "Unsalted Butter: 20 g",
+        "Olive Oil: 3 tbsp",
+        "Salt and Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Fry the zucchini slices in olive oil over medium heat until golden, tender, and fragrant, then drain on paper towels.",
+        "Boil the spaghetti in salted water until al dente, reserving 1/2 cup of pasta cooking water.",
+        "Return the fried zucchini to a pan with the butter and a splash of pasta water, mashing some slices into a light cream.",
+        "Toss in the spaghetti, turn off the heat, and gradually sprinkle in the Provolone and Parmesan with pasta water until a silky sauce forms.",
+        "Tear fresh basil leaves over the top, season with black pepper, and serve hot."
+      ]
     },
     {
       "recipe_id": "it_pop_052",
@@ -5284,7 +6410,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ต้มเส้นพัพพาร์เดลเลให้สุกแล้วนำไปคลุกกับซอสเนื้อตุ๋นให้เคลือบทั่วเส้น",
         "ตักใส่จาน โรยชีสพาร์เมซานขูดแล้วเสิร์ฟร้อนๆ"
       ],
-      "note": "พาสต้าเส้นแบนใหญ่สไตล์ทัสคานีที่อุ้มซอสเนื้อตุ๋นเข้มข้นได้อย่างลงตัว"
+      "note": "พาสต้าเส้นแบนใหญ่สไตล์ทัสคานีที่อุ้มซอสเนื้อตุ๋นเข้มข้นได้อย่างลงตัว",
+      "name_en": "Pappardelle al Cinghiale",
+      "desc_en": "Broad Tuscan ribbon pasta crafted to hold onto a rich, slow-braised meat ragù.",
+      "ingredients_en": [
+        "Pappardelle Pasta: 160 g",
+        "Finely Diced Beef or Pork Shoulder: 250 g",
+        "Crushed Tomatoes: 200 g",
+        "Finely Chopped Onion, Carrot & Celery: 120 g",
+        "Red Wine for Cooking: 80 ml",
+        "Rosemary and Bay Leaf: 1 sprig and 1 leaf",
+        "Olive Oil: 2 tbsp",
+        "Grated Parmesan Cheese: 25 g"
+      ],
+      "steps_en": [
+        "Sauté the chopped onion, carrot, and celery in olive oil until soft and fragrant.",
+        "Add the diced meat and brown over medium heat, then pour in the red wine and simmer until the alcohol evaporates.",
+        "Add the crushed tomatoes, rosemary, bay leaf, and broth, then simmer gently over low heat for 40-45 minutes until the meat is melt-in-your-mouth tender and the sauce thickens.",
+        "Boil the pappardelle until tender and toss thoroughly with the braised meat ragù.",
+        "Plate, sprinkle with grated Parmesan cheese, and serve hot."
+      ]
     },
     {
       "recipe_id": "it_pop_053",
@@ -5330,7 +6475,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ตักเส้นและบรอกโคลีลงผัดในกระทะ เติมน้ำต้มเส้นเล็กน้อยให้เคลือบเงาสวย",
         "ตักใส่จาน โรยเกล็ดขนมปังคั่วกรอบและน้ำมันมะกอกเพิ่มความหอม"
       ],
-      "note": "เมนูขึ้นชื่อจากแคว้นปูลยา ทางตอนใต้ของอิตาลี หอมเค็มนัวจากแองโชวีและกระเทียม"
+      "note": "เมนูขึ้นชื่อจากแคว้นปูลยา ทางตอนใต้ของอิตาลี หอมเค็มนัวจากแองโชวีและกระเทียม",
+      "name_en": "Orecchiette con Cime di Rapa",
+      "desc_en": "A beloved Puglian classic from southern Italy packed with savory depth from anchovies and garlic.",
+      "ingredients_en": [
+        "Orecchiette Pasta: 160 g",
+        "Broccoli or Young Broccoli Rabe, chopped: 200 g",
+        "Anchovy Fillets in Oil: 3 fillets",
+        "Sliced Garlic: 3 cloves",
+        "Crushed Dried Chili: 1/4 tsp",
+        "Extra Virgin Olive Oil: 3 tbsp",
+        "Toasted Breadcrumbs: 2 tbsp"
+      ],
+      "steps_en": [
+        "Boil the orecchiette in salted water, adding the broccoli during the final 4 minutes of cooking.",
+        "In a pan over low heat, gently warm the olive oil, sliced garlic, anchovies, and crushed chili until the anchovies dissolve into the oil.",
+        "Transfer the pasta and broccoli to the pan with a splash of pasta water and toss until glossy.",
+        "Plate and finish with toasted breadcrumbs and a drizzle of olive oil."
+      ]
     },
     {
       "recipe_id": "it_pop_054",
@@ -5379,7 +6541,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ใส่ซอสเพสโต้โหระพาและน้ำต้มเส้น 2-3 ช้อนโต๊ะ คลุกเคล้าเบาๆ นอกเตาเพื่อรักษาสีเขียวสดและกลิ่นหอมของโหระพา",
         "โรยเมล็ดสนคั่วและชีสพาร์เมซานขูด พร้อมเสิร์ฟ"
       ],
-      "note": "ต้นตำรับจากเมืองเจนัว เสิร์ฟคู่ถั่วแขกและมันฝรั่งนุ่มๆ รสกลมกล่อมไม่เผ็ด"
+      "note": "ต้นตำรับจากเมืองเจนัว เสิร์ฟคู่ถั่วแขกและมันฝรั่งนุ่มๆ รสกลมกล่อมไม่เผ็ด",
+      "name_en": "Trofie al Pesto Genovese",
+      "desc_en": "Authentic Genoese comfort pasta paired with tender green beans and potatoes in a mild, fragrant basil pesto.",
+      "ingredients_en": [
+        "Trofie Pasta: 160 g",
+        "Italian Basil Pesto Sauce: 3 tbsp",
+        "Small Diced Potatoes: 80 g",
+        "Trimmed Green Beans, cut into pieces: 60 g",
+        "Toasted Pine Nuts: 1 tbsp",
+        "Grated Parmesan Cheese: 20 g",
+        "Pasta Cooking Water: 3 tbsp"
+      ],
+      "steps_en": [
+        "Boil the diced potatoes in salted water for 3 minutes, then add the trofie pasta and green beans and cook together until tender.",
+        "Transfer the pasta, potatoes, and green beans to a mixing bowl, reserving a little pasta water.",
+        "Add the basil pesto and 2-3 tbsp of pasta water and toss gently off the heat to keep the basil bright green and aromatic.",
+        "Garnish with toasted pine nuts and grated Parmesan cheese before serving."
+      ]
     },
     {
       "recipe_id": "it_pop_055",
@@ -5431,7 +6610,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "เคี่ยวต่อจนเมล็ดข้าวนุ่มครีมมี่พอดีคำ ปรุงเกลือและพริกไทยขาว",
         "ตักใส่จาน ราดน้ำมันมะกอกเล็กน้อยและโรยพาร์สลีย์สับ"
       ],
-      "note": "รีซอตโตขึ้นชื่อจากเมืองเวนิส เนื้อข้าวนุ่มละมุน หอมทะเลและไม่เผ็ด เหมาะกับทุกวัย"
+      "note": "รีซอตโตขึ้นชื่อจากเมืองเวนิส เนื้อข้าวนุ่มละมุน หอมทะเลและไม่เผ็ด เหมาะกับทุกวัย",
+      "name_en": "Risotto al Nero di Seppia",
+      "desc_en": "A Venetian seafood specialty with creamy, briny, non-spicy squid ink rice suited for all ages.",
+      "ingredients_en": [
+        "Arborio Rice: 160 g",
+        "Fresh Squid Rings: 180 g",
+        "Squid Ink: 1 tsp",
+        "Finely Chopped Shallots: 30 g",
+        "Minced Garlic: 1 tsp",
+        "Warm Fish or Vegetable Broth: 600 ml",
+        "White Wine: 60 ml",
+        "Olive Oil & Chopped Parsley: a little"
+      ],
+      "steps_en": [
+        "Sauté the shallots and garlic in olive oil until translucent, then stir in the Arborio rice until coated.",
+        "Pour in the white wine and cook until absorbed, then gradually ladle in the warm broth while stirring continuously.",
+        "When the rice is about halfway cooked, stir in the squid rings and squid ink until the rice turns glossy black.",
+        "Continue simmering until the rice is creamy and tender, then season with salt and white pepper.",
+        "Plate, drizzle lightly with olive oil, and sprinkle with chopped parsley."
+      ]
     },
     {
       "recipe_id": "it_pop_056",
@@ -5483,7 +6681,26 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ปิดฝาตุ๋นไฟอ่อน 30-35 นาทีจนเนื้อไก่เปื่อยนุ่มร่อนจากกระดูกและซอสเข้มข้น",
         "ตักเสิร์ฟร้อนๆ คู่ขนมปังหรือข้าวสวย"
       ],
-      "note": "ไก่ตุ๋นสไตล์นายพรานอิตาเลียน เนื้อนุ่มเปื่อย หอมมะเขือเทศและโรสแมรี่ ไม่เผ็ด"
+      "note": "ไก่ตุ๋นสไตล์นายพรานอิตาเลียน เนื้อนุ่มเปื่อย หอมมะเขือเทศและโรสแมรี่ ไม่เผ็ด",
+      "name_en": "Pollo alla Cacciatora",
+      "desc_en": "Italian hunter-style braised chicken—fall-off-the-bone tender in a savory, non-spicy tomato and rosemary sauce.",
+      "ingredients_en": [
+        "Bone-In Chicken Thighs: 350 g",
+        "Chopped Tomatoes in Sauce: 250 g",
+        "Diced Onion: 60 g",
+        "Smashed Garlic: 3 cloves",
+        "Pitted Black Olives: 40 g",
+        "Fresh Rosemary Sprig: 1 sprig",
+        "White Wine or Chicken Broth: 80 ml",
+        "Olive Oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Season the chicken thighs with salt and pepper, sear skin-side down in olive oil until golden brown, and set aside.",
+        "Sauté the onion and garlic in the same pan until soft, then pour in the white wine and simmer until fragrant.",
+        "Add the chopped tomatoes, black olives, and rosemary sprig, and return the chicken to the pot.",
+        "Cover and braise over low heat for 30-35 minutes until the chicken is tender and the sauce is rich.",
+        "Serve hot alongside crusty bread or steamed rice."
+      ]
     },
     {
       "recipe_id": "it_pop_057",
@@ -5535,7 +6752,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "นำเข้าอบประมาณ 22-25 นาทีจนเนื้อปลาสุกขาวนุ่มและหนังหอม",
         "เสิร์ฟร้อนๆ พร้อมน้ำปลาอบเลมอนสมุนไพรในถาด"
       ],
-      "note": "เมนูเมดิเตอร์เรเนียนไขมันดีสูง เนื้อปลานุ่มหวาน ย่อยง่าย เหมาะมากสำหรับผู้สูงอายุและสายสุขภาพ"
+      "note": "เมนูเมดิเตอร์เรเนียนไขมันดีสูง เนื้อปลานุ่มหวาน ย่อยง่าย เหมาะมากสำหรับผู้สูงอายุและสายสุขภาพ",
+      "name_en": "Branzino al Forno",
+      "desc_en": "A heart-healthy Mediterranean dish with sweet, flaky sea bass that is light and easy to digest for seniors and health-conscious diners.",
+      "ingredients_en": [
+        "Whole White Sea Bass, scaled and gutted: 1 whole (450 g)",
+        "Sliced Lemon: 1 piece",
+        "Smashed Garlic: 4 cloves",
+        "Fresh Rosemary & Thyme: 2 sprigs each",
+        "Extra Virgin Olive Oil: 2 tbsp",
+        "Sea Salt and White Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Preheat the oven to 200°C; rinse the sea bass, pat dry, and score the sides lightly.",
+        "Stuff the cavity with lemon slices, smashed garlic, and fresh herbs, placing the remaining lemon slices on top.",
+        "Drizzle generously with olive oil and season with sea salt and white pepper.",
+        "Bake for 22-25 minutes until the flesh is opaque, flaky, and fragrant.",
+        "Serve hot spooned with the lemon-herb pan juices."
+      ]
     },
     {
       "recipe_id": "it_pop_058",
@@ -5586,7 +6820,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ปรุงรสด้วยเกลือและพริกไทยตามชอบ โรยพาร์สลีย์สับสด",
         "วางขนมปังปิ้งถูกระเทียมไว้ขอบชาม ตักซุปทะเลร้อนๆ ราดเสิร์ฟทันที"
       ],
-      "note": "สตูว์ซีฟู้ดขึ้นชื่อจากเมืองท่าลิวอร์โน รสกลมกล่อมซดคล่องคอ"
+      "note": "สตูว์ซีฟู้ดขึ้นชื่อจากเมืองท่าลิวอร์โน รสกลมกล่อมซดคล่องคอ",
+      "name_en": "Cacciucco alla Livornese",
+      "desc_en": "Livorno's famous Tuscan seafood stew—deeply savory, comforting, and easy to enjoy.",
+      "ingredients_en": [
+        "Ocean Fish Fillets, cut into chunks: 150 g",
+        "Fresh Shrimp and Squid: 150 g",
+        "Mussels or Clams: 120 g",
+        "Crushed Tomatoes: 200 g",
+        "Minced Garlic and Chopped Onion: 40 g",
+        "Fish Broth: 400 ml",
+        "Garlic-Rubbed Toasted Sourdough: 2 slices",
+        "Olive Oil & Chopped Parsley: a little"
+      ],
+      "steps_en": [
+        "Sauté the garlic and onion in olive oil until fragrant, then add the crushed tomatoes and fish broth and simmer for 15 minutes.",
+        "Add the squid and fish chunks and simmer gently for 5 minutes, then add the shrimp and shellfish until the shells open and the shrimp turn pink.",
+        "Season with salt and pepper to taste and sprinkle with fresh chopped parsley.",
+        "Tuck the garlic-rubbed toasted bread along the edge of the bowl, ladle the hot seafood stew over, and serve immediately."
+      ]
     },
     {
       "recipe_id": "it_pop_059",
@@ -5636,7 +6888,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ตั้งน้ำมันไฟกลางค่อนแรง (180°C) นำซีฟู้ดลงทอดครั้งละน้อยประมาณ 2-3 นาทีจนเหลืองกรอบ",
         "ตักขึ้นซับน้ำมัน โรยเกลือสมุทรทันทีแล้วเสิร์ฟคู่เลมอนสด"
       ],
-      "note": "ซีฟู้ดทอดกรอบสไตล์ชายฝั่งอิตาลี บีบเลมอนสดช่วยตัดเลี่ยนได้ดีเยี่ยม"
+      "note": "ซีฟู้ดทอดกรอบสไตล์ชายฝั่งอิตาลี บีบเลมอนสดช่วยตัดเลี่ยนได้ดีเยี่ยม",
+      "name_en": "Fritto Misto di Mare",
+      "desc_en": "Coastal Italian crispy fried seafood—brightened with a squeeze of fresh lemon to keep every bite light.",
+      "ingredients_en": [
+        "Squid Rings: 150 g",
+        "Fresh Shrimp, peeled with tails on: 120 g",
+        "Small Fish or Bite-Sized Fish Fillets: 80 g",
+        "All-Purpose Flour & Semolina Mix: 80 g",
+        "Sea Salt: 1/2 tsp",
+        "Lemon Wedges: 1/2 piece",
+        "Oil for Deep-Frying: as needed"
+      ],
+      "steps_en": [
+        "Pat the squid, shrimp, and fish completely dry so the coating stays crisp and light.",
+        "Dredge the seafood lightly in the flour and semolina mixture, shaking off any excess.",
+        "Heat oil to 180°C and fry the seafood in small batches for 2-3 minutes until golden and crisp.",
+        "Drain on paper towels, sprinkle immediately with sea salt, and serve with fresh lemon wedges."
+      ]
     },
     {
       "recipe_id": "it_pop_060",
@@ -5685,7 +6954,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "เรียงเนื้อสไลซ์บางลงจานให้สวยงาม ราดซอสทูน่าครีมให้ทั่ว",
         "ตกแต่งด้วยเม็ดเคเปอร์ที่เหลือ เสิร์ฟแบบเย็นชื่นใจ"
       ],
-      "note": "จานเรียกน้ำย่อยหรูหราจากแคว้นปีเอมอนเต เนื้อสไลซ์บางนุ่มคู่ซอสทูน่ารสกลมกล่อม"
+      "note": "จานเรียกน้ำย่อยหรูหราจากแคว้นปีเอมอนเต เนื้อสไลซ์บางนุ่มคู่ซอสทูน่ารสกลมกล่อม",
+      "name_en": "Vitello Tonnato",
+      "desc_en": "An elegant Piedmontese antipasto featuring thinly sliced tender meat chilled under a velvety tuna-caper sauce.",
+      "ingredients_en": [
+        "Chilled Boiled Beef or Pork Loin, thinly sliced: 200 g",
+        "Tuna in Oil, drained: 100 g",
+        "Mayonnaise: 3 tbsp",
+        "Capers: 1 tbsp",
+        "Anchovy Fillets: 2 fillets",
+        "Lemon Juice: 1 tsp",
+        "Meat Cooking Broth: 2 tbsp"
+      ],
+      "steps_en": [
+        "Simmer the loin with onion, carrot, and bay leaf until tender, then chill completely in the refrigerator before slicing thinly.",
+        "Blend the tuna, mayonnaise, anchovies, half of the capers, lemon juice, and broth until completely smooth and creamy.",
+        "Arrange the thin meat slices neatly on a platter and spoon the tuna cream sauce evenly over top.",
+        "Garnish with the remaining capers and serve refreshingly chilled."
+      ]
     },
     {
       "recipe_id": "it_pop_061",
@@ -5736,7 +7022,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ใส่กระเทียมบุบและมะเขือเทศเชอร์รีลงผัดต่ออีก 5-7 นาทีจนมะเขือเทศนิ่มฉ่ำ",
         "ปรุงรสด้วยเกลือและพริกไทย ฉีกใบโหระพาสดคลุกก่อนปิดไฟ เสิร์ฟได้ทั้งร้อนและเย็น"
       ],
-      "note": "เครื่องเคียงสไตล์เนเปิลส์ เนื้อมะเขือม่วงนุ่มละลายในปาก แคลอรีต่ำและย่อยง่าย"
+      "note": "เครื่องเคียงสไตล์เนเปิลส์ เนื้อมะเขือม่วงนุ่มละลายในปาก แคลอรีต่ำและย่อยง่าย",
+      "name_en": "Melanzane a Funghetto",
+      "desc_en": "A Neapolitan side dish of melt-in-your-mouth eggplant simmered with sweet cherry tomatoes—low-calorie and gentle on digestion.",
+      "ingredients_en": [
+        "Diced Eggplant: 300 g",
+        "Cherry Tomatoes, halved: 150 g",
+        "Smashed Garlic: 3 cloves",
+        "Fresh Italian Basil Leaves: 12 leaves",
+        "Olive Oil: 3 tbsp",
+        "Salt and Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Toss the diced eggplant lightly with salt, let sit for 10 minutes, and pat dry.",
+        "Sauté the eggplant in olive oil over medium heat until tender and lightly browned on the edges.",
+        "Add the smashed garlic and halved cherry tomatoes and cook for 5-7 minutes more until the tomatoes turn juicy and soft.",
+        "Season with salt and pepper, toss in torn fresh basil leaves off the heat, and serve warm or at room temperature."
+      ]
     },
     {
       "recipe_id": "it_pop_062",
@@ -5787,7 +7089,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ผสมน้ำมันมะกอก น้ำส้มสายชูไวน์แดง และพริกไทยเป็นน้ำสลัด",
         "นำขนมปัง หอมแดงซอย มะเขือเทศ และใบโหระพามาคลุกกับน้ำสลัด พัก 10 นาทีให้ขนมปังซึมรสแล้วเสิร์ฟ"
       ],
-      "note": "สลัดฤดูร้อนแห่งแคว้นทัสคานี สดชื่นด้วยมะเขือเทศฉ่ำๆ และขนมปังซึมน้ำสลัดรสเปรี้ยวอมหวาน"
+      "note": "สลัดฤดูร้อนแห่งแคว้นทัสคานี สดชื่นด้วยมะเขือเทศฉ่ำๆ และขนมปังซึมน้ำสลัดรสเปรี้ยวอมหวาน",
+      "name_en": "Panzanella",
+      "desc_en": "A refreshing Tuscan summer bread salad bursting with ripe tomatoes and tangy-sweet vinaigrette.",
+      "ingredients_en": [
+        "Toasted Sourdough or Ciabatta Cubes: 100 g",
+        "Ripe Tomatoes & Cherry Tomatoes, chopped: 250 g",
+        "Thinly Sliced Red Onion: 30 g",
+        "Italian Basil Leaves: 10 leaves",
+        "Extra Virgin Olive Oil: 2 tbsp",
+        "Red Wine Vinegar: 1 tbsp",
+        "Salt and Black Pepper: a pinch"
+      ],
+      "steps_en": [
+        "Cut the bread into bite-sized cubes and bake or toast until crisp outside and chewy inside.",
+        "Toss the chopped tomatoes with a pinch of salt and let rest for 5 minutes to release their juices.",
+        "Whisk the olive oil, red wine vinegar, and black pepper into a dressing.",
+        "Toss the bread cubes, sliced red onion, tomatoes, and basil with the dressing, and let sit 10 minutes so the bread absorbs the flavors before serving."
+      ]
     },
     {
       "recipe_id": "it_pop_063",
@@ -5836,7 +7155,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ค่อยๆ เทส่วนผสมไข่ลงในน้ำซุปเป็นสายพร้อมใช้ตะกร้อมือคนวนเบาๆ ให้ไข่แตกเป็นริ้วฝอยนุ่ม",
         "เคี่ยวต่อเพียง 1 นาที ปิดไฟ โรยพาร์สลีย์สับแล้วเสิร์ฟร้อนๆ ทันที"
       ],
-      "note": "ซุปไข่สไตล์โรมันรสอ่อนละมุน นุ่มคล่องคอ ทำง่ายใน 15 นาที เหมาะมากสำหรับผู้สูงอายุและเด็ก"
+      "note": "ซุปไข่สไตล์โรมันรสอ่อนละมุน นุ่มคล่องคอ ทำง่ายใน 15 นาที เหมาะมากสำหรับผู้สูงอายุและเด็ก",
+      "name_en": "Stracciatella alla Romana",
+      "desc_en": "A delicate, soothing Roman egg-drop soup ready in 15 minutes—ideal for seniors and children.",
+      "ingredients_en": [
+        "Clear Chicken or Vegetable Broth: 500 ml",
+        "Fresh Eggs: 2 pieces",
+        "Finely Grated Parmesan Cheese: 30 g",
+        "Finely Grated Lemon Zest: 1/4 tsp",
+        "Ground Nutmeg: 1 pinch",
+        "Finely Chopped Parsley: 1 tbsp"
+      ],
+      "steps_en": [
+        "Whisk together the eggs, finely grated Parmesan, lemon zest, and nutmeg until smooth.",
+        "Bring the broth to a rolling boil in a pot, then reduce to medium heat.",
+        "Slowly pour the egg mixture in a thin stream while gently swirling with a whisk so soft, feathery egg ribbons form.",
+        "Simmer for just 1 minute, turn off the heat, garnish with chopped parsley, and serve hot immediately."
+      ]
     },
     {
       "recipe_id": "it_pop_064",
@@ -5884,7 +7219,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ทอดในน้ำมันร้อนไฟกลาง (175°C) ประมาณ 4-5 นาทีจนสีเหลืองทองกรอบและชีสด้านในละลายยืด",
         "ตักซับน้ำมัน เสิร์ฟร้อนๆ ตอนบิออกชีสจะยืดเหมือนสายโทรศัพท์"
       ],
-      "note": "สตรีทฟู้ดยอดนิยมของกรุงโรม กรอบนอกนุ่มใน หอมซอสมะเขือเทศและชีสยืด"
+      "note": "สตรีทฟู้ดยอดนิยมของกรุงโรม กรอบนอกนุ่มใน หอมซอสมะเขือเทศและชีสยืด",
+      "name_en": "Suppli al Telefono",
+      "desc_en": "Rome's beloved street food—crispy golden rice croquettes filled with tomato risotto and gooey stretched mozzarella.",
+      "ingredients_en": [
+        "Chilled Tomato Risotto: 250 g",
+        "Mozzarella Cheese Sticks: 60 g",
+        "Grated Parmesan Cheese: 25 g",
+        "Beaten Egg: 1 piece",
+        "Fine Breadcrumbs: 80 g",
+        "Oil for Deep-Frying: as needed"
+      ],
+      "steps_en": [
+        "Mix the chilled tomato risotto with the grated Parmesan cheese until easy to shape.",
+        "Flatten a scoop of rice in your palm, place a mozzarella stick in the center, and mold firmly into an oval croquette.",
+        "Dip each croquette in beaten egg, then coat evenly in fine breadcrumbs.",
+        "Fry in medium-hot oil (175°C) for 4-5 minutes until crisp and golden brown with melted cheese inside.",
+        "Drain on paper towels and serve hot so the mozzarella stretches like telephone wires when pulled apart."
+      ]
     },
     {
       "recipe_id": "it_pop_065",
@@ -5930,7 +7282,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "พับครึ่งแผ่นแป้งกดเบาๆ บนกระทะอีก 30 วินาทีให้ชีสเริ่มเยิ้ม",
         "หั่นครึ่งแล้วเสิร์ฟอุ่นๆ ทันที"
       ],
-      "note": "แป้งแบนย่างประจำแคว้นเอมีเลีย-โรมัญญา ทำเร็ว อิ่มอร่อยได้ทั้งมื้อเช้าและมื้อกลางวัน"
+      "note": "แป้งแบนย่างประจำแคว้นเอมีเลีย-โรมัญญา ทำเร็ว อิ่มอร่อยได้ทั้งมื้อเช้าและมื้อกลางวัน",
+      "name_en": "Piadina Romagnola",
+      "desc_en": "Emilia-Romagna's griddled flatbread filled with prosciutto, fresh cheese, and peppery arugula for a quick breakfast or lunch.",
+      "ingredients_en": [
+        "Piadina Flatbreads: 2 pieces",
+        "Prosciutto (Parma Ham): 60 g",
+        "Squacquerone or Fresh Mozzarella Cheese: 60 g",
+        "Fresh Arugula: 30 g",
+        "Olive Oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Warm the piadina flatbreads on a skillet over medium heat for 1 minute per side until lightly blistered and fragrant.",
+        "Spread the fresh cheese over half of each flatbread, then layer on the prosciutto and fresh arugula.",
+        "Fold in half and press gently on the skillet for 30 seconds until the cheese begins to melt.",
+        "Slice in half and serve warm right away."
+      ]
     },
     {
       "recipe_id": "it_pop_066",
@@ -5976,7 +7343,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "รีดแป้งก้อนที่สองบางเท่ากันวางประกบด้านบน ปิดขอบและดึงเจาะรูเล็กๆ บนแผ่นบนเพื่อระบายไอน้ำ",
         "พรมน้ำมันมะกอกและเกลือสมุทร อบที่ 230°C ประมาณ 10-12 นาทีจนผิวกรอบพองเหลืองทองและชีสเยิ้ม"
       ],
-      "note": "ฟอคคาเซียไร้ยีสต์สูตรดังจากเมืองเรคโก แป้งบางกรอบสอดไส้ชีสหอมมันเยิ้มเต็มคำ"
+      "note": "ฟอคคาเซียไร้ยีสต์สูตรดังจากเมืองเรคโก แป้งบางกรอบสอดไส้ชีสหอมมันเยิ้มเต็มคำ",
+      "name_en": "Focaccia di Recco",
+      "desc_en": "Recco's famous yeast-free flatbread with paper-thin crispy dough sandwiching irresistibly oozy soft cheese.",
+      "ingredients_en": [
+        "All-Purpose Flour: 200 g",
+        "Water: 100 ml",
+        "Extra Virgin Olive Oil: 3 tbsp",
+        "Stracchino or Soft Fresh Cheese: 200 g",
+        "Sea Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Knead the flour, water, 2 tbsp olive oil, and salt until smooth; rest for 20 minutes and divide into 2 balls.",
+        "Roll the first dough ball paper-thin, drape over an oiled baking sheet, and dot evenly with dollops of soft cheese.",
+        "Roll the second dough ball equally thin, lay it over the top, seal the edges, and pinch small vents on top for steam.",
+        "Drizzle with olive oil and sea salt, then bake at 230°C for 10-12 minutes until blistered, crisp, golden, and bubbling with cheese."
+      ]
     },
     {
       "recipe_id": "it_pop_067",
@@ -6025,7 +7407,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "พักแป้งให้ขึ้นเป็นสองเท่า ตักใส่พิมพ์ทรงสูงแล้วพักให้ขึ้นอีกรอบ",
         "อบที่ 175°C ประมาณ 35-40 นาทีจนสุกหอมสีน้ำตาลทอง พักให้เย็นแล้วหั่นเสิร์ฟ"
       ],
-      "note": "เค้กขนมปังเทศกาลประจำเมืองมิลาน เนื้อนุ่มฟู หอมเนยและเปลือกส้มเชื่อม"
+      "note": "เค้กขนมปังเทศกาลประจำเมืองมิลาน เนื้อนุ่มฟู หอมเนยและเปลือกส้มเชื่อม",
+      "name_en": "Panettone",
+      "desc_en": "Milan's iconic holiday sweet bread—pillowy soft and fragrant with rich butter and candied orange peel.",
+      "ingredients_en": [
+        "Bread Flour: 250 g",
+        "Egg Yolks: 3 pieces",
+        "Softened Unsalted Butter: 70 g",
+        "Granulated Sugar: 60 g",
+        "Warm Milk & Dry Yeast: 80 ml milk, 1 tsp dry yeast",
+        "Raisins and Diced Candied Orange Peel: 80 g",
+        "Vanilla Extract & Grated Orange Zest: 1 tsp"
+      ],
+      "steps_en": [
+        "Dissolve the yeast in warm milk, then knead with the bread flour, egg yolks, sugar, and vanilla until smooth.",
+        "Gradually knead in the softened butter until the dough stretches into a thin windowpane, then fold in the raisins, candied orange peel, and orange zest.",
+        "Let the dough rise until doubled, transfer to a tall panettone mold, and proof again until risen.",
+        "Bake at 175°C for 35-40 minutes until golden brown and fragrant; cool completely before slicing."
+      ]
     },
     {
       "recipe_id": "it_pop_068",
@@ -6072,7 +7471,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ตีจนเนื้อครีมข้นฟูสีเหลืองนวลและขึ้นริบบิ้น ปิดไฟเติมกลิ่นวานิลลา",
         "ตักใส่แก้วเสิร์ฟ ตกแต่งด้วยเบอร์รี่สดด้านบน รับประทานอุ่นๆ หรือแช่เย็นก็ได้"
       ],
-      "note": "ของหวานคลาสสิกอิตาลี เนื้อครีมเบานุ่มละลายในปาก เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "ของหวานคลาสสิกอิตาลี เนื้อครีมเบานุ่มละลายในปาก เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Zabaglione",
+      "desc_en": "A classic Italian custard whipped into a warm, cloud-like foam—light, velvety, and wonderfully senior-friendly.",
+      "ingredients_en": [
+        "Fresh Egg Yolks: 4 pieces",
+        "Granulated Sugar: 50 g",
+        "White Grape Juice or Marsala Wine: 60 ml",
+        "Vanilla Extract: 1/2 tsp",
+        "Fresh Raspberries and Blackberries: 80 g"
+      ],
+      "steps_en": [
+        "Combine the egg yolks, sugar, and white grape juice or Marsala wine in a heatproof bowl.",
+        "Set the bowl over a pot of gently simmering water (without touching the water) and whisk continuously for 6-8 minutes.",
+        "Whisk until pale, thick, airy, and ribbon-like, then remove from heat and stir in the vanilla extract.",
+        "Spoon into serving glasses, top with fresh berries, and serve warm or chilled."
+      ]
     },
     {
       "recipe_id": "it_pop_069",
@@ -6120,7 +7534,24 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "เทใส่พิมพ์สี่เหลี่ยมรองพลาสติกแรป แช่ช่องแข็งอย่างน้อย 4 ชั่วโมงจนเซตตัว",
         "ตัดเป็นชิ้นหนา ราดซอสคาราเมลและโรยอัลมอนด์ก่อนเสิร์ฟ"
       ],
-      "note": "ของหวานแช่เย็นเนื้อเนียนกึ่งมูสกึ่งไอศกรีม หอมมันอัลมอนด์คั่วและคาราเมล"
+      "note": "ของหวานแช่เย็นเนื้อเนียนกึ่งมูสกึ่งไอศกรีม หอมมันอัลมอนด์คั่วและคาราเมล",
+      "name_en": "Semifreddo alla Mandorla",
+      "desc_en": "A silky half-frozen dessert between mousse and ice cream, rich with roasted almonds and caramel.",
+      "ingredients_en": [
+        "Chilled Whipping Cream: 250 ml",
+        "Eggs, separated: 2 pieces",
+        "Granulated Sugar: 65 g",
+        "Coarsely Chopped Roasted Almonds: 70 g",
+        "Caramel Sauce (for drizzling): 3 tbsp",
+        "Vanilla Extract: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whip the chilled cream to soft peaks and refrigerate.",
+        "Beat the egg yolks with half the sugar and vanilla until pale and fluffy, then whip the egg whites with the remaining sugar to stiff peaks.",
+        "Gently fold the egg yolk mixture, whipped egg whites, whipped cream, and chopped almonds together.",
+        "Pour into a plastic-wrap-lined loaf pan and freeze for at least 4 hours until firm.",
+        "Slice thickly and serve drizzled with caramel sauce and scattered with almonds."
+      ]
     },
     {
       "recipe_id": "it_pop_070",
@@ -6170,7 +7601,25 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "ทานมบางๆ บนผิวพาย โรยเมล็ดสนให้ทั่วหน้า",
         "อบที่ 180°C ประมาณ 35 นาทีจนสีเหลืองทอง พักให้เย็นแล้วโรยน้ำตาลไอซิ่งก่อนตัดเสิร์ฟ"
       ],
-      "note": "\"เค้กคุณย่า\" สูตรดั้งเดิมจากฟลอเรนซ์ ไส้คัสตาร์ดหอมผิวเลมอนนุ่มละมุน"
+      "note": "\"เค้กคุณย่า\" สูตรดั้งเดิมจากฟลอเรนซ์ ไส้คัสตาร์ดหอมผิวเลมอนนุ่มละมุน",
+      "name_en": "Torta della Nonna",
+      "desc_en": "Florence's beloved \"Grandmother's Cake\" filled with silky lemon-scented custard and crowned with toasted pine nuts.",
+      "ingredients_en": [
+        "Shortcrust Pastry Dough: 250 g",
+        "Fresh Milk: 300 ml",
+        "Egg Yolks: 3 pieces",
+        "Granulated Sugar: 60 g",
+        "Cornstarch: 25 g",
+        "Grated Lemon Zest: 1 tsp",
+        "Pine Nuts: 40 g",
+        "Powdered Sugar (for dusting): 1 tbsp"
+      ],
+      "steps_en": [
+        "Make the custard by warming the milk with lemon zest, whisking it into the egg yolks, sugar, and cornstarch, and cooking over low heat until thick and smooth; let cool.",
+        "Press the first portion of pastry dough into a tart pan, fill with the custard, and cover with the second pastry sheet.",
+        "Brush the top lightly with milk and scatter the pine nuts evenly across the surface.",
+        "Bake at 180°C for about 35 minutes until golden brown, let cool, and dust with powdered sugar before slicing."
+      ]
     },
     {
       "recipe_id": "it_pop_071",
@@ -6219,7 +7668,23 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "นำออกมาพัก 10 นาทีแล้วใช้มีดฟันเลื่อยหั่นเฉียงหนาประมาณ 1.5 ซม.",
         "เรียงชิ้นบิสกิตลงถาดอบรอบสองที่ 160°C อีก 12-15 นาทีจนแห้งกรอบ พักบนตะแกรงให้เย็น"
       ],
-      "note": "บิสกิตอบสองรอบสูตรเมืองปราโต กรอบหอมอัลมอนด์ นิยมทานคู่กาแฟหรือชาอุ่นๆ"
+      "note": "บิสกิตอบสองรอบสูตรเมืองปราโต กรอบหอมอัลมอนด์ นิยมทานคู่กาแฟหรือชาอุ่นๆ",
+      "name_en": "Biscotti di Prato",
+      "desc_en": "Twice-baked almond cookies from Prato—crisp, nutty, and made for dipping in warm coffee or tea.",
+      "ingredients_en": [
+        "All-Purpose Flour: 200 g",
+        "Granulated Sugar: 100 g",
+        "Eggs: 2 pieces",
+        "Whole Roasted Almonds: 120 g",
+        "Baking Powder: 1/2 tsp",
+        "Grated Orange Zest & Vanilla Extract: 1/2 tsp each"
+      ],
+      "steps_en": [
+        "Whisk the eggs with sugar, orange zest, and vanilla, fold in the flour and baking powder, then mix in the whole almonds.",
+        "Shape the dough into a slightly flattened log on a parchment-lined baking sheet and bake first at 180°C for 20 minutes.",
+        "Let cool for 10 minutes, then slice diagonally with a serrated knife into 1.5 cm-thick pieces.",
+        "Arrange the slices on the baking sheet and bake a second time at 160°C for 12-15 minutes until dry and crisp, then cool on a wire rack."
+      ]
     },
     {
       "recipe_id": "it_pop_072",
@@ -6269,7 +7734,22 @@ window.KITCHSYNC_PACK_DATA.it_popular = {
         "แช่ช่องแข็งและใช้ส้อมขูดเกล็ดน้ำแข็งทุก 45 นาที ประมาณ 3-4 รอบจนได้เกล็ดหิมะเนียนฟู",
         "ตักใส่แก้วเย็น เสิร์ฟคู่ขนมปังบริยอชนุ่มๆ แบบต้นตำรับซิซิลี"
       ],
-      "note": "ของหวานคลายร้อนยอดนิยมแห่งเกาะซิซิลี เปรี้ยวหอมสดชื่น แคลอรีเบา"
+      "note": "ของหวานคลายร้อนยอดนิยมแห่งเกาะซิซิลี เปรี้ยวหอมสดชื่น แคลอรีเบา",
+      "name_en": "Granita al Limone",
+      "desc_en": "Sicily's quintessential cooling treat—bright, tart, refreshing lemon ice crystals paired with soft brioche.",
+      "ingredients_en": [
+        "Freshly Squeezed Lemon Juice: 120 ml",
+        "Water: 300 ml",
+        "Granulated Sugar: 80 g",
+        "Finely Grated Lemon Zest: 1 tsp",
+        "Brioche Bun (for serving): 1 piece"
+      ],
+      "steps_en": [
+        "Simmer the water and sugar until completely dissolved, remove from heat, and let cool completely.",
+        "Stir the fresh lemon juice and grated lemon zest into the cooled syrup and pour into a shallow pan.",
+        "Freeze, scraping the ice crystals with a fork every 45 minutes for 3-4 rounds until fluffy and snow-like.",
+        "Spoon into chilled glasses and serve with soft brioche bread in authentic Sicilian style."
+      ]
     }
   ]
 };

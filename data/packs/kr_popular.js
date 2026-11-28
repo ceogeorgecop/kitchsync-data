@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Korean (62 recipes)
-// Place this file at assets/data/packs/kr_popular.js
+// KitchSync Master Pack: kr_popular (62 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.kr_popular = {
   "pack_id": "korean_popular_48",
@@ -80,6 +79,13 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Korean Steamed Egg (Gyeran-jjim)",
+      "desc_en": "Classic Korean Steamed Egg (Gyeran-jjim) — Whisk eggs with anchovy kelp broth (1:1 ratio) and salt until frothy.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Scallions: 15 g",
+        "Sesame Oil: 5 ml"
       ]
     },
     {
@@ -161,7 +167,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Pour sauce over tofu in the skillet, simmer until absorbed, and garnish with sesame seeds."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Braised Tofu (Dubu-jorim)",
+      "desc_en": "Classic Korean Braised Tofu (Dubu-jorim) — Slice firm tofu into rectangles, pat dry, and pan-fry until golden brown on both sides.",
+      "ingredients_en": [
+        "Firm Tofu: 300 g",
+        "Korean Gochugaru: 10 g",
+        "Soy Sauce: 30 ml",
+        "Garlic: 15 g",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_003",
@@ -234,7 +249,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss gently to combine and top with toasted sesame seeds."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Seasoned Spinach (Sigeumchi-namul)",
+      "desc_en": "Classic Korean Seasoned Spinach (Sigeumchi-namul) — Blanch spinach in salted boiling water for 30 seconds, shock in ice water, and squeeze dry.",
+      "ingredients_en": [
+        "Spinach: 250 g",
+        "Sesame Oil: 15 ml",
+        "Garlic: 10 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_004",
@@ -315,7 +338,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Finish with toasted sesame seeds and serve chilled."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Seasoned Bean Sprouts (Kongnamul-muchim)",
+      "desc_en": "Classic Korean Seasoned Bean Sprouts (Kongnamul-muchim) — Boil soybean sprouts covered for 3-4 minutes until tender-crisp, then drain and cool.",
+      "ingredients_en": [
+        "Bean Sprouts: 250 g",
+        "Sesame Oil: 15 ml",
+        "Garlic: 10 g",
+        "Scallions: 15 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_005",
@@ -387,6 +419,13 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Korean Rolled Omelette (Gyeran-mari)",
+      "desc_en": "Classic Korean Rolled Omelette (Gyeran-mari) — Whisk eggs with salt, pepper, finely minced carrot, and chopped scallions.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Carrot: 30 g",
+        "Scallions: 20 g"
       ]
     },
     {
@@ -466,7 +505,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Stir in tomato sauce, gochujang, honey, and soy sauce until glossy and coated."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Stir-Fried Sausage and Vegetables (Soya)",
+      "desc_en": "Classic Korean Stir-Fried Sausage and Vegetables (Soya) — Score cocktail sausages and stir-fry in a skillet until lightly browned.",
+      "ingredients_en": [
+        "Sausage: 200 g",
+        "Bell Pepper: 80 g",
+        "Onion: 60 g",
+        "Ketchup / Tomato Sauce: 45 ml",
+        "Korean Gochujang: 15 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_007",
@@ -562,7 +610,18 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Top with a spoonful of gochujang and sesame oil; mix thoroughly before eating."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Korean Bibimbap",
+      "desc_en": "Classic Classic Korean Bibimbap — Sauté marinated beef and separately season spinach, bean sprouts, julienned carrots, and mushrooms.",
+      "ingredients_en": [
+        "Rice: 250 g",
+        "Beef: 120 g",
+        "Spinach: 80 g",
+        "Bean Sprouts: 80 g",
+        "Carrot: 50 g",
+        "Egg: 1 pc",
+        "Korean Gochujang: 30 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_008",
@@ -649,7 +708,17 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Finish with sesame oil and serve topped with a crispy fried egg."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Kimchi Fried Rice with Fried Egg (Kimchi-bokkeumbap)",
+      "desc_en": "Classic Kimchi Fried Rice with Fried Egg (Kimchi-bokkeumbap) — Stir-fry diced bacon with chopped kimchi and kimchi juice until fragrant.",
+      "ingredients_en": [
+        "Rice: 250 g",
+        "Napa Cabbage Kimchi: 150 g",
+        "Bacon: 80 g",
+        "Korean Gochujang: 15 g",
+        "Egg: 1 pc",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_009",
@@ -744,7 +813,18 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Roll tightly, brush outside with sesame oil, and slice into bite-sized rounds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Korean Seaweed Rice Rolls (Kimbap)",
+      "desc_en": "Classic Classic Korean Seaweed Rice Rolls (Kimbap) — Season warm rice with sesame oil and salt; prepare strips of cooked beef, egg, spinach, and carrot.",
+      "ingredients_en": [
+        "Rice: 250 g",
+        "Roasted Gim Seaweed Sheets: 3 sheets",
+        "Beef: 100 g",
+        "Spinach: 60 g",
+        "Carrot: 50 g",
+        "Egg: 2 pcs",
+        "Sesame Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_010",
@@ -839,7 +919,18 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Combine noodles and vegetables in a large bowl, tossing with toasted sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Glass Noodle Stir-Fry (Japchae)",
+      "desc_en": "Classic Korean Glass Noodle Stir-Fry (Japchae) — Boil sweet potato glass noodles for 6-7 minutes until chewy, drain, and toss with soy sauce and sesame oil.",
+      "ingredients_en": [
+        "Dangmyeon Glass Noodles: 150 g",
+        "Beef: 120 g",
+        "Spinach: 80 g",
+        "Carrot: 50 g",
+        "Shiitake Mushroom: 50 g",
+        "Soy Sauce: 30 ml",
+        "Sesame Oil: 15 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_011",
@@ -926,7 +1017,17 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Pour the rich black bean sauce over boiled noodles and top with julienned cucumber."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Black Bean Noodles (Jajangmyeon)",
+      "desc_en": "Classic Korean Black Bean Noodles (Jajangmyeon) — Fry black bean paste in oil for 2 minutes; stir-fry diced pork, Korean radish, and onion.",
+      "ingredients_en": [
+        "Wheat Noodles: 250 g",
+        "Pork Belly / Shoulder: 180 g",
+        "Chunjang Black Bean Paste: 60 g",
+        "Korean Mu Radish: 100 g",
+        "Onion: 100 g",
+        "Cucumber: 50 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_012",
@@ -1005,7 +1106,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Place noodles in a bowl, pour icy broth over, and top with boiled egg, cucumber, and kimchi."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Chilled Buckwheat Noodles (Mul Naengmyeon)",
+      "desc_en": "Classic Korean Chilled Buckwheat Noodles (Mul Naengmyeon) — Chill beef and radish broth in the freezer until slushy and icy.",
+      "ingredients_en": [
+        "Buckwheat Noodles: 200 g",
+        "Cucumber: 60 g",
+        "Egg: 1 pc",
+        "Napa Cabbage Kimchi: 60 g",
+        "Yellow Mustard: 5 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_013",
@@ -1093,7 +1203,17 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Garnish with scallions and toasted sesame seeds before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Marinated Beef BBQ (Bulgogi)",
+      "desc_en": "Classic Korean Marinated Beef BBQ (Bulgogi) — Marinate thinly sliced beef in soy sauce, brown sugar, grated pear, garlic, and sesame oil for 20 minutes.",
+      "ingredients_en": [
+        "Thinly Sliced Beef: 350 g",
+        "Soy Sauce: 40 ml",
+        "Sesame Oil: 15 ml",
+        "Onion: 80 g",
+        "Scallions: 30 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_014",
@@ -1175,7 +1295,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Serve with crisp lettuce, fresh perilla leaves, and ssamjang paste for wrapping."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Grilled Pork Belly (Samgyeopsal)",
+      "desc_en": "Classic Korean Grilled Pork Belly (Samgyeopsal) — Grill thick pork belly strips on a hot skillet until golden and crispy, then cut into bite-sized pieces.",
+      "ingredients_en": [
+        "Pork Belly: 400 g",
+        "Fresh Perilla Leaves: 30 g",
+        "Korean Ssamjang Dipping Paste: 40 g",
+        "Lettuce: 100 g",
+        "Garlic: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_015",
@@ -1255,7 +1384,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Finish with scallions, sesame oil, and toasted sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spicy Korean Pork Stir-Fry (Jeyuk-bokkeum)",
+      "desc_en": "Classic Spicy Korean Pork Stir-Fry (Jeyuk-bokkeum) — Marinate sliced pork in gochujang, gochugaru, soy sauce, garlic, ginger, and honey for 15 minutes.",
+      "ingredients_en": [
+        "Sliced Pork Belly / Shoulder: 350 g",
+        "Korean Gochujang: 35 g",
+        "Korean Gochugaru: 10 g",
+        "Onion: 80 g",
+        "Scallions: 30 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_016",
@@ -1335,7 +1473,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Fold in shredded perilla leaves and sesame oil before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Spicy Stir-Fried Chicken (Dak-galbi)",
+      "desc_en": "Classic Korean Spicy Stir-Fried Chicken (Dak-galbi) — Marinate chicken pieces in gochujang, gochugaru, soy sauce, and garlic for 20 minutes.",
+      "ingredients_en": [
+        "Chicken Thigh / Breast: 350 g",
+        "Cabbage: 150 g",
+        "Cylindrical Tteok Rice Cakes: 100 g",
+        "Korean Gochujang: 40 g",
+        "Fresh Perilla Leaves: 15 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_017",
@@ -1415,7 +1562,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss the crispy fried wings in the sweet-spicy glaze and sprinkle with sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Crispy Fried Chicken (Yangnyeom Chicken)",
+      "desc_en": "Classic Korean Crispy Fried Chicken (Yangnyeom Chicken) — Coat chicken wings in starch batter and double-fry until extra crispy.",
+      "ingredients_en": [
+        "Chicken Wings: 450 g",
+        "Korean Gochujang: 30 g",
+        "Ketchup / Tomato Sauce: 30 ml",
+        "Garlic: 15 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_018",
@@ -1495,7 +1651,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss in squid over high heat for 1 minute, finishing with sesame oil and seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Spicy Stir-Fried Squid (Ojingeo-bokkeum)",
+      "desc_en": "Classic Korean Spicy Stir-Fried Squid (Ojingeo-bokkeum) — Score squid in a crosshatch pattern, slice, and blanch briefly for 15 seconds.",
+      "ingredients_en": [
+        "Squid: 300 g",
+        "Korean Gochujang: 30 g",
+        "Korean Gochugaru: 10 g",
+        "Cabbage: 100 g",
+        "Carrot: 50 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_019",
@@ -1575,7 +1740,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Top with sliced firm tofu and scallions, simmer 3 more minutes, and serve bubbling hot."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Kimchi Stew (Kimchi-jjigae)",
+      "desc_en": "Classic Korean Kimchi Stew (Kimchi-jjigae) — Sauté sliced pork belly with aged kimchi and gochugaru in a pot until fragrant.",
+      "ingredients_en": [
+        "Aged Napa Cabbage Kimchi: 250 g",
+        "Pork Belly: 150 g",
+        "Firm Tofu: 150 g",
+        "Korean Gochugaru: 10 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_020",
@@ -1655,7 +1829,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Spoon in soft silken tofu, crack a raw egg on top, and garnish with scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Soft Tofu Stew (Sundubu-jjigae)",
+      "desc_en": "Classic Korean Soft Tofu Stew (Sundubu-jjigae) — Sauté gochugaru, minced garlic, and scallions in sesame oil to make a chili oil base.",
+      "ingredients_en": [
+        "Extra Soft Silken Tofu: 300 g",
+        "Shrimp: 100 g",
+        "Clams: 100 g",
+        "Korean Gochugaru: 15 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "kr_pop_021",
@@ -1736,7 +1919,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Korean Soybean Paste Stew (Doenjang-jjigae)",
+      "desc_en": "Classic Korean Soybean Paste Stew (Doenjang-jjigae) — Simmer dried soup anchovies and kelp in water for 10 minutes, then strain.",
+      "ingredients_en": [
+        "Korean Doenjang Paste: 45 g",
+        "Firm Tofu: 150 g",
+        "Potato: 100 g",
+        "Mushroom: 80 g",
+        "Dried Soup Anchovies: 15 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_022",
@@ -1819,7 +2011,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Korean Ginseng Chicken Soup (Samgyetang)",
+      "desc_en": "Classic Korean Ginseng Chicken Soup (Samgyetang) — Stuff cleaned small chicken with soaked glutinous rice, whole garlic cloves, and jujubes.",
+      "ingredients_en": [
+        "Whole Cornish Hen / Chicken: 500 g",
+        "Fresh Korean Ginseng Root: 30 g",
+        "Sweet Glutinous Rice: 80 g",
+        "Garlic: 25 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_023",
@@ -1900,7 +2101,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Simmer in the beef broth for 15 minutes and drizzle beaten egg over before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spicy Korean Shredded Beef Soup (Yukgaejang)",
+      "desc_en": "Classic Spicy Korean Shredded Beef Soup (Yukgaejang) — Boil beef brisket until tender, reserve broth, and shred beef into long strips.",
+      "ingredients_en": [
+        "Beef Brisket / Flank: 300 g",
+        "Bean Sprouts: 120 g",
+        "Scallions: 80 g",
+        "Korean Gochugaru: 20 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "kr_pop_024",
@@ -1987,7 +2197,17 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Top with Korean ramyeon noodles and a slice of cheddar cheese; cook until noodles are tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Army Base Stew (Budae-jjigae)",
+      "desc_en": "Classic Korean Army Base Stew (Budae-jjigae) — Arrange sliced sausages, ham, kimchi, tofu, and mushrooms in a shallow hot pot.",
+      "ingredients_en": [
+        "Korean Ramyeon Noodles: 120 g",
+        "Sausage & Ham: 180 g",
+        "Napa Cabbage Kimchi: 150 g",
+        "Firm Tofu: 120 g",
+        "Korean Gochujang: 25 g",
+        "Cheddar Cheese Slice: 25 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_025",
@@ -2068,7 +2288,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss cucumbers in the spicy dressing, garnish with sesame seeds, and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Spicy Cucumber Salad (Oi-muchim)",
+      "desc_en": "Classic Korean Spicy Cucumber Salad (Oi-muchim) — Slice cucumbers into bite-sized pieces, salt lightly for 5 minutes, and drain.",
+      "ingredients_en": [
+        "Cucumber: 300 g",
+        "Korean Gochugaru: 10 g",
+        "Garlic: 10 g",
+        "Sesame Oil: 10 ml",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_026",
@@ -2149,7 +2378,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss scallions lightly with the dressing and sesame seeds; serve alongside Korean BBQ."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Scallion Salad (Pajeori)",
+      "desc_en": "Classic Korean Scallion Salad (Pajeori) — Shred scallions lengthwise into thin strips, soak in ice water for 5 minutes, and drain well.",
+      "ingredients_en": [
+        "Scallions: 150 g",
+        "Korean Gochugaru: 10 g",
+        "Soy Sauce: 15 ml",
+        "Sesame Oil: 10 ml",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_027",
@@ -2215,7 +2453,14 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Flip and cook through; serve with fresh lemon wedges."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Pan-Grilled Mackerel / Fish (Godeungeo-gui)",
+      "desc_en": "Classic Korean Pan-Grilled Mackerel / Fish (Godeungeo-gui) — Score fish skin and season evenly with sea salt and grated ginger.",
+      "ingredients_en": [
+        "Sea Bass / Mackerel Fillet: 350 g",
+        "Ginger: 10 g",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "kr_pop_028",
@@ -2298,6 +2543,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Korean Boiled Pork Wraps (Bossam)",
+      "desc_en": "Classic Korean Boiled Pork Wraps (Bossam) — Simmer whole pork belly slab in water with doenjang paste, ginger, garlic, and scallions for 45 minutes.",
+      "ingredients_en": [
+        "Pork Belly Slab: 450 g",
+        "Korean Doenjang Paste: 30 g",
+        "Napa Cabbage Kimchi: 150 g",
+        "Fresh Perilla Leaves: 30 g",
+        "Korean Ssamjang Dipping Paste: 30 g"
       ]
     },
     {
@@ -2378,7 +2632,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Whisk mustard, vinegar, sugar, soy sauce, and sesame; toss with chilled chicken and vegetables."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Chilled Chicken and Mustard Salad (Gyeojachae)",
+      "desc_en": "Classic Korean Chilled Chicken and Mustard Salad (Gyeojachae) — Poach chicken breast until tender, cool, and shred into thin strips.",
+      "ingredients_en": [
+        "Chicken Breast: 250 g",
+        "Cucumber: 100 g",
+        "Carrot: 50 g",
+        "Yellow Mustard: 15 g",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_030",
@@ -2458,7 +2721,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Toss with soy sauce, vinegar, sugar, garlic, sesame oil, and toasted sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Sweet and Sour Seaweed Salad (Miyeok-muchim)",
+      "desc_en": "Classic Korean Sweet and Sour Seaweed Salad (Miyeok-muchim) — Soak dried wakame seaweed in cold water for 10 minutes, blanch briefly, and squeeze dry.",
+      "ingredients_en": [
+        "Dried Wakame Seaweed: 30 g",
+        "Cucumber: 80 g",
+        "Soy Sauce: 20 ml",
+        "Sesame Oil: 10 ml",
+        "Sesame Seeds: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_031",
@@ -2540,6 +2812,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Korean Sliced Rice Cake Soup (Tteokguk)",
+      "desc_en": "Classic Korean Sliced Rice Cake Soup (Tteokguk) — Soak sliced oval rice cakes for 15 minutes; sauté minced beef with garlic and sesame oil in a pot.",
+      "ingredients_en": [
+        "Oval Sliced Tteok Rice Cakes: 250 g",
+        "Beef: 100 g",
+        "Egg: 1 pc",
+        "Roasted Gim Seaweed: 1 sheet",
+        "Scallions: 15 g"
       ]
     },
     {
@@ -2627,7 +2908,17 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Layer egg patty and cheddar slice on toast, sprinkle a pinch of sugar, drizzle ketchup, and close."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Street Toast (Gilgeori Toast)",
+      "desc_en": "Classic Korean Street Toast (Gilgeori Toast) — Toast sandwich bread slices in butter until golden brown.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Egg: 2 pcs",
+        "Cabbage: 60 g",
+        "Carrot: 30 g",
+        "Butter: 20 g",
+        "Cheddar Cheese: 25 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_033",
@@ -2712,6 +3003,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Korean Abalone and Mushroom Rice Porridge (Jeonbokjuk)",
+      "desc_en": "Classic Korean Abalone and Mushroom Rice Porridge (Jeonbokjuk) — Sauté soaked rice with diced shiitake mushrooms and carrots in sesame oil until fragrant.",
+      "ingredients_en": [
+        "Rice: 180 g",
+        "Shiitake Mushroom: 80 g",
+        "Carrot: 40 g",
+        "Sesame Oil: 15 ml",
+        "Sesame Seeds: 10 g"
       ]
     },
     {
@@ -2794,7 +3094,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Korean Beef Seaweed Soup (Miyeok-guk)",
+      "desc_en": "Classic Korean Beef Seaweed Soup (Miyeok-guk) — Soak dried wakame seaweed until expanded, drain, and cut into bite-sized pieces.",
+      "ingredients_en": [
+        "Dried Wakame Seaweed: 35 g",
+        "Beef: 150 g",
+        "Garlic: 15 g",
+        "Sesame Oil: 15 ml",
+        "Soy Sauce: 25 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_035",
@@ -2869,7 +3178,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Korean Bean Sprout Soup (Kongnamul-guk)",
+      "desc_en": "Classic Korean Bean Sprout Soup (Kongnamul-guk) — Simmer dried kelp in water for 8 minutes, then remove the kelp.",
+      "ingredients_en": [
+        "Bean Sprouts: 250 g",
+        "Dried Kelp Sheet: 10 g",
+        "Garlic: 10 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_036",
@@ -2940,7 +3257,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Bake at 190°C (375°F) for 15-18 minutes until golden and set."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Egg Bread (Gyeran-ppang)",
+      "desc_en": "Classic Korean Egg Bread (Gyeran-ppang) — Whisk flour, baking powder, sugar, salt, 1 egg, milk, and melted butter into a smooth batter.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "All-Purpose Flour: 120 g",
+        "Milk: 100 ml",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_037",
@@ -3019,7 +3344,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Cook until rice cakes are chewy and the sauce thickens; garnish with scallions and sesame seeds."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spicy Korean Rice Cakes (Tteokbokki)",
+      "desc_en": "Classic Spicy Korean Rice Cakes (Tteokbokki) — Bring anchovy-kelp broth to a boil and dissolve gochujang, gochugaru, sugar, and soy sauce.",
+      "ingredients_en": [
+        "Cylindrical Tteok Rice Cakes: 300 g",
+        "Korean Eomuk Fish Cake Sheets: 100 g",
+        "Korean Gochujang: 45 g",
+        "Korean Gochugaru: 10 g",
+        "Dried Soup Anchovies: 15 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_038",
@@ -3099,7 +3433,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Pan-fry until golden and crispy on both sides; serve with soy-vinegar dipping sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Seafood and Scallion Pancake (Haemul Pajeon)",
+      "desc_en": "Classic Korean Seafood and Scallion Pancake (Haemul Pajeon) — Whisk flour with ice-cold water and salt; cut scallions into long batons and chop seafood.",
+      "ingredients_en": [
+        "Scallions: 150 g",
+        "Shrimp: 100 g",
+        "Squid: 100 g",
+        "All-Purpose Flour: 120 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "kr_pop_039",
@@ -3171,7 +3514,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Pan-fry until crispy and golden on both sides, then cut into wedges to serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Korean Kimchi Pancake (Kimchijeon)",
+      "desc_en": "Classic Crispy Korean Kimchi Pancake (Kimchijeon) — Chop kimchi finely and mix with flour, kimchi juice, cold water, and gochugaru.",
+      "ingredients_en": [
+        "Napa Cabbage Kimchi: 200 g",
+        "All-Purpose Flour: 120 g",
+        "Korean Gochugaru: 5 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_040",
@@ -3243,7 +3594,15 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Dip in cold flour batter and deep-fry until crispy and golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Fried Seaweed Spring Rolls (Gimmari)",
+      "desc_en": "Classic Korean Fried Seaweed Spring Rolls (Gimmari) — Boil dangmyeon glass noodles until tender, cut short, and season with soy sauce, sesame oil, and pepper.",
+      "ingredients_en": [
+        "Dangmyeon Glass Noodles: 120 g",
+        "Roasted Gim Seaweed Sheets: 4 sheets",
+        "All-Purpose Flour: 80 g",
+        "Sesame Oil: 10 ml"
+      ]
     },
     {
       "recipe_id": "kr_pop_041",
@@ -3323,7 +3682,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Pan-fry in oil until golden brown and crispy on both sides."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Pan-Fried Dumplings (Gun-mandu)",
+      "desc_en": "Classic Korean Pan-Fried Dumplings (Gun-mandu) — Combine ground pork, squeezed mashed tofu, chopped cooked glass noodles, kimchi, garlic, and sesame oil.",
+      "ingredients_en": [
+        "Round Dumpling Wrappers: 180 g",
+        "Ground Pork: 180 g",
+        "Firm Tofu: 80 g",
+        "Dangmyeon Glass Noodles: 40 g",
+        "Napa Cabbage Kimchi: 60 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_042",
@@ -3403,7 +3771,16 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Simmer skewers in the hot broth for 5 minutes, season with soy sauce, and top with scallions."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Fish Cake Skewer Soup (Eomuk-tang)",
+      "desc_en": "Classic Korean Fish Cake Skewer Soup (Eomuk-tang) — Simmer sliced Korean radish, dried anchovies, and kelp for 15 minutes for a sweet savory broth.",
+      "ingredients_en": [
+        "Korean Eomuk Fish Cake Sheets: 250 g",
+        "Korean Mu Radish: 150 g",
+        "Dried Soup Anchovies: 15 g",
+        "Dried Kelp Sheet: 10 g",
+        "Scallions: 20 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_043",
@@ -3467,7 +3844,14 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Stuff dough balls with filling, pan-fry over low heat, and press flat until golden and syrupy inside."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Sweet Filled Pancakes (Hotteok)",
+      "desc_en": "Classic Korean Sweet Filled Pancakes (Hotteok) — Knead yeast dough with flour, sugar, and warm water; let rise for 30 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 200 g",
+        "Chopped Walnuts / Peanuts: 40 g",
+        "Ground Cinnamon: 5 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_044",
@@ -3531,7 +3915,14 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Garnish with chewy rice cake bites, vanilla ice cream, and fresh fruit."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Red Bean Shaved Ice (Patbingsu)",
+      "desc_en": "Classic Korean Red Bean Shaved Ice (Patbingsu) — Freeze sweetened milk until solid, then shave or blend into fluffy snow-like ice.",
+      "ingredients_en": [
+        "Sweet Red Bean Paste: 120 g",
+        "Milk: 250 ml",
+        "Vanilla Ice Cream: 80 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_045",
@@ -3587,7 +3978,13 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Blend until completely smooth and creamy; serve chilled."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Homemade Korean Banana Milk (Banana Uyu)",
+      "desc_en": "Classic Homemade Korean Banana Milk (Banana Uyu) — Peel and slice a ripe banana into a blender.",
+      "ingredients_en": [
+        "Milk: 250 ml",
+        "Ripe Banana: 1 pc"
+      ]
     },
     {
       "recipe_id": "kr_pop_046",
@@ -3652,7 +4049,14 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Press firmly into a lined pan, cool slightly, and slice into bars."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Sweet Crispy Rice Puffs (Gangjeong)",
+      "desc_en": "Classic Korean Sweet Crispy Rice Puffs (Gangjeong) — Simmer rice syrup, sugar, and honey in a skillet until bubbling and thick.",
+      "ingredients_en": [
+        "Puffed Crispy Rice: 150 g",
+        "Sesame Seeds: 20 g",
+        "Chopped Nuts: 30 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_047",
@@ -3716,7 +4120,14 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Chill thoroughly and serve garnished with the floating rice grains and pine nuts."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Sweet Rice Punch (Sikhye)",
+      "desc_en": "Classic Korean Sweet Rice Punch (Sikhye) — Steep cooked rice in strained barley malt water at 60°C (140°F) until rice grains float.",
+      "ingredients_en": [
+        "Cooked White Rice: 150 g",
+        "Ginger: 15 g",
+        "Pine Nuts: 10 g"
+      ]
     },
     {
       "recipe_id": "kr_pop_048",
@@ -3765,7 +4176,12 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "Stir well until dissolved and enjoy the fragrant citrus aroma."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Korean Citron Honey Tea (Yuja-cha)",
+      "desc_en": "Classic Korean Citron Honey Tea (Yuja-cha) — Spoon 2-3 tablespoons of Korean yuja citron honey marmalade into a mug or glass.",
+      "ingredients_en": [
+        "Korean Yuja Citron Marmalade: 45 g"
+      ]
     },
     {
       "title": "ข้าวผัดกิมจิหมูสามชั้นไข่ดาวเยิ้ม",
@@ -3799,6 +4215,24 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/kr/kr_mig_01.webp"
+      ],
+      "name_en": "Pork Belly Kimchi Fried Rice with Fried Egg",
+      "desc_en": "Cooking down the kimchi until its liquid evaporates before adding the rice keeps the fried rice fluffy and never soggy.",
+      "ingredients_en": [
+        "Fluffy cooked white rice: 2 cups",
+        "Thinly sliced pork belly: 100 g",
+        "Chopped napa cabbage kimchi, squeezed of excess juice: 1/2 cup",
+        "Gochujang (Korean chili paste): 1 tbsp",
+        "Sesame oil: 1 tbsp",
+        "Light soy sauce: 1 tsp",
+        "Sunny-side-up fried egg: 1 piece",
+        "Shredded roasted seaweed and toasted sesame seeds for garnish: to taste"
+      ],
+      "steps_en": [
+        "Sear the pork belly slices in a skillet until the fat renders out and the edges turn lightly browned.",
+        "Add the kimchi and gochujang, stir-frying with the pork until the liquid reduces and the mixture smells deeply savory.",
+        "Add the rice and stir-fry until every grain is coated in sauce, finishing with a splash of light soy sauce.",
+        "Turn off the heat, toss with sesame oil, plate, and top with the fried egg, shredded seaweed, and toasted sesame seeds."
       ]
     },
     {
@@ -3832,6 +4266,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/kr/kr_mig_02.webp"
+      ],
+      "name_en": "Kimchi Pork Rice Bowl with Soft-Boiled Egg",
+      "desc_en": "Stir-frying kimchi with sesame oil mellows its sharp acidity and brings out a rich, savory umami depth.",
+      "ingredients_en": [
+        "Thinly sliced fatty pork: 120 g",
+        "Napa cabbage kimchi: 1/2 cup",
+        "Sliced onion: 1/3 piece",
+        "Gochujang (1 tbsp), soy sauce (1 tsp), and sesame oil (1 tsp): 1 portion",
+        "Soft-boiled onsen egg: 1 piece",
+        "Steamed hot rice: 1.5 cups",
+        "Chopped scallions and toasted white sesame seeds: to taste"
+      ],
+      "steps_en": [
+        "Stir-fry the sliced onion and pork until cooked through, then add the kimchi and gochujang.",
+        "Season with soy sauce, cook until the glaze coats the pork, and remove from heat with a drizzle of sesame oil.",
+        "Spoon the kimchi pork over hot steamed rice and nestle the soft-boiled onsen egg in the center.",
+        "Garnish with scallions and toasted sesame seeds, ready to break the runny yolk and mix into the rice."
       ]
     },
     {
@@ -3867,6 +4318,25 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/kr/kr_mig_03.webp"
+      ],
+      "name_en": "Kimchi Stir-Fried Pork Bento",
+      "desc_en": "Single-serving recipe with approximate nutrition; since kimchi varies in saltiness and heat, taste before adding extra soy sauce.",
+      "ingredients_en": [
+        "Steamed white rice: 170 g",
+        "Thinly sliced pork loin: 120 g",
+        "Chopped kimchi: 60 g",
+        "Sliced onion: 25 g",
+        "Japanese soy sauce: 1 tsp",
+        "Sesame oil: 1/2 tsp",
+        "Rice bran oil: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat rice bran oil in a pan over medium heat and sauté the sliced onion until it begins to soften.",
+        "Add the pork loin and stir-fry until cooked through.",
+        "Add the kimchi and soy sauce, stir-frying for 2–3 minutes until heated through.",
+        "Turn off the heat, drizzle with sesame oil, and toss well to combine.",
+        "Serve over steamed rice garnished with toasted sesame seeds."
       ]
     },
     {
@@ -3901,6 +4371,24 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
       "universalCategory": "rice_noodles",
       "images": [
         "images/packs/kr/kr_mig_04.webp"
+      ],
+      "name_en": "Kimchi Stir-Fried Tofu Rice Bowl with Fried Egg",
+      "desc_en": "Single-serving recipe with approximate nutrition; kimchi saltiness and spiciness vary by brand.",
+      "ingredients_en": [
+        "Cooked Japanese rice: 180 g",
+        "Cubed firm tofu: 80 g",
+        "Chopped vegan kimchi: 40 g",
+        "Egg: 1 piece",
+        "Rice bran oil: 1 tsp",
+        "Toasted white sesame seeds: 1/2 tsp",
+        "Chopped scallions: 4 g"
+      ],
+      "steps_en": [
+        "Check the kimchi label to confirm it contains no fish sauce or seafood if preparing a vegetarian meal.",
+        "Pan-sear the tofu cubes over medium heat until golden on the outside.",
+        "Add the kimchi and stir-fry until heated through.",
+        "Fry the egg in a separate pan until the whites are set to your liking.",
+        "Scoop rice into a bowl, top with the tofu, kimchi, and fried egg, and garnish with sesame seeds and scallions."
       ]
     },
     {
@@ -3950,7 +4438,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ใส่หัวไชเท้า แครอท เกาลัด และแปะก๊วย เคี่ยวต่ออีก 20-25 นาทีจนเนื้อเปื่อยนุ่มและซอสเงาข้น",
         "ตักใส่หม้อดิน โรยต้นหอมและงาขาวคั่ว เสิร์ฟร้อนๆ"
       ],
-      "note": "เมนูฉลองเทศกาลเกาหลี เนื้อซี่โครงเปื่อยนุ่มหวานเค็มกลมกล่อม ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+      "note": "เมนูฉลองเทศกาลเกาหลี เนื้อซี่โครงเปื่อยนุ่มหวานเค็มกลมกล่อม ไม่เผ็ด เหมาะกับผู้สูงอายุ",
+      "name_en": "Galbijjim",
+      "desc_en": "A festive Korean braised beef short rib dish, sweet-savory, completely mild, and fork-tender for seniors.",
+      "ingredients_en": [
+        "Beef short ribs, cut into chunks: 400 g",
+        "Daikon radish and carrots, cut into rounded chunks: 150 g",
+        "Cooked chestnuts and ginkgo nuts: 60 g",
+        "Korean soy sauce (ganjang): 4 tbsp",
+        "Grated Asian pear or honey: 3 tbsp",
+        "Minced garlic, sesame oil, and broth: 400 ml"
+      ],
+      "steps_en": [
+        "Soak the beef short ribs in cold water for 20 minutes, then parboil for 5 minutes to clean impurities.",
+        "Combine Korean soy sauce, grated pear, garlic, sesame oil, and broth in a pot, add the ribs, and braise over low heat for 45 minutes.",
+        "Add the radish, carrots, chestnuts, and ginkgo nuts, simmering for 20–25 more minutes until the meat is fall-off-the-bone tender and the glaze is glossy.",
+        "Transfer to an earthenware pot, garnish with scallions and toasted sesame seeds, and serve piping hot."
+      ]
     },
     {
       "recipe_id": "kr_pop_050",
@@ -3997,7 +4501,22 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ใส่ขาหมูตุ๋นไฟอ่อน 75-90 นาทีจนหนังนุ่มเด้งและเนื้อเปื่อยเข้าเนื้อ",
         "พักให้คลายร้อนแล้วหั่นชิ้นบาง เสิร์ฟคู่ผักสด กระเทียมฝาน และซอสซัมจัง"
       ],
-      "note": "ขาหมูตุ๋นสไตล์เกาหลีหนังนุ่มหนึบหอมเครื่องเทศอ่อนๆ ไม่เผ็ด"
+      "note": "ขาหมูตุ๋นสไตล์เกาหลีหนังนุ่มหนึบหอมเครื่องเทศอ่อนๆ ไม่เผ็ด",
+      "name_en": "Jokbal",
+      "desc_en": "Korean-style braised pork trotters with supple, gelatinous skin and gentle aromatic spices without any heat.",
+      "ingredients_en": [
+        "Boneless pork trotters or hocks: 500 g",
+        "Korean soy sauce and mirin: 4 tbsp each",
+        "Brown sugar or corn syrup: 3 tbsp",
+        "Sliced ginger, garlic, scallions, star anise, and cinnamon: a small amount each",
+        "Ssamjang and salted shrimp sauce (saeujeot) for dipping: to taste"
+      ],
+      "steps_en": [
+        "Parboil the pork trotters in boiling water for 10 minutes, then rinse clean.",
+        "Simmer a braising broth with soy sauce, mirin, brown sugar, ginger, garlic, and aromatics until fragrant.",
+        "Add the pork trotters and braise over low heat for 75–90 minutes until the skin is supple and the meat is deeply flavorful and tender.",
+        "Let cool slightly before slicing thinly; serve with fresh leafy wraps, sliced garlic, and ssamjang."
+      ]
     },
     {
       "recipe_id": "kr_pop_051",
@@ -4046,7 +4565,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ใส่วุ้นเส้นเกาหลีลงเคี่ยวอีก 5-7 นาทีจนเส้นเหนียวนุ่มดูดซับซอสดำจนเงาสวย",
         "ตักใส่จาน โรยต้นหอมและงาขาว เสิร์ฟร้อนๆ"
       ],
-      "note": "เมนูดังจากเมืองอันดง รสหวานเค็มกลมกล่อม ไก่และผักเปื่อยนุ่ม หากไม่ใส่พริกแห้งจะเหมาะมากสำหรับผู้สูงอายุและเด็ก"
+      "note": "เมนูดังจากเมืองอันดง รสหวานเค็มกลมกล่อม ไก่และผักเปื่อยนุ่ม หากไม่ใส่พริกแห้งจะเหมาะมากสำหรับผู้สูงอายุและเด็ก",
+      "name_en": "Jjimdak",
+      "desc_en": "Andong's famous sweet-and-savory braised chicken with tender vegetables and chewy glass noodles—omit the dried chilies for a senior- and kid-friendly meal.",
+      "ingredients_en": [
+        "Boneless chicken thighs, cut into pieces: 350 g",
+        "Korean sweet potato glass noodles (dangmyeon), soaked: 100 g",
+        "Potatoes and carrots, cut into large chunks: 150 g",
+        "Onion wedges: 60 g",
+        "Korean soy sauce, honey, minced garlic, and broth: 350 ml",
+        "Whole dried chilies (optional): 2 pieces"
+      ],
+      "steps_en": [
+        "Simmer the chicken thighs with broth, Korean soy sauce, honey, and minced garlic for about 15 minutes.",
+        "Add the potatoes, carrots, and onion wedges, braising for 15 more minutes until the vegetables are tender.",
+        "Stir in the soaked glass noodles and cook for 5–7 minutes until chewy and coated in the glossy dark sauce.",
+        "Plate, sprinkle with chopped scallions and sesame seeds, and serve hot."
+      ]
     },
     {
       "recipe_id": "kr_pop_052",
@@ -4095,7 +4630,22 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ใส่ปลาหมึกสายและซอสเผ็ดลงผัดเร็วๆ 2-3 นาทีจนปลาหมึกสุกเด้งไม่เหนียว",
         "ใส่ต้นหอมและเหยาะน้ำมันงา คลุกแล้วตักเสิร์ฟโรยงาขาวคู่ข้าวสวยร้อนๆ"
       ],
-      "note": "ปลาหมึกสายผัดซอสโคชูจังรสเผ็ดร้อนถูกใจคนชอบรสจัด ผัดไฟแรงเร็วๆ เพื่อให้เนื้อเด้งกรอบ"
+      "note": "ปลาหมึกสายผัดซอสโคชูจังรสเผ็ดร้อนถูกใจคนชอบรสจัด ผัดไฟแรงเร็วๆ เพื่อให้เนื้อเด้งกรอบ",
+      "name_en": "Nakji Bokkeum",
+      "desc_en": "Fiery gochujang stir-fried octopus cooked quickly over high heat so the tentacles stay crisp and tender.",
+      "ingredients_en": [
+        "Cleaned octopus, cut into bite-sized pieces: 280 g",
+        "Chopped onion, cabbage, carrot, and scallions: 150 g",
+        "Gochujang and Korean chili flakes (gochugaru): 1.5 tbsp each",
+        "Korean soy sauce, syrup, minced garlic, and sesame oil: 1 tbsp each",
+        "Toasted white sesame seeds for garnish: to taste"
+      ],
+      "steps_en": [
+        "Mix the gochujang, gochugaru, soy sauce, syrup, and minced garlic into a stir-fry sauce.",
+        "Stir-fry the onion, carrot, and cabbage in a hot skillet until just tender.",
+        "Add the octopus and spicy sauce, stir-frying rapidly for 2–3 minutes until the octopus is snappy and cooked without turning tough.",
+        "Toss in the scallions and a drizzle of sesame oil, garnish with sesame seeds, and serve with hot rice."
+      ]
     },
     {
       "recipe_id": "kr_pop_053",
@@ -4146,7 +4696,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "จัดเส้นลงชาม เทน้ำซุปถั่วเหลืองเย็นจัดราดให้ท่วม",
         "วางแตงกวาซอยและโรยงาขาวคั่วด้านบน เสิร์ฟเย็นชื่นใจ"
       ],
-      "note": "เมนูคลายร้อนเพื่อสุขภาพของเกาหลี โปรตีนพืชสูง หอมมันถั่วเหลือง ไม่เผ็ดและย่อยง่ายมากสำหรับผู้สูงอายุ"
+      "note": "เมนูคลายร้อนเพื่อสุขภาพของเกาหลี โปรตีนพืชสูง หอมมันถั่วเหลือง ไม่เผ็ดและย่อยง่ายมากสำหรับผู้สูงอายุ",
+      "name_en": "Kongguksu",
+      "desc_en": "A cooling, high-protein Korean summer noodle dish in velvety chilled soybean broth—completely mild and easy to digest for seniors.",
+      "ingredients_en": [
+        "Korean somyeon wheat noodles: 120 g",
+        "Cooked soybeans (or silken tofu with unsweetened soy milk): 250 g",
+        "Toasted white sesame seeds and roasted peanuts or pine nuts: 2 tbsp",
+        "Ice-cold water: 200 ml",
+        "Julienne cucumber and toasted sesame seeds for garnish: to taste",
+        "Sea salt: a pinch"
+      ],
+      "steps_en": [
+        "Blend the cooked soybeans, toasted sesame seeds, and ice-cold water until velvety and creamy, season lightly with salt, and chill thoroughly.",
+        "Boil the somyeon noodles until tender, rinse under ice-cold water, and drain well for a springy bite.",
+        "Place the noodles in a bowl and pour the chilled soybean broth generously over top.",
+        "Top with julienned cucumber and toasted sesame seeds and serve refreshingly cold."
+      ]
     },
     {
       "recipe_id": "kr_pop_054",
@@ -4196,7 +4762,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "เติมน้ำซุปต้มเดือด 5-7 นาทีจนหอยเปิดฝาและน้ำซุปเข้มข้นหอมทะเล",
         "ลวกเส้นบะหมี่ใส่ชาม ตักน้ำซุปซีฟู้ดร้อนๆ ราดเสิร์ฟทันที"
       ],
-      "note": "บะหมี่ทะเลซุปแดงรสเข้มข้นหอมกลิ่นกระทะคู่ขวัญกับจาจังมยอน"
+      "note": "บะหมี่ทะเลซุปแดงรสเข้มข้นหอมกลิ่นกระทะคู่ขวัญกับจาจังมยอน",
+      "name_en": "Jjamppong",
+      "desc_en": "Korean-Chinese spicy red seafood noodle soup with smoky wok aroma, the classic counterpart to jjajangmyeon.",
+      "ingredients_en": [
+        "Fresh Korean wheat noodles: 160 g",
+        "Fresh shrimp, squid, and mussels: 200 g",
+        "Chopped cabbage, onion, zucchini, and shiitake mushrooms: 120 g",
+        "Korean chili flakes (gochugaru): 2 tbsp",
+        "Minced garlic, minced ginger, and Korean soy sauce: 1 tbsp each",
+        "Chicken or dashi broth: 550 ml"
+      ],
+      "steps_en": [
+        "Sauté the garlic, ginger, and gochugaru in oil over low heat to infuse a fragrant red chili oil.",
+        "Crank up the heat, add the vegetables and seafood, sear until smoky, and splash in the Korean soy sauce.",
+        "Pour in the broth and boil for 5–7 minutes until the mussels open and the soup is richly briny.",
+        "Blanch the noodles, place in a bowl, and ladle the piping hot seafood broth over top to serve immediately."
+      ]
     },
     {
       "recipe_id": "kr_pop_055",
@@ -4246,7 +4828,22 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ตั้งกระทะไฟกลางใส่น้ำมันเล็กน้อย ตักมันฝรั่งแผ่เป็นแผ่นกลมบาง",
         "จี่ข้างละ 3-4 นาทีจนขอบเหลืองกรอบและด้านในนุ่มหนึบ เสิร์ฟคู่ซอสซีอิ๊วเปรี้ยวเค็ม"
       ],
-      "note": "แพนเค้กมันฝรั่งเกาหลีแท้ๆ กรอบนอกนุ่มหนึบใน รสอ่อนหอมมันฝรั่ง ไม่เผ็ด เหมาะกับทุกวัย"
+      "note": "แพนเค้กมันฝรั่งเกาหลีแท้ๆ กรอบนอกนุ่มหนึบใน รสอ่อนหอมมันฝรั่ง ไม่เผ็ด เหมาะกับทุกวัย",
+      "name_en": "Gamja Jeon",
+      "desc_en": "Authentic Korean potato pancakes with crisp golden edges, a chewy center, and pure potato sweetness suitable for all ages.",
+      "ingredients_en": [
+        "Peeled potatoes, finely grated or coarsely blended: 300 g",
+        "Finely grated onion: 30 g",
+        "Potato starch (or settled starch from grated potato liquid): 2 tbsp",
+        "Fine salt: 1/4 tsp",
+        "Vegetable oil for pan-frying and soy-vinegar dipping sauce: as needed"
+      ],
+      "steps_en": [
+        "Squeeze the liquid from the grated potatoes into a bowl and let sit for 5 minutes; pour off the clear water and mix the settled white starch back into the potato pulp.",
+        "Stir in the grated onion and salt until evenly combined.",
+        "Heat a thin film of oil in a skillet over medium heat and spread the potato mixture into thin rounds.",
+        "Pan-fry for 3–4 minutes per side until golden and crisp at the edges and chewy inside; serve with tangy soy dipping sauce."
+      ]
     },
     {
       "recipe_id": "kr_pop_056",
@@ -4293,7 +4890,22 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "เทแป้งปิดทับด้านบน ปิดพิมพ์ย่างไฟอ่อนข้างละ 2-3 นาทีจนสีเหลืองทองหอมกรอบ",
         "แคะออกจากพิมพ์เสิร์ฟอุ่นๆ หอมแป้งและถั่วแดงกวน"
       ],
-      "note": "ขนมฤดูหนาวสุดฮิตข้างทางในเกาหลี เนื้อแป้งนุ่มหอมไส้ถั่วแดงกวนหวานละมุน"
+      "note": "ขนมฤดูหนาวสุดฮิตข้างทางในเกาหลี เนื้อแป้งนุ่มหอมไส้ถั่วแดงกวนหวานละมุน",
+      "name_en": "Bungeoppang",
+      "desc_en": "Korea's beloved winter street snack featuring crisp, warm fish-shaped pastries filled with gently sweet red bean paste.",
+      "ingredients_en": [
+        "All-purpose flour: 120 g",
+        "Glutinous rice flour (for a crisp, chewy crust): 20 g",
+        "Whole milk and egg: 150 ml / 1 piece",
+        "Granulated sugar, baking powder, and melted butter: 1 tbsp each",
+        "Coarse sweet red bean paste: 120 g"
+      ],
+      "steps_en": [
+        "Whisk together the all-purpose flour, glutinous rice flour, baking powder, sugar, milk, egg, and melted butter into a smooth batter.",
+        "Preheat a fish-shaped or waffle mold, brush lightly with butter, fill halfway with batter, and spoon sweet red bean paste into the center.",
+        "Cover with more batter, close the mold, and cook over low heat for 2–3 minutes per side until golden and crisp.",
+        "Unmold and serve warm while fragrant and crisp."
+      ]
     },
     {
       "recipe_id": "kr_pop_057",
@@ -4340,7 +4952,22 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "ทอดในน้ำมันไฟอ่อน (140-150°C) จนสุกฟูสีน้ำตาลทองแล้วพักสะเด็ดน้ำมัน",
         "นำขนมลงแช่ในน้ำเชื่อมน้ำผึ้งขิงอุ่นๆ 15-20 นาทีให้ฉ่ำเงาแล้วพักบนตะแกรง"
       ],
-      "note": "ขนมชาววังเกาหลีโบราณที่กำลังฮิตทั่วเอเชีย เนื้อหนึบหอมน้ำผึ้ง น้ำมันงา และขิงอ่อนๆ"
+      "note": "ขนมชาววังเกาหลีโบราณที่กำลังฮิตทั่วเอเชีย เนื้อหนึบหอมน้ำผึ้ง น้ำมันงา และขิงอ่อนๆ",
+      "name_en": "Yakgwa",
+      "desc_en": "A traditional Korean royal pastry enjoying viral popularity across Asia, chewy and glazed in warm ginger-infused honey.",
+      "ingredients_en": [
+        "All-purpose flour: 180 g",
+        "Toasted sesame oil: 3 tbsp",
+        "Rice syrup or ginger-infused honey: 100 ml",
+        "Ground cinnamon: 1/4 tsp",
+        "Oil for frying: as needed"
+      ],
+      "steps_en": [
+        "Rub the toasted sesame oil into the flour until crumbly, then knead together with the ginger honey and cinnamon until a cohesive dough forms.",
+        "Press the dough into flower molds or cut into bite-sized squares, and prick small holes with a fork to prevent puffing.",
+        "Fry in oil over low heat (140–150°C) until puffed and golden brown, then drain.",
+        "Soak the warm pastries in warm ginger-honey syrup for 15–20 minutes until glossy and saturated, then drain on a wire rack."
+      ]
     },
     {
       "recipe_id": "kr_pop_058",
@@ -4388,7 +5015,23 @@ window.KITCHSYNC_PACK_DATA.kr_popular = {
         "เทแป้งปิดทับแล้วอบหรือย่างไฟอ่อนจนสุกหอมสีน้ำตาลทองทั้งสองด้าน",
         "เสิร์ฟอุ่นๆ เนื้อเค้กนุ่มหอมเข้ากันดีกับถั่วแดงและวอลนัตกรุบมัน"
       ],
-      "note": "ของฝากขึ้นชื่อประจำเมืองชอนัน เนื้อเค้กนุ่มฟู ไส้ถั่วแดงหวานพอดีคำ เหมาะทานคู่ชาอุ่นๆ"
+      "note": "ของฝากขึ้นชื่อประจำเมืองชอนัน เนื้อเค้กนุ่มฟู ไส้ถั่วแดงหวานพอดีคำ เหมาะทานคู่ชาอุ่นๆ",
+      "name_en": "Hodugwaja",
+      "desc_en": "Cheonan's famous walnut-shaped cakes with fluffy sponge batter, sweet red bean filling, and crunchy walnuts—ideal alongside warm tea.",
+      "ingredients_en": [
+        "Cake flour: 120 g",
+        "Eggs: 2 pieces",
+        "Granulated sugar and melted butter: 30 g each",
+        "Whole milk and baking powder: 40 ml / 1/2 tsp",
+        "Smooth sweet red bean paste: 120 g",
+        "Roasted chopped walnuts: 40 g"
+      ],
+      "steps_en": [
+        "Beat the eggs and sugar until pale and fluffy, then fold in the sifted cake flour, baking powder, milk, and melted butter until smooth.",
+        "Preheat a walnut-shaped mold or takoyaki pan, fill halfway with batter, and place red bean paste and roasted walnut pieces in the center.",
+        "Top with more batter and bake or griddle over low heat until golden brown and fragrant on both sides.",
+        "Serve warm for tender sponge cake paired with smooth red bean and nutty walnut crunch."
+      ]
     }
   ]
 };

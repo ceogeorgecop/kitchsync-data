@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: French (144 recipes)
-// Place this file at assets/data/packs/fr_popular.js
+// KitchSync Master Pack: fr_popular (149 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.fr_popular = {
   "pack_id": "french_popular_48",
@@ -76,7 +75,14 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Once the exterior sets while the inside remains soft and creamy, fold into an oval roll and serve immediately."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic French Omelette",
+      "desc_en": "Classic Classic French Omelette — Whisk eggs with salt, white pepper, and finely chopped fresh tarragon until completely smooth.",
+      "ingredients_en": [
+        "Egg: 3 pcs",
+        "Butter: 20 g",
+        "Fresh Tarragon: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_002",
@@ -163,7 +169,17 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Top with béchamel sauce and extra Gruyère, then bake at 200°C (400°F) for 8-10 minutes until golden and bubbly."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Croque Monsieur",
+      "desc_en": "Classic Croque Monsieur — Make a quick béchamel sauce with butter, flour, milk, and a pinch of nutmeg.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Ham: 80 g",
+        "Gruyère Cheese: 60 g",
+        "Dijon Mustard: 10 g",
+        "Butter: 20 g",
+        "Milk: 80 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_003",
@@ -242,7 +258,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Crown the hot sandwich with the fried egg and serve immediately."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Croque Madame",
+      "desc_en": "Classic Croque Madame — Prepare and bake a Gruyère and ham sandwich topped with béchamel until golden and bubbly.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Ham: 80 g",
+        "Gruyère Cheese: 60 g",
+        "Egg: 1 pc",
+        "Dijon Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_004",
@@ -322,7 +347,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Add mussels, cover, and steam over high heat for 4-5 minutes until all shells open."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Moules Marinières (White Wine Mussels)",
+      "desc_en": "Classic Moules Marinières (White Wine Mussels) — Scrub fresh mussels clean and remove beards.",
+      "ingredients_en": [
+        "Mussels: 500 g",
+        "Dry White Wine: 150 ml",
+        "French Shallots: 40 g",
+        "Garlic: 15 g",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_005",
@@ -398,7 +432,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "French Herb Scrambled Eggs",
+      "desc_en": "Classic French Herb Scrambled Eggs — Whisk eggs with salt, pepper, and cold diced butter.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Butter: 25 g",
+        "Crème Fraîche: 30 g",
+        "Fresh Tarragon: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_006",
@@ -469,7 +511,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Fold in thin slices of French ham and sliced cornichons, then serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Jambon-Beurre (Parisian Ham & Butter Baguette)",
+      "desc_en": "Classic Jambon-Beurre (Parisian Ham & Butter Baguette) — Slice a crisp French baguette lengthwise without cutting all the way through.",
+      "ingredients_en": [
+        "French Baguette: 150 g",
+        "Butter: 30 g",
+        "Ham: 80 g",
+        "Cornichons / Pickles: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_007",
@@ -549,7 +599,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Layer potatoes in a buttered dish, pour cream over, top with Gruyère, and bake at 180°C (350°F) for 45 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Gratin Dauphinois (Creamy Potato Gratin)",
+      "desc_en": "Classic Gratin Dauphinois (Creamy Potato Gratin) — Thinly slice peeled potatoes into even rounds without rinsing.",
+      "ingredients_en": [
+        "Potato: 500 g",
+        "Heavy Cream: 250 ml",
+        "Garlic: 15 g",
+        "Gruyère Cheese: 80 g",
+        "Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_008",
@@ -632,7 +691,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic Provençal Ratatouille",
+      "desc_en": "Classic Classic Provençal Ratatouille — Simmer a base sauce of crushed tomatoes, onion, garlic, bell pepper, and Herbes de Provence in an ovenproof pan.",
+      "ingredients_en": [
+        "Eggplant: 200 g",
+        "Tomato: 250 g",
+        "Bell Pepper: 150 g",
+        "Herbes de Provence: 8 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_009",
@@ -712,7 +780,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Layer potatoes, bacon mixture, and sliced Brie/Reblochon cheese; bake at 200°C (400°F) for 20 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tartiflette (Potato, Bacon & Cheese Bake)",
+      "desc_en": "Classic Tartiflette (Potato, Bacon & Cheese Bake) — Boil potatoes until tender, peel, and slice into thick rounds.",
+      "ingredients_en": [
+        "Potato: 450 g",
+        "Bacon: 150 g",
+        "Brie / Reblochon Cheese: 150 g",
+        "Onion: 100 g",
+        "Dry White Wine: 80 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_010",
@@ -792,7 +869,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Cover and simmer gently for 18-20 minutes until fluffy and aromatic."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Mushroom and Herb Rice Pilaf",
+      "desc_en": "Classic French Mushroom and Herb Rice Pilaf — Sauté minced shallots and sliced mushrooms in butter with fresh thyme until golden.",
+      "ingredients_en": [
+        "Rice: 200 g",
+        "Mushroom: 150 g",
+        "French Shallots: 40 g",
+        "Fresh Thyme: 5 g",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_011",
@@ -872,7 +958,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Gradually fold in shredded cheese, stirring vigorously until elastic and glossy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Cheesy Mashed Potatoes (Aligot)",
+      "desc_en": "Classic French Cheesy Mashed Potatoes (Aligot) — Boil peeled potatoes with garlic cloves until tender, then press through a ricer until silky.",
+      "ingredients_en": [
+        "Potato: 450 g",
+        "Gruyère & Tomme Cheese: 180 g",
+        "Butter: 40 g",
+        "Heavy Cream: 80 ml",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_012",
@@ -951,7 +1046,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Toss cooked fettuccine into the creamy mushroom sauce and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Creamy Mushroom Pasta",
+      "desc_en": "Classic French Creamy Mushroom Pasta — Sauté sliced mushrooms and minced shallots in butter with fresh thyme until deeply browned.",
+      "ingredients_en": [
+        "Fettuccine Pasta: 200 g",
+        "Mushroom: 200 g",
+        "Dry White Wine: 80 ml",
+        "Crème Fraîche: 100 g",
+        "Fresh Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_013",
@@ -1016,7 +1120,14 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Simmer fresh orange juice, zest strips, caramelized sugar, and vinegar into a glaze; spoon over sliced duck."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Duck Breast with Orange Sauce (Canard à l'Orange)",
+      "desc_en": "Classic Duck Breast with Orange Sauce (Canard à l'Orange) — Score duck breast skin in a crosshatch pattern, season with salt, and render skin-side down until crisp.",
+      "ingredients_en": [
+        "Duck Breast: 350 g",
+        "Orange: 2 pcs",
+        "Vinegar: 15 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_014",
@@ -1089,7 +1200,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Sauté minced shallots in the pan drippings, add stock and heavy cream, and reduce into a velvety sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Steak au Poivre (Peppercorn Steak)",
+      "desc_en": "Classic Steak au Poivre (Peppercorn Steak) — Press coarsely cracked black peppercorns onto both sides of the beef steak.",
+      "ingredients_en": [
+        "Beef Steak: 300 g",
+        "Heavy Cream: 100 ml",
+        "Butter: 25 g",
+        "French Shallots: 25 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_015",
@@ -1160,7 +1279,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Brown remaining butter in the skillet until nutty, squeeze in fresh lemon juice, and pour over the fish."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Fish Meunière (Pan-Seared Fish in Brown Butter)",
+      "desc_en": "Classic Fish Meunière (Pan-Seared Fish in Brown Butter) — Pat fish fillets dry, season, and dredge lightly in flour, shaking off excess.",
+      "ingredients_en": [
+        "Sea Bass Fillet: 300 g",
+        "Butter: 45 g",
+        "Lemon: 1 pc",
+        "All-Purpose Flour: 30 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_016",
@@ -1241,7 +1368,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Whisk Dijon mustard, crème fraîche, and chopped tarragon into the pan juices until creamy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Dijon Mustard Chicken",
+      "desc_en": "Classic French Dijon Mustard Chicken — Sear seasoned chicken breasts in a skillet until golden brown on both sides.",
+      "ingredients_en": [
+        "Chicken Breast: 350 g",
+        "Dijon Mustard: 30 g",
+        "Crème Fraîche: 100 g",
+        "Dry White Wine: 80 ml",
+        "Fresh Tarragon: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_017",
@@ -1321,7 +1457,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Grill steak to desired doneness, top with a slice of herb butter, and serve with fries."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Steak Frites with Herb Butter",
+      "desc_en": "Classic Steak Frites with Herb Butter — Mix softened butter with minced shallot, tarragon, parsley, and lemon juice; chill.",
+      "ingredients_en": [
+        "Beef Steak: 300 g",
+        "Potato: 300 g",
+        "Butter: 40 g",
+        "Fresh Tarragon: 5 g",
+        "French Shallots: 15 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_018",
@@ -1403,7 +1548,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Roast at 200°C (400°F) for 30-35 minutes until golden brown and juicy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Provençal Herb Roasted Chicken",
+      "desc_en": "Classic Provençal Herb Roasted Chicken — Marinate chicken pieces with olive oil, Herbes de Provence, crushed garlic, and lemon slices.",
+      "ingredients_en": [
+        "Chicken: 400 g",
+        "Herbes de Provence: 10 g",
+        "Lemon: 1 pc",
+        "Garlic: 20 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_019",
@@ -1482,7 +1636,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Ladle into ovenproof bowls, top with toasted baguette slices and Gruyère cheese, and broil until bubbly."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Onion Soup (Soupe à l'Oignon)",
+      "desc_en": "Classic French Onion Soup (Soupe à l'Oignon) — Slowly caramelize thinly sliced onions in butter over low heat for 30 minutes until deep golden brown.",
+      "ingredients_en": [
+        "Onion: 500 g",
+        "Butter: 40 g",
+        "Dry White Wine: 100 ml",
+        "French Baguette: 80 g",
+        "Gruyère Cheese: 100 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_020",
@@ -1570,7 +1733,17 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Stir in sautéed mushrooms during the final 15 minutes until the sauce is rich and glossy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Beef Bourguignon",
+      "desc_en": "Classic Beef Bourguignon — Crisp diced bacon, remove, and sear large beef chunks in the drippings until browned.",
+      "ingredients_en": [
+        "Beef: 500 g",
+        "French Red Cooking Wine: 300 ml",
+        "Bacon: 100 g",
+        "Mushroom: 150 g",
+        "Carrot: 100 g",
+        "Fresh Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_021",
@@ -1650,7 +1823,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Cover and braise gently for 40-45 minutes until tender and deeply flavorful."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Coq au Vin (Braised Chicken in Red Wine)",
+      "desc_en": "Classic Coq au Vin (Braised Chicken in Red Wine) — Crisp bacon and brown chicken pieces in a Dutch oven.",
+      "ingredients_en": [
+        "Chicken: 450 g",
+        "French Red Cooking Wine: 250 ml",
+        "Bacon: 80 g",
+        "Mushroom: 150 g",
+        "Fresh Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_022",
@@ -1741,7 +1923,17 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic French Bouillabaisse",
+      "desc_en": "Classic Classic French Bouillabaisse — Sauté sliced leeks, onion, garlic, tomatoes, and orange peel in olive oil.",
+      "ingredients_en": [
+        "Sea Bass: 250 g",
+        "Shrimp: 150 g",
+        "Mussels: 200 g",
+        "Fresh Leeks: 80 g",
+        "Tomato: 150 g",
+        "Extra Virgin Olive Oil: 30 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_023",
@@ -1815,7 +2007,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Potage Parmentier (Leek and Potato Soup)",
+      "desc_en": "Classic Potage Parmentier (Leek and Potato Soup) — Slice white and light-green parts of leeks and sweat gently in butter until soft.",
+      "ingredients_en": [
+        "Fresh Leeks: 250 g",
+        "Potato: 300 g",
+        "Butter: 30 g",
+        "Heavy Cream: 80 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_024",
@@ -1896,7 +2096,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Nestle browned sausages into the beans and bake at 160°C (325°F) for 45 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French White Bean and Sausage Cassoulet",
+      "desc_en": "Classic French White Bean and Sausage Cassoulet — Brown sausages and bacon in an ovenproof casserole dish, then set aside.",
+      "ingredients_en": [
+        "Cannellini White Beans: 300 g",
+        "Sausage: 200 g",
+        "Bacon: 80 g",
+        "Fresh Thyme: 5 g",
+        "Garlic: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_025",
@@ -1985,7 +2194,17 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Drizzle with a classic French Dijon vinaigrette."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Salade Niçoise",
+      "desc_en": "Classic Salade Niçoise — Boil potatoes and eggs, and blanch green beans until crisp-tender.",
+      "ingredients_en": [
+        "Canned Tuna: 150 g",
+        "Egg: 2 pcs",
+        "Green Beans: 100 g",
+        "Potato: 150 g",
+        "Black Olives: 40 g",
+        "Dijon Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_026",
@@ -2064,7 +2283,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Arrange the warm goat cheese toasts over the dressed greens and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Warm Goat Cheese Salad (Salade de Chèvre Chaud)",
+      "desc_en": "Classic Warm Goat Cheese Salad (Salade de Chèvre Chaud) — Top sliced baguette rounds with thick medallions of goat cheese and bake at 200°C (400°F) for 6-8 minutes.",
+      "ingredients_en": [
+        "Goat Cheese: 120 g",
+        "French Baguette: 80 g",
+        "Mixed Salad Greens: 120 g",
+        "Walnut Halves: 30 g",
+        "Dijon Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_027",
@@ -2137,7 +2365,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Toss grated carrots with the vinaigrette and let marinate 15 minutes before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Grated Carrot Salad (Carottes Râpées)",
+      "desc_en": "Classic French Grated Carrot Salad (Carottes Râpées) — Peel and finely grate fresh carrots.",
+      "ingredients_en": [
+        "Carrot: 300 g",
+        "Dijon Mustard: 10 g",
+        "Lemon: 1 pc",
+        "Extra Virgin Olive Oil: 25 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_028",
@@ -2218,7 +2454,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Garnish with fresh chopped herbs and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Puy Lentil Salad",
+      "desc_en": "Classic French Puy Lentil Salad — Simmer French green Puy lentils in water for 20 minutes until tender yet firm; drain.",
+      "ingredients_en": [
+        "French Green Puy Lentils: 200 g",
+        "French Shallots: 30 g",
+        "Carrot: 60 g",
+        "Dijon Mustard: 15 g",
+        "Extra Virgin Olive Oil: 25 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_029",
@@ -2298,7 +2543,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Toss greens with bacon, croutons, and warm dressing, then top with poached eggs."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Salade Lyonnaise (Frisée Salad with Bacon & Poached Egg)",
+      "desc_en": "Classic Salade Lyonnaise (Frisée Salad with Bacon & Poached Egg) — Crisp thick-cut bacon lardons, remove, and whisk vinegar and Dijon mustard into the warm drippings.",
+      "ingredients_en": [
+        "Frisée / Romaine Lettuce: 150 g",
+        "Bacon: 80 g",
+        "Egg: 2 pcs",
+        "French Baguette: 50 g",
+        "Dijon Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_030",
@@ -2373,7 +2627,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Poached Leeks Vinaigrette (Poireaux Vinaigrette)",
+      "desc_en": "Classic Poached Leeks Vinaigrette (Poireaux Vinaigrette) — Clean halved leeks thoroughly and poach or steam for 10-12 minutes until tender.",
+      "ingredients_en": [
+        "Fresh Leeks: 350 g",
+        "Dijon Mustard: 15 g",
+        "Extra Virgin Olive Oil: 30 ml",
+        "French Shallots: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_031",
@@ -2452,7 +2714,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Whisk eggs, heavy cream, salt, pepper, and nutmeg; pour in and bake at 180°C (350°F) for 30 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Quiche Lorraine",
+      "desc_en": "Classic Classic Quiche Lorraine — Line a tart pan with pie crust and blind-bake at 190°C (375°F) for 12 minutes.",
+      "ingredients_en": [
+        "Unbaked Pie Crust: 1 sheet",
+        "Bacon: 150 g",
+        "Gruyère Cheese: 100 g",
+        "Egg: 3 pcs",
+        "Heavy Cream: 200 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_032",
@@ -2531,7 +2802,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Pour over whisked eggs and heavy cream, then bake at 180°C (350°F) for 30 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spinach and Goat Cheese Quiche",
+      "desc_en": "Classic Spinach and Goat Cheese Quiche — Sauté spinach until wilted, cool, and squeeze out excess moisture.",
+      "ingredients_en": [
+        "Unbaked Pie Crust: 1 sheet",
+        "Spinach: 150 g",
+        "Goat Cheese: 100 g",
+        "Egg: 3 pcs",
+        "Heavy Cream: 200 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_033",
@@ -2610,7 +2890,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Cover briefly until egg whites set, then fold the four edges inward into a square."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Savory French Galette Complète (Ham, Cheese & Egg Crepe)",
+      "desc_en": "Classic Savory French Galette Complète (Ham, Cheese & Egg Crepe) — Whisk batter, rest 15 minutes, and ladle thinly onto a buttered crepe pan.",
+      "ingredients_en": [
+        "Buckwheat / All-Purpose Flour: 120 g",
+        "Ham: 80 g",
+        "Gruyère Cheese: 60 g",
+        "Egg: 2 pcs",
+        "Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_034",
@@ -2681,7 +2970,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Proof until puffy, brush with egg wash, and bake at 200°C (400°F) for 18 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic French Butter Croissants",
+      "desc_en": "Classic Classic French Butter Croissants — Knead dough, chill, and laminate with a cold slab of high-fat butter through three folds.",
+      "ingredients_en": [
+        "All-Purpose Flour: 300 g",
+        "Butter: 150 g",
+        "Milk: 150 ml",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "fr_pop_035",
@@ -2752,7 +3049,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Shape into a loaf pan, proof again, brush with egg wash, and bake at 180°C (350°F) for 25-30 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic French Brioche Loaf",
+      "desc_en": "Classic Classic French Brioche Loaf — Knead flour, yeast, sugar, salt, eggs, and warm milk until cohesive.",
+      "ingredients_en": [
+        "All-Purpose Flour: 300 g",
+        "Butter: 120 g",
+        "Egg: 3 pcs",
+        "Milk: 50 ml"
+      ]
     },
     {
       "recipe_id": "fr_pop_036",
@@ -2823,7 +3128,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Bake at 190°C (375°F) for 10-12 minutes until golden and crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Herb Garlic Baguette",
+      "desc_en": "Classic French Herb Garlic Baguette — Mix softened butter with minced garlic, fresh thyme leaves, and sea salt.",
+      "ingredients_en": [
+        "French Baguette: 200 g",
+        "Butter: 50 g",
+        "Garlic: 15 g",
+        "Fresh Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_037",
@@ -2894,7 +3207,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Pipe mounds onto a baking sheet and bake at 200°C (400°F) for 20-25 minutes until puffed and golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Cheese Puffs (Gougères)",
+      "desc_en": "Classic French Cheese Puffs (Gougères) — Boil water, butter, and salt, then stir in flour vigorously until a smooth dough ball forms.",
+      "ingredients_en": [
+        "Gruyère Cheese: 100 g",
+        "Butter: 60 g",
+        "All-Purpose Flour: 80 g",
+        "Egg: 3 pcs"
+      ]
     },
     {
       "recipe_id": "fr_pop_038",
@@ -2975,7 +3296,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Serve in a small bowl alongside toasted baguette slices."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Provençal Black Olive Tapenade",
+      "desc_en": "Classic Provençal Black Olive Tapenade — Pulse pitted black olives, capers, garlic, and thyme in a food processor.",
+      "ingredients_en": [
+        "Black Olives: 200 g",
+        "Capers: 25 g",
+        "Garlic: 10 g",
+        "Extra Virgin Olive Oil: 45 ml",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "fr_pop_039",
@@ -3047,7 +3377,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Toss green beans in the almond butter and finish with fresh lemon juice."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Green Beans Almondine (Haricots Verts Amandine)",
+      "desc_en": "Classic French Green Beans Almondine (Haricots Verts Amandine) — Blanch green beans in salted boiling water for 3 minutes, then shock in ice water.",
+      "ingredients_en": [
+        "Green Beans: 250 g",
+        "Butter: 25 g",
+        "French Shallots: 20 g",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "fr_pop_040",
@@ -3129,7 +3467,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Cream of Mushroom Soup (Velouté de Champignons)",
+      "desc_en": "Classic Cream of Mushroom Soup (Velouté de Champignons) — Sauté sliced mushrooms and shallots in butter with thyme until deeply browned.",
+      "ingredients_en": [
+        "Mushroom: 300 g",
+        "French Shallots: 40 g",
+        "Butter: 30 g",
+        "Heavy Cream: 80 ml",
+        "Fresh Thyme: 5 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_041",
@@ -3201,7 +3548,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Bake at 180°C (350°F) for 12-15 minutes until gooey inside; serve with baguette slices."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Baked Brie with Honey and Walnuts",
+      "desc_en": "Classic Baked Brie with Honey and Walnuts — Place a wheel of Brie in a baking dish and top with chopped walnuts and rosemary.",
+      "ingredients_en": [
+        "French Brie Cheese: 200 g",
+        "Walnut Halves: 40 g",
+        "Fresh Rosemary: 5 g",
+        "French Baguette: 100 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_042",
@@ -3267,7 +3622,14 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Spoon the mustard mayonnaise over the egg halves and garnish with herbs."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Eggs Mayonnaise (Œufs Mayonnaise)",
+      "desc_en": "Classic French Eggs Mayonnaise (Œufs Mayonnaise) — Boil eggs for 8-9 minutes until just set, chill in ice water, peel, and halve.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Mayonnaise: 45 g",
+        "Dijon Mustard: 15 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_043",
@@ -3346,7 +3708,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Simmer the folded crepes in the warm orange butter sauce until glazed."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crêpes Suzette (Orange Butter Crepes)",
+      "desc_en": "Classic Crêpes Suzette (Orange Butter Crepes) — Whisk batter and cook thin, delicate French crepes, folding them into triangles.",
+      "ingredients_en": [
+        "All-Purpose Flour: 120 g",
+        "Egg: 2 pcs",
+        "Milk: 250 ml",
+        "Butter: 50 g",
+        "Orange: 2 pcs"
+      ]
     },
     {
       "recipe_id": "fr_pop_044",
@@ -3402,7 +3773,13 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Chill completely, sprinkle sugar on top, and torch until a crisp caramel crust forms."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Vanilla Crème Brûlée",
+      "desc_en": "Classic Classic Vanilla Crème Brûlée — Steep vanilla in warm heavy cream, then temper into whisked egg yolks and sugar.",
+      "ingredients_en": [
+        "Heavy Cream: 300 ml",
+        "Egg Yolks: 4 pcs"
+      ]
     },
     {
       "recipe_id": "fr_pop_045",
@@ -3466,7 +3843,14 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Gently fold whipped egg whites into the chocolate mixture and chill for 3 hours."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic French Chocolate Mousse",
+      "desc_en": "Classic Classic French Chocolate Mousse — Melt dark chocolate and butter over a double boiler, cool slightly, and stir in egg yolks.",
+      "ingredients_en": [
+        "Dark Chocolate: 180 g",
+        "Egg: 3 pcs",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_046",
@@ -3529,7 +3913,14 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Drape puff pastry over the apples, bake at 190°C (375°F) for 25 minutes, and invert onto a platter."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tarte Tatin (Upside-Down Caramelized Apple Tart)",
+      "desc_en": "Classic Tarte Tatin (Upside-Down Caramelized Apple Tart) — Caramelize sugar and butter in an ovenproof skillet until deep amber.",
+      "ingredients_en": [
+        "Apple: 500 g",
+        "Puff Pastry Dough: 1 sheet",
+        "Butter: 60 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_047",
@@ -3610,7 +4001,16 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic Cherry Clafoutis",
+      "desc_en": "Classic Classic Cherry Clafoutis — Arrange pitted cherries in a buttered, sugared baking dish.",
+      "ingredients_en": [
+        "Cherries: 300 g",
+        "Egg: 3 pcs",
+        "Milk: 250 ml",
+        "All-Purpose Flour: 80 g",
+        "Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "fr_pop_048",
@@ -3681,7 +4081,15 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
         "Spoon into buttered shell molds and bake at 200°C (400°F) for 10-12 minutes until golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "French Butter Madeleines",
+      "desc_en": "Classic French Butter Madeleines — Beat eggs, sugar, and fresh lemon zest until pale and doubled in volume.",
+      "ingredients_en": [
+        "All-Purpose Flour: 120 g",
+        "Butter: 100 g",
+        "Egg: 2 pcs",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "id": "fr_stirfry_01",
@@ -3714,7 +4122,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Truite Amandine (Almond-Crusted Pan-Fried Trout)",
+      "desc_en": "A timeless French bistro classic fragrant with browned butter and crisp toasted almonds.",
+      "ingredients_en": [
+        "Skin-on trout or sea bass fillets: 300 g",
+        "Sliced almonds: 40 g",
+        "Salted butter: 40 g",
+        "All-purpose flour: 2 tbsp",
+        "Fresh lemon juice and chopped parsley: 1 set"
+      ],
+      "steps_en": [
+        "Pat the fish fillets dry, season with salt and pepper, dust lightly with flour, and shake off any excess.",
+        "Pan-fry the fish in half the butter over medium heat for 3 minutes per side until the skin is golden and crisp, then transfer to a plate.",
+        "Toast the remaining butter and sliced almonds in the pan until golden and nutty, stir in lemon juice and parsley, and spoon immediately over the fish."
+      ]
     },
     {
       "id": "fr_stirfry_02",
@@ -3747,7 +4169,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Entrecôte Bordelaise",
+      "desc_en": "Whisking cold butter into the sauce off the heat (monter au beurre) gives it a glossy sheen and velvety texture.",
+      "ingredients_en": [
+        "Beef ribeye or striploin steak (entrecôte): 360 g",
+        "Finely chopped shallots: 45 g",
+        "Bordeaux red wine for cooking: 150 ml",
+        "Rich beef stock: 150 ml",
+        "Cold diced butter and fresh thyme: 30 g"
+      ],
+      "steps_en": [
+        "Pat the steak dry, season with salt and black pepper, sear in a hot cast-iron skillet for 3–4 minutes per side to medium-rare, then rest for 6 minutes.",
+        "Sauté the chopped shallots and thyme in the same pan, then add the red wine and beef stock and simmer until reduced by half.",
+        "Remove from the heat, swirl in the cold diced butter until glossy and thickened, and pour the Bordelaise sauce over the hot steak to serve."
+      ]
     },
     {
       "id": "fr_stirfry_03",
@@ -3780,7 +4216,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Coquilles Saint-Jacques Poêlées (Pan-Seared Scallops)",
+      "desc_en": "Patting the scallops completely dry and using a piping-hot pan creates a golden crust while keeping the inside sweet and tender.",
+      "ingredients_en": [
+        "Large sea scallops, patted completely dry: 250 g",
+        "Butter and vegetable oil: 30 g + 1 tbsp",
+        "Chopped shallots and garlic: 25 g",
+        "Fresh lemon juice and chopped parsley: 1 set",
+        "Sea salt and white pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the scallops thoroughly dry and season lightly with sea salt and white pepper.",
+        "Heat the vegetable oil in a skillet over high heat and sear the scallops undisturbed for about 90 seconds until deeply caramelized and golden underneath.",
+        "Flip the scallops, add the butter, shallots, and garlic, baste with the foaming butter for 60 seconds, finish with lemon juice and parsley, and serve immediately."
+      ]
     },
     {
       "id": "fr_stirfry_04",
@@ -3814,7 +4264,22 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Côte de Porc Charcutière",
+      "desc_en": "Tangy, crunchy cornichons and sharp Dijon mustard balance the richness of the pork chops wonderfully.",
+      "ingredients_en": [
+        "Pork chops, 2 cm thick: 2 pieces",
+        "Thinly sliced onion: 80 g",
+        "Sliced French cornichons: 40 g",
+        "Dijon mustard: 1 tbsp",
+        "Dry white wine and beef stock: 100 ml + 150 ml",
+        "Butter and chopped parsley: 25 g"
+      ],
+      "steps_en": [
+        "Season the pork chops and sear in butter for 4 minutes per side until golden brown, then transfer to a plate.",
+        "Sauté the sliced onions in the same pan until soft and translucent, then pour in the white wine and beef stock and simmer until thickened.",
+        "Stir the Dijon mustard and sliced cornichons into the sauce, return the pork chops to warm through and coat for 2 minutes, sprinkle with parsley, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_05",
@@ -3847,7 +4312,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Côtelettes d'Agneau Provençales",
+      "desc_en": "Fragrant Herbes de Provence elevate the grilled lamb chops with bright southern French flavor.",
+      "ingredients_en": [
+        "Lamb rib cutlets: 400 g",
+        "Herbes de Provence: 1.5 tbsp",
+        "Minced garlic and extra-virgin olive oil: 2 tbsp",
+        "Cherry tomatoes on the vine and lemon: 100 g",
+        "Sea salt and black pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Marinate the lamb cutlets with olive oil, minced garlic, Herbes de Provence, salt, and black pepper for 15 minutes.",
+        "Sear on a hot grill pan over high heat for 3 minutes per side until charred outside and rosy pink inside.",
+        "Char the cherry tomatoes in the same pan, rest the lamb for 5 minutes, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_06",
@@ -3880,7 +4359,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Escalope de Veau à la Normande",
+      "desc_en": "A beloved Normandy specialty that harmonizes butter, cream, mushrooms, and tender apples.",
+      "ingredients_en": [
+        "Thinly sliced veal or pork loin cutlets: 300 g",
+        "Sliced button mushrooms: 150 g",
+        "Thinly sliced apple: 1 piece",
+        "Apple cider and crème fraîche: 120 ml + 100 g",
+        "Butter, shallots, and parsley: 1 set"
+      ],
+      "steps_en": [
+        "Season the cutlets and sear in butter over medium-high heat for 2–3 minutes per side until golden, then set aside.",
+        "Sauté the shallots, mushrooms, and apple slices in the same pan until tender and fragrant, then add the apple cider and simmer until reduced by half.",
+        "Stir in the crème fraîche to form a velvety cream sauce, return the cutlets to coat, garnish with parsley, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_07",
@@ -3913,7 +4406,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Gambas Poêlées à l'Ail et Persil",
+      "desc_en": "Classic French persillade style bursting with garlic, fresh parsley, and rich butter.",
+      "ingredients_en": [
+        "Large tiger prawns, butterflied with tails on: 320 g",
+        "Butter and olive oil: 30 g + 1 tbsp",
+        "Finely minced garlic and shallots: 25 g",
+        "Finely chopped fresh parsley and lemon juice: 2 tbsp",
+        "Sea salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Pat the prawns dry, season with salt and pepper, and sear in olive oil over high heat for 1–2 minutes per side until bright orange.",
+        "Lower the heat, add the butter, minced garlic, and shallots, and toss quickly until fragrant and coated.",
+        "Remove from the heat, squeeze over fresh lemon juice, sprinkle with chopped parsley, and serve hot with baguette for dipping."
+      ]
     },
     {
       "id": "fr_stirfry_08",
@@ -3945,7 +4452,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Confit de Canard (Crispy Duck Leg Confit)",
+      "desc_en": "A signature Gascony dish boasting shattering crisp skin and melt-in-the-mouth tender meat.",
+      "ingredients_en": [
+        "Confit duck leg quarters (or herb-braised duck legs): 2 pieces",
+        "Diced potatoes fried in garlic butter (Pommes Sarladaises): 250 g",
+        "Crushed garlic and fresh thyme: 1 set",
+        "Chopped parsley and arugula: 50 g"
+      ],
+      "steps_en": [
+        "Place the duck legs skin-side down in a skillet over medium-low heat and sear for about 12 minutes to render the fat until the skin is golden and crisp.",
+        "Transfer to a 200°C oven for 10 minutes until heated through and tender enough to fall off the bone.",
+        "Crisp the diced potatoes in duck fat with garlic and parsley, and serve alongside the duck confit and arugula."
+      ]
     },
     {
       "id": "fr_stirfry_09",
@@ -3978,7 +4498,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bavette à l'Échalote (Flank Steak with Shallot Sauce)",
+      "desc_en": "A quintessential Parisian bistro steak—always slice against the grain so the bavette stays tender.",
+      "ingredients_en": [
+        "Beef flank steak (bavette): 350 g",
+        "Thinly sliced shallots: 120 g",
+        "Butter: 35 g",
+        "Red wine vinegar and beef stock: 100 ml",
+        "Chopped parsley, sea salt, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the sliced shallots in butter over medium-low heat for 10 minutes until golden and sweet, then deglaze with red wine vinegar and beef stock, reduce until thickened, and set aside.",
+        "Sear the flank steak over high heat for 3 minutes per side until seared outside and medium-rare within, rest 6 minutes, then slice against the grain.",
+        "Spoon the caramelized shallot sauce over the sliced steak, scatter with chopped parsley, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_10",
@@ -4011,7 +4545,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Saumon à l'Oseille (Salmon with Sorrel Cream Sauce)",
+      "desc_en": "A legendary dish of modern French cuisine where the lightly tart cream sauce cuts through the salmon's richness.",
+      "ingredients_en": [
+        "Salmon fillets: 300 g",
+        "Sorrel leaves (or spinach with lemon juice): 60 g",
+        "Finely chopped shallots: 25 g",
+        "Dry white wine and heavy cream: 60 ml + 120 ml",
+        "Butter, salt, and white pepper: 20 g"
+      ],
+      "steps_en": [
+        "Sauté the chopped shallots in butter, add the white wine and reduce, then stir in the heavy cream and simmer until slightly thickened.",
+        "Fold in the shredded sorrel leaves quickly for a bright, tangy flavor and pale green hue (add extra lemon juice if using spinach).",
+        "Pan-sear the salmon until the skin is crisp and the flesh is juicy, spoon the sorrel cream onto plates, top with the salmon, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_11",
@@ -4044,7 +4592,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Poulet au Vinaigre (Lyon Vinegar Braised Chicken)",
+      "desc_en": "A Lyon specialty where simmering red wine vinegar creates a mellow, bright sauce that never feels heavy.",
+      "ingredients_en": [
+        "Skin-on chicken thighs: 450 g",
+        "Red wine vinegar: 60 ml",
+        "Shallots and crushed garlic: 60 g",
+        "Chopped tomatoes and chicken stock: 150 g + 150 ml",
+        "Butter and fresh tarragon leaves: 25 g"
+      ],
+      "steps_en": [
+        "Sear the chicken thighs skin-side down in a pan until crisp and golden, then set aside.",
+        "Sauté the shallots and garlic in the same pan, pour in the red wine vinegar and reduce until aromatic, then add the chopped tomatoes and chicken stock.",
+        "Return the chicken to the pan, simmer for 20 minutes until tender, swirl in the butter off the heat, garnish with fresh tarragon, and serve hot."
+      ]
     },
     {
       "id": "fr_stirfry_12",
@@ -4077,7 +4639,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Filet Mignon de Porc aux Pruneaux",
+      "desc_en": "Sweet-tart prunes pair effortlessly with tender pork tenderloin and a velvety cream sauce.",
+      "ingredients_en": [
+        "Whole pork tenderloin: 450 g",
+        "Pitted prunes soaked in warm tea: 120 g",
+        "Shallots and butter: 50 g + 25 g",
+        "Chicken stock and crème fraîche: 150 ml + 80 g",
+        "Thyme, salt, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Sear the whole pork tenderloin in butter until browned on all sides, then transfer to a plate.",
+        "Sauté the shallots and thyme, add the prunes, chicken stock, and pork, cover, and braise gently over low heat for 20 minutes until tender.",
+        "Slice the pork into thick medallions, whisk the crème fraîche into the prune sauce until smooth and thick, and spoon over the pork to serve hot."
+      ]
     },
     {
       "id": "fr_quick_01",
@@ -4110,7 +4686,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pan Bagnat Niçois Sandwich",
+      "desc_en": "Nice's iconic sandwich—essentially a classic Salade Niçoise tucked inside an olive-oil-soaked crusty roll.",
+      "ingredients_en": [
+        "Crusty round bread rolls, halved: 2 pieces",
+        "Tuna in olive oil, drained: 150 g",
+        "Hard-boiled eggs, sliced: 2 pieces",
+        "Tomatoes, red radishes, and black olives: 140 g",
+        "Extra-virgin olive oil, red wine vinegar, and basil leaves: 3 tbsp"
+      ],
+      "steps_en": [
+        "Halve the round rolls, hollow out a bit of the crumb, and drizzle generously with olive oil and red wine vinegar.",
+        "Layer the tomatoes, red radishes, tuna, sliced boiled eggs, black olives, and fresh basil snugly inside.",
+        "Close the sandwiches, press gently for 5 minutes so the dressing soaks into the bread, halve, and serve."
+      ]
     },
     {
       "id": "fr_quick_02",
@@ -4143,7 +4733,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "French Onion Grilled Cheese Toastie",
+      "desc_en": "Captures all the sweet, savory depth of French onion soup inside a crisp grilled cheese sandwich.",
+      "ingredients_en": [
+        "Thick-sliced sourdough or country bread: 2 slices",
+        "Thinly sliced onions caramelized with thyme: 120 g",
+        "Grated Gruyère cheese: 70 g",
+        "Salted butter: 25 g",
+        "Dijon mustard: 1 tsp"
+      ],
+      "steps_en": [
+        "Cook the sliced onions with half the butter and thyme over medium-low heat for about 12 minutes until sweet and deeply caramelized.",
+        "Spread Dijon mustard on the inside of the bread, then layer Gruyère cheese, caramelized onions, and more Gruyère before closing.",
+        "Butter the outsides and toast in a skillet over medium-low heat until golden brown and melted, then halve and serve hot."
+      ]
     },
     {
       "id": "fr_quick_03",
@@ -4175,7 +4779,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Steak Haché Bistro with Herb Butter",
+      "desc_en": "A popular bunless French bistro quick meal that comes together in just 15 minutes.",
+      "ingredients_en": [
+        "High-quality ground beef: 300 g",
+        "Parsley and garlic compound butter (Maître d'Hôtel butter): 25 g",
+        "Finely chopped shallots: 1 tbsp",
+        "Sea salt, black pepper, and green side salad: 1 set"
+      ],
+      "steps_en": [
+        "Gently mix the ground beef with chopped shallots, salt, and black pepper, and shape into 2 cm thick oval patties.",
+        "Sear in a hot cast-iron skillet over high heat for 3 minutes per side until well browned outside and juicy inside.",
+        "Plate and top each patty with a pat of herb butter to melt over the meat, serving alongside a vinaigrette green salad."
+      ]
     },
     {
       "id": "fr_quick_04",
@@ -4208,7 +4825,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Baguette Gratinée aux Champignons",
+      "desc_en": "A Parisian café-style mushroom cheese tartine packed with garlic butter and nutty Gruyère.",
+      "ingredients_en": [
+        "Baguette, halved lengthwise: 160 g",
+        "Sliced button mushrooms: 180 g",
+        "Minced garlic, thyme, and butter: 25 g",
+        "Crème fraîche or heavy cream: 2 tbsp",
+        "Grated Gruyère cheese: 70 g"
+      ],
+      "steps_en": [
+        "Sauté the mushrooms with butter, garlic, and thyme until fragrant, then stir in the crème fraîche to coat.",
+        "Spoon the creamy mushrooms onto the halved baguette and scatter evenly with grated Gruyère.",
+        "Bake at 210°C for 6–8 minutes until the cheese is bubbling and browned and the edges are crisp, garnish with parsley, and serve hot."
+      ]
     },
     {
       "id": "fr_quick_05",
@@ -4241,7 +4872,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pissaladière Provençale",
+      "desc_en": "A traditional Provençal onion tart balancing sweet braised onions with briny black olives.",
+      "ingredients_en": [
+        "Store-bought puff pastry or thin flatbread dough: 1 sheet",
+        "Thinly sliced onions cooked soft with thyme: 300 g",
+        "Pitted black olives: 50 g",
+        "Anchovy fillets (omit for vegetarian): 6 pieces",
+        "Extra-virgin olive oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Cook the sliced onions gently in olive oil with thyme over medium-low heat for about 12 minutes until soft and sweet without browning.",
+        "Spread the onions over the pastry sheet, arrange the anchovy fillets in a lattice pattern, and dot each diamond with a black olive.",
+        "Bake at 200°C for 15 minutes until the crust is golden and crisp, then cut into squares and serve warm."
+      ]
     },
     {
       "id": "fr_quick_06",
@@ -4274,7 +4919,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Œufs Cocotte aux Épinards (French Baked Eggs)",
+      "desc_en": "A cozy French home-style dish made for dipping crisp baguette soldiers into runny yolks and spinach cream.",
+      "ingredients_en": [
+        "Fresh eggs: 2 pieces",
+        "Buttered sautéed spinach: 100 g",
+        "Crème fraîche or heavy cream: 4 tbsp",
+        "Grated Gruyère cheese: 30 g",
+        "Toasted baguette soldiers for dipping: 4 pieces"
+      ],
+      "steps_en": [
+        "Butter two ceramic ramekins, divide the sautéed spinach between them, and spoon in half of the crème fraîche.",
+        "Crack one egg into each ramekin, top with Gruyère, salt, pepper, and the remaining cream.",
+        "Set the ramekins in a hot water bath and bake at 190°C for 10–12 minutes until the whites are set and yolks remain runny; serve with toasted baguette."
+      ]
     },
     {
       "id": "fr_quick_07",
@@ -4307,7 +4966,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tarte Flambée (Alsatian Flammekueche)",
+      "desc_en": "An Alsatian thin-crust flatbread baked in 10 minutes, rich with crème fraîche and smoky lardons.",
+      "ingredients_en": [
+        "Thin flatbread or tart crust: 1 sheet",
+        "Crème fraîche: 100 g",
+        "Thick-cut bacon lardons: 100 g",
+        "Paper-thin sliced onion: 70 g",
+        "Ground nutmeg and black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Season the crème fraîche with salt, black pepper, and nutmeg, and spread evenly over the thin crust.",
+        "Scatter the paper-thin sliced onions and bacon lardons evenly across the top.",
+        "Bake at 230°C for 10–12 minutes until the edges are blistered and crisp and the bacon is cooked, then slice and serve piping hot."
+      ]
     },
     {
       "id": "fr_quick_08",
@@ -4340,7 +5013,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Croque Saumon Fumé",
+      "desc_en": "A bright seafood twist on the classic French croque with smoky salmon and fresh dill.",
+      "ingredients_en": [
+        "Soft sandwich bread: 2 slices",
+        "Sliced smoked salmon: 70 g",
+        "Cream cheese and chopped fresh dill: 2 tbsp",
+        "Grated Gruyère or Emmental cheese: 45 g",
+        "Butter and a squeeze of lemon juice: 15 g"
+      ],
+      "steps_en": [
+        "Mix the cream cheese with chopped dill and lemon juice, spread onto both bread slices, and layer the smoked salmon inside.",
+        "Butter the outside of the sandwich, top with grated cheese, and pan-toast or bake at 200°C for 6 minutes until golden and melted.",
+        "Cut diagonally, garnish with fresh dill and lemon wedges, and serve warm."
+      ]
     },
     {
       "id": "fr_quick_09",
@@ -4373,7 +5060,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Baguette Poulet Moutarde (French Dijon Chicken Baguette)",
+      "desc_en": "A staple French boulangerie sandwich that is effortless to assemble and satisfying in 15 minutes.",
+      "ingredients_en": [
+        "French baguette, halved lengthwise: 180 g",
+        "Sliced herb-roasted chicken breast: 180 g",
+        "Dijon mustard and mayonnaise: 2 tbsp",
+        "Crisp romaine lettuce and sliced tomato: 80 g",
+        "French cornichons: 20 g"
+      ],
+      "steps_en": [
+        "Stir the Dijon mustard with mayonnaise and a pinch of chopped tarragon, then spread inside the halved baguette.",
+        "Layer the crisp romaine, sliced tomatoes, cornichons, and roasted chicken slices generously inside.",
+        "Close the baguette and slice in half for a quick Parisian bakery-style lunch."
+      ]
     },
     {
       "id": "fr_quick_10",
@@ -4406,7 +5107,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tartine Saumon Fumé et Crème Fraîche",
+      "desc_en": "A Parisian café open-faced toast ready in 10 minutes with zero stove cooking required.",
+      "ingredients_en": [
+        "Large country sourdough slices (Pain de Campagne), toasted: 2 slices",
+        "Chilled crème fraîche: 4 tbsp",
+        "Sliced smoked salmon: 100 g",
+        "Thinly sliced cucumber, red radish, and capers: 60 g",
+        "Fresh dill, lemon zest, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Toast the large sourdough slices until crisp at the edges, then spread evenly with chilled crème fraîche.",
+        "Arrange the cucumber slices, smoked salmon, and sliced red radishes neatly on top.",
+        "Finish with capers, fresh dill, grated lemon zest, and cracked black pepper, and serve immediately."
+      ]
     },
     {
       "id": "fr_quick_11",
@@ -4439,7 +5154,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tarte à la Tomate et Moutarde",
+      "desc_en": "A classic French summer tart made with just 5 ingredients that delivers bright, savory flavor.",
+      "ingredients_en": [
+        "Store-bought puff pastry: 1 sheet",
+        "Dijon mustard: 2 tbsp",
+        "Grated Gruyère or Emmental cheese: 60 g",
+        "Ripe tomatoes, sliced and patted dry: 3 pieces",
+        "Fresh thyme and extra-virgin olive oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Unroll the puff pastry, spread with Dijon mustard leaving a 1 cm border, and sprinkle with grated Gruyère.",
+        "Arrange the tomato slices overlapping neatly on top, season with thyme, salt, and pepper, and drizzle with olive oil.",
+        "Bake at 200°C for 18–20 minutes until the pastry is puffed and golden and the tomatoes are sweet and juicy; slice and serve warm."
+      ]
     },
     {
       "id": "fr_quick_12",
@@ -4471,7 +5200,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tartine aux Sardines et Beurre Citronné",
+      "desc_en": "A Brittany coast quick meal rich in omega-3s and calcium that comes together in 10 minutes.",
+      "ingredients_en": [
+        "Quality sardines packed in olive oil: 120 g",
+        "Toasted baguette or sourdough slices: 2 large slices",
+        "Softened salted butter mixed with lemon zest and parsley: 25 g",
+        "Thinly sliced shallots and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Toast the bread until crisp and spread generously with the lemon-parsley salted butter.",
+        "Gently arrange the sardines in olive oil over the buttered toast.",
+        "Top with sliced shallots, parsley, and cracked black pepper, add a squeeze of fresh lemon, and serve right away."
+      ]
     },
     {
       "id": "fr_breakfast_01",
@@ -4502,7 +5244,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pain au Chocolat",
+      "desc_en": "The quintessential French bakery viennoiserie, best enjoyed warm alongside morning coffee.",
+      "ingredients_en": [
+        "Laminated croissant dough sheet: 1 large sheet",
+        "Dark chocolate baking batons: 12 pieces",
+        "Egg yolk mixed with milk for egg wash: 1 piece"
+      ],
+      "steps_en": [
+        "Cut the dough into 6 rectangles, place 1 chocolate baton along an edge, and roll over once.",
+        "Add a second chocolate baton, roll to the end seam-side down, and proof for 30 minutes until puffed.",
+        "Brush lightly with egg wash and bake at 200°C for 16–18 minutes until flaky, golden, and filled with melted chocolate."
+      ]
     },
     {
       "id": "fr_breakfast_02",
@@ -4534,7 +5288,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pain aux Raisins",
+      "desc_en": "A beloved French breakfast spiral swirled with silky vanilla pastry cream and plump raisins.",
+      "ingredients_en": [
+        "Laminated croissant dough sheet: 1 large sheet",
+        "Thick vanilla pastry cream (Crème Pâtissière): 180 g",
+        "Raisins soaked in warm water and patted dry: 100 g",
+        "Egg yolk wash and sugar syrup for glazing: 1 set"
+      ],
+      "steps_en": [
+        "Spread the vanilla pastry cream evenly over the dough, scatter with raisins, and roll up tightly into a log.",
+        "Slice into 2 cm spirals, arrange on a baking sheet, proof for 25 minutes, and brush the edges with egg wash.",
+        "Bake at 195°C for 18–20 minutes until golden and crisp, glaze with warm syrup, and serve warm."
+      ]
     },
     {
       "id": "fr_breakfast_03",
@@ -4566,7 +5333,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Croissant aux Amandes (Almond Croissant)",
+      "desc_en": "Day-old croissants work best here, soaking up the vanilla syrup without turning soggy.",
+      "ingredients_en": [
+        "Day-old butter croissants, halved horizontally: 4 pieces",
+        "Almond flour, butter, sugar, and egg for frangipane: 1 set",
+        "Vanilla syrup for brushing: 4 tbsp",
+        "Sliced almonds and powdered sugar for topping: 40 g"
+      ],
+      "steps_en": [
+        "Beat the butter, sugar, egg, and almond flour together until smooth and fragrant.",
+        "Halve the croissants, brush the insides with vanilla syrup, fill and top with almond cream, and scatter with sliced almonds.",
+        "Bake at 180°C for 14–16 minutes until the almond cream is puffed and golden, dust with powdered sugar, and serve warm."
+      ]
     },
     {
       "id": "fr_breakfast_04",
@@ -4599,7 +5379,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pain Perdu (French Brioche Toast)",
+      "desc_en": "Authentic French pain perdu uses thick slices of brioche seared in butter until caramelized outside and custardy within.",
+      "ingredients_en": [
+        "Brioche bread, sliced 2.5 cm thick: 4 slices",
+        "Eggs: 2 pieces",
+        "Whole milk and heavy cream: 100 ml + 40 ml",
+        "Sugar, vanilla extract, and butter for pan-frying: 1 set",
+        "Fresh berries and powdered sugar for serving: 1 set"
+      ],
+      "steps_en": [
+        "Whisk the eggs, milk, heavy cream, sugar, and vanilla together, and soak the thick brioche slices until saturated on both sides.",
+        "Melt butter in a skillet over medium-low heat and pan-fry for 2–3 minutes per side until golden-caramelized outside and custardy inside.",
+        "Plate with fresh berries, dust with powdered sugar, and drizzle with honey or syrup to taste."
+      ]
     },
     {
       "id": "fr_breakfast_05",
@@ -4632,7 +5426,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Almond Financiers",
+      "desc_en": "Golden French tea cakes fragrant with nutty brown butter and almond—ideal with morning coffee.",
+      "ingredients_en": [
+        "Browned butter (Beurre Noisette): 100 g",
+        "Finely ground almond flour: 80 g",
+        "Powdered sugar and cake flour: 110 g + 45 g",
+        "Room-temperature egg whites: 3 pieces",
+        "Vanilla extract and a pinch of salt: 1 set"
+      ],
+      "steps_en": [
+        "Simmer the butter over medium heat until amber-brown and nutty-smelling, then strain and cool slightly.",
+        "Whisk together the almond flour, powdered sugar, cake flour, and salt, then stir in the egg whites and warm brown butter until smooth.",
+        "Spoon into buttered rectangular molds and bake at 190°C for 14–16 minutes until golden-crisp at the edges and moist inside."
+      ]
     },
     {
       "id": "fr_breakfast_06",
@@ -4665,7 +5473,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Canelés de Bordeaux",
+      "desc_en": "Legendary Bordeaux pastries featuring a dark caramelized crust and a tender, custardy vanilla interior.",
+      "ingredients_en": [
+        "Whole milk with vanilla bean: 300 ml",
+        "Butter: 30 g",
+        "Granulated sugar and all-purpose flour: 130 g + 75 g",
+        "1 whole egg plus 1 egg yolk: 1 set",
+        "Pure vanilla extract and butter for greasing molds: 1 set"
+      ],
+      "steps_en": [
+        "Scald the milk with butter and vanilla, let cool slightly, whisk into the eggs, sugar, and flour until smooth, and chill the batter overnight.",
+        "Generously butter the canelé molds and fill each three-quarters full with batter.",
+        "Bake at 230°C for 12 minutes to set the caramel crust, then lower to 180°C and bake 40 minutes more until mahogany-crisp outside and custardy inside."
+      ]
     },
     {
       "id": "fr_breakfast_07",
@@ -4698,7 +5520,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Sugar-Crusted Chouquettes",
+      "desc_en": "Airy choux puffs studded with crunchy pearl sugar—a light, irresistible Parisian bakery treat.",
+      "ingredients_en": [
+        "Water and whole milk: 65 ml each",
+        "Butter: 55 g",
+        "All-purpose flour: 75 g",
+        "Eggs: 2–3 pieces",
+        "Pearl sugar for topping: 40 g"
+      ],
+      "steps_en": [
+        "Bring the water, milk, butter, and a pinch of salt to a boil, add the flour, stir vigorously until the dough pulls away from the pan, and cool slightly.",
+        "Beat in the eggs one at a time until glossy and smooth, falling in a V-shape from the spoon, then pipe small mounds onto a baking sheet.",
+        "Scatter generously with pearl sugar and bake at 200°C for 20–22 minutes until puffed, hollow, and golden brown."
+      ]
     },
     {
       "id": "fr_breakfast_08",
@@ -4729,7 +5565,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tartine Beurre et Confiture",
+      "desc_en": "The simplest and most authentic everyday breakfast in French households.",
+      "ingredients_en": [
+        "French baguette, halved lengthwise: 100 g",
+        "Quality salted French butter: 20 g",
+        "Homemade strawberry or raspberry jam: 2 tbsp"
+      ],
+      "steps_en": [
+        "Halve the baguette lengthwise and toast lightly until the crust is crisp and the crumb is warm and soft.",
+        "Spread salted French butter over the warm baguette so it melts slightly into the crumb.",
+        "Top with berry jam and serve immediately alongside coffee or hot chocolate."
+      ]
     },
     {
       "id": "fr_breakfast_09",
@@ -4761,7 +5609,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Kouign-Amann",
+      "desc_en": "Brittany's famous caramelized pastry—crackling sugar crust outside and flaky, salted-butter layers inside.",
+      "ingredients_en": [
+        "Croissant dough sheet: 1 large sheet",
+        "Softened salted butter: 60 g",
+        "Granulated sugar for folding and coating molds: 120 g",
+        "Flaky sea salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Sprinkle the dough with sugar and flaky sea salt, roll gently to press it in, and cut into 6 squares.",
+        "Fold the 4 corners of each square into the center like an envelope and place into buttered, sugared muffin cups.",
+        "Proof for 20 minutes, then bake at 195°C for 22–25 minutes until deeply caramelized and amber-crisp; unmold promptly while warm."
+      ]
     },
     {
       "id": "fr_breakfast_10",
@@ -4793,7 +5654,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chausson aux Pommes (French Apple Turnover)",
+      "desc_en": "The iconic slipper-shaped apple turnover found in traditional French boulangeries.",
+      "ingredients_en": [
+        "Puff pastry sheet, cut into 4 ovals: 1 large sheet",
+        "Peeled, finely diced apples: 3 pieces",
+        "Butter, granulated sugar, and vanilla extract: 20 g + 3 tbsp",
+        "Beaten egg yolk for egg wash: 1 piece"
+      ],
+      "steps_en": [
+        "Simmer the diced apples with butter, sugar, and vanilla for about 12 minutes until thick and soft like compote, then cool completely.",
+        "Spoon the filling onto half of each pastry oval, fold over and crimp the edges, brush with egg yolk, and score a light leaf pattern on top.",
+        "Bake at 200°C for 20–22 minutes until puffed, flaky, and glossy golden brown, and serve warm."
+      ]
     },
     {
       "id": "fr_breakfast_11",
@@ -4825,7 +5699,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pain au Lait (French Milk Bread Rolls)",
+      "desc_en": "Soft, fluffy French milk bread rolls loved by kids and adults alike for breakfast or an afternoon snack.",
+      "ingredients_en": [
+        "Bread flour: 280 g",
+        "Warm milk and active dry yeast: 150 ml + 4 g",
+        "Sugar, egg, and softened butter: 35 g + 1 piece + 45 g",
+        "Milk and egg yolk for brushing: 1 set"
+      ],
+      "steps_en": [
+        "Knead the flour, warm milk, yeast, sugar, egg, and butter until smooth and elastic, then let rise until doubled.",
+        "Divide and shape into 6 mini baguette ovals, proof again, brush with egg-milk wash, and snip decorative ridges along the top with scissors.",
+        "Bake at 180°C for 14–16 minutes until golden and pillowy soft; serve with butter or jam for breakfast."
+      ]
     },
     {
       "id": "fr_breakfast_12",
@@ -4856,7 +5743,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "French Palmiers (Caramelized Puff Pastry Hearts)",
+      "desc_en": "Crisp French butterfly cookies requiring just two main ingredients for exquisite caramelized butter flavor.",
+      "ingredients_en": [
+        "All-butter puff pastry sheet: 1 sheet",
+        "Granulated sugar and a pinch of salt: 70 g",
+        "Ground cinnamon or vanilla extract (optional): 1/4 tsp"
+      ],
+      "steps_en": [
+        "Coat both sides of the puff pastry sheet evenly with sugar and press lightly with a rolling pin so it adheres.",
+        "Fold both outer edges inward step by step until they meet at the center, chill 10 minutes, and slice into 1 cm thick pieces.",
+        "Arrange spaced apart on a baking sheet and bake at 200°C for 12–14 minutes, flipping halfway, until caramelized and crisp golden."
+      ]
     },
     {
       "id": "fr_dessert_01",
@@ -4887,7 +5786,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Éclair au Chocolat",
+      "desc_en": "A classic French patisserie staple featuring airy choux pastry generously piped with rich chocolate cream.",
+      "ingredients_en": [
+        "Choux pastry (water, milk, butter, flour, eggs): 1 set",
+        "Rich chocolate pastry cream for filling: 250 g",
+        "Dark chocolate and heavy cream for ganache glaze: 120 g"
+      ],
+      "steps_en": [
+        "Pipe the choux batter into 12 cm logs on a baking tray, bake at 200°C for 25 minutes until puffed, crisp, and golden, then cool completely.",
+        "Poke small holes underneath each éclair and pipe full with rich chocolate pastry cream.",
+        "Dip the tops into glossy dark chocolate ganache, chill for 15 minutes to set, and serve."
+      ]
     },
     {
       "id": "fr_dessert_02",
@@ -4918,7 +5829,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Mille-Feuille (French Vanilla Napoleon)",
+      "desc_en": "Assembling the layers shortly before serving keeps the puff pastry shatteringly crisp against the cool vanilla cream.",
+      "ingredients_en": [
+        "Crisp baked puff pastry dusted with caramelized sugar: 1 large sheet",
+        "Vanilla pastry cream folded with whipped cream (Crème Diplomate): 300 g",
+        "Powdered sugar glaze and chocolate sauce for marbling: 1 set"
+      ],
+      "steps_en": [
+        "Prick the puff pastry all over, dust with powdered sugar, weight lightly with a tray, and bake at 200°C for 18 minutes until flat, crisp, and golden; cut into 12 equal rectangles.",
+        "Pipe vanilla cream between 3 layers of the crisp puff pastry.",
+        "Spread white icing on top, pipe thin chocolate lines and feather them into a classic marble pattern, and serve right away while crisp."
+      ]
     },
     {
       "id": "fr_dessert_03",
@@ -4949,7 +5872,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Paris-Brest Hazelnut Praline",
+      "desc_en": "A wheel-shaped pastry created to celebrate the Paris–Brest bicycle race, rich with hazelnut praline cream.",
+      "ingredients_en": [
+        "Choux pastry piped in a ring and topped with sliced almonds: 1 set",
+        "Hazelnut praline crème mousseline: 300 g",
+        "Powdered sugar for dusting: 2 tbsp"
+      ],
+      "steps_en": [
+        "Pipe the choux batter into a wheel-shaped ring, scatter with sliced almonds, bake at 195°C for 30 minutes until golden and crisp, and cool completely.",
+        "Slice the choux ring horizontally in half and pipe rosettes of hazelnut praline cream all around the base.",
+        "Set the top ring gently over the cream, dust with powdered sugar, and chill for 15 minutes before serving."
+      ]
     },
     {
       "id": "fr_dessert_04",
@@ -4980,7 +5915,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Île Flottante (French Floating Island)",
+      "desc_en": "An airy French bistro dessert—cloud-soft poached meringue floating atop chilled, fragrant vanilla custard.",
+      "ingredients_en": [
+        "Egg whites and granulated sugar for meringue: 3 pieces + 60 g",
+        "Egg yolks, milk, sugar, and vanilla bean for crème anglaise: 3 pieces + 350 ml",
+        "Amber caramel sauce and toasted sliced almonds for garnish: 1 set"
+      ],
+      "steps_en": [
+        "Cook the milk, egg yolks, sugar, and vanilla over low heat into a silky crème anglaise that coats the back of a spoon, then chill.",
+        "Whip the egg whites with sugar to stiff peaks, scoop cloud-sized portions into gently simmering milk, and poach 2 minutes per side until puffed.",
+        "Pour the chilled custard into bowls, float the meringue islands on top, drizzle with caramel, scatter with toasted almonds, and serve chilled."
+      ]
     },
     {
       "id": "fr_dessert_05",
@@ -5012,7 +5959,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chocolate Profiteroles",
+      "desc_en": "The irresistible contrast of icy vanilla ice cream inside and warm, velvety dark chocolate sauce outside defines this dessert.",
+      "ingredients_en": [
+        "Crisp bite-sized choux puffs: 12 pieces",
+        "Frozen vanilla ice cream: 4 scoops",
+        "Dark chocolate and heavy cream for warm sauce: 150 g",
+        "Toasted sliced almonds for garnish: 2 tbsp"
+      ],
+      "steps_en": [
+        "Halve the crisp choux puffs, fill each with vanilla ice cream, and stack them into a pyramid on a chilled plate.",
+        "Heat the heavy cream until hot, pour over the chopped dark chocolate, and stir until melted into a glossy warm sauce.",
+        "Pour the warm chocolate sauce over the chilled ice cream puffs, sprinkle with toasted almonds, and serve immediately."
+      ]
     },
     {
       "id": "fr_dessert_06",
@@ -5043,7 +6003,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Assorted French Macarons",
+      "desc_en": "Maturing filled macarons overnight in the fridge allows the shells and fillings to meld into a chewy, cohesive bite.",
+      "ingredients_en": [
+        "Superfine almond flour and powdered sugar, sifted together: 110 g each",
+        "Egg whites and granulated sugar for meringue: 80 g + 80 g",
+        "Chocolate ganache, pistachio cream, and raspberry jam fillings: 1 set"
+      ],
+      "steps_en": [
+        "Whip the egg whites with sugar to stiff peaks, then fold in the sifted almond flour and powdered sugar until the batter flows in glossy ribbons.",
+        "Pipe uniform rounds onto a silicone mat, rest 30 minutes until dry to the touch, and bake at 150°C for 13–15 minutes until feet form.",
+        "Cool completely, pipe ganache or buttercream onto half the shells, sandwich together, and refrigerate overnight for the ideal chewy texture."
+      ]
     },
     {
       "id": "fr_dessert_07",
@@ -5076,7 +6048,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chocolat Chaud (Thick Parisian Hot Chocolate)",
+      "desc_en": "Classic Parisian café-style hot chocolate made with real chocolate bars for a thick, velvety finish.",
+      "ingredients_en": [
+        "Finely chopped 70% dark chocolate: 140 g",
+        "Whole milk: 300 ml",
+        "Heavy cream: 60 ml",
+        "Brown sugar and a pinch of sea salt: 1 tbsp",
+        "Lightly whipped cream (Crème Chantilly) for serving: 4 tbsp"
+      ],
+      "steps_en": [
+        "Warm the milk and heavy cream in a saucepan over medium heat until tiny bubbles form around the edges, then remove from the heat.",
+        "Add the chopped dark chocolate, sugar, and pinch of salt, stirring continuously until completely melted and thickened.",
+        "Return to low heat for 1 minute until piping hot, pour into cups, and serve with chilled Crème Chantilly."
+      ]
     },
     {
       "id": "fr_dessert_08",
@@ -5108,7 +6094,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tarte au Citron Meringuée (French Lemon Meringue Tart)",
+      "desc_en": "Bright, tangy lemon curd meets sweet, cloud-like meringue kissed with a caramelized torch finish.",
+      "ingredients_en": [
+        "Baked sweet tart shell: 1 crust",
+        "Fresh lemon juice and grated lemon zest: 120 ml",
+        "Eggs, granulated sugar, and butter for lemon curd: 3 pieces + 120 g + 80 g",
+        "Egg whites and sugar for torched meringue: 3 pieces"
+      ],
+      "steps_en": [
+        "Cook the lemon juice, zest, eggs, and sugar until thickened into curd, whisk in the butter off the heat until smooth, pour into the tart shell, and chill to set.",
+        "Whip the egg whites and sugar to glossy peaks and pipe decorative swirls across the top of the tart.",
+        "Torch the meringue peaks until golden brown and fragrant, then slice and serve chilled."
+      ]
     },
     {
       "id": "fr_dessert_09",
@@ -5141,7 +6140,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Fondant au Chocolat (French Chocolate Lava Cake)",
+      "desc_en": "Precision baking time is the key to achieving a molten dark chocolate center that flows with the first spoonful.",
+      "ingredients_en": [
+        "70% dark chocolate: 150 g",
+        "Butter: 110 g",
+        "2 whole eggs plus 2 egg yolks: 1 set",
+        "Granulated sugar and all-purpose flour: 70 g + 40 g",
+        "Vanilla ice cream and fresh raspberries for serving: 1 set"
+      ],
+      "steps_en": [
+        "Melt the dark chocolate and butter together and let cool slightly.",
+        "Whisk the whole eggs, egg yolks, and sugar until pale and airy, then fold in the melted chocolate and sifted flour until smooth.",
+        "Pour into buttered, cocoa-dusted ramekins, bake at 200°C for exactly 9–10 minutes until the edges are set and centers remain molten, unmold, and serve immediately with vanilla ice cream."
+      ]
     },
     {
       "id": "fr_dessert_10",
@@ -5173,7 +6186,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Gâteau Opéra (French Coffee & Chocolate Layer Cake)",
+      "desc_en": "A refined Parisian classic featuring delicate layers of almond sponge, espresso syrup, and rich dark chocolate.",
+      "ingredients_en": [
+        "Thin Joconde almond sponge cake sheets: 3 layers",
+        "Espresso coffee syrup for soaking: 80 ml",
+        "Coffee buttercream and dark chocolate ganache: 160 g each",
+        "Glossy dark chocolate glaze for top layer: 100 g"
+      ],
+      "steps_en": [
+        "Place the first almond sponge layer, brush generously with coffee syrup, and spread an even, thin coat of coffee buttercream.",
+        "Add the second sponge, soak with coffee syrup, spread with rich chocolate ganache, top with the third sponge, and finish with a thin layer of coffee buttercream.",
+        "Chill until firm, pour the glossy chocolate glaze over the top, trim the edges cleanly to reveal the layers, and serve chilled."
+      ]
     },
     {
       "id": "fr_dessert_11",
@@ -5205,7 +6231,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tarte aux Fraises (French Strawberry Tart)",
+      "desc_en": "A favorite patisserie fruit tart combining sweet, fresh strawberries with a crisp, buttery pastry shell.",
+      "ingredients_en": [
+        "Baked sweet tart shell: 1 crust",
+        "Chilled vanilla pastry cream (Crème Pâtissière): 300 g",
+        "Fresh ripe strawberries, halved: 350 g",
+        "Warm apricot jam for glazing: 2 tbsp"
+      ],
+      "steps_en": [
+        "Spread the chilled vanilla pastry cream smoothly inside the crisp tart shell.",
+        "Arrange the halved strawberries in neat concentric circles until the tart is completely covered.",
+        "Brush the berries lightly with warm apricot jam for a glossy sheen, chill 20 minutes, and slice to serve."
+      ]
     },
     {
       "id": "fr_dessert_12",
@@ -5236,7 +6275,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Café au Lait Parisien",
+      "desc_en": "The quintessential Parisian café drink served in a wide-rimmed cup for easy dipping of croissants or tartines.",
+      "ingredients_en": [
+        "Freshly brewed hot dark-roast coffee (French press or drip): 120 ml",
+        "Hot whole milk, frothed until silky: 120 ml",
+        "Brown sugar or vanilla syrup (optional): 1 tsp"
+      ],
+      "steps_en": [
+        "Brew hot dark-roast coffee in a French press or drip maker for a rich, aromatic base.",
+        "Heat the whole milk until steaming hot and froth until silky and fine.",
+        "Pour the hot coffee and warm milk simultaneously into a wide ceramic bowl or cup in a 1:1 ratio and serve hot with croissants."
+      ]
     },
     {
       "id": "fr_soup_01",
@@ -5269,7 +6320,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pot-au-Feu (Classic French Boiled Beef & Vegetable Stew)",
+      "desc_en": "France's beloved national home-style stew offering a crystal-clear, sweet broth and fall-apart tender beef.",
+      "ingredients_en": [
+        "Beef chuck or shank, cut into large chunks: 600 g",
+        "Carrots, leeks, and turnips, cut into chunks: 400 g",
+        "Clove-studded onion and bouquet garni herbs: 1 set",
+        "Baby potatoes: 250 g",
+        "Dijon mustard and French cornichons for serving: 1 set"
+      ],
+      "steps_en": [
+        "Place the beef in a pot, cover with cold water, bring to a boil, and skim the foam thoroughly for a clear broth.",
+        "Add the clove-studded onion, bouquet garni (thyme, bay leaf, parsley stems), and peppercorns, then simmer gently for 1.5 hours until the beef is tender.",
+        "Add the carrots, leeks, turnips, and potatoes, simmer 25 minutes more until sweet and tender, and serve the clear broth alongside the meat, vegetables, and Dijon mustard."
+      ]
     },
     {
       "id": "fr_soup_02",
@@ -5302,7 +6367,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Blanquette de Veau (French Creamy Veal Stew)",
+      "desc_en": "France's iconic ivory-white stew enriched with cream, mushrooms, and a bright finishing squeeze of lemon.",
+      "ingredients_en": [
+        "Veal or pork shoulder, cut into large cubes: 500 g",
+        "Carrots, pearl onions, and button mushrooms: 280 g",
+        "Chicken stock and dry white wine: 600 ml + 100 ml",
+        "Butter, flour, heavy cream, and 1 egg yolk: 1 set",
+        "Fresh lemon juice and bouquet garni herbs: 1 set"
+      ],
+      "steps_en": [
+        "Simmer the veal gently with stock, white wine, carrots, and bouquet garni for 50 minutes without browning the meat so the broth stays pale.",
+        "Sauté the mushrooms and pearl onions in butter and add to the pot, then make a butter-and-flour roux and whisk in the cooking broth until thick and smooth.",
+        "Remove from the heat, whisk the egg yolk with heavy cream and lemon juice, stir into the stew for a velvety ivory finish, and serve hot."
+      ]
     },
     {
       "id": "fr_soup_03",
@@ -5337,6 +6416,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Soupe au Pistou (Provençal Vegetable & Basil Soup)",
+      "desc_en": "A fiber-rich Provençal summer vegetable soup finished with an intensely fragrant fresh basil pistou (great for seniors).",
+      "ingredients_en": [
+        "Cooked white beans and trimmed green beans: 260 g",
+        "Diced zucchini, carrots, potatoes, and tomatoes: 350 g",
+        "Vegetable stock: 900 ml",
+        "Fresh basil, garlic, olive oil, and Parmesan for pistou sauce: 1 set"
+      ],
+      "steps_en": [
+        "Simmer the carrots, potatoes, green beans, zucchini, and tomatoes in vegetable stock over medium heat for 20 minutes until tender, then add the white beans and cook 5 minutes more.",
+        "Pound or blend the fresh basil, garlic, olive oil, and Parmesan into a vibrant green pistou sauce.",
+        "Ladle the hot vegetable soup into bowls, dollop with pistou sauce, and swirl in for full aroma before eating."
       ]
     },
     {
@@ -5370,7 +6462,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bisque de Homard (French Lobster Bisque)",
+      "desc_en": "Roasting the shrimp or lobster shells before simmering is the secret to a classic French bisque with a deep, rich seafood aroma.",
+      "ingredients_en": [
+        "Lobster or tiger prawns with shells: 350 g",
+        "Coarsely chopped shallots, carrots, and celery: 180 g",
+        "Tomato paste: 2 tbsp",
+        "Fish stock and cooking white wine: 650 ml + 80 ml",
+        "Unsalted butter, heavy cream, and fresh tarragon leaves: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the prawn or lobster shells with butter, shallots, carrots, celery, and tomato paste until deeply fragrant.",
+        "Pour in the white wine and fish stock, simmer for 25 minutes, then strain and press thoroughly to extract a rich golden-orange broth.",
+        "Stir in the heavy cream and simmer until slightly thickened, add the chopped lobster meat to warm through for 2 minutes, garnish with fresh tarragon leaves, and serve hot."
+      ]
     },
     {
       "id": "fr_soup_05",
@@ -5403,7 +6509,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Garbure Béarnaise (French Cabbage, Bean & Ham Stew)",
+      "desc_en": "A beloved rustic stew from the Pyrenees mountains—hearty, warming, and packed with tender vegetables and white beans.",
+      "ingredients_en": [
+        "Green cabbage, cut into large chunks: 300 g",
+        "Cooked white beans (Tarbais or Cannellini): 250 g",
+        "Smoked ham or shredded duck confit: 200 g",
+        "Chopped potatoes, carrots, and leeks: 260 g",
+        "Chicken stock with garlic and thyme leaves: 950 ml"
+      ],
+      "steps_en": [
+        "Simmer the smoked ham, garlic, and thyme in chicken stock for 20 minutes to infuse the broth with a smoky aroma.",
+        "Add the carrots, potatoes, leeks, and cabbage, and simmer for another 25 minutes until the vegetables are tender and sweet.",
+        "Stir in the cooked white beans and warm for 10 minutes, season with coarsely cracked black pepper, and serve hot alongside sourdough bread."
+      ]
     },
     {
       "id": "fr_soup_06",
@@ -5439,6 +6559,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Poule au Pot (French Poached Chicken in Broth)",
+      "desc_en": "A legendary poached chicken dish from the era of King Henry IV of France, offering a clear, sweet, and easy-to-digest broth ideal for seniors.",
+      "ingredients_en": [
+        "Chicken leg quarters: 650 g",
+        "Carrots, leeks, celery, and turnips: 380 g",
+        "Clove-studded onion and bouquet garni: 1 set",
+        "Chicken stock: 1100 ml",
+        "Crème fraîche and chopped parsley for serving sauce: 3 tbsp"
+      ],
+      "steps_en": [
+        "Place the chicken, chicken stock, clove-studded onion, and bouquet garni in a pot, then simmer gently over low heat for about 40 minutes while skimming off foam to keep the broth clear.",
+        "Add the carrots, leeks, celery, and turnips, and simmer for another 20 minutes until the vegetables are tender.",
+        "Arrange the chicken and vegetables in bowls, ladle over the hot aromatic broth, sprinkle with fresh parsley, and serve with crème fraîche."
       ]
     },
     {
@@ -5475,6 +6609,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Velouté de Potiron (French Pumpkin Velouté)",
+      "desc_en": "A velvety Parisian autumn pumpkin cream soup fragrant with butter and nutmeg, gentle and ideal for seniors.",
+      "ingredients_en": [
+        "Peeled and diced pumpkin: 550 g",
+        "Chopped shallots and garlic: 60 g",
+        "Unsalted butter: 25 g",
+        "Vegetable stock: 700 ml",
+        "Crème fraîche, ground nutmeg, and roasted pumpkin seeds: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the shallots and garlic in butter until softened, then add the diced pumpkin and stir to coat in the butter.",
+        "Pour in the vegetable stock, simmer over medium heat for 20 minutes until the pumpkin is very tender, and blend until silky smooth.",
+        "Return to low heat, stir in crème fraîche, ground nutmeg, salt, and white pepper, then ladle into bowls and top with roasted pumpkin seeds."
       ]
     },
     {
@@ -5508,7 +6656,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Navarin d'Agneau (French Spring Lamb Stew)",
+      "desc_en": "An exquisite French spring lamb stew prized for its vibrant baby vegetables and glossy, fragrant amber sauce.",
+      "ingredients_en": [
+        "Lamb shoulder, cut into large cubes: 500 g",
+        "Baby carrots, young turnips, baby potatoes, and green peas: 380 g",
+        "Tomato paste and all-purpose flour: 2 tbsp",
+        "Beef stock and cooking white wine: 500 ml + 100 ml",
+        "Garlic and bouquet garni: 1 set"
+      ],
+      "steps_en": [
+        "Sear the lamb in a pot until nicely browned, then sprinkle in the flour and tomato paste and stir to coat.",
+        "Add the white wine, beef stock, garlic, and bouquet garni, and braise over low heat for 45 minutes until the lamb is tender.",
+        "Add the baby carrots, turnips, baby potatoes, and green peas, and simmer for another 20 minutes until the vegetables are tender and glazed in sauce; serve hot."
+      ]
     },
     {
       "id": "fr_soup_09",
@@ -5541,7 +6703,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bourride Provençale (Mediterranean Fish Stew with Aioli)",
+      "desc_en": "A rich, creamy white fish stew from Sète, delicately perfumed with fennel, orange zest, and garlicky aioli.",
+      "ingredients_en": [
+        "Firm white fish fillets (cod or sea bass): 450 g",
+        "Sliced fennel and leeks: 180 g",
+        "Fish stock and cooking white wine: 600 ml + 100 ml",
+        "Orange zest and thyme leaves: 1 set",
+        "Garlic aioli and toasted baguette slices: 4 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the fennel and leeks in olive oil until softened, then add the white wine, fish stock, orange zest, and thyme and simmer for 15 minutes.",
+        "Add the white fish pieces and poach gently over low heat for 6 minutes until cooked through, then transfer the fish to serving bowls.",
+        "Over the lowest heat, whisk the garlic aioli into the hot broth until it turns into an ivory garlic cream, ladle over the fish, and serve with toasted baguette."
+      ]
     },
     {
       "id": "fr_soup_10",
@@ -5577,6 +6753,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Crème Dubarry (Classic French Cauliflower Soup)",
+      "desc_en": "A classic French royal court cauliflower soup with an ultra-smooth, creamy ivory texture that is ideal for seniors.",
+      "ingredients_en": [
+        "Cauliflower florets: 550 g",
+        "Sliced white leek: 100 g",
+        "Unsalted butter: 30 g",
+        "Chicken or vegetable stock: 750 ml",
+        "Heavy cream, chopped chives, and ground nutmeg: 100 ml"
+      ],
+      "steps_en": [
+        "Sweat the sliced white leek in butter over low heat until translucent without browning, then add the cauliflower and stock and simmer for 18 minutes until tender.",
+        "Blend the soup until completely smooth and velvety white.",
+        "Stir in the heavy cream, season with salt, white pepper, and nutmeg, garnish with small blanched cauliflower florets and chopped chives, and serve hot."
       ]
     },
     {
@@ -5610,7 +6800,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Daube Provençale (Provençal Beef Stew with Olives & Orange)",
+      "desc_en": "A southern French beef stew distinguished from Boeuf Bourguignon by the bright Mediterranean aroma of orange peel and black olives.",
+      "ingredients_en": [
+        "Beef chuck, cut into large cubes: 550 g",
+        "Cooking red wine and beef stock: 250 ml + 300 ml",
+        "Crushed tomatoes, carrots, and onions: 350 g",
+        "Pitted black olives and thinly sliced orange peel: 60 g + 2 pieces",
+        "Herbes de Provence and garlic: 1 set"
+      ],
+      "steps_en": [
+        "Sear the beef in a heavy-bottomed pot until richly browned, then sauté the onions, carrots, garlic, and herbes de Provence.",
+        "Pour in the red wine, beef stock, crushed tomatoes, and orange peel, cover, and braise over low heat for 1.5 hours until the beef is fork-tender.",
+        "Add the black olives and simmer for 15 minutes more, discard the orange peel, and serve hot with the rich Mediterranean sauce."
+      ]
     },
     {
       "id": "fr_soup_12",
@@ -5646,6 +6850,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Velouté d'Asperges (French Cream of Asparagus Soup)",
+      "desc_en": "A refined French spring soup bursting with sweet fresh asparagus flavor and a delicate pale green hue, ideal for seniors.",
+      "ingredients_en": [
+        "Fresh asparagus, cut into pieces (tips reserved for garnish): 450 g",
+        "Shallots and finely diced potatoes: 150 g",
+        "Unsalted butter: 25 g",
+        "Vegetable stock: 750 ml",
+        "Heavy cream and a splash of lemon juice: 90 ml"
+      ],
+      "steps_en": [
+        "Blanch the asparagus tips for 2 minutes, shock in cold water, and set aside for garnish; sauté the shallots and asparagus stalks in butter until fragrant.",
+        "Add the potatoes and vegetable stock, simmer for 15 minutes until tender, then blend until smooth and pass through a fine sieve.",
+        "Stir in the heavy cream and a squeeze of lemon juice, warm gently over low heat, and serve topped with the blanched asparagus tips."
       ]
     },
     {
@@ -5679,7 +6897,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tian Provençal (Baked Layered Zucchini, Eggplant & Tomato)",
+      "desc_en": "A visually stunning, low-calorie Provençal baked vegetable dish packed with fresh Mediterranean flavor and vitamins.",
+      "ingredients_en": [
+        "Thinly sliced green and yellow zucchini: 250 g",
+        "Thinly sliced ripe tomatoes and eggplant: 300 g",
+        "Softened sautéed sliced onions for the base: 100 g",
+        "Minced garlic, fresh thyme, and herbes de Provence: 1 set",
+        "Extra-virgin olive oil and a light sprinkle of Parmesan cheese: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Spread the softened sautéed onions across the bottom of a ceramic baking dish, then neatly arrange alternating overlapping slices of zucchini, eggplant, and tomato on top.",
+        "Drizzle with olive oil and scatter over the garlic, thyme, salt, and black pepper.",
+        "Bake at 190°C for 35 minutes until the vegetables are tender, sweet, and lightly charred at the edges; garnish with fresh herbs and serve warm."
+      ]
     },
     {
       "id": "fr_healthy_02",
@@ -5711,7 +6943,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cabillaud en Papillote (Steamed Cod in Parchment)",
+      "desc_en": "This classic French parchment-steaming technique locks in the fish's natural juiciness with barely any oil required.",
+      "ingredients_en": [
+        "Cod or sea bass fillets: 300 g",
+        "Julienne zucchini and carrots: 150 g",
+        "Halved cherry tomatoes and lemon slices: 100 g",
+        "Fresh thyme, olive oil, and 1 tbsp white wine: 1 set"
+      ],
+      "steps_en": [
+        "Place the julienned vegetables in the center of a sheet of parchment paper, top with the cod fillet, cherry tomatoes, lemon slices, and fresh thyme.",
+        "Drizzle with olive oil and white wine, season with salt and black pepper, and fold the parchment tightly to seal into a papillote packet.",
+        "Bake at 200°C for 14–16 minutes until the packet puffs up and the fish is moist and flaky; open carefully and serve immediately."
+      ]
     },
     {
       "id": "fr_healthy_03",
@@ -5744,7 +6989,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade Landaise (Smoked Duck & Asparagus Greens)",
+      "desc_en": "A celebrated salad from Landes in southwest France balancing rich smoked duck breast against crisp greens and a tangy vinaigrette.",
+      "ingredients_en": [
+        "Thinly sliced smoked duck breast (Magret Fumé): 120 g",
+        "Mixed salad greens (Frisée or mixed baby leaves): 120 g",
+        "Crisp-blanched asparagus and cherry tomatoes: 140 g",
+        "Toasted pine nuts or walnuts: 25 g",
+        "Walnut oil and sherry vinegar dressing: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Toss the mixed salad greens with the vinaigrette and arrange on a large platter.",
+        "Top neatly with the crisp-blanched asparagus, cherry tomatoes, and thinly sliced smoked duck breast.",
+        "Scatter with toasted nuts and freshly cracked black pepper, then serve as a wholesome southwest French meal."
+      ]
     },
     {
       "id": "fr_healthy_04",
@@ -5777,7 +7036,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade de Betteraves et Noix (French Beetroot & Walnut Salad)",
+      "desc_en": "A classic French bistro salad brimming with antioxidants and heart-healthy fats from toasted walnuts.",
+      "ingredients_en": [
+        "Roasted beetroot, diced or cut into wedges: 250 g",
+        "Coarsely chopped toasted walnuts: 35 g",
+        "Finely sliced shallots and chopped parsley: 2 tbsp",
+        "Mâche (lamb's lettuce) or arugula: 80 g",
+        "Dijon mustard and red wine vinegar dressing: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Toss the beetroot pieces with sliced shallots and Dijon mustard vinaigrette and let marinate for 5 minutes.",
+        "Arrange the mâche or arugula on a plate and spoon the dressed beetroot on top.",
+        "Sprinkle with crunchy toasted walnuts and chopped parsley, then serve fresh."
+      ]
     },
     {
       "id": "fr_healthy_05",
@@ -5809,7 +7082,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade Verte aux Fines Herbes",
+      "desc_en": "France's quintessential everyday green salad—effortlessly simple yet vibrant with fresh herbs and classic vinaigrette.",
+      "ingredients_en": [
+        "Butterhead and baby lettuce leaves, washed and spun dry: 160 g",
+        "Fresh French fines herbes (tarragon, chervil, chives, parsley): 3 tbsp",
+        "Finely minced shallot: 1 tsp",
+        "Olive oil, white wine vinegar, and Dijon mustard: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Whisk the Dijon mustard, white wine vinegar, minced shallot, salt, pepper, and olive oil directly in the bottom of a salad bowl until emulsified.",
+        "Place the tender lettuce leaves and picked fresh herbs gently on top of the dressing.",
+        "Toss lightly with salad servers or hands to coat every leaf thinly and serve immediately."
+      ]
     },
     {
       "id": "fr_healthy_06",
@@ -5842,7 +7128,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade d'Endives aux Noix et Pommes",
+      "desc_en": "A timeless French winter salad pairing the crisp, mild bitterness of Belgian endive with sweet apples and nutty Comté cheese.",
+      "ingredients_en": [
+        "Belgian endives, cut into pieces or separated into leaves: 2 heads",
+        "Thinly sliced red apple: 1 piece",
+        "Crunchy toasted walnuts: 35 g",
+        "Diced Comté or Gruyère cheese: 45 g",
+        "Dijon mustard and apple cider vinegar dressing: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Rinse and pat dry the endives, then arrange them in a bowl with the thinly sliced apples.",
+        "Scatter over the diced Comté cheese and crunchy toasted walnuts.",
+        "Drizzle with the Dijon mustard dressing, toss gently, and serve chilled right away."
+      ]
     },
     {
       "id": "fr_healthy_07",
@@ -5874,7 +7174,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Saumon en Papillote au Fenouil",
+      "desc_en": "An omega-3-rich healthy dish infused with bright fennel and lemon aromas without a trace of fishiness.",
+      "ingredients_en": [
+        "Salmon fillets: 280 g",
+        "Paper-thin sliced fennel bulb: 120 g",
+        "Cherry tomatoes and lemon slices: 100 g",
+        "Fresh dill, olive oil, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Layer the paper-thin fennel slices in the center of a parchment sheet, then top with the salmon fillet, cherry tomatoes, lemon slices, and fresh dill.",
+        "Drizzle with olive oil, season with salt and pepper, and fold the parchment edges tightly to seal.",
+        "Bake at 200°C for 14–16 minutes until the salmon is tender and juicy; open the packet and serve hot immediately."
+      ]
     },
     {
       "id": "fr_healthy_08",
@@ -5907,7 +7220,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade de Fenouil et Oranges",
+      "desc_en": "A refreshing, low-calorie, gluten-free vegan salad that is both invigorating and wonderful for digestion.",
+      "ingredients_en": [
+        "Fresh fennel bulb, shaved paper-thin: 1 large head",
+        "Navel oranges, peeled and sliced or segmented: 2 pieces",
+        "Pitted black olives and thinly sliced red onion: 40 g",
+        "Fresh fennel fronds or mint leaves: 1 tbsp",
+        "Extra-virgin olive oil and fresh orange juice: 2 tbsp"
+      ],
+      "steps_en": [
+        "Soak the paper-thin fennel slices in ice water for 5 minutes to make them extra crisp, then drain and pat dry.",
+        "Arrange the fennel, orange slices, red onion, and black olives harmoniously on a serving platter.",
+        "Drizzle with extra-virgin olive oil and orange juice, season with sea salt and black pepper, garnish with fennel fronds, and serve chilled."
+      ]
     },
     {
       "id": "fr_healthy_09",
@@ -5939,7 +7266,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Céleri Rémoulade (French Celeriac Slaw)",
+      "desc_en": "A French deli staple lightened up with Greek yogurt to cut the fat while preserving its signature creamy tang.",
+      "ingredients_en": [
+        "Julienne-grated celeriac (celery root): 320 g",
+        "Greek yogurt mixed with a touch of mayonnaise: 3 tbsp",
+        "Dijon mustard and freshly squeezed lemon juice: 1.5 tbsp",
+        "Finely chopped fresh parsley, salt, and pepper: 2 tbsp"
+      ],
+      "steps_en": [
+        "Peel and grate the celeriac into fine matchsticks, then toss immediately with lemon juice to prevent browning.",
+        "Whisk together the Greek yogurt, mayonnaise, Dijon mustard, salt, and black pepper into a smooth rémoulade dressing.",
+        "Toss the celeriac in the dressing until evenly coated, sprinkle with chopped parsley, and chill for 10 minutes before serving."
+      ]
     },
     {
       "id": "fr_healthy_10",
@@ -5971,7 +7311,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade de Tomates Anciennes à l'Échalote",
+      "desc_en": "Serving heirloom tomatoes at room temperature brings out far deeper sweetness and aroma than serving them straight from the fridge.",
+      "ingredients_en": [
+        "Mixed heirloom and cherry tomatoes, sliced: 350 g",
+        "Finely sliced shallots: 25 g",
+        "Fresh basil leaves and chopped chives: 2 tbsp",
+        "Extra-virgin olive oil, red wine vinegar, and fleur de sel: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Slice the colorful heirloom tomatoes into rounds and wedges and arrange them on a flat platter.",
+        "Scatter over the finely sliced shallots, fleur de sel, and freshly cracked black pepper.",
+        "Drizzle with extra-virgin olive oil and red wine vinegar, top with fresh basil leaves, and serve at room temperature."
+      ]
     },
     {
       "id": "fr_healthy_11",
@@ -6004,7 +7357,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade Avocat, Crevettes et Pamplemousse",
+      "desc_en": "A popular French starter packed with lean protein, healthy fats, and bright citrus freshness from pink grapefruit.",
+      "ingredients_en": [
+        "Chilled peeled cooked shrimp: 200 g",
+        "Diced ripe avocado: 1 piece",
+        "Pink grapefruit or pomelo segments: 120 g",
+        "Baby salad greens and fresh dill: 80 g",
+        "Olive oil and fresh lemon juice: 2 tbsp"
+      ],
+      "steps_en": [
+        "Line a bowl with baby greens and arrange the diced avocado, pink grapefruit segments, and chilled cooked shrimp on top.",
+        "Whisk together the olive oil, lemon juice, salt, and white pepper, then drizzle lightly over the salad.",
+        "Garnish with fresh dill and serve chilled immediately."
+      ]
     },
     {
       "id": "fr_healthy_12",
@@ -6037,7 +7404,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Salade de Concombres à la Crème et Aneth",
+      "desc_en": "A light, low-calorie French chilled salad that is wonderfully crisp, cooling, and fragrant with fresh dill.",
+      "ingredients_en": [
+        "Japanese or English cucumber, thinly sliced: 2 pieces",
+        "Light crème fraîche or Greek yogurt: 3 tbsp",
+        "Fresh lemon juice and finely minced shallot: 1.5 tbsp",
+        "Fresh dill and chopped chives: 2 tbsp",
+        "Sea salt and white pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Toss the thinly sliced cucumbers with a pinch of sea salt, let sit for 5 minutes, and pat dry to keep the salad crisp and never watery.",
+        "Mix the crème fraîche, lemon juice, minced shallot, fresh dill, and white pepper until smooth.",
+        "Fold the cucumbers into the creamy dill dressing, chill briefly, and serve."
+      ]
     },
     {
       "id": "fr_rice_01",
@@ -6070,7 +7451,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Gratin de Macaronis au Gruyère",
+      "desc_en": "French home-style baked macaroni infused with rich nutty Gruyère and a warm hint of nutmeg.",
+      "ingredients_en": [
+        "Parboiled macaroni pasta: 240 g",
+        "Grated French Gruyère cheese: 160 g",
+        "Butter, flour, and milk for béchamel sauce: 350 ml",
+        "Ground nutmeg and white pepper: 1 pinch",
+        "Crispy breadcrumbs for topping: 2 tbsp"
+      ],
+      "steps_en": [
+        "Cook the butter and flour together, whisk in the milk and nutmeg until smooth and thickened into béchamel, then melt in three-quarters of the Gruyère.",
+        "Fold the macaroni into the cheese sauce and transfer to a buttered baking dish.",
+        "Top with the remaining Gruyère and breadcrumbs, then bake at 195°C for 18 minutes until golden, bubbling, and crisp on top."
+      ]
     },
     {
       "id": "fr_rice_02",
@@ -6103,7 +7498,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Coquillettes au Jambon et Emmental",
+      "desc_en": "A beloved Parisian childhood comfort pasta that comes together effortlessly in just 15 minutes.",
+      "ingredients_en": [
+        "Small elbow macaroni (Coquillettes): 200 g",
+        "Finely diced French ham: 120 g",
+        "Grated Emmental or Comté cheese: 80 g",
+        "Unsalted butter and heavy cream: 20 g + 60 ml",
+        "Cracked black pepper and chopped chives: 1 set"
+      ],
+      "steps_en": [
+        "Boil the coquillettes in salted water until al dente, drain, and reserve a splash of the pasta cooking water.",
+        "Warm the butter, heavy cream, and diced ham in the pot, add the pasta and grated Emmental, and stir briskly until the cheese melts into a glossy coating.",
+        "Finish with cracked black pepper and chopped chives, and serve piping hot."
+      ]
     },
     {
       "id": "fr_rice_03",
@@ -6136,7 +7545,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Riz de Camargue aux Fruits de Mer",
+      "desc_en": "Tender, chewy rice from southern France's Camargue wetlands infused with saffron and rich seafood flavors.",
+      "ingredients_en": [
+        "Camargue rice or long-grain brown rice: 220 g",
+        "Fresh shrimp, sliced squid, and mussels: 350 g",
+        "Chopped shallots, garlic, and tomatoes: 160 g",
+        "Fish stock, white wine, and a pinch of saffron: 450 ml",
+        "Olive oil and chopped parsley: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the shallots, garlic, and chopped tomatoes in olive oil, stir in the Camargue rice to coat, then pour in the white wine, fish stock, and saffron.",
+        "Cover and simmer gently over low heat for 20 minutes until the rice is tender and has absorbed the golden seafood broth.",
+        "Nestle the shrimp, squid, and mussels on top, cover, and steam for 6 minutes more until the seafood is cooked; garnish with parsley and lemon to serve."
+      ]
     },
     {
       "id": "fr_rice_04",
@@ -6169,7 +7592,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pâtes au Pistou Provençal",
+      "desc_en": "Provençal pistou celebrates the pure, vibrant fragrance of fresh basil, garlic, and extra-virgin olive oil without pine nuts.",
+      "ingredients_en": [
+        "Spaghetti or linguine: 200 g",
+        "Fresh sweet basil leaves: 60 g",
+        "Fresh garlic: 2 cloves",
+        "Extra-virgin olive oil: 60 ml",
+        "Grated Parmesan cheese and halved cherry tomatoes: 1 set"
+      ],
+      "steps_en": [
+        "Blend or pound the basil leaves, garlic, olive oil, and Parmesan cheese into a bright green French pistou sauce (omitting pine nuts).",
+        "Boil the pasta until al dente, reserving 3 tbsp of the starchy cooking water.",
+        "Toss the hot pasta with the pistou sauce, reserved cooking water, and cherry tomatoes, scatter with extra Parmesan, and serve immediately."
+      ]
     },
     {
       "id": "fr_rice_05",
@@ -6202,7 +7639,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Poulet Basquaise sur Riz Pilaf",
+      "desc_en": "A signature Basque dish where chicken braised in sweet bell pepper and tomato sauce pairs wonderfully with fluffy buttered pilaf.",
+      "ingredients_en": [
+        "Skin-on chicken thighs: 400 g",
+        "Sliced red and green bell peppers: 180 g",
+        "Chopped tomatoes, onions, and garlic: 250 g",
+        "Espelette pepper (or paprika) and white wine: 1 set",
+        "Fluffy buttered rice pilaf: 300 g"
+      ],
+      "steps_en": [
+        "Sear the chicken thighs until the skin is golden and crisp, remove, and sauté the onions, red and green bell peppers, and garlic in the same pan.",
+        "Add the chopped tomatoes, white wine, and paprika, return the chicken to the pan, and simmer gently for 25 minutes until tender and saucy.",
+        "Serve the Basque chicken and rich pepper sauce alongside hot buttered rice pilaf, garnished with chopped parsley."
+      ]
     },
     {
       "id": "fr_rice_06",
@@ -6235,7 +7686,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tagliatelles au Boeuf Braisé",
+      "desc_en": "Wide tagliatelle ribbons cling generously to every drop of this rich, slow-braised red wine beef ragout.",
+      "ingredients_en": [
+        "Tagliatelle pasta: 260 g",
+        "Beef chuck, cut into large chunks: 450 g",
+        "Red wine and beef stock: 200 ml + 300 ml",
+        "Carrots, shallots, garlic, and thyme: 180 g",
+        "Unsalted butter and grated Parmesan cheese: 1 set"
+      ],
+      "steps_en": [
+        "Sear the beef until deeply browned, sauté the carrots, shallots, and garlic, then add red wine, stock, and thyme and braise over low heat for 1 hour until shreddable.",
+        "Cook the tagliatelle until al dente, then toss it directly into the rich braised beef sauce with a knob of butter.",
+        "Serve hot topped with grated Parmesan cheese and chopped parsley."
+      ]
     },
     {
       "id": "fr_rice_07",
@@ -6268,7 +7733,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Gratin de Crozets de Savoie (Savoyard Buckwheat Pasta Bake)",
+      "desc_en": "A comforting Alpine pasta bake from Savoie, rich with melted mountain cheese and smoky lardons.",
+      "ingredients_en": [
+        "Crozets square pasta (or small pasta shapes, cooked): 250 g",
+        "Thick-cut bacon lardons and sliced onions: 120 g + 80 g",
+        "Crème fraîche or heavy cream: 180 ml",
+        "Grated Beaufort or Gruyère cheese: 140 g",
+        "Cracked black pepper and thyme leaves: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the bacon lardons and onions until golden and fragrant, then fold together with the cooked crozets and crème fraîche.",
+        "Pour into a baking dish, scatter evenly with grated Gruyère, and season with black pepper.",
+        "Bake at 200°C for 18–20 minutes until the cheese is melted, bubbling, and golden brown; serve hot."
+      ]
     },
     {
       "id": "fr_rice_08",
@@ -6301,7 +7780,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Spaghetti aux Moules Marinières",
+      "desc_en": "Combines the briny charm of classic French white-wine mussels with tender spaghetti in one effortless dish.",
+      "ingredients_en": [
+        "Spaghetti: 200 g",
+        "Fresh mussels, scrubbed clean: 400 g",
+        "Minced shallots and garlic: 45 g",
+        "Cooking white wine and unsalted butter: 120 ml + 30 g",
+        "Chopped parsley and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Boil the spaghetti in salted water until just shy of al dente.",
+        "Sauté the shallots and garlic in butter, pour in the white wine, add the mussels, and steam covered for 4 minutes until all the shells open.",
+        "Toss the spaghetti directly into the buttery white-wine mussel broth to soak up the flavors, sprinkle with chopped parsley, and serve immediately."
+      ]
     },
     {
       "id": "fr_rice_09",
@@ -6334,7 +7827,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Riz Crémeux aux Poireaux et Saumon",
+      "desc_en": "Velvety braised leeks in cream (fondue de poireaux) are the quintessential French pairing for seared salmon.",
+      "ingredients_en": [
+        "Hot cooked long-grain rice: 280 g",
+        "Pan-seared or grilled salmon fillets: 240 g",
+        "Thinly sliced leeks: 180 g",
+        "Unsalted butter, crème fraîche, and lemon juice: 20 g + 80 g",
+        "Fresh dill, salt, and pepper: 1 set"
+      ],
+      "steps_en": [
+        "Sweat the sliced leeks slowly in butter over low heat until sweet and silky (fondue de poireaux), then stir in the crème fraîche and lemon juice until creamy.",
+        "Pan-sear the salmon until the skin is crisp and the flesh is juicy.",
+        "Spoon the hot rice into bowls, ladle over the creamy leek sauce, top with the seared salmon and fresh dill, and serve hot."
+      ]
     },
     {
       "id": "fr_rice_10",
@@ -6367,7 +7874,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Tagliatelles au Confit de Canard",
+      "desc_en": "A decadent southwestern French pasta dish bursting with crispy shredded duck confit and aromatic garlic.",
+      "ingredients_en": [
+        "Tagliatelle pasta: 200 g",
+        "Shredded duck confit meat: 180 g",
+        "Minced garlic, shallots, and thyme leaves: 1 set",
+        "Chopped parsley and grated Parmesan cheese: 3 tbsp",
+        "Toasted crispy breadcrumbs (optional): 2 tbsp"
+      ],
+      "steps_en": [
+        "Cook the tagliatelle until al dente, reserving 1/3 cup of pasta cooking water.",
+        "Crisp the shredded duck confit in a skillet until golden at the edges, then toss in the garlic, shallots, and thyme briefly until fragrant.",
+        "Add the tagliatelle and reserved pasta water, toss until glossy, and serve hot topped with parsley and Parmesan cheese."
+      ]
     },
     {
       "id": "fr_rice_11",
@@ -6400,7 +7921,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Risotto aux Asperges et Comté",
+      "desc_en": "Aged French Comté cheese lends a delicate, nutty creaminess that elevates tender fresh asparagus.",
+      "ingredients_en": [
+        "Arborio rice: 220 g",
+        "Fresh asparagus, cut into pieces: 200 g",
+        "Grated French Comté cheese: 80 g",
+        "Shallots, white wine, and hot vegetable stock: 800 ml",
+        "Unsalted butter and grated lemon zest: 25 g"
+      ],
+      "steps_en": [
+        "Sauté the shallots in butter, toast the Arborio rice until translucent at the edges, pour in white wine until absorbed, then ladle in hot stock gradually while stirring.",
+        "Stir in the asparagus pieces during the final 6 minutes of cooking so they stay crisp-tender and bright green.",
+        "Remove from heat, beat in the butter, grated Comté, and lemon zest until lush and creamy, and serve hot."
+      ]
     },
     {
       "id": "fr_rice_12",
@@ -6433,7 +7968,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Penne Provençale au Chèvre",
+      "desc_en": "Bright, tangy Provençal tomato sauce melts harmoniously into creamy crumbles of soft goat cheese.",
+      "ingredients_en": [
+        "Penne pasta: 200 g",
+        "Crushed tomatoes and cherry tomatoes: 280 g",
+        "Crumbled soft goat cheese (Chèvre): 90 g",
+        "Black olives, garlic, and herbes de Provence: 1 set",
+        "Extra-virgin olive oil and fresh basil leaves: 2 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the garlic in olive oil, add the crushed tomatoes, cherry tomatoes, black olives, and herbes de Provence, and simmer for 10 minutes.",
+        "Boil the penne until al dente, then toss well with the Provençal tomato sauce.",
+        "Plate the pasta, scatter with crumbled goat cheese so it gently softens and melts, and garnish with fresh basil leaves."
+      ]
     },
     {
       "id": "fr_snack_01",
@@ -6465,7 +8014,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pommes Duchesse (French Duchess Potato Swirls)",
+      "desc_en": "An elegant French side dish or finger food with crisp, buttery golden ridges and a pillowy-soft center.",
+      "ingredients_en": [
+        "Boiled floury potatoes, mashed smooth: 500 g",
+        "Egg yolks: 2 pieces",
+        "Melted butter and heavy cream: 40 g + 2 tbsp",
+        "Ground nutmeg, salt, and white pepper: 1 set"
+      ],
+      "steps_en": [
+        "Mash the hot boiled potatoes until silky smooth, then beat in the butter, heavy cream, egg yolks, salt, white pepper, and nutmeg.",
+        "Transfer to a piping bag fitted with a star tip, pipe rosettes onto a parchment-lined baking sheet, and brush lightly with melted butter.",
+        "Bake at 205°C for 18–20 minutes until the peaks are crisp and golden while the centers remain fluffy."
+      ]
     },
     {
       "id": "fr_snack_02",
@@ -6498,7 +8060,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Rillettes de Saumon (French Salmon Rillettes with Baguette)",
+      "desc_en": "A classic French apéritif spread—rich, herby, and delicious slathered over crisp toasted baguette slices.",
+      "ingredients_en": [
+        "Flaked cooked (grilled or poached) salmon: 180 g",
+        "Finely chopped smoked salmon: 80 g",
+        "Crème fraîche or cream cheese and softened butter: 80 g + 20 g",
+        "Finely minced shallots, fresh dill, and lemon juice: 1 set",
+        "Toasted baguette slices for serving: 1 set"
+      ],
+      "steps_en": [
+        "Flake the cooked salmon and smoked salmon together gently with a fork to retain a pleasant shredded texture.",
+        "Fold in the crème fraîche, softened butter, lemon juice, minced shallots, fresh dill, and black pepper until well combined.",
+        "Pack into a glass jar, chill for 30 minutes, and serve alongside crisp toasted baguette slices and lemon wedges."
+      ]
     },
     {
       "id": "fr_snack_03",
@@ -6530,7 +8106,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Socca Niçoise (Crispy Chickpea Flatbread)",
+      "desc_en": "Nice's beloved gluten-free, vegan street food—savory, nutty with chickpea flour, and wonderfully crisp around the edges.",
+      "ingredients_en": [
+        "Chickpea flour: 150 g",
+        "Room-temperature water: 300 ml",
+        "Extra-virgin olive oil: 3 tbsp",
+        "Sea salt, coarsely cracked black pepper, and chopped rosemary: 1 set"
+      ],
+      "steps_en": [
+        "Whisk the chickpea flour, water, 1 tbsp olive oil, and salt until completely lump-free, then let the batter rest for 15 minutes.",
+        "Preheat a cast-iron skillet with the remaining olive oil in a 230°C oven until smoking hot, then swirl in the batter in a thin layer.",
+        "Bake for 12–14 minutes until the edges are deeply golden and crisp while the center stays tender; tear or slice, shower with cracked black pepper, and serve hot."
+      ]
     },
     {
       "id": "fr_snack_04",
@@ -6562,7 +8151,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Croquettes de Pommes de Terre au Fromage",
+      "desc_en": "Golden, crunchy potato croquettes concealing a molten, stretchy Gruyère cheese core inside.",
+      "ingredients_en": [
+        "Dry-mashed boiled potatoes: 400 g",
+        "Finely diced Gruyère or Comté cheese: 100 g",
+        "Egg, all-purpose flour, and panko breadcrumbs: 1 set",
+        "Chopped chives, ground nutmeg, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Mix the mashed potatoes with chopped chives, 1 egg yolk, salt, pepper, and ground nutmeg until smooth.",
+        "Shape into cylinders around a cube of Gruyère cheese, then dredge in flour, dip in beaten egg, and coat in breadcrumbs.",
+        "Deep-fry at 180°C for 3–4 minutes until crisp and golden brown outside with melted cheese inside; serve immediately."
+      ]
     },
     {
       "id": "fr_snack_05",
@@ -6595,7 +8197,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Feuilletés aux Champignons (French Mushroom Puff Bites)",
+      "desc_en": "Warm, bakery-style French savory pastries filled with creamy sautéed mushrooms encased in flaky golden puff pastry.",
+      "ingredients_en": [
+        "Ready-made puff pastry sheet, cut into 8 squares: 1 sheet",
+        "Coarsely chopped button mushrooms: 220 g",
+        "Shallots, garlic, and thyme leaves: 1 set",
+        "Crème fraîche and unsalted butter: 3 tbsp + 20 g",
+        "Egg yolk for glazing and chopped parsley: 1 set"
+      ],
+      "steps_en": [
+        "Sauté the mushrooms with butter, shallots, garlic, and thyme until all moisture evaporates, stir in crème fraîche until thick, and let cool.",
+        "Spoon the mushroom filling into the center of each puff pastry square, fold into triangles or squares, crimp the edges to seal, and brush with egg yolk.",
+        "Bake at 200°C for 16–18 minutes until puffed, flaky, and golden brown; serve warm."
+      ]
     },
     {
       "id": "fr_snack_06",
@@ -6627,7 +8243,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Radis au Beurre et Fleur de Sel",
+      "desc_en": "A quintessential Parisian bistro starter where crisp, peppery radishes meet cold salted French butter with refreshing simplicity.",
+      "ingredients_en": [
+        "Crisp fresh red radishes with tender greens attached: 200 g",
+        "Chilled cultured French butter: 40 g",
+        "Fleur de sel sea salt: 0.5 tsp",
+        "Sliced fresh baguette: 6 pieces"
+      ],
+      "steps_en": [
+        "Wash the radishes thoroughly, chill in ice water for 5 minutes to crisp them up, and pat dry.",
+        "Arrange the radishes on a plate alongside chilled French butter, fleur de sel, and sliced baguette.",
+        "Eat by spreading cold butter onto a crisp radish and dipping it into a pinch of fleur de sel."
+      ]
     },
     {
       "id": "fr_snack_07",
@@ -6658,7 +8287,19 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pommes Anna (Crispy Layered Buttered Potatoes)",
+      "desc_en": "A restaurant-grade French potato cake featuring a crisp, golden-browned exterior and tender, buttery paper-thin layers within.",
+      "ingredients_en": [
+        "Potatoes, sliced uniformly paper-thin: 550 g",
+        "Melted clarified butter: 65 g",
+        "Fresh thyme leaves, sea salt, and black pepper: 1 set"
+      ],
+      "steps_en": [
+        "Arrange the potato slices in overlapping concentric circles like flower petals in a buttered skillet, brushing with clarified butter and seasoning with salt and pepper between every layer.",
+        "Cook over medium heat for 5 minutes until the bottom begins to crisp, press down gently, and bake at 200°C for 35 minutes until tender inside and golden-crisp at the edges.",
+        "Invert the potato cake onto a cutting board, slice into wedges, garnish with fresh thyme, and serve hot."
+      ]
     },
     {
       "id": "fr_snack_08",
@@ -6690,7 +8331,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Caviar d'Aubergine Provençal (Roasted Eggplant Dip)",
+      "desc_en": "A wholesome Provençal roasted eggplant dip infused with sweet roasted garlic and smoky warmth.",
+      "ingredients_en": [
+        "Large eggplants, halved and scored: 2 pieces",
+        "Roasted soft garlic: 3 cloves",
+        "Extra-virgin olive oil and fresh lemon juice: 3 tbsp + 1 tbsp",
+        "Thyme, parsley, and toasted baguette slices: 1 set"
+      ],
+      "steps_en": [
+        "Brush the halved eggplants with olive oil, scatter with thyme, and roast alongside the garlic at 200°C for 30 minutes until completely soft.",
+        "Scoop out the eggplant flesh, squeeze in the roasted garlic, coarsely chop together, and fold in olive oil, lemon juice, salt, and black pepper.",
+        "Transfer to a serving bowl, drizzle with olive oil, garnish with parsley, and serve with crisp toasted baguette."
+      ]
     },
     {
       "id": "fr_snack_09",
@@ -6723,7 +8377,21 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Beignets de Courgettes (Crispy French Zucchini Fritters)",
+      "desc_en": "A sunny summer snack from Nice—squeezing every drop of moisture from the grated zucchini keeps these fritters crisp and non-greasy.",
+      "ingredients_en": [
+        "Grated zucchini, squeezed dry: 300 g",
+        "All-purpose flour and baking powder: 80 g + 0.5 tsp",
+        "Egg: 1 piece",
+        "Minced garlic, basil, and Parmesan cheese: 1 set",
+        "Lemon-herb yogurt dipping sauce: 3 tbsp"
+      ],
+      "steps_en": [
+        "Toss the grated zucchini with salt, let stand for 5 minutes, and squeeze thoroughly to remove excess water.",
+        "Combine the zucchini with the flour, baking powder, egg, garlic, basil, and Parmesan until evenly mixed.",
+        "Drop spoonfuls into a lightly oiled skillet over medium heat and pan-fry for 2–3 minutes per side until crisp and golden; serve hot with lemon yogurt sauce."
+      ]
     },
     {
       "id": "fr_snack_10",
@@ -6755,7 +8423,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Feuilletés Torsadés au Comté (French Comté Cheese Twists)",
+      "desc_en": "Flaky, savory apéritif twists packed with nutty French Comté cheese—effortless to make and always the first snack to vanish.",
+      "ingredients_en": [
+        "All-butter puff pastry sheet: 1 sheet",
+        "Finely grated French Comté cheese: 100 g",
+        "Thin spread of Dijon mustard and white sesame or poppy seeds: 1 set",
+        "Beaten egg yolk for brushing: 1 piece"
+      ],
+      "steps_en": [
+        "Brush the puff pastry sheet lightly with beaten egg yolk, scatter evenly with grated Comté and seeds, and press gently so they adhere.",
+        "Slice into long strips, twist each into a spiral, and arrange on a parchment-lined baking tray.",
+        "Bake at 200°C for 12–14 minutes until puffed, crisp, and golden brown; cool slightly to crisp up before serving."
+      ]
     },
     {
       "id": "fr_snack_11",
@@ -6787,7 +8468,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Panisses Marseillaises (Crispy Chickpea Fries)",
+      "desc_en": "Marseille's famous gluten-free chickpea fries—shatteringly crisp outside and luxuriously creamy inside, even better than regular fries.",
+      "ingredients_en": [
+        "Chickpea flour: 150 g",
+        "Water and olive oil: 450 ml + 2 tbsp",
+        "Sea salt and finely chopped rosemary: 1 tsp",
+        "Garlic aioli for dipping: 3 tbsp"
+      ],
+      "steps_en": [
+        "Bring the water, salt, and 1 tbsp olive oil to a boil, whisk in the chickpea flour gradually, and stir over low heat for 8 minutes until thick like polenta.",
+        "Pour into a square pan, chill until completely firm, and slice into thick fry-sized batons.",
+        "Deep-fry in hot oil or roast at 210°C until golden and crisp outside while creamy within; sprinkle with rosemary and serve with garlic aioli."
+      ]
     },
     {
       "id": "fr_snack_12",
@@ -6819,7 +8513,20 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       ],
       "country": "FR",
       "packId": "fr_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Pommes de Terre Sarladaises (French Garlic Herb Potatoes)",
+      "desc_en": "A beloved Périgord specialty—golden-crisped potato rounds tender inside and perfumed with sautéed garlic and fresh parsley.",
+      "ingredients_en": [
+        "Potatoes, sliced 0.5 cm thick and patted dry: 500 g",
+        "Butter and olive oil (or duck fat): 3 tbsp",
+        "Finely minced garlic: 1.5 tbsp",
+        "Finely chopped fresh parsley, flaky sea salt, and black pepper: 3 tbsp"
+      ],
+      "steps_en": [
+        "Heat the oil and butter in a wide skillet over medium heat, add the potato slices in an even layer, and pan-fry with minimal stirring for about 18 minutes until golden and crisp.",
+        "Reduce to low heat, toss in the minced garlic and chopped parsley, and stir briskly for 2 minutes until fragrant without burning the garlic.",
+        "Season with flaky sea salt and black pepper, and serve hot as a side dish or snack."
+      ]
     },
     {
       "title": "ซุปมันฝรั่งและต้นกระเทียมสไตล์ฝรั่งเศส",
@@ -6854,6 +8561,22 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/fr/fr_mig_01.webp"
+      ],
+      "name_en": "French Potato and Leek Soup (Potage Parmentier)",
+      "desc_en": "Gently sweating the leeks over low heat coaxes out their natural sweetness without darkening the pale, velvety soup—ideal for seniors.",
+      "ingredients_en": [
+        "Peeled and diced potatoes: 350 g",
+        "Sliced white leek: 150 g",
+        "Vegetable or chicken stock: 500 ml",
+        "Whipping cream: 100 ml",
+        "Unsalted butter: 30 g",
+        "Chopped scallions: 1 tbsp"
+      ],
+      "steps_en": [
+        "Sweat the sliced leek in butter over low heat for about 8 minutes until soft and sweet without browning.",
+        "Add the diced potatoes and stock, bring to a boil, then simmer gently until the potatoes are completely tender.",
+        "Blend the soup until silky smooth and uniform.",
+        "Stir in the whipping cream, season with salt and white pepper, and garnish with chopped scallions before serving."
       ]
     },
     {
@@ -6887,6 +8610,23 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/fr/fr_mig_02.webp"
+      ],
+      "name_en": "Spinach and Smoked Salmon Quiche",
+      "desc_en": "Squeezing every drop of water from the blanched spinach prevents excess moisture from weeping out and separating the silky quiche custard.",
+      "ingredients_en": [
+        "Pre-lined pastry crust in tart pan: 1 crust",
+        "Flaked smoked salmon: 100 g",
+        "Blanched spinach, squeezed dry: 100 g",
+        "Eggs: 3 pieces",
+        "Cooking cream: 150 ml",
+        "Chopped fresh dill: 1 tbsp",
+        "Black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Spread the blanched spinach and flaked smoked salmon evenly over the bottom of the pastry crust.",
+        "Whisk together the eggs, cooking cream, chopped dill, and black pepper without adding much salt, as the smoked salmon is already savory.",
+        "Pour the egg mixture gently into the crust until the spinach and salmon are submerged.",
+        "Bake at 180°C for 30 minutes until the quiche is puffed, golden, and softly set in the center."
       ]
     },
     {
@@ -6920,6 +8660,23 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/fr/fr_mig_03.webp"
+      ],
+      "name_en": "Buttery Lemon Madeleines",
+      "desc_en": "Thoroughly chilling the batter before baking in a hot oven creates the signature golden hump on these classic shell-shaped sponge cakes.",
+      "ingredients_en": [
+        "Cake flour: 100 g",
+        "Melted unsalted butter: 90 g",
+        "Eggs: 2 pieces",
+        "Granulated sugar: 80 g",
+        "Baking powder: 1 tsp",
+        "Grated lemon zest: 1 tbsp",
+        "Fresh lemon juice: 1 tbsp"
+      ],
+      "steps_en": [
+        "Beat the eggs and sugar until pale and fluffy, then stir in the lemon zest and lemon juice.",
+        "Sift in the cake flour and baking powder, fold gently to combine, and fold in the melted butter.",
+        "Cover the bowl with plastic wrap and chill in the refrigerator for at least 1 hour.",
+        "Spoon into a buttered madeleine pan and bake at 190°C for 10–12 minutes until golden around the edges."
       ]
     },
     {
@@ -6954,6 +8711,24 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/fr/fr_mig_04.webp"
+      ],
+      "name_en": "Vanilla Custard Cream Puffs (Choux à la Crème)",
+      "desc_en": "Avoid opening the oven door during the first 20 minutes of baking so cool air doesn't deflate the rising choux shells.",
+      "ingredients_en": [
+        "Water: 120 ml",
+        "Unsalted butter: 50 g",
+        "All-purpose flour: 75 g",
+        "Eggs: 2 pieces",
+        "Fresh milk for pastry cream: 250 ml",
+        "Egg yolks for pastry cream: 2 pieces",
+        "Granulated sugar: 50 g",
+        "Cornstarch: 20 g"
+      ],
+      "steps_en": [
+        "Bring the water and butter to a boil, stir in the flour vigorously until the dough pulls cleanly from the pan, cool slightly, then beat in the eggs gradually until glossy.",
+        "Pipe onto a baking tray, bake at 200°C for 15 minutes, then reduce to 180°C and bake for 15 minutes more.",
+        "Prepare the pastry cream by whisking the milk, egg yolks, sugar, and cornstarch over low heat until smooth and thickened, then cool completely.",
+        "Poke a small hole in the bottom of each puff, pipe generously with vanilla custard, and serve."
       ]
     },
     {
@@ -6989,6 +8764,25 @@ window.KITCHSYNC_PACK_DATA.fr_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/fr/fr_mig_05.webp"
+      ],
+      "name_en": "Mini Mushroom and Scallion Quiche",
+      "desc_en": "Single-serving portion with estimated calories; bake in an oven-safe ramekin and let the filling rest briefly to set before unmolding.",
+      "ingredients_en": [
+        "Ready-made pastry dough: 55 g",
+        "Egg: 1 piece",
+        "Diced button mushrooms: 50 g",
+        "Sliced scallions: 10 g",
+        "Fresh milk: 40 ml",
+        "Grated Gruyère cheese: 15 g",
+        "Olive oil: 0.5 tsp",
+        "Cracked black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Preheat the oven to 190°C, press the pastry dough into a small tart mold, and prick the base with a fork.",
+        "Blind-bake the empty pastry shell for 7 minutes.",
+        "Heat olive oil in a skillet over medium heat, sauté the mushrooms until tender and dry, stir in the scallions, and remove from heat.",
+        "Whisk the egg with the milk and black pepper, stir in the mushrooms and Gruyère cheese, and pour into the pastry shell.",
+        "Bake for 18–22 minutes until the filling is set and no longer liquid in the center; let rest briefly before serving."
       ]
     }
   ]

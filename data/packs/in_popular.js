@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: Indian (56 recipes)
-// Place this file at assets/data/packs/in_popular.js
+// KitchSync Master Pack: in_popular (56 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.in_popular = {
   "pack_id": "indian_popular_48",
@@ -83,7 +82,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Season with salt and lemon juice, pan-fry until golden edges form, and garnish with cilantro."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Jeera Aloo (Cumin Spiced Potatoes)",
+      "desc_en": "Classic Jeera Aloo (Cumin Spiced Potatoes) — Boil potatoes until just tender, peel, and dice into bite-sized cubes.",
+      "ingredients_en": [
+        "Potato: 350 g",
+        "Whole Cumin Seeds: 8 g",
+        "Turmeric Powder: 4 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_002",
@@ -165,7 +172,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pour in beaten eggs, scramble softly until just set, and top with fresh cilantro."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Anda Bhurji (Indian Spiced Scrambled Eggs)",
+      "desc_en": "Classic Anda Bhurji (Indian Spiced Scrambled Eggs) — Sauté finely chopped onion, ginger, and green chili in oil or ghee until soft.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Onion: 60 g",
+        "Tomato: 80 g",
+        "Garam Masala: 5 g",
+        "Turmeric Powder: 3 g"
+      ]
     },
     {
       "recipe_id": "in_pop_003",
@@ -246,7 +262,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Return okra to the pan and toss gently over low heat for 5 minutes."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Bhindi Masala (Spiced Okra Stir-Fry)",
+      "desc_en": "Classic Bhindi Masala (Spiced Okra Stir-Fry) — Wash okra, pat completely dry, slice, and sauté until no longer slimy; set aside.",
+      "ingredients_en": [
+        "Okra: 300 g",
+        "Onion: 80 g",
+        "Tomato: 80 g",
+        "Garam Masala: 5 g",
+        "Turmeric Powder: 3 g"
+      ]
     },
     {
       "recipe_id": "in_pop_004",
@@ -327,7 +352,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Fold paneer and peppers into the spiced gravy and simmer 3 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Kadai Paneer",
+      "desc_en": "Classic Kadai Paneer — Pan-sear cubed paneer and chunky bell peppers in ghee until golden; set aside.",
+      "ingredients_en": [
+        "Cubed Indian Paneer Cheese: 250 g",
+        "Bell Pepper: 100 g",
+        "Tomato: 150 g",
+        "Garam Masala: 8 g",
+        "Ghee Clarified Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "in_pop_005",
@@ -408,7 +442,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Toss with chopped mint and cilantro leaves and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chana Chaat (Spiced Chickpea Salad)",
+      "desc_en": "Classic Chana Chaat (Spiced Chickpea Salad) — Combine cooked chickpeas with diced tomatoes, cucumber, and finely chopped red onion.",
+      "ingredients_en": [
+        "Cooked Chickpeas: 250 g",
+        "Tomato: 80 g",
+        "Cucumber: 80 g",
+        "Lime: 1 pc",
+        "Fresh Mint Leaves: 10 g"
+      ]
     },
     {
       "recipe_id": "in_pop_006",
@@ -481,7 +524,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Cover and cook over low heat for 8-10 minutes until tender; finish with garam masala."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Patta Gobhi Matar (Spiced Cabbage & Peas)",
+      "desc_en": "Classic Patta Gobhi Matar (Spiced Cabbage & Peas) — Temper whole cumin seeds and minced ginger in hot oil.",
+      "ingredients_en": [
+        "Cabbage: 300 g",
+        "Whole Cumin Seeds: 5 g",
+        "Turmeric Powder: 4 g",
+        "Tomato: 80 g"
+      ]
     },
     {
       "recipe_id": "in_pop_007",
@@ -569,7 +620,17 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Layer marinated chicken and rice in a heavy pot with fried onions, saffron milk, and ghee; steam covered 25 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Hyderabadi Chicken Biryani",
+      "desc_en": "Classic Hyderabadi Chicken Biryani — Marinate chicken with Indian yogurt, ginger-garlic paste, garam masala, turmeric, and mint for 30 minutes.",
+      "ingredients_en": [
+        "Basmati Rice: 250 g",
+        "Chicken Pieces: 350 g",
+        "Plain Indian Yogurt: 100 g",
+        "Biryani / Garam Masala: 12 g",
+        "Ghee Clarified Butter: 30 g",
+        "Fresh Mint Leaves: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_008",
@@ -657,7 +718,17 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Layer spiced vegetables and rice with mint and ghee; steam covered for 20 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Vegetable Dum Biryani",
+      "desc_en": "Classic Vegetable Dum Biryani — Simmer cauliflower, carrots, green beans, and potatoes with yogurt and garam masala.",
+      "ingredients_en": [
+        "Basmati Rice: 250 g",
+        "Cauliflower Florets: 120 g",
+        "Carrot: 80 g",
+        "Plain Indian Yogurt: 80 g",
+        "Garam Masala: 10 g",
+        "Ghee: 25 g"
+      ]
     },
     {
       "recipe_id": "in_pop_009",
@@ -729,7 +800,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Add rice, pour in water, cover, and simmer 15 minutes until fluffy and aromatic."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Jeera Rice (Cumin Basmati Rice)",
+      "desc_en": "Classic Jeera Rice (Cumin Basmati Rice) — Rinse basmati rice and soak for 20 minutes, then drain.",
+      "ingredients_en": [
+        "Basmati Rice: 250 g",
+        "Whole Cumin Seeds: 8 g",
+        "Ghee Clarified Butter: 20 g",
+        "Green Cardamom Pods: 3 pcs"
+      ]
     },
     {
       "recipe_id": "in_pop_010",
@@ -810,7 +889,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Fold in cooked basmati rice and fresh lemon juice until evenly golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "South Indian Lemon Rice",
+      "desc_en": "Classic South Indian Lemon Rice — Sauté peanuts, mustard seeds, and fresh curry leaves in hot oil until fragrant.",
+      "ingredients_en": [
+        "Cooked Basmati Rice: 300 g",
+        "Fresh Lemon: 1 pc",
+        "Roasted Peanuts: 40 g",
+        "Fresh Curry Leaves: 10 g",
+        "Turmeric Powder: 4 g"
+      ]
     },
     {
       "recipe_id": "in_pop_011",
@@ -893,6 +981,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Moong Dal Khichdi (Spiced Rice & Lentil Porridge)",
+      "desc_en": "Classic Moong Dal Khichdi (Spiced Rice & Lentil Porridge) — Wash basmati rice and split yellow moong dal thoroughly.",
+      "ingredients_en": [
+        "Basmati Rice: 150 g",
+        "Split Yellow Moong Dal: 120 g",
+        "Ghee Clarified Butter: 20 g",
+        "Whole Cumin Seeds: 5 g",
+        "Turmeric Powder: 4 g"
       ]
     },
     {
@@ -966,7 +1063,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pour in vegetable broth and garam masala; cover and simmer 15 minutes until fluffy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Matar Pulao (Spiced Pea Basmati Rice)",
+      "desc_en": "Classic Matar Pulao (Spiced Pea Basmati Rice) — Sauté cumin seeds, cardamom pods, cinnamon, and sliced onion in oil until fragrant.",
+      "ingredients_en": [
+        "Basmati Rice: 250 g",
+        "Whole Cumin Seeds: 5 g",
+        "Green Cardamom Pods: 3 pcs",
+        "Garam Masala: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_013",
@@ -1047,7 +1152,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Roast at 220°C (425°F) or grill for 25-30 minutes until charred and juicy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Tandoori Chicken",
+      "desc_en": "Classic Classic Tandoori Chicken — Score chicken deeply and coat in a marinade of thick yogurt, tandoori masala, ginger, garlic, and lemon.",
+      "ingredients_en": [
+        "Chicken Quarters / Breast: 450 g",
+        "Thick Plain Indian Yogurt: 120 g",
+        "Tandoori Masala Powder: 20 g",
+        "Lemon Juice: 1 pc",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_014",
@@ -1128,7 +1242,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Grill or broil for 15-18 minutes, basting with melted ghee until charred at the edges."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Tikka Skewers",
+      "desc_en": "Classic Chicken Tikka Skewers — Cut chicken into chunks and marinate in yogurt, tandoori masala, garam masala, ginger, garlic, and lemon.",
+      "ingredients_en": [
+        "Boneless Chicken Chunks: 350 g",
+        "Plain Indian Yogurt: 100 g",
+        "Tandoori Masala: 15 g",
+        "Bell Pepper Chunks: 80 g",
+        "Melted Ghee: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_015",
@@ -1210,7 +1333,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Skewer and grill or bake until charred and golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tandoori Paneer Tikka",
+      "desc_en": "Classic Tandoori Paneer Tikka — Whisk thick yogurt, tandoori masala, a spoonful of gram flour, ginger, garlic, and lemon juice.",
+      "ingredients_en": [
+        "Cubed Indian Paneer Cheese: 300 g",
+        "Thick Indian Yogurt: 100 g",
+        "Tandoori Masala: 15 g",
+        "Bell Pepper: 100 g",
+        "Onion: 80 g"
+      ]
     },
     {
       "recipe_id": "in_pop_016",
@@ -1292,7 +1424,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Grill over high heat until browned and cooked through; serve with mint chutney."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spiced Lamb / Beef Seekh Kebab",
+      "desc_en": "Classic Spiced Lamb / Beef Seekh Kebab — Knead ground meat with squeezed minced onion, ginger, garlic, mint, cilantro, and garam masala.",
+      "ingredients_en": [
+        "Ground Lamb / Beef: 350 g",
+        "Garam Masala: 10 g",
+        "Fresh Mint Leaves: 15 g",
+        "Garlic: 15 g",
+        "Ginger: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_017",
@@ -1372,7 +1513,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Sprinkle with chaat masala and serve with fresh lemon wedges."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Amritsari Spiced Grilled Fish Tikka",
+      "desc_en": "Classic Amritsari Spiced Grilled Fish Tikka — Cut fish fillets into chunks and marinate in lemon juice, ginger-garlic, yogurt, turmeric, and garam masala.",
+      "ingredients_en": [
+        "Sea Bass / Firm Fish Fillets: 350 g",
+        "Plain Indian Yogurt: 60 g",
+        "Turmeric Powder: 4 g",
+        "Garam Masala: 8 g",
+        "Lemon: 1 pc"
+      ]
     },
     {
       "recipe_id": "in_pop_018",
@@ -1453,7 +1603,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Toss in prawns and cook 3-4 minutes until pink and coated in spicy masala."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Kerala Spiced Prawn Roast",
+      "desc_en": "Classic Kerala Spiced Prawn Roast — Sauté fresh curry leaves, mustard seeds, and sliced shallots in coconut oil until aromatic.",
+      "ingredients_en": [
+        "Prawns / Shrimp: 300 g",
+        "Fresh Curry Leaves: 15 g",
+        "Turmeric Powder: 4 g",
+        "Garam Masala: 8 g",
+        "Tomato: 100 g"
+      ]
     },
     {
       "recipe_id": "in_pop_019",
@@ -1541,7 +1700,17 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Add seared chicken and heavy cream; simmer 5 minutes and serve with naan."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Indian Butter Chicken (Murgh Makhani)",
+      "desc_en": "Classic Classic Indian Butter Chicken (Murgh Makhani) — Marinate chicken in spiced yogurt and pan-sear until lightly charred.",
+      "ingredients_en": [
+        "Chicken Breast / Thigh: 350 g",
+        "Tomato Passata: 250 ml",
+        "Butter: 40 g",
+        "Heavy Cream: 80 ml",
+        "Garam Masala: 10 g",
+        "Plain Indian Yogurt: 60 g"
+      ]
     },
     {
       "recipe_id": "in_pop_020",
@@ -1629,7 +1798,17 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Simmer with tomato passata for 10 minutes, add chicken and cream, and cook 5 more minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chicken Tikka Masala",
+      "desc_en": "Classic Chicken Tikka Masala — Grill or sear yogurt-marinated chicken tikka pieces until charred.",
+      "ingredients_en": [
+        "Chicken Breast: 350 g",
+        "Tomato Passata: 250 ml",
+        "Onion: 100 g",
+        "Garam Masala: 10 g",
+        "Heavy Cream: 60 ml",
+        "Plain Indian Yogurt: 60 g"
+      ]
     },
     {
       "recipe_id": "in_pop_021",
@@ -1711,7 +1890,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Add cubed paneer and a splash of cream; simmer gently for 5 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Palak Paneer (Spinach & Cottage Cheese Curry)",
+      "desc_en": "Classic Palak Paneer (Spinach & Cottage Cheese Curry) — Blanch spinach for 2 minutes, shock in ice water, and blend into a vibrant green puree.",
+      "ingredients_en": [
+        "Fresh Spinach: 350 g",
+        "Cubed Indian Paneer Cheese: 220 g",
+        "Garam Masala: 8 g",
+        "Garlic: 15 g",
+        "Ghee: 20 g"
+      ]
     },
     {
       "recipe_id": "in_pop_022",
@@ -1792,7 +1980,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Stir in cooked chickpeas and broth, simmering 15 minutes until rich and flavorful."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chana Masala (Spiced Chickpea Curry)",
+      "desc_en": "Classic Chana Masala (Spiced Chickpea Curry) — Sauté cumin seeds, finely diced onion, ginger, and garlic in oil until golden brown.",
+      "ingredients_en": [
+        "Cooked Chickpeas: 350 g",
+        "Tomato: 150 g",
+        "Onion: 100 g",
+        "Garam Masala: 10 g",
+        "Whole Cumin Seeds: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_023",
@@ -1873,7 +2070,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pour the aromatic tempering over the warm dal and garnish with cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Dal Tadka (Yellow Lentil Curry)",
+      "desc_en": "Classic Dal Tadka (Yellow Lentil Curry) — Boil yellow lentils with turmeric powder, salt, and water for 20 minutes until creamy.",
+      "ingredients_en": [
+        "Split Yellow Toor / Moong Dal: 200 g",
+        "Tomato: 100 g",
+        "Turmeric Powder: 5 g",
+        "Whole Cumin Seeds: 6 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_024",
@@ -1954,7 +2160,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Add broth, cover, and braise gently for 50 minutes until fork-tender."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Goan Beef / Pork Vindaloo",
+      "desc_en": "Classic Goan Beef / Pork Vindaloo — Blend soaked dried chilies, garlic, ginger, cumin, cinnamon, vinegar, and tamarind into vindaloo paste.",
+      "ingredients_en": [
+        "Beef / Pork Cubes: 450 g",
+        "Dried Red Chilies: 15 g",
+        "Tamarind Paste: 20 g",
+        "Garlic: 25 g",
+        "Garam Masala: 10 g"
+      ]
     },
     {
       "recipe_id": "in_pop_025",
@@ -2027,7 +2242,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Stir in chopped mint leaves, roasted cumin, and salt; serve chilled alongside biryani."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cucumber Mint Raita",
+      "desc_en": "Classic Cucumber Mint Raita — Whisk plain Indian yogurt until smooth and creamy.",
+      "ingredients_en": [
+        "Plain Indian Yogurt: 250 g",
+        "Cucumber: 120 g",
+        "Fresh Mint Leaves: 10 g",
+        "Roasted Cumin Powder: 3 g"
+      ]
     },
     {
       "recipe_id": "in_pop_026",
@@ -2108,7 +2331,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Dress with fresh lemon juice and salt right before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Kachumber (Fresh Indian Cucumber Tomato Salad)",
+      "desc_en": "Classic Kachumber (Fresh Indian Cucumber Tomato Salad) — Finely dice cucumber, ripe tomatoes, and red onion into uniform pieces.",
+      "ingredients_en": [
+        "Cucumber: 150 g",
+        "Tomato: 150 g",
+        "Red Onion: 60 g",
+        "Lemon: 1 pc",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_027",
@@ -2189,7 +2421,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Season with lime juice, salt, and chaat masala."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Spiced Mung Bean Sprout Salad",
+      "desc_en": "Classic Spiced Mung Bean Sprout Salad — Blanch mung bean sprouts briefly for 30 seconds and chill in cold water.",
+      "ingredients_en": [
+        "Mung Bean Sprouts: 200 g",
+        "Tomato: 80 g",
+        "Cucumber: 80 g",
+        "Lime: 1 pc",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_028",
@@ -2270,7 +2511,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Cover and cook over low heat for 15-18 minutes until tender; garnish with garam masala."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Aloo Gobi (Spiced Potato & Cauliflower)",
+      "desc_en": "Classic Aloo Gobi (Spiced Potato & Cauliflower) — Temper cumin seeds, minced ginger, and onion in oil until aromatic.",
+      "ingredients_en": [
+        "Cauliflower Florets: 250 g",
+        "Potato: 200 g",
+        "Turmeric Powder: 5 g",
+        "Whole Cumin Seeds: 5 g",
+        "Garam Masala: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_029",
@@ -2351,7 +2601,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Stir in smoky mashed eggplant, cook 8 minutes, and top with fresh cilantro."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Baingan Bharta (Smoky Roasted Eggplant Mash)",
+      "desc_en": "Classic Baingan Bharta (Smoky Roasted Eggplant Mash) — Roast whole eggplant over flame until charred and smoky; peel and mash flesh.",
+      "ingredients_en": [
+        "Large Eggplant: 400 g",
+        "Tomato: 120 g",
+        "Onion: 80 g",
+        "Garlic: 15 g",
+        "Garam Masala: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_030",
@@ -2434,7 +2693,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "South Indian Tomato Rasam Soup",
+      "desc_en": "Classic South Indian Tomato Rasam Soup — Simmer crushed tomatoes, tamarind paste, turmeric, black pepper, and water for 10 minutes.",
+      "ingredients_en": [
+        "Ripe Tomatoes: 250 g",
+        "Tamarind Paste: 15 g",
+        "Fresh Curry Leaves: 10 g",
+        "Whole Cumin Seeds: 5 g",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "in_pop_031",
@@ -2513,7 +2781,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Cook on a hot cast-iron skillet until blistered and puffed, then brush with melted butter."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Garlic Butter Naan Bread",
+      "desc_en": "Classic Garlic Butter Naan Bread — Knead flour, yeast, sugar, salt, Indian yogurt, and warm water into a soft dough; rest 30 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 250 g",
+        "Plain Indian Yogurt: 60 g",
+        "Garlic: 15 g",
+        "Melted Butter: 30 g",
+        "Fresh Cilantro: 10 g"
+      ]
     },
     {
       "recipe_id": "in_pop_032",
@@ -2561,7 +2838,12 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Cook on a hot dry griddle until puffed with golden brown spots."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Whole Wheat Chapati / Roti",
+      "desc_en": "Classic Whole Wheat Chapati / Roti — Knead whole wheat flour with warm water and salt into a pliable dough; rest 15 minutes.",
+      "ingredients_en": [
+        "Whole Wheat Atta Flour: 200 g"
+      ]
     },
     {
       "recipe_id": "in_pop_033",
@@ -2640,7 +2922,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pan-fry on a hot griddle with ghee until golden brown and crisp on both sides."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Aloo Paratha (Potato-Stuffed Flatbread)",
+      "desc_en": "Classic Aloo Paratha (Potato-Stuffed Flatbread) — Mash boiled potatoes with garam masala, cumin, green chili, and cilantro.",
+      "ingredients_en": [
+        "Whole Wheat Flour: 200 g",
+        "Potato: 250 g",
+        "Garam Masala: 5 g",
+        "Ghee Clarified Butter: 25 g",
+        "Fresh Cilantro: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_034",
@@ -2713,7 +3004,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Spoon spiced potato filling in the center, fold, and serve with sambar."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Masala Dosa (Crispy Lentil Rice Crepe)",
+      "desc_en": "Classic Masala Dosa (Crispy Lentil Rice Crepe) — Sauté mustard seeds, curry leaves, onion, and turmeric, then fold in mashed boiled potatoes.",
+      "ingredients_en": [
+        "Rice & Lentil Dosa Batter: 200 g",
+        "Potato: 250 g",
+        "Fresh Curry Leaves: 10 g",
+        "Turmeric Powder: 4 g"
+      ]
     },
     {
       "recipe_id": "in_pop_035",
@@ -2789,6 +3088,14 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Steamed Idli with Lentil Sambar",
+      "desc_en": "Classic Steamed Idli with Lentil Sambar — Spoon fermented rice-lentil batter into idli molds and steam for 10-12 minutes until fluffy.",
+      "ingredients_en": [
+        "Rice & Urad Dal Batter: 200 g",
+        "Toor Dal Lentils: 100 g",
+        "Tamarind Paste: 15 g",
+        "Fresh Curry Leaves: 10 g"
       ]
     },
     {
@@ -2873,6 +3180,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Kanda Poha (Flattened Rice with Turmeric & Peanuts)",
+      "desc_en": "Classic Kanda Poha (Flattened Rice with Turmeric & Peanuts) — Rinse flattened poha rice flakes gently in a colander until softened, then drain.",
+      "ingredients_en": [
+        "Flattened Rice Flakes (Poha): 150 g",
+        "Peanuts: 40 g",
+        "Onion: 60 g",
+        "Fresh Curry Leaves: 10 g",
+        "Turmeric Powder: 4 g"
       ]
     },
     {
@@ -2945,7 +3261,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Shape pastry cones, stuff with potato filling, seal edges, and fry until golden crisp."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Vegetable Samosas",
+      "desc_en": "Classic Crispy Vegetable Samosas — Knead flour, oil, salt, and cold water into a firm pastry dough; rest 20 minutes.",
+      "ingredients_en": [
+        "All-Purpose Flour: 200 g",
+        "Potato: 250 g",
+        "Whole Cumin Seeds: 5 g",
+        "Garam Masala: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_038",
@@ -3018,7 +3342,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Drop spoonfuls into hot oil and deep-fry until golden brown and crispy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Onion Bhaji / Pakora",
+      "desc_en": "Classic Crispy Onion Bhaji / Pakora — Thinly slice onions and toss with salt for 5 minutes to release moisture.",
+      "ingredients_en": [
+        "Sliced Onions: 250 g",
+        "Chickpea Gram Flour (Besan): 120 g",
+        "Turmeric Powder: 4 g",
+        "Whole Cumin Seeds: 5 g"
+      ]
     },
     {
       "recipe_id": "in_pop_039",
@@ -3098,7 +3430,16 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Crack open hollow crispy puri shells, stuff with potato mix, fill with cold pani, and eat whole."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pani Puri (Crispy Hollow Puri Bites)",
+      "desc_en": "Classic Pani Puri (Crispy Hollow Puri Bites) — Blend fresh mint, cilantro, green chili, ginger, tamarind, cumin, and chilled water into spicy pani.",
+      "ingredients_en": [
+        "Potato: 150 g",
+        "Chickpeas: 80 g",
+        "Fresh Mint Leaves: 30 g",
+        "Tamarind Paste: 20 g",
+        "Fresh Cilantro: 20 g"
+      ]
     },
     {
       "recipe_id": "in_pop_040",
@@ -3171,7 +3512,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Blend until smooth and vibrant green; serve as a dipping sauce."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Fresh Cilantro Mint Chutney",
+      "desc_en": "Classic Fresh Cilantro Mint Chutney — Combine fresh cilantro, mint leaves, ginger, green chili, and garlic in a blender.",
+      "ingredients_en": [
+        "Fresh Cilantro: 60 g",
+        "Fresh Mint Leaves: 40 g",
+        "Lemon: 1 pc",
+        "Ginger: 10 g"
+      ]
     },
     {
       "recipe_id": "in_pop_041",
@@ -3234,7 +3583,14 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Serve immediately alongside mint chutney and finely diced salad toppings."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Roasted Papadums",
+      "desc_en": "Classic Crispy Roasted Papadums — Roast papadum discs over an open flame or flash-fry in hot oil for 10 seconds until crisp.",
+      "ingredients_en": [
+        "Indian Papadum Discs: 4 discs",
+        "Tomato: 50 g",
+        "Red Onion: 30 g"
+      ]
     },
     {
       "recipe_id": "in_pop_042",
@@ -3299,7 +3655,14 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Shape into donut rings with wet hands and deep-fry until golden crisp outside and airy inside."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Medu Vada (Crispy Lentil Fritters)",
+      "desc_en": "Classic Medu Vada (Crispy Lentil Fritters) — Grind soaked dal lentils with minimal water into a thick, fluffy batter.",
+      "ingredients_en": [
+        "Soaked Dal Lentils: 200 g",
+        "Fresh Curry Leaves: 10 g",
+        "Ginger: 15 g"
+      ]
     },
     {
       "recipe_id": "in_pop_043",
@@ -3376,6 +3739,14 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Classic Mango Lassi",
+      "desc_en": "Classic Classic Mango Lassi — Combine ripe mango chunks, plain Indian yogurt, milk, honey, and ground cardamom in a blender.",
+      "ingredients_en": [
+        "Ripe Sweet Mango: 200 g",
+        "Plain Indian Yogurt: 180 g",
+        "Milk: 60 ml",
+        "Ground Green Cardamom: 2 pcs"
       ]
     },
     {
@@ -3448,7 +3819,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pour in whole milk, bring to a frothy boil twice, strain into cups, and serve hot."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Authentic Indian Masala Chai",
+      "desc_en": "Classic Authentic Indian Masala Chai — Simmer crushed green cardamom pods, fresh ginger, cinnamon, and cloves in water for 3 minutes.",
+      "ingredients_en": [
+        "Whole Milk: 250 ml",
+        "Green Cardamom Pods: 4 pcs",
+        "Fresh Ginger: 15 g",
+        "Cinnamon Stick: 3 g"
+      ]
     },
     {
       "recipe_id": "in_pop_045",
@@ -3519,7 +3898,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Fry over low heat until deep golden brown, then soak in warm syrup for 30 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Gulab Jamun (Rose Cardamom Milk Dumplings)",
+      "desc_en": "Classic Gulab Jamun (Rose Cardamom Milk Dumplings) — Simmer sugar, water, cardamom pods, and rose water into a fragrant warm syrup.",
+      "ingredients_en": [
+        "Milk & Milk Powder: 150 ml",
+        "All-Purpose Flour: 40 g",
+        "Ghee Clarified Butter: 30 g",
+        "Green Cardamom Pods: 4 pcs"
+      ]
     },
     {
       "recipe_id": "in_pop_046",
@@ -3602,6 +3989,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Indian Rice Pudding (Kheer)",
+      "desc_en": "Classic Indian Rice Pudding (Kheer) — Bring whole milk to a boil, add rinsed basmati rice, and simmer gently for 25 minutes until thick.",
+      "ingredients_en": [
+        "Basmati Rice: 80 g",
+        "Whole Milk: 500 ml",
+        "Green Cardamom Pods: 4 pcs",
+        "Sliced Almonds: 25 g",
+        "Saffron Strands: 1 g"
       ]
     },
     {
@@ -3685,6 +4081,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
       "rating": "4.8",
       "tags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Gajar Ka Halwa (Indian Carrot Pudding)",
+      "desc_en": "Classic Gajar Ka Halwa (Indian Carrot Pudding) — Sauté finely grated carrots in ghee over medium heat for 5 minutes.",
+      "ingredients_en": [
+        "Finely Grated Carrots: 400 g",
+        "Whole Milk: 300 ml",
+        "Ghee Clarified Butter: 30 g",
+        "Green Cardamom: 3 pcs",
+        "Cashew Nuts: 25 g"
       ]
     },
     {
@@ -3757,7 +4162,15 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "Pour into kulfi molds and freeze for at least 6 hours until firm."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Traditional Pistachio Cardamom Kulfi",
+      "desc_en": "Classic Traditional Pistachio Cardamom Kulfi — Simmer whole milk over medium heat for 25 minutes, stirring often until reduced by half.",
+      "ingredients_en": [
+        "Whole Milk: 500 ml",
+        "Green Cardamom Pods: 4 pcs",
+        "Chopped Pistachios & Almonds: 30 g",
+        "Saffron Strands: 1 g"
+      ]
     },
     {
       "recipe_id": "in_pop_049",
@@ -3805,7 +4218,23 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "เติมน้ำซุป ปิดฝาตุ๋นไฟอ่อน 50-60 นาทีจนเนื้อแกะเปื่อยนุ่มและน้ำแกงสีแดงเข้มหอมกลิ่นเครื่องเทศ",
         "โรยผักชีสด เสิร์ฟร้อนๆ คู่ข้าวบาสมาติหรือแป้งนาน"
       ],
-      "note": "แกงแกะระดับตำนานแห่งแคชเมียร์ หอมเครื่องเทศเข้มข้นและสีแดงสวยจากพริกแคชเมียร์"
+      "note": "แกงแกะระดับตำนานแห่งแคชเมียร์ หอมเครื่องเทศเข้มข้นและสีแดงสวยจากพริกแคชเมียร์",
+      "name_en": "Rogan Josh",
+      "desc_en": "A legendary Kashmiri lamb curry richly fragranced with warm spices and vibrantly colored with Kashmiri chili powder.",
+      "ingredients_en": [
+        "Diced lamb or beef shank: 400 g",
+        "Whisked plain yogurt: 100 g",
+        "Finely sliced onion and ginger-garlic paste: 100 g",
+        "Kashmiri chili powder (vibrant red, mild heat): 2 tbsp",
+        "Cardamom pods, cloves, cinnamon, and ground cumin: a pinch each",
+        "Ghee and broth: 2 tbsp / 350 ml"
+      ],
+      "steps_en": [
+        "Toast the whole spices (cardamom, cinnamon, cloves) in ghee until fragrant, then sauté the onions until golden and soft.",
+        "Add the ginger-garlic paste and lamb, searing until browned on the outside; stir in the Kashmiri chili powder and yogurt gently over low heat.",
+        "Pour in the broth, cover, and simmer over low heat for 50–60 minutes until the lamb is melt-in-the-mouth tender and the gravy is deep red and aromatic.",
+        "Garnish with fresh cilantro and serve piping hot with basmati rice or naan."
+      ]
     },
     {
       "recipe_id": "in_pop_050",
@@ -3852,7 +4281,22 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "เคี่ยวซอสกับเนยใส การัมมาซาลา และครีมสดไฟอ่อนจนเนียนหอมกลมกล่อม",
         "ตักซอสใส่ชาม วางลูกชิ้นมาลัยคอฟตาลงตอนเสิร์ฟ ราดครีมสดเล็กน้อย"
       ],
-      "note": "เมนูมังสวิรัติยอดนิยมในภัตตาคารอินเดีย เนื้อนุ่มหอมมันครีมเม็ดมะม่วง ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+      "note": "เมนูมังสวิรัติยอดนิยมในภัตตาคารอินเดีย เนื้อนุ่มหอมมันครีมเม็ดมะม่วง ไม่เผ็ด เหมาะกับผู้สูงอายุ",
+      "name_en": "Malai Kofta",
+      "desc_en": "A beloved vegetarian Indian restaurant classic featuring tender paneer dumplings in a mild, creamy cashew sauce that is gentle for seniors.",
+      "ingredients_en": [
+        "Finely grated paneer and mashed boiled potatoes: 120 g each",
+        "Cornstarch (for binding the kofta balls): 2 tbsp",
+        "Ripe tomatoes, onions, and soaked cashews: 200 g",
+        "Cooking cream: 50 ml",
+        "Garam masala, turmeric, and ghee: 1 tsp each"
+      ],
+      "steps_en": [
+        "Knead the paneer, mashed potatoes, cornstarch, and a pinch of salt together; roll into balls and fry or bake until golden and crisp outside while soft inside.",
+        "Simmer the onions, tomatoes, and soaked cashews until soft, then blend until smooth and strain for a velvety texture.",
+        "Simmer the sauce with ghee, garam masala, and cooking cream over low heat until rich and aromatic.",
+        "Spoon the sauce into a serving bowl, nestle the malai kofta dumplings on top just before serving, and drizzle with a little extra cream."
+      ]
     },
     {
       "recipe_id": "in_pop_051",
@@ -3902,7 +4346,22 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "วางชิ้นปลาลงในน้ำแกงเดือดอ่อน ต้มต่อ 6-8 นาทีจนเนื้อปลาสุกขาวนุ่ม (ไม่คนแรงเพื่อไม่ให้ปลาเละ)",
         "ตักเสิร์ฟร้อนๆ คู่ข้าวสวยหอมมะลิหรือข้าวบาสมาติ"
       ],
-      "note": "แกงกะทิปลาสไตล์ชายฝั่งรัฐกัว เปรี้ยวหอมมะขามและกะทิกลมกล่อม เนื้อปลานุ่มย่อยง่าย"
+      "note": "แกงกะทิปลาสไตล์ชายฝั่งรัฐกัว เปรี้ยวหอมมะขามและกะทิกลมกล่อม เนื้อปลานุ่มย่อยง่าย",
+      "name_en": "Goan Fish Curry",
+      "desc_en": "A coastal Goan coconut fish curry balancing tangy tamarind and creamy coconut milk with tender, easy-to-digest fish fillets.",
+      "ingredients_en": [
+        "King mackerel or sea bass fillets, cut into pieces: 300 g",
+        "Fresh coconut milk: 250 ml",
+        "Tomatoes, shallots, garlic, and ground turmeric: 100 g",
+        "Ground coriander, cumin, and tamarind paste: 1 tsp each",
+        "Curry leaves and vegetable oil: 1 tbsp"
+      ],
+      "steps_en": [
+        "Blend the shallots, garlic, tomatoes, turmeric, ground coriander, and cumin with a splash of water into a smooth curry paste.",
+        "Sauté the curry leaves and paste in oil until fragrant, then add the coconut milk and tamarind paste and simmer over low heat for 10 minutes.",
+        "Gently place the fish pieces into the simmering curry and cook for 6–8 minutes until opaque and tender, avoiding vigorous stirring so the fish stays intact.",
+        "Serve hot alongside steamed jasmine or basmati rice."
+      ]
     },
     {
       "recipe_id": "in_pop_052",
@@ -3953,7 +4412,23 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "เติมกะทิเข้มข้นและพริกเขียวเม็ด เคี่ยวไฟอ่อน 8 นาทีจนน้ำแกงข้นหอม",
         "ใส่กุ้งกลับลงต้มอีก 3 นาที ปรุงเกลือและน้ำตาลเล็กน้อย เสิร์ฟคู่ข้าวบาสมาติ"
       ],
-      "note": "ชิงรีมาลัยกะหรี่สูตรดังจากเบงกอล รสหวานมันนุ่มนวลจากกะทิและกุ้ง ไม่เผ็ด เหมาะกับผู้สูงอายุ"
+      "note": "ชิงรีมาลัยกะหรี่สูตรดังจากเบงกอล รสหวานมันนุ่มนวลจากกะทิและกุ้ง ไม่เผ็ด เหมาะกับผู้สูงอายุ",
+      "name_en": "Prawn Malai Curry",
+      "desc_en": "Bengal's famous Chingri Malai Curry with sweet, velvety coconut cream and plump prawns, mild in heat and ideal for seniors.",
+      "ingredients_en": [
+        "Large white shrimp or river prawns, peeled and deveined: 300 g",
+        "Rich coconut cream: 250 ml",
+        "Finely pureed onion and ginger-garlic paste: 80 g",
+        "Ground turmeric, green cardamom, cinnamon, and bay leaf: a pinch each",
+        "Whole green chilies (kept whole for aroma without heat): 2 pieces",
+        "Ghee or mustard oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Toss the prawns with a pinch of salt and turmeric, sear briefly in a pan until they just turn pink, and set aside.",
+        "Temper the cardamom, cinnamon, and bay leaf in ghee, then add the onion puree and ginger-garlic paste and sauté until soft and fragrant.",
+        "Pour in the coconut cream and whole green chilies, simmering over low heat for 8 minutes until thickened and aromatic.",
+        "Return the prawns to the curry for 3 more minutes, season lightly with salt and a pinch of sugar, and serve with basmati rice."
+      ]
     },
     {
       "recipe_id": "in_pop_053",
@@ -4003,7 +4478,21 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "ใส่ถั่วแดงต้มเปื่อยพร้อมน้ำต้มถั่ว เคี่ยวไฟอ่อน 20 นาทีพร้อมบี้ถั่วเล็กน้อยให้น้ำแกงข้นนวล",
         "ตักแกงถั่วแดงราชมาราดข้างข้าวบาสมาติร้อนๆ เสิร์ฟอิ่มสบายท้อง"
       ],
-      "note": "อาหารจานประจำบ้านยอดฮิตของอินเดียเหนือ โปรตีนพืชและไฟเบอร์สูง ถั่วเปื่อยนุ่มย่อยง่าย"
+      "note": "อาหารจานประจำบ้านยอดฮิตของอินเดียเหนือ โปรตีนพืชและไฟเบอร์สูง ถั่วเปื่อยนุ่มย่อยง่าย",
+      "name_en": "Rajma Chawal",
+      "desc_en": "A comforting North Indian home-style staple high in plant protein and fiber, with creamy, easy-to-digest red kidney beans.",
+      "ingredients_en": [
+        "Tender cooked red kidney beans: 250 g",
+        "Cooked basmati rice: 200 g",
+        "Crushed tomatoes and chopped onion: 180 g",
+        "Ginger-garlic paste, ground cumin, ground coriander, and garam masala: 1 tsp each",
+        "Vegetable oil or ghee: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Sauté the onions and ginger-garlic paste until golden and fragrant, then add the crushed tomatoes and spices and cook until well combined.",
+        "Add the cooked kidney beans along with their cooking liquid and simmer over low heat for 20 minutes, lightly mashing a few beans to thicken the gravy.",
+        "Ladle the rich rajma curry beside warm basmati rice for a hearty, comforting meal."
+      ]
     },
     {
       "recipe_id": "in_pop_054",
@@ -4050,7 +4539,22 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "ใส่ผักต้มเปื่อยลงกระทะ ใช้ที่บดมันบดผักทั้งหมดให้ละเอียดเข้ากับซอส เติมน้ำเล็กน้อยเคี่ยวจนเนียนข้น",
         "ปิ้งขนมปังก้อนกับเนยบนกระทะจนอุ่นหอม ตักแกงผักบดวางเนยก้อนเล็กๆ ด้านบน เสิร์ฟร้อนๆ"
       ],
-      "note": "สตรีทฟู้ดชื่อดังแห่งมุมไบ ผักบดเนื้อเนียนนุ่มหอมเนย ทานง่ายมากสำหรับผู้สูงอายุและเด็ก"
+      "note": "สตรีทฟู้ดชื่อดังแห่งมุมไบ ผักบดเนื้อเนียนนุ่มหอมเนย ทานง่ายมากสำหรับผู้สูงอายุและเด็ก",
+      "name_en": "Pav Bhaji",
+      "desc_en": "Mumbai's iconic street food featuring velvety, butter-infused mashed vegetable curry that is wonderfully soft and easy to eat for seniors and children.",
+      "ingredients_en": [
+        "Soft-boiled potatoes, cauliflower, carrots, and green peas: 300 g",
+        "Chopped tomatoes and chopped onion: 120 g",
+        "Pav bhaji masala: 1.5 tbsp",
+        "Unsalted butter: 30 g",
+        "Soft dinner rolls (pav), halved and toasted in butter: 2 pieces",
+        "Lime wedges and sliced shallots for serving: to taste"
+      ],
+      "steps_en": [
+        "Sauté the onions and tomatoes in unsalted butter until soft, then stir in the pav bhaji masala until fragrant.",
+        "Add the boiled vegetables to the pan, mash everything thoroughly with a potato masher into the sauce, and simmer with a splash of water until smooth and thick.",
+        "Toast the buttered bread rolls on a griddle until warm and golden; serve the vegetable mash hot topped with a pat of butter alongside the rolls."
+      ]
     },
     {
       "recipe_id": "in_pop_055",
@@ -4095,7 +4599,21 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "นำแผ่นแป้งลงทอดในน้ำมันร้อนจัด กดเบาๆ ให้แป้งพองฟูเป็นลูกโป่งสีทอง ตักซับน้ำมัน",
         "เสิร์ฟแป้งบาตูเรร้อนๆ คู่แกงถั่วลูกไก่โชเลและหอมแดงฝาน"
       ],
-      "note": "เมนูยอดฮิตจากเดลีและปัญจาบ แป้งทอดพองนุ่มหนึบจิ้มแกงถั่วลูกไก่รสเข้มข้น"
+      "note": "เมนูยอดฮิตจากเดลีและปัญจาบ แป้งทอดพองนุ่มหนึบจิ้มแกงถั่วลูกไก่รสเข้มข้น",
+      "name_en": "Chole Bhature",
+      "desc_en": "A wildly popular Delhi and Punjabi favorite pairing pillowy, puffed fried bread with a deeply spiced chickpea curry.",
+      "ingredients_en": [
+        "Soft-boiled chickpeas: 250 g",
+        "Onion, tomato, ginger, and chole masala: 150 g",
+        "All-purpose flour, yogurt, and baking powder (for bhature dough): 200 g",
+        "Oil for frying and sliced shallots for serving: as needed"
+      ],
+      "steps_en": [
+        "Simmer the chickpeas with onion, tomato, and chole masala until the curry turns dark, rich, and thick.",
+        "Knead the flour, yogurt, baking powder, and warm water into a dough, rest for 30 minutes, then roll into thin rounds.",
+        "Deep-fry the dough rounds in very hot oil, pressing gently so they puff up into golden balloons, then drain on paper towels.",
+        "Serve the hot puffed bhature alongside the chickpea curry and sliced shallots."
+      ]
     },
     {
       "recipe_id": "in_pop_056",
@@ -4143,7 +4661,22 @@ window.KITCHSYNC_PACK_DATA.in_popular = {
         "นำก้อนชีสนุ่มลงแช่ในนมหญ้าฝรั่นเย็นจัดอย่างน้อย 2 ชั่วโมงให้ชุ่มฉ่ำ",
         "ตักเสิร์ฟเย็นๆ โรยพิสตาชิโอ อัลมอนด์ และกลีบกุหลาบ"
       ],
-      "note": "ราชินีขนมหวานแห่งเบงกอล นุ่มฟูชุ่มนมสดหอมหญ้าฝรั่นและกระวาน ละลายในปาก เหมาะมากสำหรับผู้สูงอายุ"
+      "note": "ราชินีขนมหวานแห่งเบงกอล นุ่มฟูชุ่มนมสดหอมหญ้าฝรั่นและกระวาน ละลายในปาก เหมาะมากสำหรับผู้สูงอายุ",
+      "name_en": "Rasmalai",
+      "desc_en": "Bengal's queen of desserts featuring feather-light cheese patties soaked in chilled saffron-cardamom milk that melt in the mouth, ideal for seniors.",
+      "ingredients_en": [
+        "Fresh Indian cheese (chenna/paneer, kneaded smooth): 200 g",
+        "Whole milk: 600 ml",
+        "Granulated sugar: 80 g",
+        "Saffron threads and ground green cardamom: a pinch each",
+        "Chopped pistachios, sliced almonds, and dried rose petals for garnish: to taste"
+      ],
+      "steps_en": [
+        "Knead the fresh cheese until smooth, shape into flat discs, boil in light sugar syrup until puffed and spongy, then lift out and gently squeeze out excess syrup.",
+        "Simmer the whole milk with sugar, saffron, and ground cardamom until slightly reduced, golden, and fragrant.",
+        "Soak the soft cheese patties in the chilled saffron milk for at least 2 hours so they absorb the creamy flavor.",
+        "Serve chilled, garnished with pistachios, almonds, and dried rose petals."
+      ]
     }
   ]
 };

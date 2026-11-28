@@ -1,5 +1,4 @@
-// KitchSync Cuisine Pack: American (144 recipes)
-// Place this file at assets/data/packs/us_popular.js
+// KitchSync Master Pack: us_popular (219 recipes)
 window.KITCHSYNC_PACK_DATA = window.KITCHSYNC_PACK_DATA || {};
 window.KITCHSYNC_PACK_DATA.us_popular = {
   "pack_id": "american_popular_48",
@@ -97,7 +96,17 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Assemble on a toasted burger bun with lettuce, tomato, dill pickles, and the cheesy patty."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Cheeseburger",
+      "desc_en": "Classic Classic American Cheeseburger — Form ground beef into a patty and season generously with salt and black pepper.",
+      "ingredients_en": [
+        "Ground Beef: 180 g",
+        "Burger Bun: 1 pc",
+        "Cheddar Cheese: 30 g",
+        "Lettuce: 20 g",
+        "Tomato: 30 g",
+        "Dill Pickle Slices: 15 g"
+      ]
     },
     {
       "recipe_id": "us_pop_002",
@@ -160,7 +169,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Grill over medium-low heat until both sides are golden crisp and the cheese is melted."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Grilled Cheese Sandwich",
+      "desc_en": "Classic Classic Grilled Cheese Sandwich — Spread softened butter on the outside of two slices of sandwich bread.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Cheddar Cheese: 60 g",
+        "Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_003",
@@ -239,7 +255,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Layer lettuce, sliced tomato, and crispy bacon, close sandwich, and slice in half."
       ],
       "isDailyFeatured": true,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic BLT Sandwich",
+      "desc_en": "Classic Classic BLT Sandwich — Fry bacon strips until crisp and drain on paper towels.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Bacon: 80 g",
+        "Lettuce: 30 g",
+        "Tomato: 60 g",
+        "Mayonnaise: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_004",
@@ -303,7 +328,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Press the slices together and cut diagonally to serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Peanut Butter and Jelly Sandwich (PB&J)",
+      "desc_en": "Classic Peanut Butter and Jelly Sandwich (PB&J) — Spread creamy peanut butter evenly onto one slice of bread.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 2 slices",
+        "Peanut Butter: 30 g",
+        "Strawberry Jam: 30 g"
+      ]
     },
     {
       "recipe_id": "us_pop_005",
@@ -374,7 +406,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Nestle the sausage inside the bun and top with diced onion and yellow mustard."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Hot Dog",
+      "desc_en": "Classic Classic American Hot Dog — Grill or pan-sear the hot dog sausage until browned and heated through.",
+      "ingredients_en": [
+        "Hot Dog Sausage: 1 pc",
+        "Hot Dog Bun: 1 pc",
+        "Yellow Mustard: 15 g",
+        "Onion: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_006",
@@ -453,7 +493,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Grill in a buttered skillet or broil until toasted and the cheese melts."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Tuna Melt Sandwich",
+      "desc_en": "Classic Tuna Melt Sandwich — Mix drained canned tuna with mayonnaise, finely diced celery, and black pepper.",
+      "ingredients_en": [
+        "Canned Tuna: 120 g",
+        "Mayonnaise: 25 g",
+        "Cheddar Cheese: 40 g",
+        "Sliced Sandwich Bread: 2 slices",
+        "Celery: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_007",
@@ -532,7 +581,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Fold pasta into the cheese sauce, top with breadcrumbs, and bake at 190°C (375°F) for 15 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Baked Macaroni and Cheese (Mac & Cheese)",
+      "desc_en": "Classic Baked Macaroni and Cheese (Mac & Cheese) — Boil elbow macaroni in salted water until just al dente.",
+      "ingredients_en": [
+        "Elbow Macaroni Pasta: 200 g",
+        "Cheddar Cheese: 150 g",
+        "Milk: 250 ml",
+        "Butter: 30 g",
+        "All-Purpose Flour: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_008",
@@ -621,7 +679,17 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Cover and simmer over low heat for 20 minutes until rice is tender and flavorful."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cajun Chicken and Sausage Jambalaya",
+      "desc_en": "Classic Cajun Chicken and Sausage Jambalaya — Sauté diced chicken, sliced sausage, bell pepper, onion, and celery with Cajun seasoning.",
+      "ingredients_en": [
+        "Rice: 200 g",
+        "Chicken Breast: 150 g",
+        "Sausage: 100 g",
+        "Cajun Seasoning: 10 g",
+        "Tomato Passata Sauce: 150 ml",
+        "Bell Pepper: 60 g"
+      ]
     },
     {
       "recipe_id": "us_pop_009",
@@ -700,7 +768,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Toss cooked fettuccine pasta into the creamy Cajun sauce and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Creamy Cajun Chicken Pasta",
+      "desc_en": "Classic Creamy Cajun Chicken Pasta — Coat sliced chicken breast in Cajun seasoning and sear in a skillet until cooked through.",
+      "ingredients_en": [
+        "Fettuccine Pasta: 200 g",
+        "Chicken Breast: 200 g",
+        "Cajun Seasoning: 10 g",
+        "Heavy Cream: 150 ml",
+        "Parmesan Cheese: 40 g"
+      ]
     },
     {
       "recipe_id": "us_pop_010",
@@ -779,7 +856,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Remove from heat and stir in shredded cheddar cheese until melted."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "American Chili Mac",
+      "desc_en": "Classic American Chili Mac — Brown ground beef with diced onion and garlic in a deep skillet.",
+      "ingredients_en": [
+        "Elbow Macaroni Pasta: 180 g",
+        "Ground Beef: 250 g",
+        "Red Kidney Beans: 120 g",
+        "Tomato Passata Sauce: 250 ml",
+        "Cheddar Cheese: 80 g"
+      ]
     },
     {
       "recipe_id": "us_pop_011",
@@ -859,7 +945,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Top with remaining cheddar cheese and bake at 190°C (375°F) for 20 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Cheesy Chicken and Broccoli Rice Casserole",
+      "desc_en": "Classic Cheesy Chicken and Broccoli Rice Casserole — Cook diced chicken breast and blanch broccoli florets until bright green.",
+      "ingredients_en": [
+        "Rice: 250 g",
+        "Chicken Breast: 250 g",
+        "Broccoli: 150 g",
+        "Cheddar Cheese: 100 g",
+        "Milk: 150 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_012",
@@ -939,7 +1034,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Serve the garlic shrimp and crispy bacon over the cheesy grits."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Southern Shrimp and Grits",
+      "desc_en": "Classic Southern Shrimp and Grits — Simmer yellow cornmeal in broth until thick and creamy, then stir in butter and cheddar cheese.",
+      "ingredients_en": [
+        "Shrimp: 250 g",
+        "Yellow Cornmeal: 120 g",
+        "Cheddar Cheese: 60 g",
+        "Bacon: 50 g",
+        "Butter: 25 g"
+      ]
     },
     {
       "recipe_id": "us_pop_013",
@@ -1004,7 +1108,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Toss the hot crispy wings in the Buffalo sauce until evenly coated."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Buffalo Chicken Wings",
+      "desc_en": "Classic Classic Buffalo Chicken Wings — Pat chicken wings dry and bake at 220°C (425°F) or deep-fry until golden and crispy.",
+      "ingredients_en": [
+        "Chicken Wings: 500 g",
+        "Buffalo Hot Sauce: 80 ml",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "us_pop_014",
@@ -1069,7 +1180,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Broil or grill for 15 minutes until the glaze is sticky and caramelized."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "BBQ Pork Baby Back Ribs",
+      "desc_en": "Classic BBQ Pork Baby Back Ribs — Season pork ribs with salt, pepper, and garlic; wrap in foil and bake at 150°C (300°F) for 2 hours.",
+      "ingredients_en": [
+        "Pork Baby Back Ribs: 600 g",
+        "BBQ Sauce: 150 ml",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "us_pop_015",
@@ -1134,7 +1252,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Toss the shredded pork with BBQ sauce and simmer until heated through."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Slow-Cooked BBQ Pulled Pork",
+      "desc_en": "Classic Slow-Cooked BBQ Pulled Pork — Slow-cook pork shoulder with onion, garlic, and broth until fork-tender.",
+      "ingredients_en": [
+        "BBQ Sauce: 180 ml",
+        "Onion: 80 g",
+        "Garlic: 15 g"
+      ]
     },
     {
       "recipe_id": "us_pop_016",
@@ -1205,7 +1330,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Deep-fry at 175°C (350°F) for 12-15 minutes until golden brown and cooked through."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Southern Crispy Fried Chicken",
+      "desc_en": "Classic Southern Crispy Fried Chicken — Marinate chicken pieces in milk, a splash of lemon juice, and spices for 30 minutes.",
+      "ingredients_en": [
+        "Chicken Breast: 400 g",
+        "All-Purpose Flour: 150 g",
+        "Milk: 150 ml",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "us_pop_017",
@@ -1278,7 +1411,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Add butter, crushed garlic, and rosemary; baste steak continuously, then rest 5 minutes."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Pan-Seared Ribeye Steak with Garlic Butter",
+      "desc_en": "Classic Pan-Seared Ribeye Steak with Garlic Butter — Pat ribeye steak dry and season generously with kosher salt and black pepper.",
+      "ingredients_en": [
+        "Ribeye Steak: 350 g",
+        "Butter: 40 g",
+        "Garlic: 15 g",
+        "Fresh Rosemary: 5 g"
+      ]
     },
     {
       "recipe_id": "us_pop_018",
@@ -1351,7 +1492,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Bake at 200°C (400°F) for 12-15 minutes until flaky and caramelized."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Maple Mustard Glazed Salmon",
+      "desc_en": "Classic Maple Mustard Glazed Salmon — Whisk together pure maple syrup, yellow mustard, minced garlic, salt, and pepper.",
+      "ingredients_en": [
+        "Salmon Fillet: 300 g",
+        "Pure Maple Syrup: 30 ml",
+        "Yellow Mustard: 20 g",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "us_pop_019",
@@ -1430,7 +1579,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Stir in clams and heavy cream, warm gently without boiling, and top with crispy bacon."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "New England Clam Chowder",
+      "desc_en": "Classic New England Clam Chowder — Cook diced bacon until crisp and set aside.",
+      "ingredients_en": [
+        "Clams: 300 g",
+        "Potato: 200 g",
+        "Bacon: 60 g",
+        "Heavy Cream: 150 ml",
+        "Celery: 40 g"
+      ]
     },
     {
       "recipe_id": "us_pop_020",
@@ -1511,7 +1669,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Simmer gently for 25-30 minutes until rich and thick."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Beef Chili Con Carne",
+      "desc_en": "Classic Classic Beef Chili Con Carne — Brown ground beef with diced onion and bell pepper in a heavy pot.",
+      "ingredients_en": [
+        "Ground Beef: 350 g",
+        "Red Kidney Beans: 200 g",
+        "Tomato Passata Sauce: 300 ml",
+        "Onion: 80 g",
+        "Bell Pepper: 80 g"
+      ]
     },
     {
       "recipe_id": "us_pop_021",
@@ -1593,7 +1760,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "isDailyFeatured": false,
       "rating": "4.8",
-      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน"
+      "note": "เหมาะสำหรับผู้สูงอายุ: เนื้อนุ่ม ย่อยง่าย รสอ่อน",
+      "name_en": "Classic American Chicken Noodle Soup",
+      "desc_en": "Classic Classic American Chicken Noodle Soup — Sauté sliced onion, carrot, and celery in a soup pot until softened.",
+      "ingredients_en": [
+        "Chicken Breast: 250 g",
+        "Egg Noodles / Fettuccine: 120 g",
+        "Carrot: 80 g",
+        "Celery: 60 g",
+        "Onion: 60 g"
+      ]
     },
     {
       "recipe_id": "us_pop_022",
@@ -1672,7 +1848,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Stir in heavy cream and shredded cheddar cheese over low heat until velvety."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Broccoli Cheddar Soup",
+      "desc_en": "Classic Broccoli Cheddar Soup — Sauté onion in butter, whisk in a little flour and vegetable broth until smooth.",
+      "ingredients_en": [
+        "Broccoli: 250 g",
+        "Cheddar Cheese: 120 g",
+        "Carrot: 50 g",
+        "Heavy Cream: 120 ml",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "us_pop_023",
@@ -1752,7 +1937,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Simmer gently, swirl in heavy cream, and season to taste."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Creamy Roasted Tomato Soup",
+      "desc_en": "Classic Creamy Roasted Tomato Soup — Roast halved tomatoes, onion, and garlic drizzled with olive oil at 200°C (400°F) for 20 minutes.",
+      "ingredients_en": [
+        "Tomato: 400 g",
+        "Garlic: 15 g",
+        "Onion: 80 g",
+        "Heavy Cream: 80 ml",
+        "Extra Virgin Olive Oil: 20 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_024",
@@ -1840,7 +2034,17 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pour in broth, simmer for 35 minutes until rich, and serve over steamed rice."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Louisiana Chicken and Sausage Gumbo",
+      "desc_en": "Classic Louisiana Chicken and Sausage Gumbo — Cook flour and oil over medium-low heat, stirring constantly until a dark brown roux forms.",
+      "ingredients_en": [
+        "Chicken Breast: 200 g",
+        "Sausage: 150 g",
+        "Cajun Seasoning: 12 g",
+        "Celery: 60 g",
+        "Bell Pepper: 80 g",
+        "Rice: 150 g"
+      ]
     },
     {
       "recipe_id": "us_pop_025",
@@ -1919,7 +2123,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Toss crisp romaine lettuce with Caesar dressing, parmesan, croutons, and sliced chicken."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Grilled Chicken Caesar Salad",
+      "desc_en": "Classic Grilled Chicken Caesar Salad — Grill seasoned chicken breast until cooked through, then slice.",
+      "ingredients_en": [
+        "Chicken Breast: 200 g",
+        "Romaine Lettuce: 150 g",
+        "Caesar Salad Dressing: 45 ml",
+        "Parmesan Cheese: 30 g",
+        "Sliced Sandwich Bread: 40 g"
+      ]
     },
     {
       "recipe_id": "us_pop_026",
@@ -2008,7 +2221,17 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Drizzle with your favorite vinaigrette and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Cobb Salad",
+      "desc_en": "Classic Classic American Cobb Salad — Arrange chopped lettuce as a base on a large platter.",
+      "ingredients_en": [
+        "Chicken Breast: 150 g",
+        "Avocado: 100 g",
+        "Bacon: 50 g",
+        "Egg: 2 pcs",
+        "Lettuce: 120 g",
+        "Cherry Tomato: 80 g"
+      ]
     },
     {
       "recipe_id": "us_pop_027",
@@ -2080,7 +2303,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Toss the vegetables in the creamy dressing and chill for 20 minutes before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Creamy American Coleslaw",
+      "desc_en": "Classic Creamy American Coleslaw — Finely shred green cabbage and grate carrots.",
+      "ingredients_en": [
+        "Cabbage: 250 g",
+        "Carrot: 60 g",
+        "Mayonnaise: 60 g",
+        "Yellow Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "us_pop_028",
@@ -2160,7 +2391,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Serve chilled over crisp lettuce leaves."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Waldorf Salad",
+      "desc_en": "Classic Classic Waldorf Salad — Core and dice crisp apples, and thinly slice celery stalks.",
+      "ingredients_en": [
+        "Apple: 180 g",
+        "Walnut Halves: 40 g",
+        "Celery: 50 g",
+        "Mayonnaise: 40 g",
+        "Lettuce: 60 g"
+      ]
     },
     {
       "recipe_id": "us_pop_029",
@@ -2241,7 +2481,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Top with the seasoned ground turkey and sliced avocado."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Healthy Ground Turkey and Avocado Bowl",
+      "desc_en": "Classic Healthy Ground Turkey and Avocado Bowl — Sauté ground turkey in a skillet with garlic, cumin, and paprika until cooked through.",
+      "ingredients_en": [
+        "Ground Turkey: 220 g",
+        "Avocado: 100 g",
+        "Cherry Tomato: 80 g",
+        "Lettuce: 100 g",
+        "Sweet Corn: 60 g"
+      ]
     },
     {
       "recipe_id": "us_pop_030",
@@ -2321,7 +2570,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Season with salt and pepper and chill before serving."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Potato Salad",
+      "desc_en": "Classic Classic American Potato Salad — Boil cubed potatoes until fork-tender, then drain and cool completely.",
+      "ingredients_en": [
+        "Potato: 350 g",
+        "Egg: 2 pcs",
+        "Mayonnaise: 60 g",
+        "Yellow Mustard: 15 g",
+        "Celery: 40 g"
+      ]
     },
     {
       "recipe_id": "us_pop_031",
@@ -2400,7 +2658,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Stack warm pancakes, top with a pat of butter, and drizzle with pure maple syrup."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Fluffy Buttermilk Pancakes with Maple Syrup",
+      "desc_en": "Classic Fluffy Buttermilk Pancakes with Maple Syrup — Whisk flour, baking powder, sugar, and salt with milk, egg, and melted butter.",
+      "ingredients_en": [
+        "All-Purpose Flour: 180 g",
+        "Milk: 200 ml",
+        "Egg: 1 pc",
+        "Butter: 30 g",
+        "Pure Maple Syrup: 45 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_032",
@@ -2479,7 +2746,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Cook until golden brown and crisp, then serve with maple syrup."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Crispy American Waffles",
+      "desc_en": "Classic Classic Crispy American Waffles — Whisk eggs, milk, and melted butter into flour and baking powder until smooth.",
+      "ingredients_en": [
+        "All-Purpose Flour: 180 g",
+        "Milk: 200 ml",
+        "Egg: 2 pcs",
+        "Butter: 50 g",
+        "Pure Maple Syrup: 40 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_033",
@@ -2558,7 +2834,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pan-fry in butter over medium heat until golden brown and serve with maple syrup."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Cinnamon French Toast",
+      "desc_en": "Classic Classic Cinnamon French Toast — Whisk eggs, milk, ground cinnamon, and vanilla extract in a shallow dish.",
+      "ingredients_en": [
+        "Sliced Sandwich Bread: 3 slices",
+        "Egg: 2 pcs",
+        "Milk: 80 ml",
+        "Ground Cinnamon: 5 g",
+        "Pure Maple Syrup: 30 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_034",
@@ -2631,7 +2916,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Plate together for a classic American diner breakfast."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Diner Breakfast (Eggs, Bacon & Hash Browns)",
+      "desc_en": "Classic Classic American Diner Breakfast (Eggs, Bacon & Hash Browns) — Shred peeled potatoes, squeeze dry, and pan-fry into crispy golden hash browns.",
+      "ingredients_en": [
+        "Egg: 2 pcs",
+        "Bacon: 80 g",
+        "Potato: 200 g",
+        "Butter: 20 g"
+      ]
     },
     {
       "recipe_id": "us_pop_035",
@@ -2710,7 +3003,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Bake at 180°C (350°F) for 45-50 minutes until cooked through, then slice and serve."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Glazed Meatloaf",
+      "desc_en": "Classic Classic Glazed Meatloaf — Combine ground beef, breadcrumbs, egg, diced onion, and seasonings; shape into a loaf.",
+      "ingredients_en": [
+        "Ground Beef: 450 g",
+        "Breadcrumbs: 60 g",
+        "Egg: 1 pc",
+        "Onion: 60 g",
+        "Tomato Passata Sauce: 100 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_036",
@@ -2789,7 +3091,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Bake at 200°C (400°F) for 20 minutes until golden brown."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Southern Skillet Cornbread",
+      "desc_en": "Classic Southern Skillet Cornbread — Whisk yellow cornmeal, all-purpose flour, baking powder, sugar, and salt.",
+      "ingredients_en": [
+        "Yellow Cornmeal: 150 g",
+        "All-Purpose Flour: 100 g",
+        "Milk: 200 ml",
+        "Egg: 1 pc",
+        "Butter: 50 g"
+      ]
     },
     {
       "recipe_id": "us_pop_037",
@@ -2838,7 +3149,12 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Fry a second time at 190°C (375°F) until golden crisp and toss immediately with salt."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Classic French Fries",
+      "desc_en": "Classic Crispy Classic French Fries — Cut potatoes into even strips, soak in cold water for 15 minutes, and pat completely dry.",
+      "ingredients_en": [
+        "Potato: 400 g"
+      ]
     },
     {
       "recipe_id": "us_pop_038",
@@ -2909,7 +3225,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Deep-fry in hot oil until golden brown and crunchy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Crispy Onion Rings",
+      "desc_en": "Classic Crispy Onion Rings — Slice large onions into thick rings and separate.",
+      "ingredients_en": [
+        "Onion: 250 g",
+        "All-Purpose Flour: 120 g",
+        "Milk: 150 ml",
+        "Breadcrumbs: 100 g"
+      ]
     },
     {
       "recipe_id": "us_pop_039",
@@ -2980,7 +3304,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Top each potato skin with a dollop of sour cream."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Loaded Baked Potato Skins",
+      "desc_en": "Classic Loaded Baked Potato Skins — Bake whole potatoes at 200°C (400°F) for 40 minutes, halve, and scoop out centers.",
+      "ingredients_en": [
+        "Potato: 400 g",
+        "Cheddar Cheese: 80 g",
+        "Bacon: 60 g",
+        "Sour Cream: 45 g"
+      ]
     },
     {
       "recipe_id": "us_pop_040",
@@ -3059,7 +3391,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Serve immediately with warm tomato marinara sauce for dipping."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Fried Mozzarella Sticks",
+      "desc_en": "Classic Fried Mozzarella Sticks — Cut mozzarella into sticks, double-coat in flour, beaten egg, and breadcrumbs, and freeze 30 minutes.",
+      "ingredients_en": [
+        "Mozzarella Cheese: 200 g",
+        "Breadcrumbs: 100 g",
+        "Egg: 1 pc",
+        "All-Purpose Flour: 50 g",
+        "Marinara Sauce: 80 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_041",
@@ -3123,7 +3464,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Slather the garlic herb butter over the hot grilled corn."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Grilled Corn on the Cob with Herb Butter",
+      "desc_en": "Classic Grilled Corn on the Cob with Herb Butter — Husk sweet corn and grill over medium-high heat until charred in spots and tender.",
+      "ingredients_en": [
+        "Sweet Corn: 2 ears",
+        "Butter: 30 g",
+        "Garlic: 10 g"
+      ]
     },
     {
       "recipe_id": "us_pop_042",
@@ -3189,7 +3537,14 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pipe or spoon the creamy yolk filling back into the egg whites and dust with paprika."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Deviled Eggs",
+      "desc_en": "Classic Classic Deviled Eggs — Hard-boil eggs, peel, and slice in half lengthwise.",
+      "ingredients_en": [
+        "Egg: 4 pcs",
+        "Mayonnaise: 30 g",
+        "Yellow Mustard: 10 g"
+      ]
     },
     {
       "recipe_id": "us_pop_043",
@@ -3260,7 +3615,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Top with second crust, cut vents, and bake at 190°C (375°F) for 45 minutes until golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Apple Pie",
+      "desc_en": "Classic Classic American Apple Pie — Peel and slice apples thinly; toss with sugar, ground cinnamon, and a tablespoon of flour.",
+      "ingredients_en": [
+        "Apple: 500 g",
+        "Unbaked Pie Crust: 2 sheets",
+        "Ground Cinnamon: 8 g",
+        "Butter: 30 g"
+      ]
     },
     {
       "recipe_id": "us_pop_044",
@@ -3339,7 +3702,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Bake in a lined pan at 175°C (350°F) for 22-25 minutes until fudgy."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Chewy Chocolate Fudge Brownies",
+      "desc_en": "Classic Chewy Chocolate Fudge Brownies — Melt butter and dark chocolate chips together until smooth, then cool slightly.",
+      "ingredients_en": [
+        "Unsweetened Cocoa Powder: 60 g",
+        "Dark Chocolate Chips: 100 g",
+        "Butter: 110 g",
+        "Egg: 2 pcs",
+        "All-Purpose Flour: 80 g"
+      ]
     },
     {
       "recipe_id": "us_pop_045",
@@ -3410,7 +3782,15 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Scoop onto a baking sheet and bake at 180°C (350°F) for 10-12 minutes until edges are golden."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Chocolate Chip Cookies",
+      "desc_en": "Classic Classic Chocolate Chip Cookies — Cream softened butter with brown and white sugar, then beat in egg and vanilla.",
+      "ingredients_en": [
+        "Dark Chocolate Chips: 150 g",
+        "All-Purpose Flour: 180 g",
+        "Butter: 110 g",
+        "Egg: 1 pc"
+      ]
     },
     {
       "recipe_id": "us_pop_046",
@@ -3489,7 +3869,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pour over crust, bake in a water bath at 160°C (325°F) for 50 minutes, and chill overnight."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic New York Cheesecake",
+      "desc_en": "Classic Classic New York Cheesecake — Crush graham crackers, mix with melted butter, and press firmly into a springform pan.",
+      "ingredients_en": [
+        "Cream Cheese: 400 g",
+        "Graham Crackers: 120 g",
+        "Butter: 50 g",
+        "Egg: 2 pcs",
+        "Sour Cream: 80 g"
+      ]
     },
     {
       "recipe_id": "us_pop_047",
@@ -3545,7 +3934,13 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pour into a chilled tall glass and serve immediately."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic Vanilla Milkshake",
+      "desc_en": "Classic Classic Vanilla Milkshake — Place scoops of vanilla ice cream and cold milk into a blender.",
+      "ingredients_en": [
+        "Vanilla Ice Cream: 250 g",
+        "Milk: 120 ml"
+      ]
     },
     {
       "recipe_id": "us_pop_048",
@@ -3624,7 +4019,16 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
         "Pour into unbaked pie crust and bake at 180°C (350°F) for 45 minutes until set."
       ],
       "isDailyFeatured": false,
-      "rating": "4.8"
+      "rating": "4.8",
+      "name_en": "Classic American Pumpkin Pie",
+      "desc_en": "Classic Classic American Pumpkin Pie — Steam pumpkin until tender and puree until completely smooth.",
+      "ingredients_en": [
+        "Pumpkin: 350 g",
+        "Unbaked Pie Crust: 1 sheet",
+        "Egg: 2 pcs",
+        "Heavy Cream: 150 ml",
+        "Ground Cinnamon: 8 g"
+      ]
     },
     {
       "id": "us_stirfry_01",
@@ -3659,7 +4063,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Texas Smoked Beef Brisket",
+      "desc_en": "Resting the brisket before slicing locks in the juices and keeps the meat tender and moist.",
+      "ingredients_en": [
+        "Beef brisket: 800 g",
+        "Coarse sea salt: 1.5 tbsp",
+        "Coarse ground black pepper: 1.5 tbsp",
+        "Garlic powder: 1 tsp",
+        "Smoked paprika: 1 tbsp",
+        "Beef broth: 120 ml"
+      ],
+      "steps_en": [
+        "Pat the beef brisket dry, rub all sides evenly with sea salt, black pepper, garlic powder, and smoked paprika, and let it rest for 30 minutes.",
+        "Smoke or roast in a low oven at 135°C for about 2 hours until a dark, aromatic bark forms on the outside.",
+        "Spritz or drizzle with beef broth, wrap tightly in parchment paper or foil, and continue cooking for 1 hour until fork-tender.",
+        "Rest the wrapped brisket for 20 minutes before slicing against the grain into thick slices; serve with pickles and barbecue sauce."
+      ]
     },
     {
       "id": "us_stirfry_02",
@@ -3695,7 +4115,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Garlic Butter Shrimp Skillet",
+      "desc_en": "Be careful not to overcook the shrimp so they stay crisp, snappy, and coated in rich garlic butter.",
+      "ingredients_en": [
+        "Fresh shrimp, peeled and deveined: 300 g",
+        "Unsalted butter: 40 g",
+        "Finely minced garlic: 1.5 tbsp",
+        "Fresh lemon juice: 1 tbsp",
+        "Crushed red pepper flakes: 1/4 tsp",
+        "Salt and black pepper: 1/2 tsp",
+        "Fresh chopped parsley: 1 tbsp"
+      ],
+      "steps_en": [
+        "Pat the shrimp dry and lightly season with salt and black pepper.",
+        "Heat a cast-iron skillet over medium-high heat, melt half the butter, and sear the shrimp for 1–2 minutes per side until pink.",
+        "Reduce the heat, add the remaining butter, minced garlic, and red pepper flakes, and toss quickly until fragrant.",
+        "Remove from heat, squeeze in fresh lemon juice, sprinkle with chopped parsley, toss well, and serve sizzling in the skillet."
+      ]
     },
     {
       "id": "us_stirfry_03",
@@ -3730,7 +4167,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cajun Blackened Cod",
+      "desc_en": "Blackening uses high heat in a cast-iron skillet to sear the spiced crust while keeping the fish tender and flaky inside.",
+      "ingredients_en": [
+        "Cod or sea bass fillets: 300 g",
+        "Cajun seasoning: 1.5 tbsp",
+        "Paprika: 1 tsp",
+        "Melted butter: 25 g",
+        "Vegetable oil: 1 tbsp",
+        "Lemon wedges: 2 pieces",
+        "Fresh chopped parsley: 1 tsp"
+      ],
+      "steps_en": [
+        "Pat the fish fillets dry, brush lightly with melted butter, and press the Cajun seasoning and paprika evenly onto both sides.",
+        "Heat a cast-iron skillet until smoking hot, add vegetable oil, and sear the fish for 3–4 minutes per side until the spiced crust is dark and aromatic.",
+        "Transfer to a plate, garnish with fresh parsley, and serve with lemon wedges for squeezing."
+      ]
     },
     {
       "id": "us_stirfry_04",
@@ -3766,7 +4219,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Sizzling Beef Fajita Skillet",
+      "desc_en": "Stir-fry over high heat so the vegetables stay crisp-sweet and develop a smoky skillet char.",
+      "ingredients_en": [
+        "Beef sirloin, sliced into strips: 300 g",
+        "Red and yellow bell peppers, sliced into strips: 150 g",
+        "Onion, sliced into wedges: 80 g",
+        "Ground cumin and paprika: 2 tsp",
+        "Minced garlic: 1 tsp",
+        "Fresh lime juice: 1 tbsp",
+        "Vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Marinate the beef strips with cumin, paprika, garlic, salt, pepper, and lime juice for about 10 minutes.",
+        "Heat a cast-iron skillet over high heat, add oil, and quickly sear the beef for 2–3 minutes until browned; transfer to a plate.",
+        "Saute the bell peppers and onions in the same skillet until tender-crisp and lightly charred on the edges.",
+        "Return the beef to the skillet, toss to combine, turn off the heat, and serve sizzling with lime wedges."
+      ]
     },
     {
       "id": "us_stirfry_05",
@@ -3802,7 +4272,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Honey Mustard Glazed Pork Chop",
+      "desc_en": "The sweet, tangy, and mildly spicy honey mustard glaze pairs wonderfully with seared pork chops.",
+      "ingredients_en": [
+        "Bone-in pork chops, 2 cm thick: 2 pieces",
+        "Dijon or yellow mustard: 2 tbsp",
+        "Honey: 2 tbsp",
+        "Minced garlic: 1 tsp",
+        "Apple cider vinegar: 1 tsp",
+        "Butter: 15 g",
+        "Salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Whisk together the mustard, honey, minced garlic, and apple cider vinegar in a small bowl and set aside.",
+        "Pat the pork chops dry, season with salt and black pepper, and sear in a skillet with butter over medium-high heat for 4 minutes per side.",
+        "Reduce heat to low, brush the honey mustard glaze generously over both sides, and simmer for 2–3 minutes until glossy and cooked through.",
+        "Rest the pork chops for 5 minutes before serving drizzled with the pan sauce."
+      ]
     },
     {
       "id": "us_stirfry_06",
@@ -3836,7 +4323,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Buffalo Grilled Chicken",
+      "desc_en": "Delivers the spicy, tangy, buttery flavor of classic Buffalo wings with fewer calories than deep-frying.",
+      "ingredients_en": [
+        "Chicken breast, pounded to even thickness: 350 g",
+        "Buffalo sauce: 4 tbsp",
+        "Melted butter: 15 g",
+        "Garlic powder: 1/2 tsp",
+        "Salt and black pepper: 1/2 tsp",
+        "Sliced scallions for garnish: 1 tbsp"
+      ],
+      "steps_en": [
+        "Mix the Buffalo sauce, melted butter, and garlic powder; use half to marinate the chicken for 15 minutes and reserve the rest for basting.",
+        "Grill the chicken breasts over medium heat on a grill pan or charcoal grill for 5–6 minutes per side until nicely charred and cooked through.",
+        "Brush with the reserved Buffalo sauce during the final minute, rest for 3 minutes, slice, and garnish with sliced scallions."
+      ]
     },
     {
       "id": "us_stirfry_07",
@@ -3871,7 +4373,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Philly Cheesesteak Skillet",
+      "desc_en": "A delicious low-carb, breadless twist on Philly cheesesteak, best enjoyed hot with melty, gooey cheese.",
+      "ingredients_en": [
+        "Thinly sliced beef: 300 g",
+        "Sliced onion: 80 g",
+        "Green bell pepper, sliced into strips: 80 g",
+        "Sliced button mushrooms: 80 g",
+        "Provolone or mozzarella cheese slices: 80 g",
+        "Worcestershire sauce: 1 tbsp",
+        "Butter and vegetable oil: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Saute the onions, green bell peppers, and mushrooms in butter over medium heat until softened and lightly caramelized.",
+        "Turn the heat to high, add the thinly sliced beef and Worcestershire sauce, season with salt and pepper, and stir-fry quickly until just cooked.",
+        "Reduce heat to low, lay the cheese slices evenly over the top, cover for 2 minutes until melted, and serve hot immediately."
+      ]
     },
     {
       "id": "us_stirfry_08",
@@ -3907,7 +4425,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Herb-Roasted Chicken Thighs",
+      "desc_en": "Searing skin-side down before roasting renders crisp, golden skin while keeping the chicken juicy inside.",
+      "ingredients_en": [
+        "Skin-on chicken thighs: 400 g",
+        "Olive oil: 1.5 tbsp",
+        "Minced garlic: 1 tbsp",
+        "Chopped fresh rosemary and thyme: 1 tbsp",
+        "Paprika: 1 tsp",
+        "Salt and black pepper: 1 tsp",
+        "Lemon slices: 3 slices"
+      ],
+      "steps_en": [
+        "Pat the chicken thighs completely dry and coat evenly with olive oil, garlic, rosemary, thyme, paprika, salt, and black pepper.",
+        "Sear skin-side down in a cast-iron skillet over medium heat for 5 minutes until the skin is crisp and golden brown.",
+        "Tuck the lemon slices around the chicken and transfer to a 200°C oven for 20 minutes until tender and cooked through.",
+        "Rest for 5 minutes and spoon the herb pan juices over the chicken before serving."
+      ]
     },
     {
       "id": "us_stirfry_09",
@@ -3943,7 +4478,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Peppercorn New York Strip Steak",
+      "desc_en": "Using freshly cracked coarse black pepper delivers bold, aromatic heat.",
+      "ingredients_en": [
+        "New York strip steak, 2.5 cm thick: 350 g",
+        "Coarsely cracked black pepper: 1.5 tbsp",
+        "Sea salt: 1 tsp",
+        "Unsalted butter: 25 g",
+        "High-heat vegetable oil: 1 tbsp",
+        "Heavy cream: 60 ml",
+        "Beef broth: 60 ml"
+      ],
+      "steps_en": [
+        "Pat the steak dry and press the coarsely cracked black pepper and sea salt firmly onto both sides.",
+        "Sear in a smoking-hot cast-iron skillet for 3–4 minutes per side for medium-rare, then transfer to a cutting board to rest for 8 minutes.",
+        "Pour off excess oil, then simmer the butter, beef broth, and heavy cream in the same skillet until thickened into a rich peppercorn sauce.",
+        "Slice the steak thickly and serve hot drizzled with the black peppercorn sauce."
+      ]
     },
     {
       "id": "us_stirfry_10",
@@ -3977,7 +4529,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Kansas City BBQ Grilled Chicken",
+      "desc_en": "Brush on the barbecue sauce near the end of cooking so the sugars glaze nicely without burning before the chicken is done.",
+      "ingredients_en": [
+        "Chicken leg quarters: 450 g",
+        "Sweet and tangy barbecue sauce: 80 ml",
+        "Brown sugar: 1 tbsp",
+        "Smoked paprika: 1 tsp",
+        "Garlic powder and onion powder: 1 tsp",
+        "Salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Mix the brown sugar, smoked paprika, garlic powder, onion powder, salt, and pepper, rub all over the chicken, and marinate for 15 minutes.",
+        "Grill over medium-low charcoal heat or roast at 190°C for about 25 minutes until nearly cooked through.",
+        "Brush both sides generously with barbecue sauce and cook for another 5–8 minutes until the glaze bubbles and lightly chars."
+      ]
     },
     {
       "id": "us_stirfry_11",
@@ -4011,7 +4578,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Rosemary Mustard Grilled Lamb Chops",
+      "desc_en": "Rosemary and Dijon mustard balance the richness of lamb and add a bright, savory aroma.",
+      "ingredients_en": [
+        "Lamb chops: 400 g",
+        "Dijon mustard: 1.5 tbsp",
+        "Finely chopped fresh rosemary: 1 tbsp",
+        "Finely minced garlic: 1 tbsp",
+        "Olive oil: 1.5 tbsp",
+        "Sea salt and black pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Combine the Dijon mustard, rosemary, minced garlic, olive oil, salt, and black pepper; coat the lamb chops evenly and marinate for 15 minutes.",
+        "Heat a grill pan over high heat and sear the lamb chops for 3–4 minutes per side until nicely browned outside and rosy pink inside.",
+        "Rest on a warm plate for 5 minutes before serving with roasted vegetables."
+      ]
     },
     {
       "id": "us_stirfry_12",
@@ -4046,7 +4628,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Sausage and Peppers Skillet",
+      "desc_en": "A beloved Italian-American favorite that is great on its own or piled into a warm hoagie roll.",
+      "ingredients_en": [
+        "Italian or smoked sausages: 300 g",
+        "Red and green bell peppers, sliced into strips: 180 g",
+        "Sliced onion: 100 g",
+        "Minced garlic: 1 tsp",
+        "Dried oregano: 1/2 tsp",
+        "Olive oil: 1 tbsp",
+        "Salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a cast-iron skillet over medium heat and cook the sausages until browned and cooked through; remove and slice on the bias.",
+        "Add the onions and bell peppers to the same skillet and saute for 6–8 minutes until tender, sweet, and lightly charred.",
+        "Stir in the minced garlic, oregano, and sliced sausages, toss for 2 minutes, season to taste, and serve hot in the skillet."
+      ]
     },
     {
       "id": "us_quick_01",
@@ -4082,7 +4680,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Double Smash Burger",
+      "desc_en": "The secret to a great smash burger is pressing the patties flat within the first 10 seconds to create lacy, crispy edges.",
+      "ingredients_en": [
+        "Ground beef (80/20): 160 g",
+        "Brioche burger bun: 1 piece",
+        "Cheddar cheese slices: 2 slices",
+        "Thinly sliced onion: 25 g",
+        "Sliced dill pickles: 20 g",
+        "Burger sauce (mayonnaise and ketchup blend): 2 tbsp",
+        "Salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Loosely divide the ground beef into 2 balls and heat a cast-iron skillet over high heat until smoking.",
+        "Place the beef balls in the skillet, smash them paper-thin with a sturdy spatula, season with salt and pepper, and cook for 90 seconds until the edges are crisp and browned.",
+        "Scrape and flip the patties, immediately top each with a slice of cheddar cheese, and cook 45 seconds more until melted.",
+        "Stack both patties onto a toasted bun spread with burger sauce, add pickles and sliced onion, and serve hot right away."
+      ]
     },
     {
       "id": "us_quick_02",
@@ -4117,7 +4732,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Patty Melt",
+      "desc_en": "A classic American diner staple combining the best of a juicy burger and a golden grilled cheese.",
+      "ingredients_en": [
+        "Ground beef: 150 g",
+        "Rye or sourdough bread: 2 slices",
+        "Swiss or cheddar cheese: 2 slices",
+        "Sliced onion: 60 g",
+        "Butter: 25 g",
+        "Salt and black pepper: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Caramelize the sliced onions with half of the butter over medium-low heat for about 8 minutes until soft and golden brown; set aside.",
+        "Shape the ground beef into an oval patty matching the bread, season with salt and pepper, and sear for 3 minutes per side until cooked.",
+        "Layer 1 slice of cheese, the beef patty, caramelized onions, and the second cheese slice between the bread, then butter the outside of the bread.",
+        "Toast in the skillet over medium-low heat until the bread is golden crisp and the cheese melts together; halve and serve hot."
+      ]
     },
     {
       "id": "us_quick_03",
@@ -4153,7 +4784,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Sloppy Joe",
+      "desc_en": "A one-pan meal ready in 20 minutes with a savory, sweet-and-tangy sauce the whole family will love.",
+      "ingredients_en": [
+        "Ground beef: 250 g",
+        "Buttered toasted burger buns: 2 pieces",
+        "Finely chopped onion: 50 g",
+        "Finely chopped green bell pepper: 40 g",
+        "Ketchup: 4 tbsp",
+        "Worcestershire sauce: 1 tbsp",
+        "Brown sugar and yellow mustard: 1 tsp each"
+      ],
+      "steps_en": [
+        "Brown the ground beef with the chopped onion and green bell pepper in a skillet until fragrant; drain excess fat.",
+        "Stir in the ketchup, Worcestershire sauce, brown sugar, mustard, and a splash of water.",
+        "Simmer over medium heat for 6–8 minutes until the sauce thickens and richly coats the beef.",
+        "Spoon generous heaps of the saucy beef onto buttered toasted burger buns and serve hot immediately."
+      ]
     },
     {
       "id": "us_quick_04",
@@ -4187,7 +4835,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Reuben Sandwich",
+      "desc_en": "Squeeze the sauerkraut dry before assembling so the toasted rye bread stays crisp rather than soggy.",
+      "ingredients_en": [
+        "Rye bread: 2 slices",
+        "Thinly sliced corned beef: 120 g",
+        "Swiss cheese slices: 2 slices",
+        "Sauerkraut, squeezed dry: 50 g",
+        "Thousand Island or Russian dressing: 2 tbsp",
+        "Butter: 15 g"
+      ],
+      "steps_en": [
+        "Spread Thousand Island dressing on the inside of both rye bread slices and butter the outsides.",
+        "Layer Swiss cheese, folded corned beef slices, drained sauerkraut, and the remaining Swiss cheese between the bread.",
+        "Griddle over medium-low heat for 3–4 minutes per side until golden crisp and the cheese melts; slice diagonally and serve hot."
+      ]
     },
     {
       "id": "us_quick_05",
@@ -4221,7 +4884,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Philly Roast Pork Sandwich",
+      "desc_en": "A beloved Philadelphia classic featuring savory, juice-soaked roast pork balanced by garlicky greens.",
+      "ingredients_en": [
+        "Thinly sliced cooked roast pork: 140 g",
+        "Hoagie roll or soft baguette: 1 piece",
+        "Provolone cheese slices: 2 slices",
+        "Garlic-sauteed spinach or broccolini: 60 g",
+        "Roast pork jus or seasoned broth: 3 tbsp",
+        "Minced garlic and olive oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Quickly saute the spinach or broccolini with garlic and olive oil, season with salt and pepper, and set aside.",
+        "Warm the thinly sliced roast pork in a skillet with the roast pork jus until hot and juicy.",
+        "Split the hoagie roll, line with provolone slices, pile in the saucy pork and garlic greens, and warm briefly until the cheese melts before serving."
+      ]
     },
     {
       "id": "us_quick_06",
@@ -4255,7 +4933,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chili Cheese Dog",
+      "desc_en": "An iconic American ballpark favorite served piping hot with melty shredded cheese over hearty meat chili.",
+      "ingredients_en": [
+        "Beef or pork hot dog sausages: 2 pieces",
+        "Hot dog buns: 2 pieces",
+        "Seasoned beef chili sauce: 120 g",
+        "Shredded cheddar cheese: 60 g",
+        "Finely diced onion: 2 tbsp",
+        "Yellow mustard: 1 tbsp"
+      ],
+      "steps_en": [
+        "Sear the sausages in a skillet until plump and browned, and heat the beef chili until piping hot.",
+        "Toast the insides of the hot dog buns until warm and crisp, then tuck in the sausages.",
+        "Spoon generous amounts of hot chili on top, scatter with shredded cheddar and diced onion, drizzle with yellow mustard, and serve immediately."
+      ]
     },
     {
       "id": "us_quick_07",
@@ -4290,7 +4983,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Chicken Quesadilla",
+      "desc_en": "Cook over medium-low heat so the cheese melts completely before the tortilla browns too quickly.",
+      "ingredients_en": [
+        "Large flour tortillas: 2 pieces",
+        "Cooked chicken breast, shredded or diced: 150 g",
+        "Shredded cheddar and mozzarella cheese: 100 g",
+        "Finely diced bell pepper and onion: 50 g",
+        "Paprika and ground cumin: 1 tsp",
+        "Butter or vegetable oil: 1 tbsp",
+        "Sour cream and salsa for dipping: 2 tbsp"
+      ],
+      "steps_en": [
+        "Quickly saute the chicken with the bell pepper, onion, paprika, and cumin for 2 minutes until well seasoned.",
+        "Place a tortilla in a skillet over medium heat, sprinkle cheese over half, spoon on the chicken filling, add more cheese, and fold in half.",
+        "Griddle in a lightly buttered skillet for 2–3 minutes per side until golden crisp and gooey; cut into wedges and serve with sour cream and salsa."
+      ]
     },
     {
       "id": "us_quick_08",
@@ -4325,7 +5034,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Chicken Tenders",
+      "desc_en": "Chicken tenderloins cook faster and stay juicier than chicken breast, making a quick meal in 20 minutes.",
+      "ingredients_en": [
+        "Chicken tenderloins: 300 g",
+        "All-purpose flour: 80 g",
+        "Panko breadcrumbs: 70 g",
+        "Beaten egg: 1 piece",
+        "Garlic powder and paprika: 1/2 tsp each",
+        "Salt and black pepper: 1/2 tsp",
+        "Honey mustard sauce for dipping: 3 tbsp"
+      ],
+      "steps_en": [
+        "Season the chicken tenderloins with salt, black pepper, garlic powder, and paprika.",
+        "Dredge each tender in flour, dip into the beaten egg, and press firmly into panko breadcrumbs to coat evenly.",
+        "Deep-fry in hot oil over medium heat or air-fry at 200°C for 8–10 minutes until golden, crispy, and juicy inside; serve with honey mustard sauce."
+      ]
     },
     {
       "id": "us_quick_09",
@@ -4359,7 +5084,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Turkey Club Sandwich",
+      "desc_en": "Securing all four corners with toothpicks before slicing keeps this tall triple-decker club neat and intact.",
+      "ingredients_en": [
+        "Toasted sandwich bread: 3 slices",
+        "Sliced smoked turkey or chicken breast: 100 g",
+        "Crispy cooked bacon: 3 slices",
+        "Cheddar cheese slice: 1 slice",
+        "Lettuce and sliced tomato: 60 g",
+        "Mayonnaise: 2 tbsp"
+      ],
+      "steps_en": [
+        "Toast all 3 slices of bread until golden and spread a thin layer of mayonnaise on them.",
+        "On the first slice, layer lettuce, sliced turkey, and cheddar cheese, then top with the second slice of bread.",
+        "Add sliced tomato and crispy bacon, cap with the final slice of bread, secure with toothpicks, and cut diagonally into quarters."
+      ]
     },
     {
       "id": "us_quick_10",
@@ -4393,7 +5133,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "New Orleans Shrimp Po' Boy",
+      "desc_en": "A famous New Orleans sandwich pairing crispy Cajun-fried shrimp with creamy, zesty remoulade sauce.",
+      "ingredients_en": [
+        "Fresh peeled shrimp: 220 g",
+        "Soft baguettes, split: 2 pieces",
+        "All-purpose flour mixed with Cajun seasoning: 60 g",
+        "Shredded lettuce: 50 g",
+        "Sliced tomato and dill pickles: 60 g",
+        "Remoulade sauce (mayonnaise with mustard and paprika): 3 tbsp"
+      ],
+      "steps_en": [
+        "Dredge the shrimp evenly in the Cajun-seasoned flour and fry in hot oil for 2–3 minutes until golden and crisp; drain well.",
+        "Spread remoulade sauce generously inside both sides of the warmed baguettes.",
+        "Layer shredded lettuce, tomato slices, and pickles, then pile the crispy fried shrimp high on top and serve immediately."
+      ]
     },
     {
       "id": "us_quick_11",
@@ -4427,7 +5182,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic French Dip Roast Beef Sandwich",
+      "desc_en": "Dipping every bite into the warm cup of savory au jus broth is the signature highlight of this sandwich.",
+      "ingredients_en": [
+        "Thinly sliced roast beef: 140 g",
+        "Baguette or hoagie roll: 1 piece",
+        "Provolone or Swiss cheese: 2 slices",
+        "Rich beef au jus broth: 180 ml",
+        "Worcestershire sauce: 1 tsp",
+        "Garlic butter for spreading: 1 tbsp"
+      ],
+      "steps_en": [
+        "Bring the beef broth and Worcestershire sauce to a gentle simmer, then dip the sliced roast beef in the warm broth for 30 seconds.",
+        "Split the bread, spread with garlic butter, toast until crisp and fragrant, and pile on the juicy roast beef and cheese slices.",
+        "Bake or cover for 1 minute until the cheese melts, then serve alongside a bowl of hot au jus for dipping."
+      ]
     },
     {
       "id": "us_quick_12",
@@ -4462,7 +5232,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Chicken Salad Croissant",
+      "desc_en": "Ready in just 10 minutes with zero cooking, featuring crunchy toasted almonds and flaky butter croissant.",
+      "ingredients_en": [
+        "Butter croissants, halved: 2 pieces",
+        "Cooked chicken breast, diced or shredded: 160 g",
+        "Mayonnaise: 3 tbsp",
+        "Finely diced celery: 30 g",
+        "Dried cranberries: 2 tbsp",
+        "Toasted sliced almonds: 2 tbsp",
+        "Fresh lettuce leaves: 2 leaves"
+      ],
+      "steps_en": [
+        "Toss the cooked chicken, celery, dried cranberries, sliced almonds, and mayonnaise together; season with salt and black pepper.",
+        "Halve the croissants horizontally and line the bottom halves with crisp lettuce leaves.",
+        "Mound the creamy chicken salad inside, close the croissants, and serve immediately."
+      ]
     },
     {
       "id": "us_breakfast_01",
@@ -4499,7 +5285,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Eggs Benedict",
+      "desc_en": "Use very gentle heat when whisking the hollandaise sauce so the egg yolks thicken smoothly without scrambling.",
+      "ingredients_en": [
+        "English muffins, split and toasted with butter: 2 pieces",
+        "Fresh eggs: 4 pieces",
+        "Canadian bacon or grilled ham: 4 slices",
+        "Egg yolks for hollandaise: 2 pieces",
+        "Warm melted butter: 80 g",
+        "Fresh lemon juice: 1 tbsp",
+        "Vinegar for poaching eggs: 1 tbsp",
+        "Chopped chives or parsley: 1 tsp"
+      ],
+      "steps_en": [
+        "Make the hollandaise by whisking egg yolks and lemon juice over a gentle double boiler, slowly drizzling in warm melted butter until thick and silky; season with salt and a pinch of paprika.",
+        "Bring water with vinegar to a gentle simmer, swirl the water, and poach the eggs for about 3 minutes until whites are set and yolks remain runny.",
+        "Toast the English muffins until crisp, then top each half with grilled Canadian bacon and a poached egg.",
+        "Spoon warm hollandaise generously over the eggs, sprinkle with chopped parsley, and serve immediately."
+      ]
     },
     {
       "id": "us_breakfast_02",
@@ -4534,7 +5338,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Biscuits and Sausage Gravy",
+      "desc_en": "A beloved Southern breakfast classic featuring peppery, creamy sausage gravy over warm buttermilk biscuits.",
+      "ingredients_en": [
+        "Warm American buttermilk biscuits: 4 pieces",
+        "Ground breakfast sausage: 200 g",
+        "All-purpose flour: 2.5 tbsp",
+        "Whole milk: 350 ml",
+        "Coarse ground black pepper: 1 tsp",
+        "Salt: 1/2 tsp"
+      ],
+      "steps_en": [
+        "Brown the ground breakfast sausage in a skillet over medium heat, breaking it into small crumbles; do not drain the drippings.",
+        "Sprinkle the flour over the sausage and cook, stirring, for 1 minute to cook out the raw flour taste.",
+        "Slowly pour in the milk while stirring constantly over medium-low heat until thick and creamy; season with salt and coarse black pepper.",
+        "Split the warm biscuits in half, ladle the sausage gravy generously over top, and serve hot immediately."
+      ]
     },
     {
       "id": "us_breakfast_03",
@@ -4570,7 +5390,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Breakfast Burrito",
+      "desc_en": "Wrap in foil for a hearty, protein-packed breakfast you can easily take on the go.",
+      "ingredients_en": [
+        "Large flour tortillas: 2 pieces",
+        "Eggs: 4 pieces",
+        "Crispy cooked bacon, chopped: 80 g",
+        "Crispy fried diced potatoes: 100 g",
+        "Shredded cheddar cheese: 60 g",
+        "Sliced avocado: 50 g",
+        "Tomato salsa: 3 tbsp"
+      ],
+      "steps_en": [
+        "Cook the bacon until crisp and pan-fry the diced potatoes until golden and tender; set aside.",
+        "Whisk the eggs with salt and pepper, then cook gently in a skillet over low heat into soft, fluffy curds.",
+        "Warm the tortillas and layer scrambled eggs, crispy bacon, potatoes, cheddar cheese, avocado, and salsa down the center.",
+        "Fold in the sides, roll tightly into burritos, lightly toast seam-side down in the skillet to seal, halve, and serve."
+      ]
     },
     {
       "id": "us_breakfast_04",
@@ -4606,7 +5443,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Avocado Toast with Poached Egg",
+      "desc_en": "A popular wholesome breakfast packed with healthy fats and protein.",
+      "ingredients_en": [
+        "Toasted sourdough bread: 2 slices",
+        "Ripe avocado: 1 piece",
+        "Fresh eggs: 2 pieces",
+        "Fresh lemon juice: 1 tsp",
+        "Crushed red pepper flakes and sea salt: 1/2 tsp",
+        "Ground black pepper: 1/4 tsp",
+        "Olive oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Coarsely mash the ripe avocado with lemon juice and a pinch of sea salt.",
+        "Poach the eggs in gently simmering water for about 3 minutes, then lift out and drain well.",
+        "Spread the mashed avocado thickly over crispy sourdough toast and top each slice with a poached egg.",
+        "Finish with crushed red pepper flakes, black pepper, and a light drizzle of olive oil before serving."
+      ]
     },
     {
       "id": "us_breakfast_05",
@@ -4642,7 +5496,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Warm Glazed Cinnamon Rolls",
+      "desc_en": "Spreading the cream cheese frosting while the rolls are still warm lets it melt slightly into the swirls for extra softness.",
+      "ingredients_en": [
+        "Bread flour: 300 g",
+        "Warm milk: 160 ml",
+        "Active dry yeast: 5 g",
+        "Softened butter: 60 g",
+        "Brown sugar: 70 g",
+        "Ground cinnamon: 1.5 tbsp",
+        "Cream cheese and powdered sugar for frosting: 120 g"
+      ],
+      "steps_en": [
+        "Knead the bread flour, warm milk, yeast, and half of the butter until smooth, then let rise until doubled in size.",
+        "Roll the dough into a rectangle, spread with the remaining butter, sprinkle evenly with brown sugar and cinnamon, roll into a log, and slice into 6 rolls.",
+        "Arrange in a baking dish, proof for 20 minutes, and bake at 180°C for 20–22 minutes until golden and fragrant.",
+        "Beat the cream cheese with powdered sugar and a splash of milk, then spread generously over the warm rolls."
+      ]
     },
     {
       "id": "us_breakfast_06",
@@ -4676,7 +5547,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Corned Beef Hash and Eggs",
+      "desc_en": "Avoid stirring too frequently while cooking the hash so the potatoes and corned beef develop a crisp, browned crust.",
+      "ingredients_en": [
+        "Finely diced corned beef: 220 g",
+        "Finely diced potatoes: 250 g",
+        "Diced onion: 60 g",
+        "Eggs: 2 pieces",
+        "Butter and vegetable oil: 2 tbsp",
+        "Chopped parsley and black pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Cook the diced potatoes in butter and oil in a cast-iron skillet over medium heat until tender and crisp-edged.",
+        "Add the diced onion and corned beef, toss to combine, and press flat against the skillet for 3–4 minutes until the bottom browns and crisps.",
+        "Make 2 wells in the hash, crack an egg into each, cover over low heat for 3–4 minutes until whites set and yolks stay runny, and serve hot topped with parsley."
+      ]
     },
     {
       "id": "us_breakfast_07",
@@ -4710,7 +5596,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Smoked Salmon Cream Cheese Bagel",
+      "desc_en": "A classic New York deli-style breakfast that comes together in under 10 minutes.",
+      "ingredients_en": [
+        "Bagels, halved: 2 pieces",
+        "Cream cheese: 80 g",
+        "Sliced smoked salmon: 100 g",
+        "Thinly sliced red onion: 20 g",
+        "Capers: 1 tsp",
+        "Fresh dill and lemon wedges: 1 set"
+      ],
+      "steps_en": [
+        "Toast the halved bagels until warm and lightly crisp.",
+        "Spread cream cheese evenly and generously across all bagel halves.",
+        "Top with sliced smoked salmon, red onion, capers, and fresh dill, finish with a squeeze of lemon, and serve right away."
+      ]
     },
     {
       "id": "us_breakfast_08",
@@ -4745,7 +5646,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Denver Omelette",
+      "desc_en": "A beloved American diner omelette with tender, fluffy eggs and a hearty, savory filling.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Finely diced ham: 60 g",
+        "Diced green and red bell peppers: 50 g",
+        "Finely diced onion: 30 g",
+        "Shredded cheddar cheese: 40 g",
+        "Butter: 15 g",
+        "Salt and black pepper: 1/4 tsp"
+      ],
+      "steps_en": [
+        "Saute the diced ham, bell peppers, and onion in half of the butter until tender and fragrant; set aside.",
+        "Beat the eggs with salt and black pepper, melt the remaining butter in a skillet over medium-low heat, and pour in the eggs, swirling to coat.",
+        "As the eggs begin to set, scatter the ham-pepper mixture and cheddar cheese over one half, fold over, remove from heat, and serve hot."
+      ]
     },
     {
       "id": "us_breakfast_09",
@@ -4780,7 +5697,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American-Style Huevos Rancheros",
+      "desc_en": "A vibrant Tex-Mex breakfast packed with protein, fiber, and fresh, zesty flavors.",
+      "ingredients_en": [
+        "Corn or flour tortillas: 2 pieces",
+        "Eggs: 2 pieces",
+        "Seasoned cooked black beans: 100 g",
+        "Warm tomato salsa (ranchero sauce): 100 g",
+        "Sliced avocado: 60 g",
+        "Shredded cheddar or Mexican cheese: 30 g",
+        "Fresh cilantro and lime: 1 set"
+      ],
+      "steps_en": [
+        "Warm the tortillas in a dry skillet until lightly crisp and arrange on serving plates.",
+        "Heat the black beans with a pinch of spices and spread them evenly over the tortillas.",
+        "Fry the eggs sunny-side up with runny yolks, set them on top of the beans, spoon warm salsa over, and garnish with cheese, avocado, and cilantro."
+      ]
     },
     {
       "id": "us_breakfast_10",
@@ -4814,7 +5747,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Bacon Egg and Cheese English Muffin",
+      "desc_en": "An ultra-quick American breakfast sandwich ready in just 12 minutes.",
+      "ingredients_en": [
+        "English muffin, split: 1 piece",
+        "Egg: 1 piece",
+        "Crispy cooked bacon: 3 slices",
+        "Cheddar cheese slice: 1 slice",
+        "Butter: 10 g",
+        "Salt and black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Cook the bacon until crisp and toast the buttered English muffin halves until golden around the edges.",
+        "Cook the egg in a round ring or fold it to fit the muffin, topping with cheddar cheese until melted.",
+        "Assemble the cheesy egg and crispy bacon inside the toasted English muffin and serve warm with coffee."
+      ]
     },
     {
       "id": "us_breakfast_11",
@@ -4849,7 +5797,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Blueberry Streusel Muffins",
+      "desc_en": "Baking at 190°C helps the muffins rise into tall, bakery-style domes with a crisp, buttery crumble top.",
+      "ingredients_en": [
+        "All-purpose flour: 200 g",
+        "Baking powder: 2 tsp",
+        "Granulated sugar: 100 g",
+        "Egg: 1 piece",
+        "Milk: 120 ml",
+        "Melted butter: 70 g",
+        "Fresh or frozen blueberries: 150 g"
+      ],
+      "steps_en": [
+        "Whisk the flour, baking powder, sugar, and salt in a large bowl, then gently fold in the beaten egg, milk, and melted butter until just combined.",
+        "Toss the blueberries with a spoonful of flour so they don't sink, then fold them gently into the batter.",
+        "Spoon into muffin tins, sprinkle with butter-sugar streusel on top, and bake at 190°C for 20–22 minutes until puffed and golden."
+      ]
     },
     {
       "id": "us_breakfast_12",
@@ -4884,7 +5848,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Warm Apple Cinnamon Oatmeal Bowl",
+      "desc_en": "A comforting, fiber-rich breakfast that is simple to prepare and keeps you full all morning.",
+      "ingredients_en": [
+        "Rolled oats: 90 g",
+        "Dairy or almond milk: 360 ml",
+        "Finely diced apple: 1 piece",
+        "Ground cinnamon: 1 tsp",
+        "Maple syrup or honey: 2 tbsp",
+        "Coarsely chopped toasted walnuts: 25 g",
+        "Butter and a pinch of salt: 10 g"
+      ],
+      "steps_en": [
+        "Saute the diced apple with butter, cinnamon, and half the maple syrup for about 4 minutes until tender and fragrant.",
+        "Simmer the rolled oats with milk and a pinch of salt over medium-low heat for 6–8 minutes until thick and creamy.",
+        "Ladle the oatmeal into bowls and top with the warm cinnamon apples, toasted walnuts, and a drizzle of the remaining maple syrup."
+      ]
     },
     {
       "id": "us_dessert_01",
@@ -4921,6 +5901,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Southern Banana Pudding",
+      "desc_en": "A classic Southern dessert that turns even silkier and more cake-like when chilled overnight, making it wonderfully soft for seniors.",
+      "ingredients_en": [
+        "Sliced ripe bananas: 3 pieces",
+        "Vanilla wafers or butter cookies: 150 g",
+        "Whole milk: 350 ml",
+        "Sweetened condensed milk: 120 ml",
+        "Whipped cream, stiff peaks: 200 ml",
+        "Vanilla custard powder or cornstarch with vanilla: 30 g"
+      ],
+      "steps_en": [
+        "Simmer the milk, sweetened condensed milk, and vanilla custard powder until thick and smooth; let cool completely, then fold in the whipped cream.",
+        "Layer vanilla wafers and sliced bananas alternately with the creamy pudding in serving glasses or a dish.",
+        "Chill for at least 2 hours so the cookies soften like sponge cake, then garnish with crushed wafers before serving."
       ]
     },
     {
@@ -4957,7 +5952,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Florida Key Lime Pie",
+      "desc_en": "Bright, tart lime juice balances the rich sweetness of condensed milk and the crisp graham cracker crust.",
+      "ingredients_en": [
+        "Finely crushed graham crackers: 150 g",
+        "Melted butter: 65 g",
+        "Sweetened condensed milk: 380 g",
+        "Egg yolks: 3 pieces",
+        "Fresh lime juice: 110 ml",
+        "Finely grated lime zest: 1 tbsp",
+        "Whipped cream for garnish: 120 ml"
+      ],
+      "steps_en": [
+        "Mix the crushed graham crackers with melted butter, press firmly into a pie pan, and bake at 175°C for 8 minutes; set aside.",
+        "Whisk together the egg yolks, lime zest, sweetened condensed milk, and fresh lime juice until smooth and thickened.",
+        "Pour the filling into the crust and bake at 175°C for 15 minutes until the edges are set and the center has a slight jiggle.",
+        "Cool completely and chill for at least 3 hours, then top with whipped cream and lime zest before serving."
+      ]
     },
     {
       "id": "us_dessert_03",
@@ -4993,7 +6005,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Pecan Pie",
+      "desc_en": "Serving this rich, caramelized pecan pie with cold vanilla ice cream creates the ultimate sweet-and-creamy contrast.",
+      "ingredients_en": [
+        "Pre-made pie crust: 1 sheet",
+        "Toasted pecan halves: 200 g",
+        "Brown sugar: 120 g",
+        "Corn syrup or maple syrup: 150 ml",
+        "Melted butter: 50 g",
+        "Eggs: 3 pieces",
+        "Vanilla extract and salt: 1 tsp each"
+      ],
+      "steps_en": [
+        "Line a pie pan with the crust and arrange the pecan halves evenly across the bottom.",
+        "Whisk the eggs, brown sugar, maple syrup, melted butter, vanilla, and salt until smooth.",
+        "Pour the caramel mixture over the pecans and bake at 175°C for 40–45 minutes until puffed, golden, and set.",
+        "Let cool completely for at least 2 hours before slicing and serving."
+      ]
     },
     {
       "id": "us_dessert_04",
@@ -5028,7 +6057,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Red Velvet Cupcakes",
+      "desc_en": "Buttermilk gives red velvet cupcakes their signature tender, velvety crumb.",
+      "ingredients_en": [
+        "Cake flour: 150 g",
+        "Cocoa powder: 15 g",
+        "Granulated sugar: 130 g",
+        "Egg: 1 piece",
+        "Buttermilk (or milk with 1 tsp vinegar): 120 ml",
+        "Vegetable oil: 80 ml",
+        "Red food coloring and cream cheese frosting: 1 set"
+      ],
+      "steps_en": [
+        "Sift the cake flour, cocoa powder, and baking soda; in another bowl, whisk the egg, sugar, oil, buttermilk, and red food coloring.",
+        "Fold the dry ingredients into the wet mixture until smooth, then fill cupcake liners about 3/4 full.",
+        "Bake at 175°C for 18–20 minutes until done, cool completely on a wire rack, and pipe cream cheese frosting on top."
+      ]
     },
     {
       "id": "us_dessert_05",
@@ -5061,7 +6106,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Skillet S'mores Dip",
+      "desc_en": "Bring classic American campfire s'mores indoors in just 15 minutes with this gooey skillet dip.",
+      "ingredients_en": [
+        "Semi-sweet chocolate chips: 200 g",
+        "Large marshmallows: 150 g",
+        "Butter for greasing skillet: 10 g",
+        "Heavy cream: 2 tbsp",
+        "Graham crackers for dipping: 12 sheets"
+      ],
+      "steps_en": [
+        "Lightly butter a small cast-iron skillet, spread the chocolate chips evenly over the bottom, and drizzle with heavy cream.",
+        "Arrange the marshmallows snugly side by side to cover the entire surface.",
+        "Bake at 200°C for 6–8 minutes until the chocolate is melted and the marshmallow tops are toasted golden brown; serve hot with graham crackers."
+      ]
     },
     {
       "id": "us_dessert_06",
@@ -5096,7 +6155,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Peach Cobbler",
+      "desc_en": "As it bakes, the batter rises up around the bubbling peaches to create both a golden crust and a tender, juicy center.",
+      "ingredients_en": [
+        "Fresh or canned sliced peaches: 400 g",
+        "Granulated sugar: 100 g",
+        "All-purpose flour: 120 g",
+        "Baking powder and ground cinnamon: 1 tsp each",
+        "Milk: 150 ml",
+        "Melted butter: 60 g",
+        "Vanilla ice cream for serving: 2 scoops"
+      ],
+      "steps_en": [
+        "Toss the sliced peaches with half of the sugar and the cinnamon; set aside.",
+        "Pour melted butter into the bottom of a baking dish, whisk the flour, baking powder, remaining sugar, and milk, and pour over the butter without stirring.",
+        "Spoon the peaches evenly over the batter and bake at 180°C for 35–40 minutes until golden and bubbling; serve warm with vanilla ice cream."
+      ]
     },
     {
       "id": "us_dessert_07",
@@ -5127,7 +6202,19 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Root Beer Float",
+      "desc_en": "Adding the ice cream before pouring the root beer helps prevent overflowing and creates a thick, creamy foam.",
+      "ingredients_en": [
+        "Well-chilled root beer: 250 ml",
+        "Vanilla ice cream: 2 scoops",
+        "Whipped cream and maraschino cherry (optional): 1 set"
+      ],
+      "steps_en": [
+        "Chill a tall glass in the freezer for 10 minutes until frosty.",
+        "Scoop 2 generous scoops of vanilla ice cream into the chilled glass.",
+        "Tilt the glass and slowly pour in the cold root beer to build a thick, creamy foam; top with a cherry and serve with a straw and long spoon."
+      ]
     },
     {
       "id": "us_dessert_08",
@@ -5160,7 +6247,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Chocolate Milkshake",
+      "desc_en": "A timeless American diner treat—chilling the serving glass keeps the shake thick and frosty longer.",
+      "ingredients_en": [
+        "Chocolate ice cream: 250 g",
+        "Chilled whole milk: 120 ml",
+        "Chocolate syrup: 2 tbsp",
+        "Malt powder or cocoa powder: 1 tbsp",
+        "Whipped cream and maraschino cherry: 1 set"
+      ],
+      "steps_en": [
+        "Combine the chocolate ice cream, cold milk, chocolate syrup, and malt powder in a blender.",
+        "Blend at medium speed until completely smooth, thick, and creamy.",
+        "Drizzle chocolate syrup inside a chilled glass, pour in the milkshake, top with whipped cream and a cherry, and serve immediately."
+      ]
     },
     {
       "id": "us_dessert_09",
@@ -5193,7 +6294,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Strawberry Shortcake",
+      "desc_en": "Authentic American strawberry shortcake uses tender, crisp-edged butter biscuits rather than Japanese-style sponge cake.",
+      "ingredients_en": [
+        "Sweet butter shortcake biscuits: 4 pieces",
+        "Sliced fresh strawberries: 300 g",
+        "Granulated sugar: 2 tbsp",
+        "Chilled whipping cream: 200 ml",
+        "Vanilla extract and powdered sugar: 2 tbsp"
+      ],
+      "steps_en": [
+        "Toss the sliced strawberries with granulated sugar and let sit for 15 minutes until juicy and syrupy.",
+        "Whip the chilled cream with powdered sugar and vanilla until soft peaks form.",
+        "Split the warm butter biscuits, layer strawberries with their syrup and whipped cream in the middle, replace the tops, and finish with extra cream and berries."
+      ]
     },
     {
       "id": "us_dessert_10",
@@ -5229,7 +6344,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Glazed Yeast Donuts",
+      "desc_en": "Light, pillowy yeast donuts with a melt-in-your-mouth crumb and a delicate sweet glaze.",
+      "ingredients_en": [
+        "Bread flour: 250 g",
+        "Warm milk: 130 ml",
+        "Active dry yeast: 4 g",
+        "Granulated sugar: 30 g",
+        "Egg: 1 piece",
+        "Softened butter: 30 g",
+        "Powdered sugar mixed with milk for glaze: 120 g"
+      ],
+      "steps_en": [
+        "Knead the bread flour, warm milk, yeast, sugar, egg, and softened butter into a smooth dough, then let rise until doubled.",
+        "Roll the dough 1.5 cm thick, cut out donut rings with a round cutter, and let rise for another 20 minutes.",
+        "Fry in oil at 170°C for 1 minute per side until puffed and golden brown; drain on a rack.",
+        "Dip the warm donuts into the powdered sugar glaze to coat smoothly and rest on a wire rack until set."
+      ]
     },
     {
       "id": "us_dessert_11",
@@ -5264,7 +6396,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Carrot Cake with Cream Cheese Frosting",
+      "desc_en": "Moist, warmly spiced carrot cake paired with tangy-sweet cream cheese frosting.",
+      "ingredients_en": [
+        "Finely grated carrots: 200 g",
+        "All-purpose flour: 180 g",
+        "Brown sugar: 140 g",
+        "Eggs: 2 pieces",
+        "Vegetable oil: 120 ml",
+        "Ground cinnamon and chopped walnuts: 60 g",
+        "Cream cheese, butter, and powdered sugar for frosting: 200 g"
+      ],
+      "steps_en": [
+        "Whisk the eggs, brown sugar, and vegetable oil together, then fold in the flour, baking soda, and cinnamon until smooth.",
+        "Stir in the grated carrots and chopped walnuts evenly, pour into a cake pan, and bake at 175°C for 35–40 minutes.",
+        "Let the cake cool completely, frost generously with smooth cream cheese frosting, and garnish with chopped walnuts before slicing."
+      ]
     },
     {
       "id": "us_dessert_12",
@@ -5298,7 +6446,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Banana Split Sundae",
+      "desc_en": "A legendary American ice cream sundae that is fun, nostalgic, and ready in 10 minutes.",
+      "ingredients_en": [
+        "Ripe banana, halved lengthwise: 1 piece",
+        "Vanilla, chocolate, and strawberry ice cream: 1 scoop each",
+        "Chocolate syrup and strawberry sauce: 2 tbsp each",
+        "Whipped cream: 4 tbsp",
+        "Chopped roasted peanuts or almonds: 2 tbsp",
+        "Maraschino cherries: 3 pieces"
+      ],
+      "steps_en": [
+        "Place the halved banana along the two sides of an oblong sundae dish.",
+        "Arrange one scoop each of vanilla, chocolate, and strawberry ice cream down the center between the banana halves.",
+        "Drizzle with chocolate and strawberry sauces, pipe whipped cream over top, scatter chopped nuts, and crown with maraschino cherries to serve immediately."
+      ]
     },
     {
       "id": "us_soup_01",
@@ -5334,7 +6497,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Loaded Baked Potato Soup",
+      "desc_en": "Mashing only half of the potatoes gives the soup a thick, creamy body while keeping satisfying tender chunks.",
+      "ingredients_en": [
+        "Diced potatoes: 450 g",
+        "Bacon, chopped and fried crisp: 100 g",
+        "Chopped onion: 80 g",
+        "Chicken broth: 500 ml",
+        "Heavy cream or milk: 200 ml",
+        "Shredded cheddar cheese: 100 g",
+        "Sour cream and sliced scallions for garnish: 4 tbsp"
+      ],
+      "steps_en": [
+        "Crisp the chopped bacon in a pot, remove to a plate, and saute the onion in the bacon drippings until translucent and fragrant.",
+        "Add the diced potatoes and chicken broth, simmer over medium heat for about 18 minutes until tender, and coarsely mash part of the potatoes to thicken the broth.",
+        "Stir in the heavy cream and shredded cheddar over low heat until smoothly melted, then season with salt and black pepper.",
+        "Ladle hot into bowls and top with sour cream, crispy bacon, extra cheddar, and sliced scallions."
+      ]
     },
     {
       "id": "us_soup_02",
@@ -5369,7 +6549,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "San Francisco Cioppino Seafood Stew",
+      "desc_en": "San Francisco's signature seafood stew brimming with rich tomato broth and tender shellfish.",
+      "ingredients_en": [
+        "Fresh peeled shrimp: 180 g",
+        "Fresh mussels or clams: 250 g",
+        "White fish fillets, cut into large chunks: 200 g",
+        "Canned crushed tomatoes: 400 g",
+        "Chopped onion and minced garlic: 90 g",
+        "Fish or vegetable broth: 350 ml",
+        "Olive oil, basil, and crushed red pepper flakes: 2 tbsp"
+      ],
+      "steps_en": [
+        "Saute the onion and garlic in olive oil until fragrant, then stir in red pepper flakes and crushed tomatoes.",
+        "Pour in the fish broth and simmer over medium heat for 15 minutes until the tomato base is rich and flavorful.",
+        "Add the white fish, mussels, and shrimp, cover, and simmer gently for 6–8 minutes until the shells open and seafood is just cooked; scatter with fresh herbs and serve with sourdough bread."
+      ]
     },
     {
       "id": "us_soup_03",
@@ -5404,7 +6600,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Beef and Barley Soup",
+      "desc_en": "A hearty, comforting homemade American soup where pearl barley naturally thickens the savory beef broth.",
+      "ingredients_en": [
+        "Beef chuck, diced: 350 g",
+        "Pearl barley, rinsed: 90 g",
+        "Chopped carrots and celery: 160 g",
+        "Chopped onion and minced garlic: 80 g",
+        "Beef broth: 1000 ml",
+        "Tomato paste: 2 tbsp",
+        "Thyme and bay leaf: 1 set"
+      ],
+      "steps_en": [
+        "Sear the diced beef in a pot until browned, then add the onion, carrots, celery, and garlic and saute until aromatic.",
+        "Stir in the tomato paste to coat, add the beef broth, thyme, and bay leaf, bring to a boil, and simmer gently for 25 minutes.",
+        "Add the pearl barley and simmer for another 25 minutes until the beef is melt-in-your-mouth tender and the barley is chewy; season with salt and pepper and serve hot."
+      ]
     },
     {
       "id": "us_soup_04",
@@ -5441,6 +6653,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Split Pea and Ham Soup",
+      "desc_en": "Dried split peas need no overnight soaking and deliver plenty of protein and fiber in a smooth, comforting soup ideal for seniors.",
+      "ingredients_en": [
+        "Dried split peas, rinsed: 250 g",
+        "Diced smoked ham: 180 g",
+        "Diced carrots, celery, and onion: 180 g",
+        "Minced garlic: 1 tbsp",
+        "Chicken broth: 1000 ml",
+        "Bay leaf and thyme: 1 set"
+      ],
+      "steps_en": [
+        "Saute the onion, carrots, celery, and garlic in a pot until softened and fragrant.",
+        "Add the rinsed split peas, diced ham, chicken broth, bay leaf, and thyme; bring to a boil, then simmer gently for 45 minutes.",
+        "Stir occasionally until the split peas break down into a thick, velvety green soup; discard the bay leaf, season with black pepper, and serve hot."
       ]
     },
     {
@@ -5476,7 +6703,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Maine Lobster Bisque",
+      "desc_en": "A luxurious Maine classic with a silky, velvety texture and sweet shellfish flavor.",
+      "ingredients_en": [
+        "Cooked lobster meat, chopped: 250 g",
+        "Butter: 40 g",
+        "Chopped onion, carrot, and celery: 140 g",
+        "Tomato paste: 2 tbsp",
+        "All-purpose flour: 2 tbsp",
+        "Seafood or chicken broth: 600 ml",
+        "Heavy cream: 180 ml"
+      ],
+      "steps_en": [
+        "Saute the onion, carrot, and celery in butter until tender, then stir in the tomato paste and flour until combined.",
+        "Gradually pour in the seafood broth, simmer over low heat for 20 minutes, then blend until smooth and strain through a fine-mesh sieve for a velvety finish.",
+        "Return to low heat, stir in the heavy cream and chopped lobster meat until heated through, season with salt and white pepper, and serve hot."
+      ]
     },
     {
       "id": "us_soup_06",
@@ -5511,7 +6754,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Creamy Chicken Pot Pie Soup",
+      "desc_en": "Captures all the cozy, comforting flavors of classic American chicken pot pie in an easy-to-spoon soup.",
+      "ingredients_en": [
+        "Cooked chicken breast, shredded or diced: 300 g",
+        "Finely diced potatoes: 200 g",
+        "Carrots, green peas, and sweet corn: 180 g",
+        "Butter and all-purpose flour: 3 tbsp each",
+        "Chicken broth: 650 ml",
+        "Heavy cream or milk: 180 ml",
+        "Baked puff pastry squares for topping: 4 pieces"
+      ],
+      "steps_en": [
+        "Saute the carrots, potatoes, and onion in butter until starting to soften, then sprinkle in the flour and stir for 1 minute.",
+        "Pour in the chicken broth and simmer over medium heat for 15 minutes until the potatoes and carrots are tender.",
+        "Add the chicken, peas, sweet corn, and heavy cream, simmer gently until thickened, and ladle into bowls topped with flaky baked pastry squares."
+      ]
     },
     {
       "id": "us_soup_07",
@@ -5545,7 +6804,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Manhattan Red Clam Chowder",
+      "desc_en": "Unlike New England chowder, this Manhattan version uses a clear, cream-free tomato broth for a lighter, tangy, refreshing taste.",
+      "ingredients_en": [
+        "Clam meat with clam juice: 300 g",
+        "Finely diced bacon: 60 g",
+        "Diced potatoes, carrots, and celery: 260 g",
+        "Canned diced tomatoes: 400 g",
+        "Vegetable broth or clam juice: 450 ml",
+        "Thyme and bay leaf: 1 set"
+      ],
+      "steps_en": [
+        "Cook the diced bacon until crisp and fragrant, then saute the onion, carrots, and celery until tender.",
+        "Add the potatoes, diced tomatoes, broth, thyme, and bay leaf, and simmer over medium heat for 20 minutes until the potatoes are tender.",
+        "Stir in the clams over low heat for 3 minutes just to warm through, season with salt and pepper, and serve hot with oyster crackers."
+      ]
     },
     {
       "id": "us_soup_08",
@@ -5580,7 +6854,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Sweet Corn and Bacon Chowder",
+      "desc_en": "Naturally sweet corn kernels pair deliciously with smoky, salty crispy bacon.",
+      "ingredients_en": [
+        "Sweet corn kernels: 350 g",
+        "Finely diced potatoes: 200 g",
+        "Bacon, diced and fried crisp: 80 g",
+        "Chopped onion and red bell pepper: 100 g",
+        "Chicken broth: 550 ml",
+        "Heavy cream or milk: 180 ml",
+        "Sliced scallions for garnish: 2 tbsp"
+      ],
+      "steps_en": [
+        "Fry the diced bacon until crisp, remove to a plate, and saute the onion and red bell pepper in the drippings until fragrant.",
+        "Add the potatoes, sweet corn, and chicken broth, simmer over medium heat for 15 minutes until potatoes are tender, then puree part of the soup for a creamy base.",
+        "Stir in the heavy cream, season with salt and black pepper, warm gently, and serve topped with crispy bacon and sliced scallions."
+      ]
     },
     {
       "id": "us_soup_09",
@@ -5615,7 +6905,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Creamy White Chicken Chili",
+      "desc_en": "A rich, warmly spiced white chili variation that offers a comforting twist on classic red beef chili.",
+      "ingredients_en": [
+        "Cooked shredded chicken breast: 300 g",
+        "Cooked white beans (cannellini): 250 g",
+        "Sweet corn kernels: 100 g",
+        "Diced green chiles: 60 g",
+        "Chicken broth: 600 ml",
+        "Cream cheese or sour cream: 80 g",
+        "Ground cumin, dried oregano, and lime juice: 2 tsp"
+      ],
+      "steps_en": [
+        "Saute the onion, garlic, cumin, and oregano in a pot until fragrant.",
+        "Add the white beans, diced green chiles, sweet corn, and chicken broth, and simmer over medium heat for 15 minutes.",
+        "Stir in the shredded chicken and cream cheese until rich and creamy, finish with fresh lime juice, and serve with avocado and tortilla chips."
+      ]
     },
     {
       "id": "us_soup_10",
@@ -5649,7 +6955,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Roasted Butternut Squash Soup",
+      "desc_en": "Roasting the squash with apple brings out natural sweetness and aroma without adding any sugar.",
+      "ingredients_en": [
+        "Cubed Butternut Squash or Kabocha Squash: 500 g",
+        "Chopped Apple: 1 piece",
+        "Onion and Garlic: 90 g",
+        "Vegetable Broth: 600 ml",
+        "Heavy Cream or Coconut Milk: 80 ml",
+        "Olive Oil and Roasted Pumpkin Seeds: 2 tbsp"
+      ],
+      "steps_en": [
+        "Toss the squash, apple, onion, and garlic with olive oil and salt, then roast at 200°C for 25 minutes until tender and caramelized on the edges.",
+        "Blend all the roasted vegetables with vegetable broth until silky smooth and golden.",
+        "Warm gently in a pot over low heat, stir in heavy cream, season with pepper, and top with roasted pumpkin seeds before serving."
+      ]
     },
     {
       "id": "us_soup_11",
@@ -5683,7 +7004,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Brunswick Stew",
+      "desc_en": "A rich, smoky classic stew from Georgia and Virginia.",
+      "ingredients_en": [
+        "Smoked Pork or Cooked Pulled Pork: 250 g",
+        "Cooked Shredded Chicken Breast: 150 g",
+        "Canned Crushed Tomatoes: 350 g",
+        "Sweet Corn and Lima Beans or Green Peas: 200 g",
+        "BBQ Sauce and Worcestershire Sauce: 4 tbsp",
+        "Chicken Broth: 450 ml"
+      ],
+      "steps_en": [
+        "Saute onion in a pot until soft, then stir in the crushed tomatoes, chicken broth, BBQ sauce, and Worcestershire sauce.",
+        "Add the pulled pork, shredded chicken, sweet corn, and beans; bring to a boil, then reduce heat and simmer for 25 minutes until thick and hearty.",
+        "Season with salt, pepper, and a pinch of cayenne pepper, and serve hot alongside cornbread."
+      ]
     },
     {
       "id": "us_soup_12",
@@ -5721,6 +7057,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Minnesota Wild Rice and Mushroom Soup",
+      "desc_en": "Minnesota's famous creamy soup packed with earthy mushrooms and chewy wild rice (senior-friendly).",
+      "ingredients_en": [
+        "Rinsed Wild Rice: 100 g",
+        "Sliced Button or Cremini Mushrooms: 220 g",
+        "Diced Carrot, Celery, and Onion: 150 g",
+        "Unsalted Butter and All-Purpose Flour: 2.5 tbsp each",
+        "Vegetable or Chicken Broth: 850 ml",
+        "Heavy Cream: 150 ml",
+        "Fresh Thyme Leaves: 1 tsp"
+      ],
+      "steps_en": [
+        "Saute the sliced mushrooms, carrot, celery, and onion in butter until fragrant and most liquid evaporates, then sprinkle in flour and cook for 1 minute.",
+        "Pour in the broth, wild rice, and thyme; bring to a boil, then reduce heat and simmer for about 35 minutes until the wild rice grains burst open and soften.",
+        "Stir in the heavy cream until smooth and velvety, season with salt and black pepper, and serve hot."
       ]
     },
     {
@@ -5756,7 +7108,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "California Quinoa and Avocado Bowl",
+      "desc_en": "A clean California-style grain bowl packed with plant-based protein and healthy fats.",
+      "ingredients_en": [
+        "Cooked Quinoa: 180 g",
+        "Sliced Avocado: 1 piece",
+        "Halved Cherry Tomatoes: 100 g",
+        "Cucumber and Shelled Edamame: 120 g",
+        "Baby Spinach: 60 g",
+        "Olive Oil and Fresh Lemon Juice: 2 tbsp",
+        "Roasted Pumpkin Seeds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Layer the baby spinach and warm cooked quinoa at the bottom of a bowl.",
+        "Arrange the avocado, cherry tomatoes, cucumber, and edamame neatly in sections on top.",
+        "Whisk together olive oil, lemon juice, salt, and black pepper, drizzle over the bowl, sprinkle with roasted pumpkin seeds, and serve immediately."
+      ]
     },
     {
       "id": "us_healthy_02",
@@ -5790,7 +7158,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Salmon Kale Salad",
+      "desc_en": "Massaging the kale with olive oil beforehand significantly reduces toughness and bitterness.",
+      "ingredients_en": [
+        "Salmon Fillet: 260 g",
+        "Finely Chopped Kale (stems removed): 120 g",
+        "Toasted Sliced Almonds: 25 g",
+        "Dried Cranberries: 2 tbsp",
+        "Shaved Parmesan Cheese: 20 g",
+        "Olive Oil, Lemon Juice, and a Touch of Honey: 3 tbsp"
+      ],
+      "steps_en": [
+        "Massage the kale leaves with 1 tbsp olive oil and a pinch of salt for about 1 minute until tender and vibrant green.",
+        "Season the salmon with salt and pepper and pan-sear for 3–4 minutes per side until the skin is crisp and the flesh is juicy.",
+        "Toss the kale with lemon-honey dressing, cranberries, almonds, and Parmesan, top with the grilled salmon, and serve."
+      ]
     },
     {
       "id": "us_healthy_03",
@@ -5824,7 +7207,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southwest Black Bean and Corn Salad",
+      "desc_en": "A vibrant gluten-free salad that shines on its own or paired with grilled chicken breast.",
+      "ingredients_en": [
+        "Cooked Black Beans (drained): 180 g",
+        "Charred Sweet Corn Kernels: 150 g",
+        "Finely Diced Red Bell Pepper and Red Onion: 80 g",
+        "Diced Cherry Tomatoes and Avocado: 140 g",
+        "Chopped Fresh Cilantro: 2 tbsp",
+        "Lime Juice, Olive Oil, and Ground Cumin: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Char the sweet corn kernels in a dry skillet over high heat for 3 minutes until blistered and fragrant, then let cool.",
+        "Combine the black beans, charred corn, red bell pepper, red onion, tomatoes, avocado, and cilantro in a large bowl.",
+        "Whisk together olive oil, lime juice, cumin, and salt, toss thoroughly with the salad, and serve chilled."
+      ]
     },
     {
       "id": "us_healthy_04",
@@ -5859,7 +7257,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Harvest Roasted Sweet Potato and Farro Bowl",
+      "desc_en": "An American autumn harvest bowl rich in complex carbs and vitamin A.",
+      "ingredients_en": [
+        "Diced Sweet Potato: 250 g",
+        "Cooked Farro or Brown Rice: 180 g",
+        "Arugula or Kale: 80 g",
+        "Thinly Sliced Apple: 0.5 piece",
+        "Crumbled Feta or Goat Cheese: 40 g",
+        "Toasted Pecans: 25 g",
+        "Maple Apple Cider Dressing: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Toss the diced sweet potato with olive oil and salt, then roast at 200°C for 20 minutes until tender and caramelized at the edges.",
+        "Place the arugula and cooked farro in a bowl, then top with roasted sweet potato, sliced apple, feta cheese, and pecans.",
+        "Drizzle with apple cider vinaigrette mixed with maple syrup and olive oil, and serve warm."
+      ]
     },
     {
       "id": "us_healthy_05",
@@ -5893,7 +7307,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Spinach Strawberry Pecan Salad",
+      "desc_en": "The bright sweet-tart flavor of fresh strawberries pairs wonderfully with balsamic dressing and crunchy pecans.",
+      "ingredients_en": [
+        "Baby Spinach Leaves: 120 g",
+        "Sliced Fresh Strawberries: 140 g",
+        "Toasted Pecans: 35 g",
+        "Crumbled Feta Cheese: 40 g",
+        "Thinly Sliced Red Onion: 15 g",
+        "Balsamic Vinaigrette and Olive Oil: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Wash the baby spinach leaves, spin or pat completely dry, and place in a salad bowl.",
+        "Scatter the fresh strawberries, sliced red onion, feta cheese, and toasted pecans evenly over the greens.",
+        "Drizzle with balsamic vinaigrette mixed with olive oil and a touch of honey, toss gently, and serve right away."
+      ]
     },
     {
       "id": "us_healthy_06",
@@ -5927,7 +7356,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Grilled Shrimp and Citrus Avocado Salad",
+      "desc_en": "A high-protein, healthy-fat salad bursting with bright refreshment from fresh citrus segments.",
+      "ingredients_en": [
+        "Peeled Fresh Shrimp: 240 g",
+        "Mixed Salad Greens: 120 g",
+        "Orange or Pomelo Segments: 120 g",
+        "Sliced Avocado: 1 piece",
+        "Thinly Sliced Red Onion: 15 g",
+        "Olive Oil, Fresh Orange Juice, and Lime Juice: 3 tbsp"
+      ],
+      "steps_en": [
+        "Season the shrimp with salt, pepper, and paprika, then sear in a skillet for 1–2 minutes per side until plump and cooked through.",
+        "Whisk together olive oil, fresh orange juice, lime juice, and a pinch of salt to make a citrus dressing.",
+        "Arrange the mixed greens, citrus segments, avocado, red onion, and grilled shrimp on a plate, drizzle with citrus dressing, and serve fresh."
+      ]
     },
     {
       "id": "us_healthy_07",
@@ -5961,7 +7405,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Lemon Herb Grilled Chicken and Asparagus",
+      "desc_en": "A low-carb, high-protein clean meal ready in a single skillet in 22 minutes.",
+      "ingredients_en": [
+        "Skinless Chicken Breast: 300 g",
+        "Asparagus (woody ends trimmed): 200 g",
+        "Olive Oil: 1.5 tbsp",
+        "Lemon Juice and Grated Lemon Zest: 1 piece",
+        "Minced Garlic and Dried Oregano: 2 tsp",
+        "Salt and Black Pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Marinate the chicken breast with half the olive oil, lemon juice, lemon zest, garlic, and oregano for about 10 minutes.",
+        "Grill the chicken on a grill pan over medium heat for 5 minutes per side until juicy with nice char marks, rest 3 minutes, then slice.",
+        "Saute or grill the asparagus with the remaining olive oil, salt, and pepper for about 3 minutes until crisp-tender, and serve alongside the sliced chicken and lemon wedges."
+      ]
     },
     {
       "id": "us_healthy_08",
@@ -5995,7 +7454,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Zucchini Noodles with Turkey Meatballs",
+      "desc_en": "Swapping pasta for zucchini noodles slashes carbs while keeping all the hearty comfort.",
+      "ingredients_en": [
+        "Ground Turkey or Ground Chicken Breast: 280 g",
+        "Spiralized Zucchini Noodles (Zoodles): 300 g",
+        "Low-Sugar Tomato Marinara Sauce: 200 ml",
+        "Minced Garlic and Dried Oregano: 2 tsp",
+        "Grated Parmesan Cheese: 20 g",
+        "Fresh Basil and Olive Oil: 1 serving"
+      ],
+      "steps_en": [
+        "Mix the ground turkey with garlic, oregano, salt, and pepper; shape into bite-sized meatballs and sear in a pan until golden.",
+        "Pour in the marinara sauce and simmer with the meatballs for about 6 minutes until rich and flavorful.",
+        "Quickly saute the zucchini noodles in olive oil for 1–2 minutes until crisp-tender, top with the meatballs and sauce, and finish with Parmesan and fresh basil."
+      ]
     },
     {
       "id": "us_healthy_09",
@@ -6029,7 +7503,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "White Bean and Tuna Arugula Salad",
+      "desc_en": "A no-cook, high-protein salad free of refined flour and ready in just 10 minutes.",
+      "ingredients_en": [
+        "Canned Tuna in Spring Water (drained): 150 g",
+        "Cooked White Beans (drained): 160 g",
+        "Fresh Arugula: 80 g",
+        "Halved Cherry Tomatoes: 80 g",
+        "Thinly Sliced Red Onion: 20 g",
+        "Extra Virgin Olive Oil and Fresh Lemon Juice: 2.5 tbsp"
+      ],
+      "steps_en": [
+        "Toss the white beans, tuna, cherry tomatoes, and red onion with olive oil, lemon juice, salt, and black pepper.",
+        "Spread the fresh arugula on a serving plate and spoon the tuna and white bean mixture on top.",
+        "Finish with an extra squeeze of lemon and freshly cracked black pepper, then serve immediately."
+      ]
     },
     {
       "id": "us_healthy_10",
@@ -6063,7 +7552,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Chickpea and Roasted Broccoli Bowl",
+      "desc_en": "A hearty plant-based American wellness bowl with satisfying crunch and lasting fullness.",
+      "ingredients_en": [
+        "Cooked Chickpeas (patted dry): 200 g",
+        "Broccoli Florets: 220 g",
+        "Cooked Brown Rice or Quinoa: 160 g",
+        "Paprika and Garlic Powder: 1.5 tsp",
+        "Olive Oil: 1.5 tbsp",
+        "Lemon Tahini Sauce: 3 tbsp"
+      ],
+      "steps_en": [
+        "Toss the chickpeas and broccoli with olive oil, paprika, garlic powder, and salt, then roast at 200°C for 20 minutes until the chickpeas are crisp and the broccoli is lightly charred.",
+        "Scoop the brown rice or quinoa into a bowl and arrange the roasted broccoli and crispy chickpeas on top.",
+        "Drizzle generously with creamy lemon tahini sauce and serve warm."
+      ]
     },
     {
       "id": "us_healthy_11",
@@ -6097,7 +7601,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic American Wedge Salad",
+      "desc_en": "A steakhouse classic pairing crisp, ice-cold iceberg lettuce with rich, tangy blue cheese dressing.",
+      "ingredients_en": [
+        "Chilled Iceberg Lettuce (cut into wedges): 0.5 head",
+        "Halved Cherry Tomatoes: 100 g",
+        "Chopped Crispy Bacon: 40 g",
+        "Thinly Sliced Red Onion: 15 g",
+        "Blue Cheese Dressing and Crumbled Blue Cheese: 4 tbsp",
+        "Chopped Chives and Black Pepper: 1 tsp"
+      ],
+      "steps_en": [
+        "Rinse the chilled iceberg lettuce until crisp and place the cut wedge on a chilled plate.",
+        "Pour creamy blue cheese dressing generously over the wedge so it settles into the leaves.",
+        "Top with cherry tomatoes, crispy bacon, red onion, blue cheese crumbles, and coarsely cracked black pepper, then serve immediately."
+      ]
     },
     {
       "id": "us_healthy_12",
@@ -6131,7 +7650,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Santa Fe Grilled Chicken Salad",
+      "desc_en": "A Southwestern-style salad loaded with crisp veggies, hearty protein, and warm spice.",
+      "ingredients_en": [
+        "Paprika-Spiced Grilled Chicken Breast (sliced): 220 g",
+        "Chopped Romaine Lettuce: 140 g",
+        "Cooked Black Beans and Sweet Corn: 120 g",
+        "Diced Tomatoes and Avocado: 120 g",
+        "Crispy Baked Tortilla Strips: 30 g",
+        "Cilantro-Lime Ranch Dressing: 3 tbsp"
+      ],
+      "steps_en": [
+        "Season the chicken breast with paprika, cumin, and salt, grill until cooked through and fragrant, then slice into bite-sized pieces.",
+        "Layer the romaine lettuce, black beans, sweet corn, tomatoes, and avocado in a salad bowl.",
+        "Top with the grilled chicken and crispy tortilla strips, drizzle with cilantro-lime ranch dressing, and serve."
+      ]
     },
     {
       "id": "us_rice_01",
@@ -6166,7 +7700,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Baked Lobster Mac and Cheese",
+      "desc_en": "A luxurious New England take where velvety cheese sauce meets sweet, tender lobster meat.",
+      "ingredients_en": [
+        "Elbow Macaroni or Cavatappi Pasta: 220 g",
+        "Cooked Lobster Meat (chopped): 220 g",
+        "Grated Cheddar and Gruyere Cheese: 180 g",
+        "Whole Milk and Heavy Cream: 300 ml",
+        "Unsalted Butter and All-Purpose Flour: 30 g each",
+        "Buttered Panko Breadcrumbs: 40 g"
+      ],
+      "steps_en": [
+        "Boil the macaroni in salted water until just shy of al dente, then drain and set aside.",
+        "Cook butter and flour together, gradually whisk in milk and cream until thickened, then stir in the cheddar and Gruyere until smooth.",
+        "Fold the pasta and chopped lobster into the cheese sauce, transfer to a baking dish, and scatter buttered panko breadcrumbs over the top.",
+        "Bake at 190°C for 18 minutes until golden, bubbly, and crisp on top."
+      ]
     },
     {
       "id": "us_rice_02",
@@ -6201,7 +7751,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Chicken Fettuccine Alfredo",
+      "desc_en": "A beloved American pasta favorite that is rich, garlicky, and quick to bring to the table.",
+      "ingredients_en": [
+        "Fettuccine Pasta: 200 g",
+        "Seasoned Chicken Breast: 240 g",
+        "Heavy Cream: 200 ml",
+        "Unsalted Butter: 35 g",
+        "Finely Grated Parmesan Cheese: 70 g",
+        "Minced Garlic and Fresh Parsley: 1.5 tbsp"
+      ],
+      "steps_en": [
+        "Sear the chicken breast in a skillet until golden and cooked through, rest for 3 minutes, and slice on a diagonal.",
+        "Boil the fettuccine until al dente, reserving a splash of pasta cooking water.",
+        "Melt butter and saute garlic until fragrant, then add heavy cream and Parmesan cheese, simmering gently until thick and glossy.",
+        "Toss the fettuccine in the Alfredo sauce until evenly coated, top with sliced grilled chicken, and garnish with chopped parsley."
+      ]
     },
     {
       "id": "us_rice_03",
@@ -6236,7 +7802,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Beef Stroganoff over Egg Noodles",
+      "desc_en": "Turn off the heat or keep it as low as possible before stirring in sour cream so the sauce stays silky without curdling.",
+      "ingredients_en": [
+        "Thinly Sliced Beef Sirloin: 280 g",
+        "Egg Noodles: 180 g",
+        "Sliced Button Mushrooms: 150 g",
+        "Chopped Onion: 60 g",
+        "Beef Broth: 250 ml",
+        "Sour Cream: 90 g",
+        "Worcestershire Sauce and Dijon Mustard: 1 tsp each"
+      ],
+      "steps_en": [
+        "Sear the beef strips in a hot skillet until browned, remove and set aside, then saute the onion and mushrooms in the same pan until fragrant.",
+        "Sprinkle in a little flour, add beef broth, Worcestershire sauce, and Dijon mustard, and simmer until thickened.",
+        "Reduce to low heat, stir in sour cream and the browned beef, then ladle over buttered egg noodles and garnish with parsley."
+      ]
     },
     {
       "id": "us_rice_04",
@@ -6271,7 +7853,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cajun Dirty Rice",
+      "desc_en": "A Louisiana classic with savory browned meat and bold Cajun spices.",
+      "ingredients_en": [
+        "Cooked Long-Grain Rice: 300 g",
+        "Ground Pork or Ground Beef: 200 g",
+        "Diced Green Bell Pepper, Onion, and Celery: 140 g",
+        "Minced Garlic: 1 tbsp",
+        "Cajun Seasoning and Paprika: 1.5 tbsp",
+        "Chicken Broth: 80 ml",
+        "Sliced Green Onions: 2 tbsp"
+      ],
+      "steps_en": [
+        "Brown the ground meat in a skillet until crumbly and aromatic, then add the onion, green bell pepper, celery, and garlic and saute until tender.",
+        "Stir in the Cajun seasoning and paprika so the spices coat the meat and vegetables.",
+        "Add the cooked rice and a splash of chicken broth, stir-fry over high heat until every grain is well coated, and finish with sliced green onions."
+      ]
     },
     {
       "id": "us_rice_05",
@@ -6305,7 +7903,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Shrimp Scampi Linguine",
+      "desc_en": "An Italian-American pasta classic bright with butter, garlic, and fresh lemon.",
+      "ingredients_en": [
+        "Linguine Pasta: 200 g",
+        "Peeled and Deveined Fresh Shrimp: 250 g",
+        "Unsalted Butter and Olive Oil: 2 tbsp each",
+        "Finely Minced Garlic: 1.5 tbsp",
+        "Lemon Juice and Grated Lemon Zest: 1 piece",
+        "Red Pepper Flakes and Chopped Parsley: 1 serving"
+      ],
+      "steps_en": [
+        "Boil the linguine in salted water until al dente, reserving 0.5 cup of the pasta water.",
+        "Heat olive oil and half the butter in a skillet, saute garlic and red pepper flakes until fragrant, then sear the shrimp until pink and cooked.",
+        "Toss in the linguine, reserved pasta water, remaining butter, lemon juice, and parsley quickly until coated in a glossy sauce, and serve hot."
+      ]
     },
     {
       "id": "us_rice_06",
@@ -6339,7 +7952,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Chicken Tetrazzini Pasta Bake",
+      "desc_en": "A comforting American homemade pasta bake rich with mushroom cream sauce and bubbling cheese.",
+      "ingredients_en": [
+        "Parboiled Halved Spaghetti: 220 g",
+        "Cooked Shredded Chicken Breast: 260 g",
+        "Sliced Mushrooms and Green Peas: 180 g",
+        "Chicken Broth and Heavy Cream: 350 ml",
+        "Unsalted Butter and All-Purpose Flour: 25 g each",
+        "Grated Parmesan and Mozzarella Cheese: 120 g"
+      ],
+      "steps_en": [
+        "Saute the mushrooms in butter until fragrant, stir in flour, then whisk in chicken broth and heavy cream until thickened.",
+        "Fold in the spaghetti, shredded chicken, green peas, and half the Parmesan, then transfer to a baking dish.",
+        "Scatter the mozzarella and remaining Parmesan on top and bake at 190°C for 20 minutes until golden and bubbly."
+      ]
     },
     {
       "id": "us_rice_07",
@@ -6373,7 +8001,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Hoppin' John Rice and Peas",
+      "desc_en": "A lucky Southern New Year dish infused with smoky bacon and tender black-eyed peas.",
+      "ingredients_en": [
+        "Uncooked Long-Grain Rice: 200 g",
+        "Cooked Black-Eyed Peas: 250 g",
+        "Diced Bacon: 100 g",
+        "Chopped Onion, Green Bell Pepper, and Celery: 140 g",
+        "Chicken Broth: 420 ml",
+        "Thyme and Sliced Green Onions: 2 tbsp"
+      ],
+      "steps_en": [
+        "Render the bacon in a pot until crisp, then saute the onion, bell pepper, and celery in the bacon drippings until softened.",
+        "Stir in the rice, black-eyed peas, thyme, and chicken broth; bring to a boil, then cover and simmer over low heat for 20 minutes.",
+        "Fluff the rice gently, top with sliced green onions and black pepper, and serve hot."
+      ]
     },
     {
       "id": "us_rice_08",
@@ -6407,7 +8050,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cincinnati Chili Spaghetti",
+      "desc_en": "Cincinnati chili stands out for its warm hint of cinnamon and a towering mound of finely shredded cheddar.",
+      "ingredients_en": [
+        "Cooked Spaghetti: 240 g",
+        "Ground Beef: 300 g",
+        "Tomato Sauce: 250 ml",
+        "Chili Powder, Cumin, Cinnamon, and Cocoa Powder: 2 tbsp",
+        "Finely Shredded Cheddar Cheese: 120 g",
+        "Diced Onion and Kidney Beans (optional): 60 g"
+      ],
+      "steps_en": [
+        "Simmer the ground beef with a splash of water in a pot until finely crumbled, then stir in tomato sauce and the Cincinnati spice blend.",
+        "Simmer over low heat for 20 minutes until the meat sauce develops its signature aromatic cinnamon-cocoa flavor.",
+        "Plate the spaghetti, ladle the meat chili on top, and finish with a generous mound of shredded cheddar and diced onion."
+      ]
     },
     {
       "id": "us_rice_09",
@@ -6441,7 +8099,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "BBQ Pulled Pork Rice Bowl",
+      "desc_en": "A modern American rice bowl balancing rich BBQ pulled pork with crisp, cool coleslaw.",
+      "ingredients_en": [
+        "Hot Steamed Rice: 300 g",
+        "Warm BBQ Pulled Pork: 220 g",
+        "Crisp Cabbage Coleslaw: 100 g",
+        "Grilled Sweet Corn: 80 g",
+        "Sliced Pickles and Green Onions: 40 g",
+        "Extra BBQ Sauce for Drizzling: 2 tbsp"
+      ],
+      "steps_en": [
+        "Warm the pulled pork with BBQ sauce in a skillet until hot, glossy, and juicy.",
+        "Scoop hot steamed rice into a bowl and neatly arrange the BBQ pulled pork, crisp coleslaw, grilled corn, and pickles on top.",
+        "Drizzle with extra BBQ sauce and sprinkle with sliced green onions before serving."
+      ]
     },
     {
       "id": "us_rice_10",
@@ -6474,7 +8147,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "American Spaghetti and Meatballs",
+      "desc_en": "An iconic Italian-American pasta dish crowned with big, juicy meatballs.",
+      "ingredients_en": [
+        "Spaghetti Pasta: 240 g",
+        "Ground Beef and Pork Mix: 320 g",
+        "Breadcrumbs, Egg, and Grated Parmesan: 1 serving",
+        "Tomato Marinara Sauce: 400 ml",
+        "Minced Garlic and Fresh Basil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Combine the ground meat, breadcrumbs, egg, Parmesan, garlic, salt, and pepper; roll into large meatballs and sear in a pan until browned.",
+        "Pour in the marinara sauce and simmer with the meatballs for about 15 minutes until tender and cooked through.",
+        "Serve ladled over cooked spaghetti and finish with Parmesan cheese and fresh basil."
+      ]
     },
     {
       "id": "us_rice_11",
@@ -6508,7 +8195,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic Tuna Noodle Casserole",
+      "desc_en": "A nostalgic American family casserole with creamy mushroom sauce and a crunchy golden topping.",
+      "ingredients_en": [
+        "Parboiled Egg Noodles: 220 g",
+        "Canned Tuna (drained): 240 g",
+        "Condensed Cream of Mushroom Soup and Milk: 320 ml",
+        "Green Peas: 100 g",
+        "Shredded Cheddar Cheese: 100 g",
+        "Crushed Potato Chips or Breadcrumbs: 50 g"
+      ],
+      "steps_en": [
+        "Stir together the egg noodles, tuna, cream of mushroom soup, milk, green peas, and half the cheddar cheese.",
+        "Transfer to a baking dish and top evenly with the remaining cheddar and buttered crushed potato chips.",
+        "Bake at 190°C for 20–22 minutes until bubbling hot and crisp golden on top."
+      ]
     },
     {
       "id": "us_rice_12",
@@ -6542,7 +8244,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "New Orleans Red Beans and Rice",
+      "desc_en": "New Orleans' famed Monday tradition—thick, spiced, and deeply satisfying.",
+      "ingredients_en": [
+        "Hot Steamed Long-Grain Rice: 350 g",
+        "Cooked Red Kidney Beans: 350 g",
+        "Sliced Smoked Andouille Sausage: 200 g",
+        "Diced Onion, Green Bell Pepper, and Celery: 160 g",
+        "Chicken Broth: 400 ml",
+        "Cajun Seasoning, Bay Leaf, and Sliced Green Onions: 1 serving"
+      ],
+      "steps_en": [
+        "Sear the smoked sausage in a pot until browned, then add the onion, bell pepper, and celery and saute until softened.",
+        "Add the red kidney beans, Cajun seasoning, bay leaf, and chicken broth; simmer over medium heat for 25 minutes, mashing a few beans to thicken the sauce.",
+        "Serve the creamy bean and sausage stew alongside hot steamed rice and scatter sliced green onions on top."
+      ]
     },
     {
       "id": "us_snack_01",
@@ -6575,7 +8292,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Loaded Chili Cheese Fries",
+      "desc_en": "A crowd-pleasing snack straight from American burger joints and pubs.",
+      "ingredients_en": [
+        "Crispy French Fries: 300 g",
+        "Warm Beef Chili Sauce: 160 g",
+        "Shredded Cheddar or Cheese Sauce: 90 g",
+        "Sliced Pickled Jalapeños: 2 tbsp",
+        "Sliced Green Onions and Sour Cream: 2 tbsp"
+      ],
+      "steps_en": [
+        "Fry or bake the French fries until crisp and golden all over, then pile onto a plate or baking tray.",
+        "Spoon warm beef chili evenly over the fries, scatter shredded cheddar on top, and broil or bake for 3 minutes until melted.",
+        "Garnish with pickled jalapeños, sour cream, and sliced green onions, then serve piping hot."
+      ]
     },
     {
       "id": "us_snack_02",
@@ -6609,7 +8340,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Baked Spinach Artichoke Dip",
+      "desc_en": "An American party favorite brimming with warm, creamy cheese, spinach, and artichokes.",
+      "ingredients_en": [
+        "Blanched Spinach (squeezed dry and roughly chopped): 150 g",
+        "Drained Marinated Artichoke Hearts (roughly chopped): 150 g",
+        "Cream Cheese and Sour Cream: 180 g",
+        "Shredded Mozzarella and Parmesan Cheese: 100 g",
+        "Minced Garlic: 2 cloves",
+        "Tortilla Chips or Toasted Bread for Dipping: 1 serving"
+      ],
+      "steps_en": [
+        "Mix the cream cheese, sour cream, minced garlic, spinach, artichokes, and half the shredded cheese, seasoning with salt and pepper.",
+        "Spoon into a small baking dish or cast-iron skillet and top with the remaining cheese.",
+        "Bake at 190°C for 20 minutes until bubbling at the edges and golden brown on top, then serve hot with tortilla chips."
+      ]
     },
     {
       "id": "us_snack_03",
@@ -6642,7 +8388,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Cream Cheese Stuffed Jalapeño Poppers",
+      "desc_en": "Removing all the seeds and white ribs tones down the heat so these poppers stay easy to enjoy.",
+      "ingredients_en": [
+        "Fresh Jalapeños (halved and seeded): 6 pieces",
+        "Softened Cream Cheese: 140 g",
+        "Shredded Cheddar Cheese: 60 g",
+        "Garlic Powder and Sliced Green Onions: 1 tbsp",
+        "Thinly Sliced Bacon: 6 pieces"
+      ],
+      "steps_en": [
+        "Mix the cream cheese, cheddar, garlic powder, and sliced green onions until smooth and well combined.",
+        "Spoon the cream cheese filling into each jalapeño half and wrap tightly with half a slice of bacon.",
+        "Place on a wire rack and bake at 200°C for 20–22 minutes until the bacon is crisp and the peppers are tender, then serve warm."
+      ]
     },
     {
       "id": "us_snack_04",
@@ -6676,7 +8436,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Garlic Parmesan Soft Pretzel Bites",
+      "desc_en": "A quick baking soda bath gives these pretzel bites their glossy brown crust and chewy interior.",
+      "ingredients_en": [
+        "Bread Flour: 250 g",
+        "Warm Water and Instant Yeast: 150 ml and 4 g",
+        "Baking Soda (for boiling bath): 2 tbsp",
+        "Melted Unsalted Butter: 40 g",
+        "Grated Parmesan Cheese and Garlic Powder: 4 tbsp",
+        "Chopped Parsley and Cheese Dip: 1 serving"
+      ],
+      "steps_en": [
+        "Knead the bread flour, warm water, yeast, a pinch of sugar, and salt until smooth; let rise 25 minutes, then roll into ropes and cut into bite-sized pieces.",
+        "Boil the dough bites in water with baking soda for about 20 seconds, then transfer to a baking sheet.",
+        "Bake at 215°C for 12–14 minutes until deep golden brown, then immediately toss with melted butter, garlic powder, Parmesan, and parsley."
+      ]
     },
     {
       "id": "us_snack_05",
@@ -6709,7 +8484,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Crispy Fried Pickles with Ranch",
+      "desc_en": "Tangy, salty, and super crunchy fried pickles are irresistibly snackable and never feel heavy.",
+      "ingredients_en": [
+        "Sliced Dill Pickles (patted dry): 180 g",
+        "All-Purpose Flour Seasoned with Paprika: 80 g",
+        "Buttermilk or Milk with Beaten Egg: 100 ml",
+        "Panko Breadcrumbs: 60 g",
+        "Ranch Dressing for Dipping: 3 tbsp"
+      ],
+      "steps_en": [
+        "Pat the pickle slices thoroughly dry so the breading sticks evenly.",
+        "Dredge in seasoned flour, dip in buttermilk, and coat well with panko breadcrumbs.",
+        "Deep-fry in hot oil over medium-high heat for 2–3 minutes until crisp and golden, drain, and serve with cool ranch dressing."
+      ]
     },
     {
       "id": "us_snack_06",
@@ -6742,7 +8531,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Loaded Bacon Cheddar Tater Tots",
+      "desc_en": "An American snack hit that is crispy outside, fluffy inside, and loaded with bacon and melted cheddar.",
+      "ingredients_en": [
+        "Tater Tots: 350 g",
+        "Shredded Cheddar Cheese: 100 g",
+        "Chopped Crispy Bacon: 70 g",
+        "Sour Cream: 3 tbsp",
+        "Sliced Green Onions: 2 tbsp"
+      ],
+      "steps_en": [
+        "Bake or fry the tater tots at 210°C for about 18 minutes until crisp and golden brown.",
+        "Top with shredded cheddar and half the crispy bacon, then return to the oven for 4 minutes until the cheese melts.",
+        "Dollop with sour cream, scatter the remaining bacon and green onions on top, and serve hot."
+      ]
     },
     {
       "id": "us_snack_07",
@@ -6776,7 +8579,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Hush Puppies",
+      "desc_en": "A classic Southern side and snack served alongside fried seafood and barbecue.",
+      "ingredients_en": [
+        "Yellow Cornmeal: 140 g",
+        "All-Purpose Flour and Baking Powder: 60 g and 1.5 tsp",
+        "Finely Chopped Onion: 40 g",
+        "Buttermilk or Whole Milk: 140 ml",
+        "Egg: 1 piece",
+        "Salt and Paprika: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Whisk together the cornmeal, flour, baking powder, a touch of sugar, salt, and paprika.",
+        "Stir in the egg, milk, and finely chopped onion just until a thick batter forms.",
+        "Drop spoonfuls into 180°C oil and fry for about 3 minutes until puffed and golden brown, drain, and serve hot with honey butter or tartar sauce."
+      ]
     },
     {
       "id": "us_snack_08",
@@ -6809,7 +8627,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Classic American Corn Dogs",
+      "desc_en": "An American fairground favorite pairing a lightly sweet, crisp cornmeal crust with savory hot dogs.",
+      "ingredients_en": [
+        "Skewered Hot Dogs: 4 pieces",
+        "Yellow Cornmeal and All-Purpose Flour: 80 g each",
+        "Baking Powder and Sugar: 1.5 tsp and 2 tbsp",
+        "Whole Milk and Egg: 150 ml and 1 piece",
+        "Yellow Mustard and Ketchup for Drizzling: 1 serving"
+      ],
+      "steps_en": [
+        "Whisk the cornmeal, flour, baking powder, sugar, salt, egg, and milk into a smooth, thick batter and pour into a tall glass.",
+        "Pat the skewered hot dogs dry, dust lightly with flour, and dip into the glass of batter to coat evenly.",
+        "Fry in 180°C oil for 3–4 minutes until crisp and golden brown, then serve hot with yellow mustard and ketchup."
+      ]
     },
     {
       "id": "us_snack_09",
@@ -6843,7 +8675,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Maryland Crab Cakes",
+      "desc_en": "Go light on the breadcrumbs so the sweet, meaty flavor of genuine Maryland crab shines through.",
+      "ingredients_en": [
+        "Cooked Lump Crab Meat: 250 g",
+        "Mayonnaise and Dijon Mustard: 3 tbsp and 1 tsp",
+        "Egg: 1 piece",
+        "Panko Breadcrumbs: 40 g",
+        "Old Bay Seasoning and Chopped Parsley: 1 serving",
+        "Unsalted Butter and Oil for Pan-Searing: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk together mayonnaise, Dijon mustard, egg, Old Bay seasoning, and parsley, then gently fold in the lump crab meat and breadcrumbs without breaking up the lumps.",
+        "Shape into 4 round patties and chill for 10 minutes to firm up.",
+        "Pan-sear in butter and oil over medium heat for 3–4 minutes per side until golden and crisp, then serve with remoulade sauce and lemon."
+      ]
     },
     {
       "id": "us_snack_10",
@@ -6876,7 +8723,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Southern Fried Green Tomatoes",
+      "desc_en": "An iconic Southern treat that is crisp on the outside and juicy, tart-sweet inside.",
+      "ingredients_en": [
+        "Green Tomatoes (sliced 1 cm thick): 2 pieces",
+        "Cornmeal and Breadcrumbs: 80 g",
+        "All-Purpose Flour: 50 g",
+        "Buttermilk or Milk with Beaten Egg: 100 ml",
+        "Remoulade or Ranch Sauce for Dipping: 3 tbsp"
+      ],
+      "steps_en": [
+        "Season the green tomato slices with salt and pepper and pat lightly dry.",
+        "Dredge in flour, dip in buttermilk, and coat evenly in the cornmeal-breadcrumb mixture.",
+        "Shallow-fry in a skillet over medium heat for 2–3 minutes per side until golden and crisp, drain, and serve hot with remoulade sauce."
+      ]
     },
     {
       "id": "us_snack_11",
@@ -6910,7 +8771,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       ],
       "country": "US",
       "packId": "us_popular",
-      "tier": "popular"
+      "tier": "popular",
+      "name_en": "Warm Buffalo Chicken Dip",
+      "desc_en": "The ultimate game-day dip packed with spicy, tangy Buffalo flavor and melted cheddar.",
+      "ingredients_en": [
+        "Cooked Shredded Chicken Breast: 200 g",
+        "Softened Cream Cheese: 160 g",
+        "Buffalo Sauce: 80 ml",
+        "Ranch Dressing: 60 ml",
+        "Shredded Cheddar Cheese: 100 g",
+        "Green Onions, Celery Sticks, and Tortilla Chips: 1 serving"
+      ],
+      "steps_en": [
+        "Mix the cream cheese, Buffalo sauce, ranch dressing, shredded chicken, and half the cheddar cheese until well combined.",
+        "Spread into a small baking dish and sprinkle the remaining cheddar evenly over the top.",
+        "Bake at 190°C for 18 minutes until bubbly and golden, top with sliced green onions, and serve hot with tortilla chips and celery sticks."
+      ]
     },
     {
       "id": "us_snack_12",
@@ -6947,6 +8823,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "tier": "popular",
       "dietaryTags": [
         "ผู้สูงอายุ"
+      ],
+      "name_en": "Garlic Mashed Potatoes and Gravy",
+      "desc_en": "A timeless American comfort side that is velvety, garlicky, and topped with rich gravy (senior-friendly).",
+      "ingredients_en": [
+        "Peeled and Chopped Potatoes: 500 g",
+        "Unsalted Butter: 50 g",
+        "Warm Whole Milk or Heavy Cream: 100 ml",
+        "Soft Boiled or Roasted Garlic: 4 cloves",
+        "Beef or Chicken Broth for Gravy: 250 ml",
+        "All-Purpose Flour and Butter for Gravy: 2 tbsp each"
+      ],
+      "steps_en": [
+        "Boil the potatoes and garlic in salted water for about 15 minutes until tender, then drain completely.",
+        "Mash the potatoes and garlic with butter and warm milk until light and creamy, seasoning with salt and white pepper.",
+        "Cook butter and flour together, whisk in the broth until it forms a rich brown gravy, and spoon generously over the warm garlic mashed potatoes."
       ]
     },
     {
@@ -6979,6 +8870,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_01.webp"
+      ],
+      "name_en": "Black Pepper Chicken Steak",
+      "desc_en": "Resting the chicken breast for about 3 minutes after searing locks in the juices for tender, succulent meat.",
+      "ingredients_en": [
+        "Skinless Chicken Breast: 2 pieces",
+        "Prepared or Homemade Black Pepper Sauce: 4 tbsp",
+        "Coarsely Cracked Black Pepper: 1.5 tsp",
+        "Unsalted Butter: 1 tbsp",
+        "Salt: 0.5 tsp",
+        "Mashed Potatoes and Steamed Vegetables: 1 serving"
+      ],
+      "steps_en": [
+        "Marinate the chicken breasts with salt, black pepper, and a drizzle of olive oil for 15 minutes.",
+        "Heat oil and butter in a skillet and sear the chicken over medium heat for 4–5 minutes per side until golden and cooked through.",
+        "Make the black pepper sauce by sauteing minced garlic in butter, then adding broth, a splash of dark soy sauce, and cracked black pepper and simmering until thick.",
+        "Plate the chicken, spoon the black pepper sauce over top, and serve with mashed potatoes and steamed vegetables."
       ]
     },
     {
@@ -7011,6 +8918,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_02.webp"
+      ],
+      "name_en": "Grilled Chicken Caesar Salad",
+      "desc_en": "Spinning or patting the lettuce completely dry helps the Caesar dressing cling cleanly without getting watery.",
+      "ingredients_en": [
+        "Cos or Romaine Lettuce: 150 g",
+        "Sliced Grilled Chicken Breast: 150 g",
+        "Caesar Dressing: 3 tbsp",
+        "Croutons: 0.5 cup",
+        "Shaved Parmesan Cheese: 2 tbsp",
+        "Freshly Cracked Black Pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Wash the romaine lettuce, dry thoroughly, tear or chop into bite-sized pieces, and chill until crisp.",
+        "Season the chicken breast with salt and pepper, grill until golden and cooked through, and slice into bite-sized pieces.",
+        "Toss the romaine lettuce with Caesar dressing until evenly coated and transfer to a plate.",
+        "Top with the grilled chicken, croutons, Parmesan shavings, and freshly cracked black pepper before serving."
       ]
     },
     {
@@ -7044,6 +8967,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_03.webp"
+      ],
+      "name_en": "Cheesy Scrambled Eggs on Toast",
+      "desc_en": "Cook gently over low heat and pull the eggs off while still slightly glossy—carryover heat finishes them just right.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Thick-Cut Sourdough or Sandwich Bread: 2 slices",
+        "Unsalted Butter: 1 tbsp",
+        "Whole Milk: 2 tbsp",
+        "Shredded Cheddar Cheese: 30 g",
+        "Sliced Green Onions and Cherry Tomatoes for Garnish: 1 serving",
+        "Salt and Black Pepper: to taste"
+      ],
+      "steps_en": [
+        "Crack the eggs into a bowl, add milk, salt, and pepper, and whisk until combined.",
+        "Toast the bread with a little butter until crisp and golden, then place on a plate.",
+        "Melt butter in a skillet over low heat, pour in the eggs, and gently fold from the edges toward the center with a silicone spatula.",
+        "Once the eggs form soft curds, fold in the cheese just until melted, spoon onto the toast, and garnish with sliced green onions."
       ]
     },
     {
@@ -7080,6 +9020,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_04.webp"
+      ],
+      "name_en": "Creamy Shiitake and Potato Soup",
+      "desc_en": "Adding potato naturally thickens the soup into a velvety texture without relying heavily on flour (senior-friendly).",
+      "ingredients_en": [
+        "Sliced Button or Fresh Shiitake Mushrooms: 200 g",
+        "Finely Diced Potato: 1 piece",
+        "Chopped Onion: 0.5 piece",
+        "Vegetable or Chicken Broth: 2 cups",
+        "Whipping Cream or Whole Milk: 0.5 cup",
+        "Unsalted Butter: 1.5 tbsp",
+        "Crispy Garlic Bread for Serving: 3 pieces"
+      ],
+      "steps_en": [
+        "Saute the onion and mushrooms in butter over medium heat until fragrant and tender, setting aside a few mushroom slices for garnish.",
+        "Add the diced potato and broth, then simmer for about 12 minutes until the potato is fork-tender.",
+        "Blend the soup until smooth, return to the pot, stir in the whipping cream, and season with salt and pepper.",
+        "Ladle into bowls, garnish with the reserved mushrooms and a swirl of cream, and serve with garlic bread."
       ]
     },
     {
@@ -7114,6 +9071,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_05.webp"
+      ],
+      "name_en": "Pan-Seared Salmon with Lemon Butter Sauce",
+      "desc_en": "Pressing the salmon fillet gently against the pan during the first minute keeps the skin flat and evenly crisp.",
+      "ingredients_en": [
+        "Skin-On Fresh Salmon Fillet: 200 g",
+        "Unsalted Butter: 2 tbsp",
+        "Fresh Lemon Juice: 1.5 tbsp",
+        "Finely Minced Garlic: 1 tsp",
+        "Chopped Parsley: 1 tbsp",
+        "Olive Oil: 1 tbsp",
+        "Salt and Ground Black Pepper: 0.5 tsp each",
+        "Blanched Asparagus Spears: 5 stalks"
+      ],
+      "steps_en": [
+        "Pat the salmon fillet dry and season both sides with salt and black pepper.",
+        "Heat olive oil in a skillet, place the salmon skin-side down over medium heat for 4 minutes until crisp, then flip and sear 2 minutes more before resting on a plate.",
+        "In the same pan, melt the butter, saute minced garlic until fragrant, and stir in lemon juice, parsley, and a pinch of salt.",
+        "Plate the salmon alongside the asparagus, spoon the warm lemon butter sauce generously on top, and serve."
       ]
     },
     {
@@ -7150,6 +9125,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_06.webp"
+      ],
+      "name_en": "Creamy Pumpkin Soup with Roasted Sunflower Seeds",
+      "desc_en": "Cooking scrubbed kabocha squash with the skin on gives the soup a richer color and extra vitamins (senior-friendly).",
+      "ingredients_en": [
+        "Diced Kabocha Squash: 350 g",
+        "Chopped Onion: 0.5 piece",
+        "Vegetable Broth: 2 cups",
+        "Fresh Whipping Cream: 0.33 cup",
+        "Unsalted Butter: 1.5 tbsp",
+        "Salt and White Pepper: 0.5 tsp each",
+        "Roasted Sunflower or Pumpkin Seeds: 1 tbsp"
+      ],
+      "steps_en": [
+        "Saute the chopped onion in butter over medium heat until translucent and fragrant.",
+        "Add the kabocha squash and vegetable broth, then simmer over medium heat for 15 minutes until completely tender.",
+        "Blend the soup until silky smooth and pour it back into the pot.",
+        "Stir in the whipping cream, season with salt and white pepper, ladle into bowls, and top with roasted sunflower seeds."
       ]
     },
     {
@@ -7187,6 +9179,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_07.webp"
+      ],
+      "name_en": "Sweet Corn and Shredded Chicken Soup",
+      "desc_en": "Swirling in unsalted butter right after turning off the heat adds a glossy finish and rich aroma (senior-friendly).",
+      "ingredients_en": [
+        "Fresh Sweet Corn (kernels sliced off): 2 ears",
+        "Cooked Shredded Chicken Breast: 100 g",
+        "Clear Chicken Broth: 2.5 cups",
+        "Whole Milk: 0.5 cup",
+        "Unsalted Butter: 1 tbsp",
+        "Cornstarch Slurry: 1.5 tbsp",
+        "Beaten Egg: 1 piece",
+        "Salt and Ground Pepper: 0.5 tsp each"
+      ],
+      "steps_en": [
+        "Blend half of the sweet corn kernels with the chicken broth until smooth, reserving the remaining whole kernels.",
+        "Bring the broth, blended corn, and whole corn kernels to a boil in a pot.",
+        "Stir in the milk and shredded chicken, then season with salt and pepper.",
+        "Gradually stir in the cornstarch slurry until thickened, drizzle in the beaten egg while stirring to form silky ribbons, turn off the heat, and melt in the butter."
       ]
     },
     {
@@ -7221,6 +9231,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_08.webp"
+      ],
+      "name_en": "Whole Wheat Tuna Corn Salad Sandwich",
+      "desc_en": "Squeezing the tuna completely dry before mixing with mayo keeps the filling crisp and prevents soggy bread.",
+      "ingredients_en": [
+        "Canned Tuna in Spring Water (pressed dry): 1 can",
+        "Toasted Whole Wheat Bread: 2 slices",
+        "Cooked Sweet Corn: 2 tbsp",
+        "Finely Diced Carrot and Onion: 1 tbsp each",
+        "Low-Fat Mayonnaise: 2 tbsp",
+        "Mustard: 0.5 tsp",
+        "Lettuce and Sliced Tomato: 1 serving",
+        "Ground Black Pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Mix the tuna, sweet corn, diced carrot, diced onion, mayonnaise, mustard, and black pepper until evenly combined.",
+        "Layer the lettuce and sliced tomato on the first slice of toasted whole wheat bread.",
+        "Spread a generous scoop of the tuna corn salad evenly across the slice.",
+        "Top with the second slice of bread, cut diagonally in half with a serrated knife, and serve."
       ]
     },
     {
@@ -7252,6 +9280,21 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_09.webp"
+      ],
+      "name_en": "Sirloin Steak with Red Wine Gravy",
+      "desc_en": "Resting the steak for 5 minutes after searing allows juices to redistribute evenly so every bite stays tender and succulent.",
+      "ingredients_en": [
+        "1-Inch Thick Beef Sirloin Steak: 250 g",
+        "Unsalted Butter, Fresh Rosemary, and Crushed Garlic: 2 tbsp butter, 1 sprig, 2 cloves",
+        "Red Wine Gravy Sauce: 0.33 cup",
+        "Sea Salt and Coarsely Cracked Black Pepper: 1 tsp",
+        "Roasted Carrots and Asparagus for Serving: 1 serving"
+      ],
+      "steps_en": [
+        "Season the steak all over with sea salt and black pepper and let sit at room temperature for 10 minutes.",
+        "Heat a cast-iron skillet over high heat until smoking hot and sear the steak for 2.5 minutes per side for medium-rare.",
+        "Add the butter, rosemary, and garlic, basting the steak continuously with the foaming butter, then transfer to rest for 5 minutes.",
+        "Warm the red wine gravy, spoon alongside the steak, and serve with roasted vegetables."
       ]
     },
     {
@@ -7284,6 +9327,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_10.webp"
+      ],
+      "name_en": "Creamy Asparagus Soup with Crispy Bacon",
+      "desc_en": "Trimming off the tough woody asparagus ends beforehand ensures a silky-smooth, fiber-free soup.",
+      "ingredients_en": [
+        "Chopped Asparagus: 300 g",
+        "Chopped Bacon: 60 g",
+        "Whipping Cream: 120 ml",
+        "Chicken Broth: 400 ml",
+        "Chopped Onion: 50 g",
+        "Unsalted Butter: 20 g"
+      ],
+      "steps_en": [
+        "Fry the bacon until crisp and set aside, while blanching a few asparagus tips for garnish.",
+        "Saute the onion in butter until translucent, then add the asparagus stalks and chicken broth and simmer until tender.",
+        "Blend the mixture until silky smooth and pour back into the pot.",
+        "Stir in the whipping cream, season with salt and pepper, and serve topped with crispy bacon and blanched tips."
       ]
     },
     {
@@ -7317,6 +9376,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_11.webp"
+      ],
+      "name_en": "Tuna and Soft-Boiled Egg Niçoise Salad",
+      "desc_en": "Plunging the green beans into ice water immediately after blanching preserves their snap and vibrant green color.",
+      "ingredients_en": [
+        "Tuna in Spring Water or Olive Oil: 120 g",
+        "Boiled Potatoes (cut into chunks): 100 g",
+        "Blanched Green Beans: 60 g",
+        "Quartered Soft-Boiled Egg: 1 piece",
+        "Black Olives: 30 g",
+        "Mixed Leafy Greens: 80 g",
+        "Dijon Mustard Vinaigrette: 3 tbsp"
+      ],
+      "steps_en": [
+        "Blanch the green beans in boiling water and immediately shock in ice water to keep them crisp and bright green.",
+        "Arrange the leafy greens, boiled potatoes, green beans, black olives, and quartered egg on a plate.",
+        "Place the drained tuna neatly in the center of the plate.",
+        "Drizzle evenly with Dijon mustard vinaigrette just before serving."
       ]
     },
     {
@@ -7350,6 +9426,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_12.webp"
+      ],
+      "name_en": "Grilled Shrimp Quinoa Salad with Lemon Dressing",
+      "desc_en": "Let the cooked quinoa cool completely before tossing so the crisp vegetables do not wilt.",
+      "ingredients_en": [
+        "Cooked Quinoa: 150 g",
+        "Peeled Fresh Shrimp: 150 g",
+        "Diced Cucumber: 60 g",
+        "Halved Cherry Tomatoes: 60 g",
+        "Chopped Parsley: 2 tbsp",
+        "Lemon Juice: 2 tbsp",
+        "Olive Oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Season the shrimp with salt and pepper and pan-sear until bright pink and cooked through.",
+        "Combine the cooled cooked quinoa with diced cucumber, cherry tomatoes, and chopped parsley.",
+        "Whisk together lemon juice, olive oil, salt, and pepper to make the dressing.",
+        "Toss the quinoa salad with the dressing, top with the grilled shrimp, and serve."
       ]
     },
     {
@@ -7382,6 +9475,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_13.webp"
+      ],
+      "name_en": "Arugula, Parma Ham, and Pear Salad",
+      "desc_en": "Juicy sweet pear balances the savory saltiness of Parma ham and the peppery bite of fresh arugula.",
+      "ingredients_en": [
+        "Arugula: 80 g",
+        "Thinly Sliced Parma Ham: 60 g",
+        "Thinly Sliced Pear Wedges: 100 g",
+        "Toasted Walnuts: 25 g",
+        "Shaved Parmesan Cheese: 25 g",
+        "Balsamic Vinegar and Olive Oil: 3 tbsp"
+      ],
+      "steps_en": [
+        "Wash and dry the arugula thoroughly and arrange it on a serving platter.",
+        "Tuck the pear wedges and rolled ribbons of Parma ham over the bed of arugula.",
+        "Scatter toasted walnuts and Parmesan shavings across the top.",
+        "Drizzle with balsamic vinegar and olive oil right before serving."
       ]
     },
     {
@@ -7415,6 +9524,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_14.webp"
+      ],
+      "name_en": "Roasted Beet, Goat Cheese, and Walnut Salad",
+      "desc_en": "Roasting whole beets wrapped in foil locks in moisture and makes the skins slip off effortlessly.",
+      "ingredients_en": [
+        "Fresh Beets: 250 g",
+        "Soft Goat Cheese: 60 g",
+        "Mixed Salad Greens: 80 g",
+        "Toasted Walnuts: 30 g",
+        "Honey: 1 tbsp",
+        "Apple Cider Vinegar: 2 tbsp",
+        "Olive Oil: 2 tbsp"
+      ],
+      "steps_en": [
+        "Wrap the beets in foil and roast at 200°C for 35 minutes until tender, then peel and cut into cubes.",
+        "Whisk together honey, apple cider vinegar, olive oil, salt, and pepper for the dressing.",
+        "Arrange the mixed greens and roasted beets in a salad bowl.",
+        "Crumble goat cheese and scatter toasted walnuts over top, then drizzle with dressing before serving."
       ]
     },
     {
@@ -7448,6 +9574,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_15.webp"
+      ],
+      "name_en": "Smoked Salmon and Caper Salad",
+      "desc_en": "Giving brined capers a quick rinse beforehand keeps the salad from tasting overly salty.",
+      "ingredients_en": [
+        "Smoked Salmon: 100 g",
+        "Red Oak Lettuce and Arugula: 90 g",
+        "Capers: 1 tbsp",
+        "Thinly Sliced Red Onion: 2 tbsp",
+        "Lemon Juice: 2 tbsp",
+        "Olive Oil: 2 tbsp",
+        "Fresh Dill: 1 tbsp"
+      ],
+      "steps_en": [
+        "Arrange the salad greens and thinly sliced red onion on a serving plate.",
+        "Roll the smoked salmon into bite-sized rosettes and distribute evenly over the greens.",
+        "Scatter the capers and fresh dill fronds on top.",
+        "Whisk together lemon juice, olive oil, and black pepper, then drizzle over the salad."
       ]
     },
     {
@@ -7480,6 +9623,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_16.webp"
+      ],
+      "name_en": "Ham, Cheese, and Mushroom Omelette",
+      "desc_en": "Cooking over low heat and folding the omelette while the top is still slightly creamy keeps the inside tender.",
+      "ingredients_en": [
+        "Eggs: 3 pieces",
+        "Diced Ham: 50 g",
+        "Thinly Sliced Button Mushrooms: 50 g",
+        "Shredded Cheddar Cheese: 40 g",
+        "Whole Milk: 2 tbsp",
+        "Unsalted Butter: 15 g"
+      ],
+      "steps_en": [
+        "Saute the diced ham and mushrooms in a little butter until cooked and fragrant, then set aside.",
+        "Whisk the eggs with milk, salt, and pepper until smooth.",
+        "Melt butter in a nonstick skillet over low heat, pour in the eggs, and stir gently as they begin to set.",
+        "Spoon the ham, mushrooms, and shredded cheddar down the center, fold neatly, and transfer to a plate."
       ]
     },
     {
@@ -7513,6 +9672,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_17.webp"
+      ],
+      "name_en": "Belgian Waffles with Whipped Cream and Fresh Berries",
+      "desc_en": "Whipping the egg whites separately and folding them in creates waffles that are crisp outside and feather-light inside.",
+      "ingredients_en": [
+        "All-Purpose Flour: 150 g",
+        "Separated Eggs: 2 pieces",
+        "Whole Milk: 180 ml",
+        "Melted Butter: 40 g",
+        "Baking Powder: 1 tsp",
+        "Whipped Cream: 50 g",
+        "Fresh Strawberries and Blueberries: 80 g"
+      ],
+      "steps_en": [
+        "Whisk together the flour, baking powder, milk, egg yolks, and melted butter until smooth.",
+        "Beat the egg whites to soft peaks and gently fold them into the batter.",
+        "Pour the batter into a preheated waffle iron and cook for about 4 minutes until crisp and golden.",
+        "Plate the waffles, pipe or dollop whipped cream on top, and garnish with fresh berries."
       ]
     },
     {
@@ -7546,6 +9722,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_18.webp"
+      ],
+      "name_en": "Beef Tenderloin Steak with Truffle Mushroom Cream Sauce",
+      "desc_en": "Stir in the truffle sauce off the heat or over the lowest flame to preserve its delicate aroma.",
+      "ingredients_en": [
+        "Beef Tenderloin Steak: 220 g",
+        "Sliced Button Mushrooms: 100 g",
+        "Whipping Cream: 120 ml",
+        "Truffle Sauce: 1 tbsp",
+        "Unsalted Butter: 20 g",
+        "Minced Garlic: 1 tsp",
+        "Salt and Black Pepper: 0.5 tsp each"
+      ],
+      "steps_en": [
+        "Season the beef tenderloin with salt and black pepper, then sear in a hot skillet with half the butter to your desired doneness.",
+        "Transfer the steak to rest, add the remaining butter to the same pan, and saute the garlic and mushrooms until tender.",
+        "Pour in the whipping cream, simmer gently until slightly thickened, and stir in the truffle sauce.",
+        "Plate the tenderloin steak, spoon the warm truffle mushroom cream sauce over top, and serve immediately."
       ]
     },
     {
@@ -7579,6 +9772,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_19.webp"
+      ],
+      "name_en": "Grilled Pork Loin Steak with Creamy Mushroom Sauce",
+      "desc_en": "Use a pork loin cut trimmed to about 2 cm thick so the inside cooks through evenly without burning the outside.",
+      "ingredients_en": [
+        "Pork loin: 200 g",
+        "Straw or button mushrooms: 80 g",
+        "Cooking cream: 100 ml",
+        "Chopped onion: 2 tbsp",
+        "Unsalted butter: 20 g",
+        "Pork stock: 50 ml",
+        "Salt and pepper: 0.5 tsp each"
+      ],
+      "steps_en": [
+        "Score the fat edge of the pork loin slightly to prevent curling, then season evenly with salt and pepper.",
+        "Pan-sear the pork in half of the butter over medium-high heat for 4 minutes per side until golden and cooked through, then set aside to rest.",
+        "Saute the chopped onion and mushrooms in the same pan until fragrant, then add the pork stock and cooking cream and simmer until thickened.",
+        "Adjust the sauce seasoning with a pinch of salt and pepper, then spoon it over the pork loin steak."
       ]
     },
     {
@@ -7612,6 +9822,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_20.webp"
+      ],
+      "name_en": "Wagyu Cheeseburger with Crispy Bacon & Caramelized Onions",
+      "desc_en": "Press a shallow dimple into the center of the raw patty with your thumb before grilling so it stays flat instead of puffing up in the middle.",
+      "ingredients_en": [
+        "Ground Wagyu beef: 180 g",
+        "Brioche burger bun: 1 bun",
+        "Cheddar cheese slices: 2 slices",
+        "Crispy cooked bacon: 2 strips",
+        "Sliced onion: 1 onion",
+        "Unsalted butter: 15 g",
+        "Salt and black pepper: a pinch each"
+      ],
+      "steps_en": [
+        "Saute the sliced onion with butter over low heat for 12 minutes until sweet and golden brown, then set aside.",
+        "Shape the ground Wagyu into a flat round patty, season only the outside with salt and pepper, and sear in a hot pan for 2-3 minutes per side.",
+        "Top the patty with cheddar cheese and cover the pan for 30 seconds to melt, while toasting the brioche bun until crisp outside and soft inside.",
+        "Assemble the burger by layering the cheesy patty, caramelized onions, and crispy bacon between the toasted bun."
       ]
     },
     {
@@ -7645,6 +9872,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_21.webp"
+      ],
+      "name_en": "Crispy Chicken Breast Burger with Spicy Mayo",
+      "desc_en": "Pound the chicken breast to an even thickness before breading so it cooks uniformly without drying out.",
+      "ingredients_en": [
+        "Thinly sliced chicken breast: 180 g",
+        "Burger bun: 1 bun",
+        "Crispy frying flour: 80 g",
+        "Beaten egg: 1 egg",
+        "Mayonnaise: 2 tbsp",
+        "Sriracha chili sauce: 1 tbsp",
+        "Iceberg lettuce and pickles: to taste"
+      ],
+      "steps_en": [
+        "Mix the mayonnaise and Sriracha chili sauce together until smooth to make the spicy mayo.",
+        "Season the chicken breast with salt and pepper, dip in the beaten egg, and coat thoroughly with crispy frying flour.",
+        "Deep-fry the chicken over medium heat for 5-6 minutes until golden crisp and cooked through, then drain on a rack.",
+        "Spread spicy mayo onto the warm toasted bun, layer with iceberg lettuce, crispy chicken, and pickles, and serve."
       ]
     },
     {
@@ -7678,6 +9922,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_22.webp"
+      ],
+      "name_en": "Grilled Salmon Burger with Avocado Sauce",
+      "desc_en": "Mix lime juice into the mashed avocado immediately after cutting to help prevent browning.",
+      "ingredients_en": [
+        "Thick-cut salmon fillet: 160 g",
+        "Whole wheat burger bun: 1 bun",
+        "Mashed ripe avocado: 0.5 fruit",
+        "Lime juice: 1 tsp",
+        "Arugula: 20 g",
+        "Olive oil: 1 tbsp",
+        "Salt and black pepper: a pinch each"
+      ],
+      "steps_en": [
+        "Mash the avocado with lime juice and a pinch of salt until smooth and well combined.",
+        "Pat the salmon fillet dry, season with salt and pepper, and pan-sear in olive oil for 3 minutes per side.",
+        "Toast the whole wheat bun lightly in the pan until warm and slightly crisp.",
+        "Spread the avocado sauce on the bun, top with arugula and the grilled salmon, and serve."
       ]
     },
     {
@@ -7711,6 +9972,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_23.webp"
+      ],
+      "name_en": "Grilled Portobello Mushroom Burger with Melted Mozzarella",
+      "desc_en": "Avoid rinsing mushrooms directly under water; wipe them with a damp cloth so they do not absorb excess moisture during grilling.",
+      "ingredients_en": [
+        "Large portobello mushrooms: 2 caps",
+        "Burger bun: 1 bun",
+        "Mozzarella cheese slices: 2 slices",
+        "Balsamic vinegar: 1 tbsp",
+        "Olive oil: 1 tbsp",
+        "Minced garlic: 1 tsp",
+        "Salad greens and tomato: to taste"
+      ],
+      "steps_en": [
+        "Wipe the portobello mushrooms clean, remove the stems, and brush with olive oil, balsamic vinegar, and minced garlic.",
+        "Grill the mushrooms in a pan over medium heat for 3-4 minutes per side until tender and juicy.",
+        "Place the mozzarella slices over the hot mushrooms in the pan and cover briefly until melted.",
+        "Layer the cheesy grilled mushrooms onto a toasted bun with salad greens and sliced tomato."
       ]
     },
     {
@@ -7744,6 +10022,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_24.webp"
+      ],
+      "name_en": "Creamy Chicken Pot Pie with Flaky Puff Pastry",
+      "desc_en": "Let the creamy filling cool slightly before topping with puff pastry so hot steam does not make the pastry soggy before baking.",
+      "ingredients_en": [
+        "Diced chicken breast: 250 g",
+        "Store-bought puff pastry sheet: 1 sheet",
+        "Carrots and green peas: 80 g",
+        "Whipping cream: 120 ml",
+        "All-purpose flour: 2 tbsp",
+        "Unsalted butter: 25 g",
+        "Egg yolk for egg wash: 1 yolk"
+      ],
+      "steps_en": [
+        "Saute the chicken, carrots, and peas in butter until cooked, stir in the flour, then pour in the whipping cream and simmer until thickened.",
+        "Spoon the creamy chicken filling into an oven-safe ramekin and let it cool slightly.",
+        "Cover the top with puff pastry, cut a small steam vent in the center, and brush evenly with egg yolk.",
+        "Bake at 200°C for 18-20 minutes until the puff pastry is puffed and golden brown."
       ]
     },
     {
@@ -7777,6 +10072,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_25.webp"
+      ],
+      "name_en": "Baked Tuna Corn & Cheese Puff Pie",
+      "desc_en": "When using canned tuna, squeeze out as much liquid as possible so the filling stays thick and does not tear the bottom pastry.",
+      "ingredients_en": [
+        "Tuna in spring water, drained and squeezed dry: 150 g",
+        "Boiled sweet corn: 80 g",
+        "Puff pastry sheets: 2 sheets",
+        "Mayonnaise: 2 tbsp",
+        "Shredded mozzarella cheese: 60 g",
+        "Sliced scallions: 1 tbsp",
+        "Black pepper: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Toss together the tuna, corn, mayonnaise, mozzarella cheese, scallions, and black pepper until evenly mixed.",
+        "Cut the puff pastry sheets into squares and spoon the tuna filling onto the center of the first sheet.",
+        "Top with the second pastry sheet, crimp all four edges firmly with a fork, and score a few small steam vents.",
+        "Bake at 200°C for 18-20 minutes until puffed, crisp, and golden brown."
       ]
     },
     {
@@ -7810,6 +10122,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_26.webp"
+      ],
+      "name_en": "Crispy Chickpea Falafel with Garlic Yogurt Sauce",
+      "desc_en": "Use only soaked raw chickpeas rather than canned boiled chickpeas, or the falafel patties will crumble apart in the hot oil.",
+      "ingredients_en": [
+        "Dried chickpeas, soaked overnight: 200 g",
+        "Onion and garlic: 30 g each",
+        "Fresh cilantro and parsley: 1 handful each",
+        "Ground cumin: 1 tsp",
+        "Greek yogurt: 100 g",
+        "Lime juice: 1 tbsp",
+        "Salt and frying oil: to taste"
+      ],
+      "steps_en": [
+        "Pulse the soaked uncooked chickpeas with onion, garlic, cilantro, parsley, cumin, and salt until coarsely ground.",
+        "Shape the mixture into bite-sized flat patties and chill for 15 minutes to firm up.",
+        "Mix the Greek yogurt with lime juice, a little grated garlic, and salt to make the dipping sauce.",
+        "Fry the falafel in hot oil over medium heat for 4 minutes until crisp and browned outside, then serve with the yogurt sauce."
       ]
     },
     {
@@ -7844,6 +10173,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_27.webp"
+      ],
+      "name_en": "Shredded Chicken & Avocado Sandwich",
+      "desc_en": "Squeeze lime juice into the mashed avocado immediately to keep it from darkening.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Boiled shredded chicken breast: 100 g",
+        "Coarsely mashed ripe avocado: 0.5 fruit",
+        "Lime juice: 1 tsp",
+        "Greek yogurt or mayonnaise: 1.5 tbsp",
+        "Salt and black pepper: 0.5 tsp",
+        "Thinly sliced tomato: 2 slices",
+        "Green oak lettuce: 2 leaves"
+      ],
+      "steps_en": [
+        "Mash the avocado together with lime juice, salt, black pepper, and Greek yogurt until well blended.",
+        "Fold the shredded chicken into the avocado mixture until evenly coated.",
+        "Toast the whole wheat bread lightly, then layer with green oak lettuce, tomato, and the chicken avocado filling.",
+        "Top with the second slice of bread and cut diagonally in half to serve."
       ]
     },
     {
@@ -7877,6 +10224,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_28.webp"
+      ],
+      "name_en": "Crispy Pan-Toasted Ham & Cheese Sandwich",
+      "desc_en": "Cooking over low heat with a lid traps warmth so the cheese melts gooey before the bread exterior burns.",
+      "ingredients_en": [
+        "Thick-sliced bread: 2 slices",
+        "Sliced pork ham: 2 slices",
+        "Cheddar and mozzarella cheese: 40 g",
+        "Softened salted butter: 1.5 tbsp",
+        "Mayonnaise: 1 tbsp",
+        "Mustard or ketchup: 1 tsp",
+        "Dried oregano: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Spread mayonnaise and mustard on the inside of the bread slices, layer with ham and cheese, and sprinkle with oregano.",
+        "Close the sandwich and spread softened salted butter evenly over both outer sides of the bread.",
+        "Toast in a skillet over low heat, covered for 2 minutes, until the cheese melts and the bottom turns golden crisp.",
+        "Flip and toast the other side until crisp, then slice in half and serve hot."
       ]
     },
     {
@@ -7910,6 +10274,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_29.webp"
+      ],
+      "name_en": "Crab Stick, Ebiko & Seaweed Sandwich",
+      "desc_en": "Pat the diced cucumber dry before mixing so the crab stick filling stays creamy instead of watery.",
+      "ingredients_en": [
+        "Sandwich bread: 2 slices",
+        "Shredded imitation crab sticks: 80 g",
+        "Ebiko (shrimp roe): 2 tbsp",
+        "Japanese mayonnaise: 2.5 tbsp",
+        "Shredded seasoned seaweed: 10 g",
+        "Finely diced Japanese cucumber: 30 g",
+        "Wasabi: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Stir the mayonnaise and wasabi together until smooth, then fold in the shredded crab sticks and cucumber.",
+        "Gently mix in the ebiko, reserving a small amount for garnish.",
+        "Spread the crab stick and ebiko filling evenly over one slice of bread and sprinkle shredded seaweed on top.",
+        "Top with the second slice, press gently, and cut in half to serve."
       ]
     },
     {
@@ -7944,6 +10325,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_30.webp"
+      ],
+      "name_en": "Cheesy Baked Spinach Whole Wheat Sandwich",
+      "desc_en": "Squeeze as much water as possible out of the blanched spinach so the filling stays rich and the toast stays crisp.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Blanched spinach, squeezed dry and roughly chopped: 100 g",
+        "Chopped onion: 2 tbsp",
+        "Minced garlic: 1 tsp",
+        "Cooking cream or fresh milk: 3 tbsp",
+        "Shredded mozzarella cheese: 40 g",
+        "Salted butter: 1 tbsp",
+        "Ground black pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Saute the onion and garlic in half of the butter until fragrant, then add the spinach and stir to combine.",
+        "Pour in the cooking cream, half of the mozzarella, and black pepper, cooking until the sauce thickens and coats the spinach.",
+        "Spoon the spinach filling onto a slice of bread, top with the remaining cheese, and close with the second slice.",
+        "Spread the remaining butter on the outside of the bread and toast in a skillet over low heat until crisp and melty."
       ]
     },
     {
@@ -7977,6 +10376,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_31.webp"
+      ],
+      "name_en": "Spring Water Tuna & Green Apple Salad",
+      "desc_en": "Swap oil-packed tuna and mayonnaise for spring-water tuna and Greek yogurt to cut calories by more than half.",
+      "ingredients_en": [
+        "Canned tuna in spring water, drained: 1 can (about 100 g)",
+        "Diced green apple: 0.5 apple",
+        "Plain Greek yogurt: 2 tbsp",
+        "Green oak lettuce: 60 g",
+        "Finely chopped celery: 1 tbsp",
+        "Fresh lime juice: 1 tsp",
+        "Ground white pepper: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Combine the drained tuna, Greek yogurt, lime juice, celery, and white pepper in a bowl.",
+        "Gently fold in the diced green apple until evenly distributed.",
+        "Arrange the washed and drained green oak lettuce on a serving plate.",
+        "Spoon the tuna and green apple mixture over the lettuce and serve immediately."
       ]
     },
     {
@@ -8011,6 +10427,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_32.webp"
+      ],
+      "name_en": "Lemon Grilled Shrimp & Quinoa Salad",
+      "desc_en": "Rinsing quinoa thoroughly through a fine mesh strainer several times before cooking helps remove its natural bitterness.",
+      "ingredients_en": [
+        "Peeled and deveined shrimp: 6 pieces",
+        "Cooked quinoa: 80 g",
+        "Diced Japanese cucumber: 50 g",
+        "Diced red bell pepper: 30 g",
+        "Arugula: 40 g",
+        "Fresh lemon juice: 1.5 tbsp",
+        "Extra-virgin olive oil: 1 tsp",
+        "Salt and dried oregano: a pinch"
+      ],
+      "steps_en": [
+        "Toss the shrimp with salt, oregano, and half of the olive oil, then pan-grill until cooked through.",
+        "Combine the cooked quinoa, cucumber, red bell pepper, and arugula in a mixing bowl.",
+        "Whisk together the lemon juice, remaining olive oil, and a pinch of salt for the dressing.",
+        "Pour the dressing over the quinoa salad, toss well, and top with the grilled shrimp."
       ]
     },
     {
@@ -8044,6 +10478,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_33.webp"
+      ],
+      "name_en": "Smoked Salmon & Arugula Salad with Balsamic Dressing",
+      "desc_en": "Smoked salmon and capers are naturally salty, so no extra salt is needed in the dressing.",
+      "ingredients_en": [
+        "Smoked salmon: 80 g",
+        "Arugula: 60 g",
+        "Sunkist orange segments: 0.5 orange",
+        "Capers: 1 tsp",
+        "Balsamic vinegar: 1 tbsp",
+        "Pure honey: 0.5 tsp",
+        "Cracked black pepper: a pinch"
+      ],
+      "steps_en": [
+        "Arrange the washed and well-drained arugula onto a flat serving plate.",
+        "Roll the smoked salmon into bite-sized pieces and alternate them with the orange segments and capers.",
+        "Stir together the balsamic vinegar, honey, and cracked black pepper until emulsified.",
+        "Drizzle the dressing around the plate and serve immediately."
       ]
     },
     {
@@ -8076,6 +10527,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_34.webp"
+      ],
+      "name_en": "Mixed Berry Chia Overnight Oats",
+      "desc_en": "Using rolled oats instead of quick oats keeps the texture delightfully chewy rather than mushy after soaking overnight.",
+      "ingredients_en": [
+        "Rolled oats: 40 g",
+        "Chia seeds: 1 tbsp",
+        "Unsweetened almond milk: 150 ml",
+        "Plain Greek yogurt: 2 tbsp",
+        "Fresh blueberries and raspberries: 60 g",
+        "Ground cinnamon: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Place the rolled oats, chia seeds, almond milk, Greek yogurt, and ground cinnamon into a glass jar.",
+        "Stir thoroughly until all ingredients are combined and the chia seeds do not clump.",
+        "Seal the jar and refrigerate overnight for at least 6 hours.",
+        "Top with fresh mixed berries right before serving."
       ]
     },
     {
@@ -8108,6 +10575,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_35.webp"
+      ],
+      "name_en": "Buttermilk Pancakes with Honey & Sliced Banana",
+      "desc_en": "Cooking over low heat in an ungreased nonstick pan gives pancakes a smooth, evenly golden-brown surface.",
+      "ingredients_en": [
+        "Pancake mix or all-purpose flour: 1.5 cups",
+        "Fresh egg: 1 egg",
+        "Whole milk: 1 cup",
+        "Melted unsalted butter: 2 tbsp",
+        "Sliced ripe banana: 1 banana",
+        "Pure honey and butter pats: for serving"
+      ],
+      "steps_en": [
+        "Whisk the flour, egg, milk, and melted butter until smooth, then let the batter rest for 5 minutes.",
+        "Heat a nonstick skillet over low heat and ladle the batter into neat circles.",
+        "Cook until bubbles form across the surface, then flip and cook for 1 more minute until golden brown.",
+        "Stack the pancakes, top with banana slices and a pat of butter, and drizzle generously with honey."
       ]
     },
     {
@@ -8141,6 +10624,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_36.webp"
+      ],
+      "name_en": "Butter Banana Cake",
+      "desc_en": "Choose ripe bananas with speckled brown skins for deeper natural sweetness and aroma.",
+      "ingredients_en": [
+        "Mashed ripe banana: 200 g",
+        "Cake flour: 150 g",
+        "Melted butter: 100 g",
+        "Brown sugar: 80 g",
+        "Eggs: 2 eggs",
+        "Baking powder: 1 tsp",
+        "Baking soda: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Beat the eggs and brown sugar together until pale and fluffy.",
+        "Sift in the cake flour, baking powder, and baking soda, then gently fold to combine.",
+        "Add the mashed banana and melted butter and stir until the batter is smooth and uniform.",
+        "Pour into a prepared pan and bake at 180°C for 25-30 minutes until golden and fragrant."
       ]
     },
     {
@@ -8175,6 +10675,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_37.webp"
+      ],
+      "name_en": "Soft-Fudge Chocolate Cake",
+      "desc_en": "Keep the heat low and stir constantly while cooking the chocolate fudge topping so it stays glossy and never scorches.",
+      "ingredients_en": [
+        "Cake flour: 80 g",
+        "Cocoa powder: 30 g",
+        "Eggs: 3 eggs",
+        "Granulated sugar: 100 g",
+        "Vegetable oil: 60 ml",
+        "Whole milk: 250 ml",
+        "Agar powder: 1 tsp",
+        "Cornstarch: 2 tbsp"
+      ],
+      "steps_en": [
+        "Whisk together the cake flour, cocoa powder, egg yolks, part of the sugar, vegetable oil, and 50 ml of milk until smooth.",
+        "Whip the egg whites with the remaining sugar to soft peaks, fold into the yolk batter, and bake at 170°C for 25 minutes.",
+        "For the fudge topping, whisk the remaining milk, cocoa powder, agar powder, sugar, and cornstarch, then stir over low heat until thick and glossy.",
+        "Pour the warm chocolate fudge sauce over the cake and let it set before slicing."
       ]
     },
     {
@@ -8208,6 +10726,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_38.webp"
+      ],
+      "name_en": "Crinkle-Top Dark Chocolate Brownies",
+      "desc_en": "Whisking caster sugar into the eggs until completely dissolved is the secret to achieving a shiny, crackly brownie top.",
+      "ingredients_en": [
+        "70% dark chocolate: 150 g",
+        "Unsalted butter: 100 g",
+        "Eggs: 2 eggs",
+        "Caster sugar: 120 g",
+        "All-purpose flour: 65 g",
+        "Cocoa powder: 20 g",
+        "Salt: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Melt the dark chocolate and unsalted butter together over a double boiler until smooth, then let cool until warm.",
+        "Beat the eggs and caster sugar together until the sugar dissolves completely and the mixture turns pale.",
+        "Pour in the warm chocolate mixture, then fold in the flour, cocoa powder, and salt until just combined.",
+        "Spread into an 8x8-inch baking pan, bake at 175°C for 20-25 minutes, and cool completely before slicing."
       ]
     },
     {
@@ -8240,6 +10775,22 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_39.webp"
+      ],
+      "name_en": "Danish-Style Butter Cookies",
+      "desc_en": "Using high-butterfat pure butter gives these cookies their signature rich aroma and melt-in-your-mouth crumb.",
+      "ingredients_en": [
+        "Room-temperature unsalted butter: 150 g",
+        "Powdered sugar: 75 g",
+        "Egg: 1 egg",
+        "Vanilla extract: 1 tsp",
+        "Cake flour: 200 g",
+        "Salt: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Cream the butter and powdered sugar together until light, fluffy, and pale.",
+        "Add the egg and vanilla extract and beat until fully incorporated.",
+        "Sift in the cake flour and salt, then fold gently until no dry flour remains.",
+        "Transfer to a piping bag fitted with a star tip, pipe onto a baking tray, and bake at 170°C for 15 minutes until crisp and golden."
       ]
     },
     {
@@ -8273,6 +10824,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_40.webp"
+      ],
+      "name_en": "Crispy Oatmeal Raisin Cookies",
+      "desc_en": "Soaking the raisins in warm water for 5 minutes and patting them dry beforehand keeps them plump and juicy after baking.",
+      "ingredients_en": [
+        "Rolled oats: 120 g",
+        "All-purpose flour: 100 g",
+        "Softened unsalted butter: 100 g",
+        "Brown sugar: 80 g",
+        "Egg: 1 egg",
+        "Black raisins: 70 g",
+        "Ground cinnamon: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Cream the butter and brown sugar until smooth, then beat in the egg until combined.",
+        "Mix in the flour and ground cinnamon until just blended.",
+        "Fold in the rolled oats and raisins until evenly distributed throughout the dough.",
+        "Scoop onto a baking sheet, flatten slightly, and bake at 175°C for 15 minutes."
       ]
     },
     {
@@ -8306,6 +10874,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_41.webp"
+      ],
+      "name_en": "Homemade Cinnamon Apple Pie",
+      "desc_en": "Cool the apple filling completely before wrapping it in pastry so the butter in the crust does not melt and lose its flakiness.",
+      "ingredients_en": [
+        "Store-bought pie crust sheets: 2 sheets",
+        "Peeled and diced green apples: 3 apples",
+        "Brown sugar: 60 g",
+        "Butter: 25 g",
+        "Ground cinnamon: 1 tsp",
+        "Cornstarch: 1 tbsp",
+        "Beaten egg for wash: 1 egg"
+      ],
+      "steps_en": [
+        "Cook the apples with butter, brown sugar, and cinnamon until tender.",
+        "Stir in a slurry of cornstarch and a splash of water until thickened and glossy, then cool completely.",
+        "Line a pie pan with the first crust sheet, spoon in the cooled apple filling, and top with the second crust scored with vents.",
+        "Brush with beaten egg and bake at 190°C for 25-30 minutes until crisp and golden brown."
       ]
     },
     {
@@ -8339,6 +10924,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_42.webp"
+      ],
+      "name_en": "Honey Butter French Toast with Mixed Berries",
+      "desc_en": "Day-old brioche or thick-cut bread absorbs the egg custard cleanly without falling apart.",
+      "ingredients_en": [
+        "Thick-sliced bread: 2 slices",
+        "Eggs: 2 eggs",
+        "Whole milk: 80 ml",
+        "Vanilla extract: 0.5 tsp",
+        "Butter for pan-frying: 20 g",
+        "Honey or maple syrup: 2 tbsp",
+        "Mixed berries: 60 g"
+      ],
+      "steps_en": [
+        "Whisk the eggs, milk, and vanilla extract together in a shallow dish.",
+        "Soak both sides of the bread slices in the egg mixture until well absorbed.",
+        "Melt the butter in a skillet over low heat and pan-fry the bread for 2-3 minutes per side until golden and fragrant.",
+        "Plate with mixed berries and drizzle with honey to serve immediately."
       ]
     },
     {
@@ -8372,6 +10974,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_43.webp"
+      ],
+      "name_en": "Crispy-Outside Soft-Inside Belgian Waffles",
+      "desc_en": "Rest freshly cooked waffles on a wire rack for 1 minute so steam escapes and the exterior stays crisp longer.",
+      "ingredients_en": [
+        "All-purpose flour: 160 g",
+        "Eggs: 2 eggs",
+        "Whole milk: 200 ml",
+        "Melted butter: 60 g",
+        "Granulated sugar: 30 g",
+        "Baking powder: 2 tsp",
+        "Vanilla extract: 1 tsp"
+      ],
+      "steps_en": [
+        "Sift the flour, baking powder, and sugar together into a mixing bowl.",
+        "Whisk the eggs, milk, melted butter, and vanilla extract together, then pour into the dry ingredients.",
+        "Stir just until combined without overmixing so the batter stays light.",
+        "Preheat a waffle iron, brush lightly with butter, and cook portions for 3-4 minutes until golden and crisp."
       ]
     },
     {
@@ -8406,6 +11025,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "desserts_drinks",
       "images": [
         "images/packs/us/us_mig_44.webp"
+      ],
+      "name_en": "Vanilla-Glazed Sugar Donuts",
+      "desc_en": "Maintain medium-low frying oil temperature so the donuts cook through and puff up evenly without burning the outside.",
+      "ingredients_en": [
+        "Bread flour: 250 g",
+        "Instant dry yeast: 1.5 tsp",
+        "Warm whole milk: 120 ml",
+        "Egg: 1 egg",
+        "Softened unsalted butter: 35 g",
+        "Granulated sugar: 30 g",
+        "Powdered sugar for glaze: 100 g",
+        "Whole milk for glaze: 2 tbsp"
+      ],
+      "steps_en": [
+        "Knead the bread flour, yeast, sugar, warm milk, and egg together, then add the butter and knead until smooth.",
+        "Cover and let rise for 45 minutes until doubled, roll out and cut into rings, then proof for another 20 minutes.",
+        "Fry over medium-low heat until golden brown on both sides, then drain thoroughly on paper towels.",
+        "Whisk the powdered sugar with 2 tbsp milk until smooth and dip the warm donuts to glaze."
       ]
     },
     {
@@ -8445,6 +11082,26 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_45.webp"
+      ],
+      "name_en": "Cream of Chicken & Mushroom Soup",
+      "desc_en": "Serves 1 (calories are approximate); stir while simmering to prevent scorching on the bottom, making it ideal for older adults.",
+      "ingredients_en": [
+        "Diced chicken breast: 100 g",
+        "Sliced button mushrooms: 100 g",
+        "Chopped onion: 30 g",
+        "Unsalted butter: 8 g",
+        "All-purpose flour: 8 g",
+        "Whole milk: 150 ml",
+        "Chicken stock: 180 ml",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Heat a pot over medium heat, add the butter and chopped onion, and saute until translucent.",
+        "Add the mushrooms and cook until tender, then add the chicken and saute until the surface turns opaque.",
+        "Sprinkle in the flour and stir for about 1 minute to coat the mixture.",
+        "Gradually pour in the chicken stock and milk while stirring constantly so no lumps form.",
+        "Simmer over low heat for 10-12 minutes until the chicken is cooked through and the soup thickens, then season with salt and pepper."
       ]
     },
     {
@@ -8482,6 +11139,27 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_46.webp"
+      ],
+      "name_en": "Individual Chicken Pot Pie",
+      "desc_en": "Serves 1 (calories are approximate); handle the hot filling carefully after baking and ensure the pastry crust is cooked through.",
+      "ingredients_en": [
+        "Diced chicken breast: 100 g",
+        "Diced carrots: 30 g",
+        "Green peas: 30 g",
+        "Chopped onion: 25 g",
+        "Unsalted butter: 8 g",
+        "All-purpose flour: 10 g",
+        "Whole milk: 80 ml",
+        "Chicken stock: 60 ml",
+        "Store-bought pie pastry: 60 g",
+        "Beaten egg: 1 tsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 190°C; saute the onion in butter in a skillet over medium heat until translucent.",
+        "Add the chicken, carrots, and green peas, cooking until the chicken begins to firm up.",
+        "Sprinkle in the flour and stir to combine, then pour in the milk and stock and simmer until thick and the chicken is cooked through.",
+        "Transfer the filling to a small baking dish, drape the pastry over the top, and cut small vents for steam.",
+        "Brush lightly with beaten egg, bake for 20-25 minutes until golden brown, and cool slightly before serving."
       ]
     },
     {
@@ -8519,6 +11197,27 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_47.webp"
+      ],
+      "name_en": "Pork Steak with Mushroom Cream Sauce",
+      "desc_en": "Serves 1 (calories are approximate); stir the sauce continuously as you add milk to keep the texture smooth.",
+      "ingredients_en": [
+        "Thick-cut pork loin: 160 g",
+        "Sliced button mushrooms: 80 g",
+        "Chopped onion: 20 g",
+        "Whole milk: 80 ml",
+        "Chicken stock: 60 ml",
+        "All-purpose flour: 5 g",
+        "Olive oil: 1 tsp",
+        "Unsalted butter: 5 g",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Season the pork with salt and pepper, heat the olive oil in a skillet over medium heat, and sear for about 4-5 minutes per side.",
+        "Check that the internal temperature reaches 63°C, then transfer to rest for at least 3 minutes.",
+        "In the same skillet, melt the butter and saute the onion until translucent, then add the mushrooms until tender.",
+        "Sprinkle in the flour, stir to coat, and gradually pour in the chicken stock and milk.",
+        "Simmer until thickened, adjust seasoning to taste, and spoon over the pork."
       ]
     },
     {
@@ -8553,6 +11252,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_48.webp"
+      ],
+      "name_en": "Cheese & Mushroom Omelette",
+      "desc_en": "Serves 1 (calories are approximate); cook the eggs completely through if serving anyone at higher risk of foodborne illness.",
+      "ingredients_en": [
+        "Eggs: 2 eggs",
+        "Sliced button mushrooms: 60 g",
+        "Shredded cheddar cheese: 20 g",
+        "Whole milk: 1 tbsp",
+        "Unsalted butter: 5 g",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Heat a nonstick skillet over medium heat, melt the butter, saute the mushrooms until tender and dry, and set aside.",
+        "Whisk the eggs with milk, salt, and black pepper until smooth.",
+        "Reduce to medium-low heat, pour in the eggs, and swirl the pan to coat the bottom evenly.",
+        "When the edges begin to set, scatter the mushrooms and cheese over one half of the omelette.",
+        "Fold the omelette in half, cook until done to your liking, and slide onto a plate."
       ]
     },
     {
@@ -8590,6 +11307,27 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_49.webp"
+      ],
+      "name_en": "Grilled Vegetable Salad with Feta Cheese",
+      "desc_en": "Serves 1 (calories are approximate); check the feta label if managing dairy restrictions.",
+      "ingredients_en": [
+        "Sliced zucchini: 70 g",
+        "Cut red bell pepper: 60 g",
+        "Cherry tomatoes: 60 g",
+        "Mixed salad greens: 50 g",
+        "Diced feta cheese: 25 g",
+        "Olive oil: 2 tsp",
+        "Lemon juice: 1 tsp",
+        "Dijon mustard: 0.5 tsp",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Toss the zucchini, bell pepper, and cherry tomatoes with olive oil, salt, and black pepper.",
+        "Grill on a grill pan over medium heat for about 3-5 minutes per side until tender with nice char marks.",
+        "Whisk the lemon juice and Dijon mustard together for the dressing.",
+        "Arrange the mixed salad greens on a plate and top with the grilled vegetables.",
+        "Scatter the feta cheese over the salad and drizzle with dressing before serving."
       ]
     },
     {
@@ -8626,6 +11364,26 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_50.webp"
+      ],
+      "name_en": "Pork Burger with Apple Yogurt Slaw",
+      "desc_en": "Serves 1 (calories are approximate); squeeze excess moisture from the grated apple if it is very juicy before mixing the slaw.",
+      "ingredients_en": [
+        "Lean ground pork: 140 g",
+        "Burger bun: 1 bun",
+        "Grated apple: 40 g",
+        "Shredded cabbage: 40 g",
+        "Plain yogurt: 20 g",
+        "Mustard: 0.5 tsp",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp",
+        "Rice bran oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Mix the ground pork with salt and pepper and shape into a patty matching the bun size.",
+        "Toss the grated apple, cabbage, yogurt, and mustard together for the slaw and chill in the fridge.",
+        "Heat rice bran oil in a skillet over medium heat and sear the pork patty for about 5-6 minutes per side.",
+        "Verify the internal temperature reaches 71°C, then remove to rest.",
+        "Split and toast the bun cut-side down in the skillet, assemble with the pork patty and slaw, and serve."
       ]
     },
     {
@@ -8660,6 +11418,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_51.webp"
+      ],
+      "name_en": "Pork Steak with Balsamic Honey Glaze",
+      "desc_en": "Serves 1 (calories are approximate); watch closely so the honey-sweetened glaze does not scorch over high heat.",
+      "ingredients_en": [
+        "Thick-cut pork loin: 160 g",
+        "Balsamic vinegar: 1 tbsp",
+        "Honey: 1 tsp",
+        "Chicken stock: 50 ml",
+        "Olive oil: 1 tsp",
+        "Salt: 0.125 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Pat the pork dry and season with salt and black pepper.",
+        "Heat the olive oil in a skillet over medium heat and sear the pork for about 4-5 minutes per side depending on thickness.",
+        "Ensure the internal temperature reaches 63°C, then transfer to rest for at least 3 minutes.",
+        "Pour the chicken stock, balsamic vinegar, and honey into the pan and simmer over low heat until slightly thickened.",
+        "Spoon the balsamic glaze over the pork and serve."
       ]
     },
     {
@@ -8699,6 +11475,26 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_52.webp"
+      ],
+      "name_en": "Creamy Salmon & Potato Chowder",
+      "desc_en": "Serves 1 (calories are approximate); stir gently after adding the salmon so the pieces stay intact, making it easy to enjoy for older adults.",
+      "ingredients_en": [
+        "Diced salmon fillet: 120 g",
+        "Diced potato: 100 g",
+        "Chopped onion: 25 g",
+        "Whole milk: 120 ml",
+        "Vegetable stock: 180 ml",
+        "Unsalted butter: 5 g",
+        "All-purpose flour: 5 g",
+        "Dried dill: 0.25 tsp",
+        "Ground black pepper: 0.125 tsp"
+      ],
+      "steps_en": [
+        "Heat a pot over medium heat, melt the butter, and saute the chopped onion until translucent.",
+        "Sprinkle in the flour, stir to combine, and gradually whisk in the vegetable stock.",
+        "Add the diced potato and dried dill, then simmer gently for 12-15 minutes until the potato is tender.",
+        "Pour in the milk, add the salmon, reduce to low heat, and simmer gently until the fish is opaque and cooked through.",
+        "Season with black pepper and serve hot."
       ]
     },
     {
@@ -8735,6 +11531,26 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_53.webp"
+      ],
+      "name_en": "Hard-Boiled Egg Niçoise Salad",
+      "desc_en": "Serves 1 (calories are approximate); choose lower-sodium black olives if monitoring salt intake.",
+      "ingredients_en": [
+        "Egg: 1 egg",
+        "Boiled diced potato: 100 g",
+        "Green beans: 60 g",
+        "Tomatoes: 80 g",
+        "Salad greens: 40 g",
+        "Black olives: 15 g",
+        "Olive oil: 2 tsp",
+        "Red wine vinegar: 1 tsp",
+        "Dijon mustard: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Simmer the egg in gently boiling water for 10 minutes, plunge into cold water, and peel.",
+        "Blanch the green beans in boiling water for 2-3 minutes, chill in cold water, and drain well.",
+        "Whisk the olive oil, red wine vinegar, and Dijon mustard together for the vinaigrette.",
+        "Arrange the salad greens, potatoes, green beans, tomatoes, and black olives on a plate.",
+        "Halve the hard-boiled egg, place on top, and drizzle with dressing before serving."
       ]
     },
     {
@@ -8770,6 +11586,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_54.webp"
+      ],
+      "name_en": "Croque Madame Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); cook the fried egg to the doneness appropriate for the diner.",
+      "ingredients_en": [
+        "Sliced bread: 2 slices",
+        "Egg: 1 egg",
+        "Pork ham: 35 g",
+        "Shredded Gruyère cheese: 25 g",
+        "Unsalted butter: 5 g",
+        "Whole milk: 30 ml",
+        "All-purpose flour: 3 g",
+        "Mustard: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Melt the butter in a small saucepan over low heat, stir in the flour, and gradually whisk in the milk until thickened into a white sauce.",
+        "Spread mustard on one slice of bread, layer with ham and half the cheese, and top with the second slice.",
+        "Spread a thin layer of white sauce over the top and sprinkle with the remaining cheese.",
+        "Bake or broil at 200°C for 5-7 minutes until the cheese melts and turns golden brown.",
+        "Fry the egg in a skillet until the white is set, then place it on top of the sandwich to serve."
       ]
     },
     {
@@ -8805,6 +11640,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_55.webp"
+      ],
+      "name_en": "Spinach & Ricotta Tart",
+      "desc_en": "Serves 1 (calories are approximate); handle the hot baking dish carefully and let the tart rest before slicing so the filling holds its shape.",
+      "ingredients_en": [
+        "Store-bought pie pastry: 70 g",
+        "Spinach: 100 g",
+        "Ricotta cheese: 50 g",
+        "Egg: 1 egg",
+        "Crumbled feta cheese: 15 g",
+        "Chopped onion: 20 g",
+        "Olive oil: 1 tsp",
+        "Ground nutmeg: 1 pinch"
+      ],
+      "steps_en": [
+        "Preheat the oven to 190°C, press the pastry into a small baking dish, and prick the base with a fork.",
+        "Saute the onion in olive oil over medium heat until translucent, add the spinach until wilted, and let cool.",
+        "Mix the cooled spinach with ricotta, egg, feta, and ground nutmeg.",
+        "Pour the filling into the pastry shell and smooth the top.",
+        "Bake for 25-30 minutes until the filling is set and the crust is golden, then rest briefly before slicing."
       ]
     },
     {
@@ -8839,6 +11693,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_56.webp"
+      ],
+      "name_en": "Beetroot & Goat Cheese Salad",
+      "desc_en": "Serves 1 (calories are approximate); contains walnuts and dairy, so check for allergies before serving.",
+      "ingredients_en": [
+        "Diced cooked beetroot: 120 g",
+        "Arugula: 40 g",
+        "Goat cheese: 25 g",
+        "Chopped walnuts: 8 g",
+        "Olive oil: 2 tsp",
+        "Balsamic vinegar: 1 tsp",
+        "Dijon mustard: 0.25 tsp"
+      ],
+      "steps_en": [
+        "Whisk the olive oil, balsamic vinegar, and Dijon mustard together to make the dressing.",
+        "Wash the arugula and drain it thoroughly.",
+        "Arrange the arugula and diced beetroot on a plate.",
+        "Crumble the goat cheese and scatter the chopped walnuts over the top.",
+        "Drizzle with the balsamic dressing right before serving."
       ]
     },
     {
@@ -8874,6 +11746,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_57.webp"
+      ],
+      "name_en": "Roasted Vegetable & Barley Salad",
+      "desc_en": "Serves 1 (calories are approximate); note that barley contains gluten.",
+      "ingredients_en": [
+        "Dry pearl barley: 55 g",
+        "Diced zucchini: 50 g",
+        "Diced yellow bell pepper: 50 g",
+        "Halved cherry tomatoes: 50 g",
+        "Olive oil: 2 tsp",
+        "Lemon juice: 1 tsp",
+        "Chopped parsley: 4 g",
+        "Salt: 1 pinch"
+      ],
+      "steps_en": [
+        "Boil the barley according to package directions until tender, then drain.",
+        "Toss the zucchini, bell pepper, and cherry tomatoes with olive oil and salt.",
+        "Sear the vegetables in a skillet over medium heat for 4-6 minutes until tender and lightly charred.",
+        "Combine the cooked barley with the charred vegetables, lemon juice, and chopped parsley.",
+        "Toss well and serve warm or chilled."
       ]
     },
     {
@@ -8909,6 +11800,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "soups_curries",
       "images": [
         "images/packs/us/us_mig_58.webp"
+      ],
+      "name_en": "Roasted Pumpkin & Coconut Curry Soup",
+      "desc_en": "Serves 1 (calories are approximate); use caution when blending hot liquids.",
+      "ingredients_en": [
+        "Peeled and diced pumpkin: 220 g",
+        "Sliced onion wedges: 30 g",
+        "Vegetable stock: 180 ml",
+        "Coconut milk: 50 ml",
+        "Olive oil: 1 tsp",
+        "Curry powder: 0.25 tsp",
+        "Salt: 1 pinch",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Preheat the oven to 200°C, toss the pumpkin with olive oil and salt, and roast for 20-25 minutes until tender.",
+        "Heat a pot over medium heat and saute the onion with curry powder until fragrant.",
+        "Add the roasted pumpkin and vegetable stock, then simmer gently for 5 minutes.",
+        "Remove from heat, blend until velvety smooth, and stir in the coconut milk.",
+        "Warm gently over low heat, season with black pepper, and serve."
       ]
     },
     {
@@ -8944,6 +11854,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_59.webp"
+      ],
+      "name_en": "Cucumber & Feta Quinoa Salad",
+      "desc_en": "Serves 1 (calories are approximate); if prepping ahead, refrigerate separately and toss with dressing just before eating.",
+      "ingredients_en": [
+        "Dry quinoa: 50 g",
+        "Diced cucumber: 50 g",
+        "Diced tomato: 50 g",
+        "Diced feta cheese: 20 g",
+        "Chopped parsley: 5 g",
+        "Olive oil: 2 tsp",
+        "Lemon juice: 1 tsp",
+        "Water for boiling: 100 ml"
+      ],
+      "steps_en": [
+        "Rinse the quinoa well, bring to a boil with water, then cover and simmer over low heat for 12-15 minutes until tender.",
+        "Remove from heat, let stand covered for 5 minutes, fluff with a fork, and allow to cool.",
+        "Whisk the olive oil and lemon juice together for the dressing.",
+        "Combine the quinoa, cucumber, tomato, and parsley in a bowl and toss with the dressing.",
+        "Top with diced feta cheese and serve."
       ]
     },
     {
@@ -8979,6 +11908,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_60.webp"
+      ],
+      "name_en": "Tomato & Sweet Basil Omelette",
+      "desc_en": "Serves 1 (calories are approximate); cook the eggs completely through for anyone who should avoid runny eggs.",
+      "ingredients_en": [
+        "Eggs: 2 eggs",
+        "Halved cherry tomatoes: 60 g",
+        "Chopped sweet basil leaves: 5 g",
+        "Shredded mozzarella cheese: 20 g",
+        "Whole milk: 1 tbsp",
+        "Olive oil: 1 tsp",
+        "Salt: 1 pinch",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Whisk the eggs with milk, salt, and black pepper until blended.",
+        "Heat olive oil in a nonstick skillet over medium heat and saute the cherry tomatoes for about 1 minute.",
+        "Pour in the eggs, lower to medium-low heat, and tilt the pan so the eggs spread evenly.",
+        "When the edges start to set, sprinkle with mozzarella and basil, then fold the omelette in half.",
+        "Cook until set to your desired doneness and serve."
       ]
     },
     {
@@ -9015,6 +11963,26 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "stirfry_grill",
       "images": [
         "images/packs/us/us_mig_61.webp"
+      ],
+      "name_en": "Individual Pork Shepherd's Pie",
+      "desc_en": "Serves 1 (calories are approximate); handle the hot baking dish carefully and let rest briefly before eating.",
+      "ingredients_en": [
+        "Lean ground pork: 120 g",
+        "Peeled and diced potato: 180 g",
+        "Diced carrots: 30 g",
+        "Green peas: 25 g",
+        "Chopped onion: 20 g",
+        "Whole milk: 30 ml",
+        "Unsalted butter: 5 g",
+        "Chicken stock: 60 ml",
+        "All-purpose flour: 5 g"
+      ],
+      "steps_en": [
+        "Boil the potatoes for about 15 minutes until fork-tender, drain, and mash smoothly with milk and butter.",
+        "Preheat the oven to 190°C; brown the ground pork and onion in a skillet over medium heat until cooked through.",
+        "Stir in the carrots and green peas, sprinkle with flour, and mix evenly.",
+        "Pour in the chicken stock, simmer until slightly thickened, and transfer to a small baking dish.",
+        "Spread the mashed potatoes over the top and bake for 20-25 minutes until golden and bubbling hot."
       ]
     },
     {
@@ -9050,6 +12018,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "healthy_salad",
       "images": [
         "images/packs/us/us_mig_62.webp"
+      ],
+      "name_en": "Citrus Shrimp & Avocado Salad",
+      "desc_en": "Serves 1 (calories are approximate); toss the avocado gently so the cubes hold their shape.",
+      "ingredients_en": [
+        "Peeled and deveined shrimp: 130 g",
+        "Diced avocado: 50 g",
+        "Mixed salad greens: 60 g",
+        "Mandarin orange segments: 50 g",
+        "Olive oil: 1 tsp",
+        "Lemon juice: 1 tsp",
+        "Dijon mustard: 0.25 tsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Poach the shrimp in gently simmering water for 2-3 minutes until cooked through, then drain and cool.",
+        "Whisk together the olive oil, lemon juice, Dijon mustard, and black pepper for the dressing.",
+        "Wash and drain the mixed salad greens thoroughly.",
+        "Arrange the greens, avocado, and mandarin segments on a plate.",
+        "Top with the chilled shrimp and drizzle with dressing before serving."
       ]
     },
     {
@@ -9085,6 +12072,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_63.webp"
+      ],
+      "name_en": "Creamy White Fish Pie with Mashed Potato",
+      "desc_en": "Serves 1 (calories are approximate); check the fish carefully for pin bones and handle the hot dish with care.",
+      "ingredients_en": [
+        "Diced white fish fillet: 150 g",
+        "Peeled and diced potato: 160 g",
+        "Whole milk: 60 ml",
+        "Unsalted butter: 5 g",
+        "Green peas: 25 g",
+        "All-purpose flour: 5 g",
+        "Vegetable stock: 60 ml",
+        "Chopped onion: 15 g"
+      ],
+      "steps_en": [
+        "Boil the potatoes until fork-tender, drain, and mash with milk and butter.",
+        "Preheat the oven to 190°C; simmer the onion in vegetable stock in a saucepan over medium heat until soft.",
+        "Whisk the flour with a splash of water, pour into the pot, and stir until thickened into a smooth sauce.",
+        "Add the fish and green peas, simmer gently until the fish is cooked through, and transfer to a baking dish.",
+        "Top evenly with mashed potatoes and bake for 20 minutes until golden and heated through."
       ]
     },
     {
@@ -9118,6 +12124,23 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_64.webp"
+      ],
+      "name_en": "Cream Cheese & Scallion Scrambled Eggs",
+      "desc_en": "Serves 1 (calories are approximate); cook the eggs completely through for anyone at higher risk of infection.",
+      "ingredients_en": [
+        "Eggs: 2 eggs",
+        "Cream cheese: 15 g",
+        "Whole milk: 1 tbsp",
+        "Sliced scallions: 5 g",
+        "Unsalted butter: 5 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Whisk the eggs and milk together until uniform.",
+        "Melt the butter in a nonstick skillet over low heat.",
+        "Pour in the eggs and gently push from the edges toward the center with a silicone spatula.",
+        "When the eggs begin to curdle while still moist, fold in the cream cheese until melted and distributed.",
+        "Remove from heat once cooked to your liking, scatter with scallions and black pepper, and serve."
       ]
     },
     {
@@ -9153,6 +12176,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_65.webp"
+      ],
+      "name_en": "Chickpea & Veggie Burger",
+      "desc_en": "Serves 1 (calories are approximate); contains egg as a binder, so swap for a plant-based binder if making it vegan.",
+      "ingredients_en": [
+        "Cooked drained chickpeas: 120 g",
+        "Grated carrot: 25 g",
+        "Finely chopped onion: 15 g",
+        "Breadcrumbs: 18 g",
+        "Beaten egg: 1 tbsp",
+        "Ground cumin: 0.125 tsp",
+        "Olive oil: 1 tsp",
+        "Burger bun: 1 bun"
+      ],
+      "steps_en": [
+        "Coarsely mash the chickpeas while leaving some texture intact.",
+        "Mix the chickpeas with grated carrot, onion, breadcrumbs, beaten egg, and cumin.",
+        "Shape into a round patty and chill for 10 minutes to help it hold together.",
+        "Pan-sear in olive oil over medium heat for 4-5 minutes per side until golden and heated through.",
+        "Serve on a burger bun with your favorite toppings or sauces."
       ]
     },
     {
@@ -9190,6 +12232,27 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_66.webp"
+      ],
+      "name_en": "Oven-Baked Crispy Chicken Burger",
+      "desc_en": "Serves 1 (calories are approximate); baking time will vary depending on the thickness of the chicken fillet.",
+      "ingredients_en": [
+        "Sliced chicken breast fillet: 140 g",
+        "Burger bun: 1 bun",
+        "All-purpose flour: 12 g",
+        "Beaten egg: 0.5 egg",
+        "Breadcrumbs: 20 g",
+        "Lettuce: 15 g",
+        "Sliced tomato: 30 g",
+        "Plain yogurt: 20 g",
+        "Mustard: 0.5 tsp",
+        "Olive oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 210°C; dredge the chicken in flour, dip in beaten egg, and coat with breadcrumbs.",
+        "Place on a baking sheet, mist or brush lightly with olive oil, and bake for 18-22 minutes, flipping halfway through.",
+        "Check that the internal temperature of the chicken reaches 74°C.",
+        "Stir the yogurt and mustard together and spread the sauce over the burger bun.",
+        "Layer with lettuce, tomato, and crispy baked chicken, then close and serve."
       ]
     },
     {
@@ -9225,6 +12288,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "quick_easy",
       "images": [
         "images/packs/us/us_mig_67.webp"
+      ],
+      "name_en": "Grilled Chicken Caesar Wrap",
+      "desc_en": "Serves 1 (calories are approximate); roll the wrap while the filling is warm rather than piping hot so the tortilla stays intact.",
+      "ingredients_en": [
+        "Chicken breast strips: 120 g",
+        "Whole wheat tortilla: 1 wrap",
+        "Shredded romaine lettuce: 40 g",
+        "Grated Parmesan cheese: 8 g",
+        "Plain yogurt: 20 g",
+        "Dijon mustard: 0.25 tsp",
+        "Lime juice: 0.5 tsp",
+        "Olive oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Heat olive oil in a skillet over medium heat and saute the chicken strips until cooked through to 74°C.",
+        "Mix the yogurt, Dijon mustard, and lime juice together for the dressing.",
+        "Toss the romaine lettuce with the dressing and grated Parmesan.",
+        "Warm the whole wheat tortilla in a dry skillet for about 20 seconds.",
+        "Arrange the chicken and dressed lettuce on the tortilla, fold in the sides, and roll tightly."
       ]
     },
     {
@@ -9260,6 +12342,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_68.webp"
+      ],
+      "name_en": "Mustard Roast Pork Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); slice the pork thinly so it cooks quickly and evenly.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Thinly sliced pork loin: 120 g",
+        "Mustard: 1 tsp",
+        "Plain yogurt: 15 g",
+        "Lettuce: 15 g",
+        "Sliced tomato: 30 g",
+        "Olive oil: 1 tsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Mix the mustard and yogurt together to make the sauce.",
+        "Heat olive oil in a skillet over medium heat, season the pork with black pepper, and sear until cooked to 63°C.",
+        "Let the pork rest for at least 3 minutes.",
+        "Toast the bread until lightly crisp and spread with the mustard-yogurt sauce.",
+        "Layer with lettuce, tomato, and pork, then top with the second slice to serve."
       ]
     },
     {
@@ -9295,6 +12396,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_69.webp"
+      ],
+      "name_en": "Yogurt Shrimp Salad Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); keep the shrimp salad refrigerated if not eating right away.",
+      "ingredients_en": [
+        "Peeled and deveined shrimp: 120 g",
+        "Whole wheat bread: 2 slices",
+        "Plain yogurt: 25 g",
+        "Finely diced celery: 10 g",
+        "Mustard: 0.5 tsp",
+        "Lettuce: 15 g",
+        "Lime juice: 0.5 tsp",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Poach the shrimp in gently boiling water for 2-3 minutes until cooked through, then drain and cool.",
+        "Chop the shrimp into bite-sized pieces and toss with yogurt, celery, mustard, lime juice, and black pepper.",
+        "Toast the whole wheat bread to your liking.",
+        "Place lettuce on one slice of bread and spoon the shrimp salad on top.",
+        "Top with the second slice, cut in half, and serve."
       ]
     },
     {
@@ -9329,6 +12449,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_70.webp"
+      ],
+      "name_en": "Cheesy Scrambled Egg Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); cook the eggs completely through for anyone who should avoid soft-cooked eggs.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Eggs: 2 eggs",
+        "Cheddar cheese slice: 1 slice",
+        "Whole milk: 1 tbsp",
+        "Unsalted butter: 5 g",
+        "Spinach: 15 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Whisk the eggs, milk, and black pepper together until combined.",
+        "Melt the butter in a skillet over low heat, pour in the eggs, and stir gently until cooked to your liking.",
+        "Fold in the spinach until wilted, remove from heat, and drape the cheddar slice over the eggs.",
+        "Toast the bread lightly until crisp.",
+        "Spoon the cheesy eggs onto the toast, close the sandwich, and serve warm."
       ]
     },
     {
@@ -9363,6 +12501,24 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_71.webp"
+      ],
+      "name_en": "Grilled Veggie & Pesto Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); check the pesto label for nuts or dairy if managing food allergies.",
+      "ingredients_en": [
+        "Whole wheat bread: 2 slices",
+        "Lengthwise-sliced zucchini: 50 g",
+        "Cut red bell pepper: 40 g",
+        "Sliced tomato: 30 g",
+        "Pesto sauce: 12 g",
+        "Mozzarella cheese: 20 g",
+        "Olive oil: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Brush the zucchini and bell pepper lightly with olive oil.",
+        "Grill on a skillet over medium heat for 2-3 minutes per side until tender and charred.",
+        "Toast the bread lightly and spread a thin layer of pesto sauce over the slices.",
+        "Layer the grilled vegetables, tomato slices, and mozzarella onto the bread.",
+        "Close the sandwich and warm in the skillet until the cheese starts to melt."
       ]
     },
     {
@@ -9398,6 +12554,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "quick_easy",
       "images": [
         "images/packs/us/us_mig_72.webp"
+      ],
+      "name_en": "Paprika Chicken & Bell Pepper Wrap",
+      "desc_en": "Serves 1 (calories are approximate); let the filling cool slightly before rolling the wrap.",
+      "ingredients_en": [
+        "Chicken breast strips: 120 g",
+        "Whole wheat tortilla: 1 wrap",
+        "Red bell pepper strips: 40 g",
+        "Onion wedges: 25 g",
+        "Plain yogurt: 20 g",
+        "Lime juice: 0.5 tsp",
+        "Ground paprika: 0.25 tsp",
+        "Olive oil: 1 tsp"
+      ],
+      "steps_en": [
+        "Toss the chicken strips with ground paprika.",
+        "Heat olive oil in a skillet over medium heat and saute the chicken until cooked through to 74°C.",
+        "Add the bell pepper and onion and stir-fry for 2-3 minutes until crisp-tender.",
+        "Mix the yogurt and lime juice together for the sauce.",
+        "Warm the tortilla, top with the chicken and vegetables, drizzle with sauce, and roll tightly."
       ]
     },
     {
@@ -9433,6 +12608,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "snacks_sides",
       "images": [
         "images/packs/us/us_mig_73.webp"
+      ],
+      "name_en": "Baked Shrimp Patty Burger",
+      "desc_en": "Serves 1 (calories are approximate); baking time will vary depending on the thickness of the shrimp patty.",
+      "ingredients_en": [
+        "Coarsely chopped peeled shrimp: 130 g",
+        "Burger bun: 1 bun",
+        "Breadcrumbs: 15 g",
+        "Beaten egg: 1 tbsp",
+        "Lettuce: 15 g",
+        "Sliced tomato: 30 g",
+        "Plain yogurt: 20 g",
+        "Lime juice: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Mix the chopped shrimp with breadcrumbs and beaten egg, then shape into a round patty.",
+        "Preheat the oven to 200°C and place the shrimp patty on a baking sheet.",
+        "Bake for 12-16 minutes until the shrimp is cooked through and the patty holds firm.",
+        "Mix the yogurt and lime juice together for the sauce.",
+        "Spread the sauce on the bun, layer with lettuce, tomato, and the shrimp patty, and serve."
       ]
     },
     {
@@ -9468,6 +12662,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_74.webp"
+      ],
+      "name_en": "Tuna & Hard-Boiled Egg Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); weigh the tuna after draining and refrigerate any leftover filling.",
+      "ingredients_en": [
+        "Canned tuna in spring water, drained: 70 g",
+        "Egg: 1 egg",
+        "Whole wheat bread: 2 slices",
+        "Plain yogurt: 20 g",
+        "Mustard: 0.5 tsp",
+        "Diced cucumber: 20 g",
+        "Lettuce: 15 g",
+        "Ground black pepper: 1 pinch"
+      ],
+      "steps_en": [
+        "Simmer the egg in gently boiling water for 10 minutes, chill in cold water, peel, and dice.",
+        "Combine the drained tuna with yogurt, mustard, cucumber, and black pepper.",
+        "Gently fold in the diced hard-boiled egg until evenly mixed.",
+        "Place lettuce on a slice of bread and spoon the tuna egg salad on top.",
+        "Top with the second slice, cut in half, and serve."
       ]
     },
     {
@@ -9503,6 +12716,25 @@ window.KITCHSYNC_PACK_DATA.us_popular = {
       "universalCategory": "breakfast_bakery",
       "images": [
         "images/packs/us/us_mig_75.webp"
+      ],
+      "name_en": "Oven-Baked Crispy Fish Sandwich",
+      "desc_en": "Serves 1 (calories are approximate); baking time depends on the thickness of the fish fillet.",
+      "ingredients_en": [
+        "Thick white fish fillet: 140 g",
+        "Burger bun: 1 bun",
+        "All-purpose flour: 10 g",
+        "Beaten egg: 0.5 egg",
+        "Breadcrumbs: 18 g",
+        "Lettuce: 15 g",
+        "Plain yogurt: 20 g",
+        "Lemon juice: 0.5 tsp"
+      ],
+      "steps_en": [
+        "Preheat the oven to 210°C, pat the fish dry, and check for any remaining bones.",
+        "Dredge the fish in flour, dip in beaten egg, and coat thoroughly with breadcrumbs.",
+        "Place on a baking sheet and bake for 12-16 minutes until the fish reaches 63°C or flakes easily and turns opaque.",
+        "Mix the yogurt and lemon juice together for the sauce.",
+        "Layer the lettuce, crispy baked fish, and sauce on the bun, close, and serve."
       ]
     }
   ]
